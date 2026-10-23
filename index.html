@@ -15,6 +15,14 @@ html[data-theme=dark]{background:#1d1b25;color:#f3effa}html[data-theme=dark] .ca
 .shell .listrow{min-height:50px;padding:12px 4px;line-height:1.45}
 .shell .btnrow{margin-top:14px;gap:8px}
 @media(max-width:390px){.shell{padding:17px 14px}.shell>.card{padding:15px;margin:10px 0}.shell .example{padding:12px;margin:8px 0}.shell>.card h2{margin:6px 0 12px}}
+
+/* v0.2.4-dev shared spacing baseline; preserve mobile safe areas */
+.shell>.card{border-radius:20px;padding:16px;margin:12px 0;line-height:1.55}
+.shell .example{line-height:1.6;overflow-wrap:anywhere}
+.shell .answer{min-height:48px;padding:12px 14px;line-height:1.5;overflow-wrap:anywhere}
+.shell .options{gap:9px}
+.shell .feedback{line-height:1.6;overflow-wrap:anywhere}
+@media(max-width:390px){.shell>.card{padding:13px;margin:9px 0}}
 </style><link rel="stylesheet" href="./kanji-app.css"/></head><body><div id="app"></div>
 <script>
 "use strict";
