@@ -1,0 +1,55 @@
+{
+  "schema_version": "kanji-v1",
+  "content_version": "2026-10-23-draft-1",
+  "app_integration_enabled": false,
+  "expected_total": 500,
+  "base_stage": 1,
+  "stages": [
+    {
+      "stage": 1,
+      "path": "kanji-stage-1-100.draft.json",
+      "count": 100,
+      "meaning_ko_status": "draft",
+      "word_example_status": "pending"
+    },
+    {
+      "stage": 2,
+      "path": "kanji-stage-2-100.draft.json",
+      "count": 100,
+      "meaning_ko_status": "pending",
+      "word_example_status": "partial"
+    },
+    {
+      "stage": 3,
+      "path": "kanji-stage-3-100.draft.json",
+      "count": 100,
+      "meaning_ko_status": "pending",
+      "word_example_status": "partial"
+    },
+    {
+      "stage": 4,
+      "path": "kanji-stage-4-100.draft.json",
+      "count": 100,
+      "meaning_ko_status": "pending",
+      "word_example_status": "partial"
+    },
+    {
+      "stage": 5,
+      "path": "kanji-stage-5-100.draft.json",
+      "count": 100,
+      "meaning_ko_status": "pending",
+      "word_example_status": "partial"
+    }
+  ],
+  "required_to_publish": [
+    "meaning_ko",
+    "reviewed_example_words",
+    "word_readings_verified",
+    "example_sentence",
+    "example_translation_ko",
+    "quiz_distractor_validation",
+    "license_audit",
+    "offline_cache_test"
+  ],
+  "notes": "Draft content only; do not register in service worker or show as approved lessons until editorial QA passes."
+}
