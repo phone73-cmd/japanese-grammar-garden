@@ -1,6 +1,6 @@
 {
   "schema_version": "draft-1",
-  "status": "kanji_ko_gloss_drafted;not-app-ready",
+  "status": "all 100 kanji with one or more word/ko gloss drafts; read and semantics QA pending",
   "stage": 5,
   "description": "일본어 문법정원 추가 한자 400자 중 100자. 한국어 뜻·예문은 검수 후 채울 것.",
   "source": {
@@ -337,7 +337,17 @@
         "おも.う"
       ],
       "strokes": 13,
-      "example_words": [],
+      "example_words": [
+        {
+          "word": "想像",
+          "reading": "そうぞう",
+          "meaning_ko": "상상",
+          "romaji": null,
+          "source_reading_match": false,
+          "reading_editorial_review_required": true,
+          "editorial_status": "new_curated_draft"
+        }
+      ],
       "candidate_words": [
         "思想",
         "想像",
@@ -442,7 +452,17 @@
         "すけ"
       ],
       "strokes": 7,
-      "example_words": [],
+      "example_words": [
+        {
+          "word": "助ける",
+          "reading": "たすける",
+          "meaning_ko": "돕다",
+          "romaji": null,
+          "source_reading_match": false,
+          "reading_editorial_review_required": true,
+          "editorial_status": "new_curated_draft"
+        }
+      ],
       "candidate_words": [
         "援助",
         "救助",
@@ -475,7 +495,17 @@
         "ねぎら.う"
       ],
       "strokes": 7,
-      "example_words": [],
+      "example_words": [
+        {
+          "word": "苦労",
+          "reading": "くろう",
+          "meaning_ko": "고생",
+          "romaji": null,
+          "source_reading_match": false,
+          "reading_editorial_review_required": true,
+          "editorial_status": "new_curated_draft"
+        }
+      ],
       "candidate_words": [
         "苦労",
         "労働",
@@ -544,7 +574,17 @@
         "さ"
       ],
       "strokes": 12,
-      "example_words": [],
+      "example_words": [
+        {
+          "word": "自然",
+          "reading": "しぜん",
+          "meaning_ko": "자연",
+          "romaji": null,
+          "source_reading_match": false,
+          "reading_editorial_review_required": true,
+          "editorial_status": "new_curated_draft"
+        }
+      ],
       "candidate_words": [
         "偶然",
         "自然",
@@ -574,7 +614,17 @@
         "-かぎ.り"
       ],
       "strokes": 9,
-      "example_words": [],
+      "example_words": [
+        {
+          "word": "限界",
+          "reading": "げんかい",
+          "meaning_ko": "한계",
+          "romaji": null,
+          "source_reading_match": false,
+          "reading_editorial_review_required": true,
+          "editorial_status": "new_curated_draft"
+        }
+      ],
       "candidate_words": [
         "限る",
         "限界",
@@ -602,7 +652,17 @@
         "お.う"
       ],
       "strokes": 9,
-      "example_words": [],
+      "example_words": [
+        {
+          "word": "追う",
+          "reading": "おう",
+          "meaning_ko": "쫓다",
+          "romaji": null,
+          "source_reading_match": false,
+          "reading_editorial_review_required": true,
+          "editorial_status": "new_curated_draft"
+        }
+      ],
       "candidate_words": [
         "追う",
         "追い付く",
@@ -630,7 +690,17 @@
         "あきな.う"
       ],
       "strokes": 11,
-      "example_words": [],
+      "example_words": [
+        {
+          "word": "商品",
+          "reading": "しょうひん",
+          "meaning_ko": "상품",
+          "romaji": null,
+          "source_reading_match": false,
+          "reading_editorial_review_required": true,
+          "editorial_status": "new_curated_draft"
+        }
+      ],
       "candidate_words": [
         "商人",
         "商売",
@@ -883,7 +953,8 @@
           "reading": "おとす",
           "romaji": "otosu",
           "meaning_en": "to drop",
-          "meaning_ko": null
+          "meaning_ko": "떨어뜨리다",
+          "gloss_status": "curated_draft_needs_review"
         },
         {
           "word": "落ちる",
@@ -1184,7 +1255,8 @@
           "reading": "さす",
           "romaji": "sasu",
           "meaning_en": "to stretch out hands",
-          "meaning_ko": null
+          "meaning_ko": "내밀다·비추다",
+          "gloss_status": "curated_draft_needs_review"
         },
         {
           "word": "交差点",
@@ -1225,7 +1297,17 @@
         "うれ"
       ],
       "strokes": 5,
-      "example_words": [],
+      "example_words": [
+        {
+          "word": "月末",
+          "reading": "げつまつ",
+          "meaning_ko": "월말",
+          "romaji": null,
+          "source_reading_match": false,
+          "reading_editorial_review_required": true,
+          "editorial_status": "new_curated_draft"
+        }
+      ],
       "candidate_words": [
         "末",
         "粗末",
@@ -1264,7 +1346,8 @@
           "reading": "るす",
           "romaji": "rusu",
           "meaning_en": "absence",
-          "meaning_ko": null
+          "meaning_ko": "부재중",
+          "gloss_status": "curated_draft_needs_review"
         }
       ],
       "candidate_words": [
@@ -1307,7 +1390,8 @@
           "reading": "わかい",
           "romaji": "wakai",
           "meaning_en": "young",
-          "meaning_ko": null
+          "meaning_ko": "젊다",
+          "gloss_status": "curated_draft_needs_review"
         }
       ],
       "candidate_words": [
@@ -1338,7 +1422,17 @@
         "-ぐさ"
       ],
       "strokes": 14,
-      "example_words": [],
+      "example_words": [
+        {
+          "word": "種類",
+          "reading": "しゅるい",
+          "meaning_ko": "종류",
+          "romaji": null,
+          "source_reading_match": false,
+          "reading_editorial_review_required": true,
+          "editorial_status": "new_curated_draft"
+        }
+      ],
       "candidate_words": [
         "種",
         "一種",
@@ -1373,7 +1467,8 @@
           "reading": "うつくしい",
           "romaji": "utsukushii",
           "meaning_en": "beautiful",
-          "meaning_ko": null
+          "meaning_ko": "아름답다",
+          "gloss_status": "curated_draft_needs_review"
         },
         {
           "word": "美術館",
@@ -1418,7 +1513,8 @@
           "reading": "いっしょうけんめい",
           "romaji": "isshoukenmei",
           "meaning_en": "with utmost effort",
-          "meaning_ko": null
+          "meaning_ko": "열심히",
+          "gloss_status": "curated_draft_needs_review"
         }
       ],
       "candidate_words": [
@@ -1446,7 +1542,17 @@
       ],
       "kun_readings": [],
       "strokes": 13,
-      "example_words": [],
+      "example_words": [
+        {
+          "word": "幸福",
+          "reading": "こうふく",
+          "meaning_ko": "행복",
+          "romaji": null,
+          "source_reading_match": false,
+          "reading_editorial_review_required": true,
+          "editorial_status": "new_curated_draft"
+        }
+      ],
       "candidate_words": [
         "幸福",
         "福",
@@ -1476,7 +1582,17 @@
         "もち"
       ],
       "strokes": 11,
-      "example_words": [],
+      "example_words": [
+        {
+          "word": "希望",
+          "reading": "きぼう",
+          "meaning_ko": "희망",
+          "romaji": null,
+          "source_reading_match": false,
+          "reading_editorial_review_required": true,
+          "editorial_status": "new_curated_draft"
+        }
+      ],
       "candidate_words": [
         "希望",
         "失望",
@@ -1542,7 +1658,17 @@
         "しめ.す"
       ],
       "strokes": 18,
-      "example_words": [],
+      "example_words": [
+        {
+          "word": "観光",
+          "reading": "かんこう",
+          "meaning_ko": "관광",
+          "romaji": null,
+          "source_reading_match": false,
+          "reading_editorial_review_required": true,
+          "editorial_status": "new_curated_draft"
+        }
+      ],
       "candidate_words": [
         "観客",
         "観光",
@@ -1735,7 +1861,8 @@
           "reading": "もうしあげる",
           "romaji": "moushiageru",
           "meaning_en": "(humble) to say",
-          "meaning_ko": null
+          "meaning_ko": "말씀드리다(겸양)",
+          "gloss_status": "curated_draft_needs_review"
         }
       ],
       "candidate_words": [
@@ -1767,7 +1894,17 @@
         "さん"
       ],
       "strokes": 14,
-      "example_words": [],
+      "example_words": [
+        {
+          "word": "王様",
+          "reading": "おうさま",
+          "meaning_ko": "왕",
+          "romaji": null,
+          "source_reading_match": false,
+          "reading_editorial_review_required": true,
+          "editorial_status": "new_curated_draft"
+        }
+      ],
       "candidate_words": [
         "様",
         "王様",
@@ -1835,7 +1972,17 @@
         "しる.す"
       ],
       "strokes": 19,
-      "example_words": [],
+      "example_words": [
+        {
+          "word": "知識",
+          "reading": "ちしき",
+          "meaning_ko": "지식",
+          "romaji": null,
+          "source_reading_match": false,
+          "reading_editorial_review_required": true,
+          "editorial_status": "new_curated_draft"
+        }
+      ],
       "candidate_words": [
         "意識",
         "常識",
@@ -1941,7 +2088,17 @@
         "-い.い"
       ],
       "strokes": 7,
-      "example_words": [],
+      "example_words": [
+        {
+          "word": "良い",
+          "reading": "よい",
+          "meaning_ko": "좋다",
+          "romaji": null,
+          "source_reading_match": false,
+          "reading_editorial_review_required": true,
+          "editorial_status": "new_curated_draft"
+        }
+      ],
       "candidate_words": [
         "仲良し",
         "改良",
@@ -1969,7 +2126,17 @@
         "そうろう"
       ],
       "strokes": 10,
-      "example_words": [],
+      "example_words": [
+        {
+          "word": "気候",
+          "reading": "きこう",
+          "meaning_ko": "기후",
+          "romaji": null,
+          "source_reading_match": false,
+          "reading_editorial_review_required": true,
+          "editorial_status": "new_curated_draft"
+        }
+      ],
       "candidate_words": [
         "気候",
         "候補",
@@ -1998,7 +2165,17 @@
         "-ほど"
       ],
       "strokes": 12,
-      "example_words": [],
+      "example_words": [
+        {
+          "word": "程度",
+          "reading": "ていど",
+          "meaning_ko": "정도",
+          "romaji": null,
+          "source_reading_match": false,
+          "reading_editorial_review_required": true,
+          "editorial_status": "new_curated_draft"
+        }
+      ],
       "candidate_words": [
         "程度",
         "課程",
@@ -2029,7 +2206,17 @@
         "み.たす"
       ],
       "strokes": 12,
-      "example_words": [],
+      "example_words": [
+        {
+          "word": "満足",
+          "reading": "まんぞく",
+          "meaning_ko": "만족",
+          "romaji": null,
+          "source_reading_match": false,
+          "reading_editorial_review_required": true,
+          "editorial_status": "new_curated_draft"
+        }
+      ],
       "candidate_words": [
         "不満",
         "満足",
@@ -2095,7 +2282,17 @@
         "あたい"
       ],
       "strokes": 10,
-      "example_words": [],
+      "example_words": [
+        {
+          "word": "値段",
+          "reading": "ねだん",
+          "meaning_ko": "가격",
+          "romaji": null,
+          "source_reading_match": false,
+          "reading_editorial_review_required": true,
+          "editorial_status": "new_curated_draft"
+        }
+      ],
       "candidate_words": [
         "価値",
         "値",
@@ -2124,7 +2321,17 @@
         "つ.く"
       ],
       "strokes": 8,
-      "example_words": [],
+      "example_words": [
+        {
+          "word": "突然",
+          "reading": "とつぜん",
+          "meaning_ko": "갑자기",
+          "romaji": null,
+          "source_reading_match": false,
+          "reading_editorial_review_required": true,
+          "editorial_status": "new_curated_draft"
+        }
+      ],
       "candidate_words": [
         "衝突",
         "突然",
@@ -2200,7 +2407,17 @@
         "みち"
       ],
       "strokes": 13,
-      "example_words": [],
+      "example_words": [
+        {
+          "word": "道路",
+          "reading": "どうろ",
+          "meaning_ko": "도로",
+          "romaji": null,
+          "source_reading_match": false,
+          "reading_editorial_review_required": true,
+          "editorial_status": "new_curated_draft"
+        }
+      ],
       "candidate_words": [
         "道路",
         "針路",
@@ -2266,7 +2483,17 @@
         "つ.もり"
       ],
       "strokes": 16,
-      "example_words": [],
+      "example_words": [
+        {
+          "word": "積もる",
+          "reading": "つもる",
+          "meaning_ko": "쌓이다",
+          "romaji": null,
+          "source_reading_match": false,
+          "reading_editorial_review_required": true,
+          "editorial_status": "new_curated_draft"
+        }
+      ],
       "candidate_words": [
         "積極的",
         "積もる",
@@ -2294,7 +2521,17 @@
         "ほか"
       ],
       "strokes": 5,
-      "example_words": [],
+      "example_words": [
+        {
+          "word": "他人",
+          "reading": "たにん",
+          "meaning_ko": "타인",
+          "romaji": null,
+          "source_reading_match": false,
+          "reading_editorial_review_required": true,
+          "editorial_status": "new_curated_draft"
+        }
+      ],
       "candidate_words": [
         "他",
         "他人",
@@ -2324,7 +2561,17 @@
         "お.る"
       ],
       "strokes": 5,
-      "example_words": [],
+      "example_words": [
+        {
+          "word": "処理",
+          "reading": "しょり",
+          "meaning_ko": "처리",
+          "romaji": null,
+          "source_reading_match": false,
+          "reading_editorial_review_required": true,
+          "editorial_status": "new_curated_draft"
+        }
+      ],
       "candidate_words": [
         "処理",
         "処置",
@@ -2436,7 +2683,17 @@
         "いや"
       ],
       "strokes": 7,
-      "example_words": [],
+      "example_words": [
+        {
+          "word": "否定",
+          "reading": "ひてい",
+          "meaning_ko": "부정",
+          "romaji": null,
+          "source_reading_match": false,
+          "reading_editorial_review_required": true,
+          "editorial_status": "new_curated_draft"
+        }
+      ],
       "candidate_words": [
         "否",
         "否定",
@@ -2464,7 +2721,17 @@
         "いくさ"
       ],
       "strokes": 10,
-      "example_words": [],
+      "example_words": [
+        {
+          "word": "教師",
+          "reading": "きょうし",
+          "meaning_ko": "교사",
+          "romaji": null,
+          "source_reading_match": false,
+          "reading_editorial_review_required": true,
+          "editorial_status": "new_curated_draft"
+        }
+      ],
       "candidate_words": [
         "医師",
         "技師",
@@ -2714,7 +2981,17 @@
         "あや.める"
       ],
       "strokes": 10,
-      "example_words": [],
+      "example_words": [
+        {
+          "word": "殺す",
+          "reading": "ころす",
+          "meaning_ko": "죽이다",
+          "romaji": null,
+          "source_reading_match": false,
+          "reading_editorial_review_required": true,
+          "editorial_status": "new_curated_draft"
+        }
+      ],
       "candidate_words": [
         "殺す",
         "自殺",
@@ -2856,7 +3133,17 @@
         "わ.れる"
       ],
       "strokes": 10,
-      "example_words": [],
+      "example_words": [
+        {
+          "word": "破る",
+          "reading": "やぶる",
+          "meaning_ko": "찢다·깨다",
+          "romaji": null,
+          "source_reading_match": false,
+          "reading_editorial_review_required": true,
+          "editorial_status": "new_curated_draft"
+        }
+      ],
       "candidate_words": [
         "破産",
         "破る",
@@ -2921,7 +3208,17 @@
       ],
       "kun_readings": [],
       "strokes": 7,
-      "example_words": [],
+      "example_words": [
+        {
+          "word": "完成",
+          "reading": "かんせい",
+          "meaning_ko": "완성",
+          "romaji": null,
+          "source_reading_match": false,
+          "reading_editorial_review_required": true,
+          "editorial_status": "new_curated_draft"
+        }
+      ],
       "candidate_words": [
         "完成",
         "完全",
@@ -3000,7 +3297,17 @@
         "せ.める"
       ],
       "strokes": 11,
-      "example_words": [],
+      "example_words": [
+        {
+          "word": "責任",
+          "reading": "せきにん",
+          "meaning_ko": "책임",
+          "romaji": null,
+          "source_reading_match": false,
+          "reading_editorial_review_required": true,
+          "editorial_status": "new_curated_draft"
+        }
+      ],
       "candidate_words": [
         "責任",
         "責める",
@@ -3120,7 +3427,17 @@
         "-たま.え"
       ],
       "strokes": 12,
-      "example_words": [],
+      "example_words": [
+        {
+          "word": "給料",
+          "reading": "きゅうりょう",
+          "meaning_ko": "급여",
+          "romaji": null,
+          "source_reading_match": false,
+          "reading_editorial_review_required": true,
+          "editorial_status": "new_curated_draft"
+        }
+      ],
       "candidate_words": [
         "給料",
         "供給",
@@ -3406,7 +3723,17 @@
         "ま"
       ],
       "strokes": 10,
-      "example_words": [],
+      "example_words": [
+        {
+          "word": "馬",
+          "reading": "うま",
+          "meaning_ko": "말",
+          "romaji": null,
+          "source_reading_match": false,
+          "reading_editorial_review_required": true,
+          "editorial_status": "new_curated_draft"
+        }
+      ],
       "candidate_words": [
         "馬",
         "馬鹿",
@@ -3438,7 +3765,17 @@
         "まな"
       ],
       "strokes": 13,
-      "example_words": [],
+      "example_words": [
+        {
+          "word": "愛",
+          "reading": "あい",
+          "meaning_ko": "사랑",
+          "romaji": null,
+          "source_reading_match": false,
+          "reading_editorial_review_required": true,
+          "editorial_status": "new_curated_draft"
+        }
+      ],
       "candidate_words": [
         "愛",
         "愛情",
@@ -3468,7 +3805,17 @@
         "とみ"
       ],
       "strokes": 12,
-      "example_words": [],
+      "example_words": [
+        {
+          "word": "豊富",
+          "reading": "ほうふ",
+          "meaning_ko": "풍부",
+          "romaji": null,
+          "source_reading_match": false,
+          "reading_editorial_review_required": true,
+          "editorial_status": "new_curated_draft"
+        }
+      ],
       "candidate_words": [
         "豊富",
         "富",
@@ -3546,7 +3893,17 @@
         "ひつじ"
       ],
       "strokes": 5,
-      "example_words": [],
+      "example_words": [
+        {
+          "word": "未来",
+          "reading": "みらい",
+          "meaning_ko": "미래",
+          "romaji": null,
+          "source_reading_match": false,
+          "reading_editorial_review_required": true,
+          "editorial_status": "new_curated_draft"
+        }
+      ],
       "candidate_words": [
         "未来",
         "未満",
@@ -3750,7 +4107,8 @@
           "reading": "かんごふ",
           "romaji": "kangofu",
           "meaning_en": "female nurse",
-          "meaning_ko": null
+          "meaning_ko": "간호사(옛 명칭)",
+          "gloss_status": "curated_draft_needs_review"
         }
       ],
       "candidate_words": [
@@ -3768,7 +4126,7 @@
   ],
   "translation_progress": {
     "kanji_ko_gloss_drafted": 100,
-    "word_ko_gloss_drafted": 82,
-    "sentences_ko_drafted": 0
+    "word_ko_gloss_drafted": 125,
+    "words_need_editorial_validation": true
   }
 }
