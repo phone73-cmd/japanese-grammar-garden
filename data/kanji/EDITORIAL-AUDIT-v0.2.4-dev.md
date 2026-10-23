@@ -30,3 +30,10 @@ Date: 2026-10-23. This is a **triage report**, not a completed dictionary or nat
 - For 分, フン is documented as an on-reading; numeral combinations may surface ぷん. Do not replace the standalone entry with ぷん without context.
 - 87 candidates remain `pending_editorial_dictionary_check`. Stage 1+2: 6 remaining, stages 3–5: 81 remaining.
 - `dictionary_reading_checked` is **not** full word-sense, contextual usage, translation, licensing, or native-speaker approval.
+
+## Remaining 87 reading candidates: editorial pass (2026-10-23)
+- Reviewed the complete 87-item spelling/kana list for consistency with standard Japanese reading and the provided kanji context. No obvious reading corrections were required; **this is an editorial assessment, not an exact-entry dictionary verification of 87 entries**.
+- Queue statuses: 5 `dictionary_reading_checked`; 87 `editorial_reading_passed_dictionary_pending`; 0 unreviewed. The `source_status` for all 87 remains `not_source_matched` and must not be changed until exact-entry evidence is recorded.
+- Independent evidence examples: 田んぼ (小学館 類語例解辞典 via goo), 東京 (小学館 デジタル大辞泉 via goo); links are attached to those individual entries as supporting evidence, without upgrading their full verification status.
+- Usage cautions: 何(なに/なん), 実(み, fruit), 良い(よい/いい). These are valid contextual or alternate readings, not detected errors.
+- Remaining release gate: exact-entry dictionary evidence for 87, contextual example and Korean-translation review for 500 sentences, and source license validation. Keep draft status and production untouched.
