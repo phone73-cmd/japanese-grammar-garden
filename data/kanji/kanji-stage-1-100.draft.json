@@ -1,6 +1,6 @@
 {
   "schema_version": "kanji-v1",
-  "status": "basic-meanings-drafted;word-and-example-review-pending",
+  "status": "primary-vocabulary-and-21-sentence-links-drafted;editorial-review-required",
   "count": 100,
   "description": "기본 내장 100자: 한글 뜻/읽기/획수/순서 초안. 단어/예문 검수 후 UI 학습 활성화.",
   "source": {
@@ -26,10 +26,20 @@
         "ひと.つ"
       ],
       "strokes": 1,
-      "example_words": [],
+      "example_words": [
+        {
+          "word": "一つ",
+          "reading": "ひとつ",
+          "meaning_ko": "하나",
+          "romaji": "hitotsu",
+          "source_reading_match": true,
+          "reading_editorial_review_required": false
+        }
+      ],
       "related_lesson_ids": [],
-      "review_status": "basic_meaning_drafted",
-      "example_review_status": "pending"
+      "review_status": "base_gloss_and_primary_word_drafted",
+      "example_review_status": "editorial_review_pending",
+      "example_sentence": null
     },
     {
       "id": "kanji-002",
@@ -49,10 +59,20 @@
         "ふたたび"
       ],
       "strokes": 2,
-      "example_words": [],
+      "example_words": [
+        {
+          "word": "二つ",
+          "reading": "ふたつ",
+          "meaning_ko": "둘",
+          "romaji": "futatsu",
+          "source_reading_match": true,
+          "reading_editorial_review_required": false
+        }
+      ],
       "related_lesson_ids": [],
-      "review_status": "basic_meaning_drafted",
-      "example_review_status": "pending"
+      "review_status": "base_gloss_and_primary_word_drafted",
+      "example_review_status": "editorial_review_pending",
+      "example_sentence": null
     },
     {
       "id": "kanji-003",
@@ -72,10 +92,20 @@
         "みっ.つ"
       ],
       "strokes": 3,
-      "example_words": [],
+      "example_words": [
+        {
+          "word": "三つ",
+          "reading": "みっつ",
+          "meaning_ko": "셋",
+          "romaji": "mittsu",
+          "source_reading_match": true,
+          "reading_editorial_review_required": false
+        }
+      ],
       "related_lesson_ids": [],
-      "review_status": "basic_meaning_drafted",
-      "example_review_status": "pending"
+      "review_status": "base_gloss_and_primary_word_drafted",
+      "example_review_status": "editorial_review_pending",
+      "example_sentence": null
     },
     {
       "id": "kanji-004",
@@ -95,10 +125,20 @@
         "よん"
       ],
       "strokes": 5,
-      "example_words": [],
+      "example_words": [
+        {
+          "word": "四つ",
+          "reading": "よっつ",
+          "meaning_ko": "넷",
+          "romaji": "yottsu",
+          "source_reading_match": true,
+          "reading_editorial_review_required": false
+        }
+      ],
       "related_lesson_ids": [],
-      "review_status": "basic_meaning_drafted",
-      "example_review_status": "pending"
+      "review_status": "base_gloss_and_primary_word_drafted",
+      "example_review_status": "editorial_review_pending",
+      "example_sentence": null
     },
     {
       "id": "kanji-005",
@@ -116,10 +156,20 @@
         "いつ.つ"
       ],
       "strokes": 4,
-      "example_words": [],
+      "example_words": [
+        {
+          "word": "五つ",
+          "reading": "いつつ",
+          "meaning_ko": "다섯",
+          "romaji": "itsutsu",
+          "source_reading_match": true,
+          "reading_editorial_review_required": false
+        }
+      ],
       "related_lesson_ids": [],
-      "review_status": "basic_meaning_drafted",
-      "example_review_status": "pending"
+      "review_status": "base_gloss_and_primary_word_drafted",
+      "example_review_status": "editorial_review_pending",
+      "example_sentence": null
     },
     {
       "id": "kanji-006",
@@ -140,10 +190,20 @@
         "むい"
       ],
       "strokes": 4,
-      "example_words": [],
+      "example_words": [
+        {
+          "word": "六つ",
+          "reading": "むっつ",
+          "meaning_ko": "여섯",
+          "romaji": "muttsu",
+          "source_reading_match": true,
+          "reading_editorial_review_required": false
+        }
+      ],
       "related_lesson_ids": [],
-      "review_status": "basic_meaning_drafted",
-      "example_review_status": "pending"
+      "review_status": "base_gloss_and_primary_word_drafted",
+      "example_review_status": "editorial_review_pending",
+      "example_sentence": null
     },
     {
       "id": "kanji-007",
@@ -162,10 +222,20 @@
         "なの"
       ],
       "strokes": 2,
-      "example_words": [],
+      "example_words": [
+        {
+          "word": "七つ",
+          "reading": "ななつ",
+          "meaning_ko": "일곱",
+          "romaji": "nanatsu",
+          "source_reading_match": true,
+          "reading_editorial_review_required": false
+        }
+      ],
       "related_lesson_ids": [],
-      "review_status": "basic_meaning_drafted",
-      "example_review_status": "pending"
+      "review_status": "base_gloss_and_primary_word_drafted",
+      "example_review_status": "editorial_review_pending",
+      "example_sentence": null
     },
     {
       "id": "kanji-008",
@@ -186,10 +256,20 @@
         "よう"
       ],
       "strokes": 2,
-      "example_words": [],
+      "example_words": [
+        {
+          "word": "八つ",
+          "reading": "やっつ",
+          "meaning_ko": "여덟",
+          "romaji": "yattsu",
+          "source_reading_match": true,
+          "reading_editorial_review_required": false
+        }
+      ],
       "related_lesson_ids": [],
-      "review_status": "basic_meaning_drafted",
-      "example_review_status": "pending"
+      "review_status": "base_gloss_and_primary_word_drafted",
+      "example_review_status": "editorial_review_pending",
+      "example_sentence": null
     },
     {
       "id": "kanji-009",
@@ -208,10 +288,20 @@
         "ここの.つ"
       ],
       "strokes": 2,
-      "example_words": [],
+      "example_words": [
+        {
+          "word": "九つ",
+          "reading": "ここのつ",
+          "meaning_ko": "아홉",
+          "romaji": "kokonotsu",
+          "source_reading_match": true,
+          "reading_editorial_review_required": false
+        }
+      ],
       "related_lesson_ids": [],
-      "review_status": "basic_meaning_drafted",
-      "example_review_status": "pending"
+      "review_status": "base_gloss_and_primary_word_drafted",
+      "example_review_status": "editorial_review_pending",
+      "example_sentence": null
     },
     {
       "id": "kanji-010",
@@ -232,10 +322,20 @@
         "そ"
       ],
       "strokes": 2,
-      "example_words": [],
+      "example_words": [
+        {
+          "word": "十",
+          "reading": "じゅう",
+          "meaning_ko": "열",
+          "romaji": "juu",
+          "source_reading_match": true,
+          "reading_editorial_review_required": false
+        }
+      ],
       "related_lesson_ids": [],
-      "review_status": "basic_meaning_drafted",
-      "example_review_status": "pending"
+      "review_status": "base_gloss_and_primary_word_drafted",
+      "example_review_status": "editorial_review_pending",
+      "example_sentence": null
     },
     {
       "id": "kanji-011",
@@ -255,12 +355,27 @@
         "-か"
       ],
       "strokes": 4,
-      "example_words": [],
+      "example_words": [
+        {
+          "word": "日曜日",
+          "reading": "にちようび",
+          "meaning_ko": "일요일",
+          "romaji": "nichiyoubi",
+          "source_reading_match": true,
+          "reading_editorial_review_required": false
+        }
+      ],
       "related_lesson_ids": [
         7
       ],
-      "review_status": "basic_meaning_drafted",
-      "example_review_status": "pending"
+      "review_status": "base_gloss_and_primary_word_drafted",
+      "example_review_status": "editorial_review_pending",
+      "example_sentence": {
+        "ja": "今日は月曜日です。",
+        "reading": "きょうはげつようびです。",
+        "translation_ko": "오늘은 월요일입니다.",
+        "status": "draft_review_pending"
+      }
     },
     {
       "id": "kanji-012",
@@ -278,10 +393,25 @@
         "つき"
       ],
       "strokes": 4,
-      "example_words": [],
+      "example_words": [
+        {
+          "word": "月曜日",
+          "reading": "げつようび",
+          "meaning_ko": "월요일",
+          "romaji": "getsuyoubi",
+          "source_reading_match": true,
+          "reading_editorial_review_required": false
+        }
+      ],
       "related_lesson_ids": [],
-      "review_status": "basic_meaning_drafted",
-      "example_review_status": "pending"
+      "review_status": "base_gloss_and_primary_word_drafted",
+      "example_review_status": "editorial_review_pending",
+      "example_sentence": {
+        "ja": "今日は月曜日です。",
+        "reading": "きょうはげつようびです。",
+        "translation_ko": "오늘은 월요일입니다.",
+        "status": "draft_review_pending"
+      }
     },
     {
       "id": "kanji-013",
@@ -300,10 +430,20 @@
         "ほ-"
       ],
       "strokes": 4,
-      "example_words": [],
+      "example_words": [
+        {
+          "word": "火曜日",
+          "reading": "かようび",
+          "meaning_ko": "화요일",
+          "romaji": "kayoubi",
+          "source_reading_match": true,
+          "reading_editorial_review_required": false
+        }
+      ],
       "related_lesson_ids": [],
-      "review_status": "basic_meaning_drafted",
-      "example_review_status": "pending"
+      "review_status": "base_gloss_and_primary_word_drafted",
+      "example_review_status": "editorial_review_pending",
+      "example_sentence": null
     },
     {
       "id": "kanji-014",
@@ -321,12 +461,27 @@
         "みず-"
       ],
       "strokes": 4,
-      "example_words": [],
+      "example_words": [
+        {
+          "word": "水",
+          "reading": "みず",
+          "meaning_ko": "물",
+          "romaji": "mizu",
+          "source_reading_match": true,
+          "reading_editorial_review_required": false
+        }
+      ],
       "related_lesson_ids": [
         6
       ],
-      "review_status": "basic_meaning_drafted",
-      "example_review_status": "pending"
+      "review_status": "base_gloss_and_primary_word_drafted",
+      "example_review_status": "editorial_review_pending",
+      "example_sentence": {
+        "ja": "水を飲みます。",
+        "reading": "みずをのみます。",
+        "translation_ko": "물을 마십니다.",
+        "status": "draft_review_pending"
+      }
     },
     {
       "id": "kanji-015",
@@ -345,10 +500,20 @@
         "こ-"
       ],
       "strokes": 4,
-      "example_words": [],
+      "example_words": [
+        {
+          "word": "木曜日",
+          "reading": "もくようび",
+          "meaning_ko": "목요일",
+          "romaji": "mokuyoubi",
+          "source_reading_match": true,
+          "reading_editorial_review_required": false
+        }
+      ],
       "related_lesson_ids": [],
-      "review_status": "basic_meaning_drafted",
-      "example_review_status": "pending"
+      "review_status": "base_gloss_and_primary_word_drafted",
+      "example_review_status": "editorial_review_pending",
+      "example_sentence": null
     },
     {
       "id": "kanji-016",
@@ -369,10 +534,20 @@
         "-がね"
       ],
       "strokes": 8,
-      "example_words": [],
+      "example_words": [
+        {
+          "word": "金曜日",
+          "reading": "きんようび",
+          "meaning_ko": "금요일",
+          "romaji": "kin'youbi",
+          "source_reading_match": true,
+          "reading_editorial_review_required": false
+        }
+      ],
       "related_lesson_ids": [],
-      "review_status": "basic_meaning_drafted",
-      "example_review_status": "pending"
+      "review_status": "base_gloss_and_primary_word_drafted",
+      "example_review_status": "editorial_review_pending",
+      "example_sentence": null
     },
     {
       "id": "kanji-017",
@@ -390,10 +565,20 @@
         "つち"
       ],
       "strokes": 3,
-      "example_words": [],
+      "example_words": [
+        {
+          "word": "土曜日",
+          "reading": "どようび",
+          "meaning_ko": "토요일",
+          "romaji": "doyoubi",
+          "source_reading_match": true,
+          "reading_editorial_review_required": false
+        }
+      ],
       "related_lesson_ids": [],
-      "review_status": "basic_meaning_drafted",
-      "example_review_status": "pending"
+      "review_status": "base_gloss_and_primary_word_drafted",
+      "example_review_status": "editorial_review_pending",
+      "example_sentence": null
     },
     {
       "id": "kanji-018",
@@ -411,10 +596,20 @@
         "やま"
       ],
       "strokes": 3,
-      "example_words": [],
+      "example_words": [
+        {
+          "word": "山",
+          "reading": "やま",
+          "meaning_ko": "산",
+          "romaji": "yama",
+          "source_reading_match": true,
+          "reading_editorial_review_required": false
+        }
+      ],
       "related_lesson_ids": [],
-      "review_status": "basic_meaning_drafted",
-      "example_review_status": "pending"
+      "review_status": "base_gloss_and_primary_word_drafted",
+      "example_review_status": "editorial_review_pending",
+      "example_sentence": null
     },
     {
       "id": "kanji-019",
@@ -431,10 +626,20 @@
         "かわ"
       ],
       "strokes": 3,
-      "example_words": [],
+      "example_words": [
+        {
+          "word": "川",
+          "reading": "かわ",
+          "meaning_ko": "강",
+          "romaji": "kawa",
+          "source_reading_match": true,
+          "reading_editorial_review_required": false
+        }
+      ],
       "related_lesson_ids": [],
-      "review_status": "basic_meaning_drafted",
-      "example_review_status": "pending"
+      "review_status": "base_gloss_and_primary_word_drafted",
+      "example_review_status": "editorial_review_pending",
+      "example_sentence": null
     },
     {
       "id": "kanji-020",
@@ -451,10 +656,20 @@
         "た"
       ],
       "strokes": 5,
-      "example_words": [],
+      "example_words": [
+        {
+          "word": "田んぼ",
+          "reading": "たんぼ",
+          "meaning_ko": "논",
+          "romaji": null,
+          "source_reading_match": false,
+          "reading_editorial_review_required": true
+        }
+      ],
       "related_lesson_ids": [],
-      "review_status": "basic_meaning_drafted",
-      "example_review_status": "pending"
+      "review_status": "base_gloss_and_primary_word_drafted",
+      "example_review_status": "editorial_review_pending",
+      "example_sentence": null
     },
     {
       "id": "kanji-021",
@@ -474,10 +689,20 @@
         "-と"
       ],
       "strokes": 2,
-      "example_words": [],
+      "example_words": [
+        {
+          "word": "人",
+          "reading": "ひと",
+          "meaning_ko": "사람",
+          "romaji": "hito",
+          "source_reading_match": true,
+          "reading_editorial_review_required": false
+        }
+      ],
       "related_lesson_ids": [],
-      "review_status": "basic_meaning_drafted",
-      "example_review_status": "pending"
+      "review_status": "base_gloss_and_primary_word_drafted",
+      "example_review_status": "editorial_review_pending",
+      "example_sentence": null
     },
     {
       "id": "kanji-022",
@@ -496,10 +721,20 @@
         "お"
       ],
       "strokes": 7,
-      "example_words": [],
+      "example_words": [
+        {
+          "word": "男",
+          "reading": "おとこ",
+          "meaning_ko": "남자",
+          "romaji": "otoko",
+          "source_reading_match": true,
+          "reading_editorial_review_required": false
+        }
+      ],
       "related_lesson_ids": [],
-      "review_status": "basic_meaning_drafted",
-      "example_review_status": "pending"
+      "review_status": "base_gloss_and_primary_word_drafted",
+      "example_review_status": "editorial_review_pending",
+      "example_sentence": null
     },
     {
       "id": "kanji-023",
@@ -519,10 +754,20 @@
         "め"
       ],
       "strokes": 3,
-      "example_words": [],
+      "example_words": [
+        {
+          "word": "女",
+          "reading": "おんな",
+          "meaning_ko": "여자",
+          "romaji": "onna",
+          "source_reading_match": true,
+          "reading_editorial_review_required": false
+        }
+      ],
       "related_lesson_ids": [],
-      "review_status": "basic_meaning_drafted",
-      "example_review_status": "pending"
+      "review_status": "base_gloss_and_primary_word_drafted",
+      "example_review_status": "editorial_review_pending",
+      "example_sentence": null
     },
     {
       "id": "kanji-024",
@@ -543,10 +788,20 @@
         "ね"
       ],
       "strokes": 3,
-      "example_words": [],
+      "example_words": [
+        {
+          "word": "子ども",
+          "reading": "こども",
+          "meaning_ko": "아이",
+          "romaji": null,
+          "source_reading_match": false,
+          "reading_editorial_review_required": true
+        }
+      ],
       "related_lesson_ids": [],
-      "review_status": "basic_meaning_drafted",
-      "example_review_status": "pending"
+      "review_status": "base_gloss_and_primary_word_drafted",
+      "example_review_status": "editorial_review_pending",
+      "example_sentence": null
     },
     {
       "id": "kanji-025",
@@ -563,10 +818,20 @@
         "ちち"
       ],
       "strokes": 4,
-      "example_words": [],
+      "example_words": [
+        {
+          "word": "父",
+          "reading": "ちち",
+          "meaning_ko": "아버지",
+          "romaji": null,
+          "source_reading_match": false,
+          "reading_editorial_review_required": true
+        }
+      ],
       "related_lesson_ids": [],
-      "review_status": "basic_meaning_drafted",
-      "example_review_status": "pending"
+      "review_status": "base_gloss_and_primary_word_drafted",
+      "example_review_status": "editorial_review_pending",
+      "example_sentence": null
     },
     {
       "id": "kanji-026",
@@ -584,10 +849,20 @@
         "も"
       ],
       "strokes": 5,
-      "example_words": [],
+      "example_words": [
+        {
+          "word": "母",
+          "reading": "はは",
+          "meaning_ko": "어머니",
+          "romaji": null,
+          "source_reading_match": false,
+          "reading_editorial_review_required": true
+        }
+      ],
       "related_lesson_ids": [],
-      "review_status": "basic_meaning_drafted",
-      "example_review_status": "pending"
+      "review_status": "base_gloss_and_primary_word_drafted",
+      "example_review_status": "editorial_review_pending",
+      "example_sentence": null
     },
     {
       "id": "kanji-027",
@@ -604,10 +879,20 @@
         "とも"
       ],
       "strokes": 4,
-      "example_words": [],
+      "example_words": [
+        {
+          "word": "友達",
+          "reading": "ともだち",
+          "meaning_ko": "친구",
+          "romaji": "tomodachi",
+          "source_reading_match": true,
+          "reading_editorial_review_required": false
+        }
+      ],
       "related_lesson_ids": [],
-      "review_status": "basic_meaning_drafted",
-      "example_review_status": "pending"
+      "review_status": "base_gloss_and_primary_word_drafted",
+      "example_review_status": "editorial_review_pending",
+      "example_sentence": null
     },
     {
       "id": "kanji-028",
@@ -625,10 +910,20 @@
         "ま.ず"
       ],
       "strokes": 6,
-      "example_words": [],
+      "example_words": [
+        {
+          "word": "先生",
+          "reading": "せんせい",
+          "meaning_ko": "선생님",
+          "romaji": "sensei",
+          "source_reading_match": true,
+          "reading_editorial_review_required": false
+        }
+      ],
       "related_lesson_ids": [],
-      "review_status": "basic_meaning_drafted",
-      "example_review_status": "pending"
+      "review_status": "base_gloss_and_primary_word_drafted",
+      "example_review_status": "editorial_review_pending",
+      "example_sentence": null
     },
     {
       "id": "kanji-029",
@@ -663,13 +958,28 @@
         "-う"
       ],
       "strokes": 5,
-      "example_words": [],
+      "example_words": [
+        {
+          "word": "学生",
+          "reading": "がくせい",
+          "meaning_ko": "학생",
+          "romaji": "gakusei",
+          "source_reading_match": true,
+          "reading_editorial_review_required": false
+        }
+      ],
       "related_lesson_ids": [
         6,
         7
       ],
-      "review_status": "basic_meaning_drafted",
-      "example_review_status": "pending"
+      "review_status": "base_gloss_and_primary_word_drafted",
+      "example_review_status": "editorial_review_pending",
+      "example_sentence": {
+        "ja": "私は学生です。",
+        "reading": "わたしはがくせいです。",
+        "translation_ko": "저는 학생입니다.",
+        "status": "draft_review_pending"
+      }
     },
     {
       "id": "kanji-030",
@@ -688,10 +998,25 @@
         "-な"
       ],
       "strokes": 6,
-      "example_words": [],
+      "example_words": [
+        {
+          "word": "名前",
+          "reading": "なまえ",
+          "meaning_ko": "이름",
+          "romaji": "namae",
+          "source_reading_match": true,
+          "reading_editorial_review_required": false
+        }
+      ],
       "related_lesson_ids": [],
-      "review_status": "basic_meaning_drafted",
-      "example_review_status": "pending"
+      "review_status": "base_gloss_and_primary_word_drafted",
+      "example_review_status": "editorial_review_pending",
+      "example_sentence": {
+        "ja": "名前を書きます。",
+        "reading": "なまえをかきます。",
+        "translation_ko": "이름을 씁니다.",
+        "status": "draft_review_pending"
+      }
     },
     {
       "id": "kanji-031",
@@ -708,10 +1033,20 @@
         "とし"
       ],
       "strokes": 6,
-      "example_words": [],
+      "example_words": [
+        {
+          "word": "今年",
+          "reading": "ことし",
+          "meaning_ko": "올해",
+          "romaji": "kotoshi",
+          "source_reading_match": true,
+          "reading_editorial_review_required": false
+        }
+      ],
       "related_lesson_ids": [],
-      "review_status": "basic_meaning_drafted",
-      "example_review_status": "pending"
+      "review_status": "base_gloss_and_primary_word_drafted",
+      "example_review_status": "editorial_review_pending",
+      "example_sentence": null
     },
     {
       "id": "kanji-032",
@@ -729,10 +1064,25 @@
         "-どき"
       ],
       "strokes": 10,
-      "example_words": [],
+      "example_words": [
+        {
+          "word": "時間",
+          "reading": "じかん",
+          "meaning_ko": "시간",
+          "romaji": "jikan",
+          "source_reading_match": true,
+          "reading_editorial_review_required": false
+        }
+      ],
       "related_lesson_ids": [],
-      "review_status": "basic_meaning_drafted",
-      "example_review_status": "pending"
+      "review_status": "base_gloss_and_primary_word_drafted",
+      "example_review_status": "editorial_review_pending",
+      "example_sentence": {
+        "ja": "今は三時です。",
+        "reading": "いまはさんじです。",
+        "translation_ko": "지금은 세 시입니다.",
+        "status": "draft_review_pending"
+      }
     },
     {
       "id": "kanji-033",
@@ -755,10 +1105,20 @@
         "わ.かつ"
       ],
       "strokes": 4,
-      "example_words": [],
+      "example_words": [
+        {
+          "word": "分",
+          "reading": "ふん",
+          "meaning_ko": "분",
+          "romaji": null,
+          "source_reading_match": false,
+          "reading_editorial_review_required": true
+        }
+      ],
       "related_lesson_ids": [],
-      "review_status": "basic_meaning_drafted",
-      "example_review_status": "pending"
+      "review_status": "base_gloss_and_primary_word_drafted",
+      "example_review_status": "editorial_review_pending",
+      "example_sentence": null
     },
     {
       "id": "kanji-034",
@@ -775,10 +1135,20 @@
         "なか.ば"
       ],
       "strokes": 5,
-      "example_words": [],
+      "example_words": [
+        {
+          "word": "半分",
+          "reading": "はんぶん",
+          "meaning_ko": "절반",
+          "romaji": "hanbun",
+          "source_reading_match": true,
+          "reading_editorial_review_required": false
+        }
+      ],
       "related_lesson_ids": [],
-      "review_status": "basic_meaning_drafted",
-      "example_review_status": "pending"
+      "review_status": "base_gloss_and_primary_word_drafted",
+      "example_review_status": "editorial_review_pending",
+      "example_sentence": null
     },
     {
       "id": "kanji-035",
@@ -795,10 +1165,20 @@
         "うま"
       ],
       "strokes": 4,
-      "example_words": [],
+      "example_words": [
+        {
+          "word": "午前",
+          "reading": "ごぜん",
+          "meaning_ko": "오전",
+          "romaji": "gozen",
+          "source_reading_match": true,
+          "reading_editorial_review_required": false
+        }
+      ],
       "related_lesson_ids": [],
-      "review_status": "basic_meaning_drafted",
-      "example_review_status": "pending"
+      "review_status": "base_gloss_and_primary_word_drafted",
+      "example_review_status": "editorial_review_pending",
+      "example_sentence": null
     },
     {
       "id": "kanji-036",
@@ -816,10 +1196,20 @@
         "-まえ"
       ],
       "strokes": 9,
-      "example_words": [],
+      "example_words": [
+        {
+          "word": "前",
+          "reading": "まえ",
+          "meaning_ko": "앞",
+          "romaji": "mae",
+          "source_reading_match": true,
+          "reading_editorial_review_required": false
+        }
+      ],
       "related_lesson_ids": [],
-      "review_status": "basic_meaning_drafted",
-      "example_review_status": "pending"
+      "review_status": "base_gloss_and_primary_word_drafted",
+      "example_review_status": "editorial_review_pending",
+      "example_sentence": null
     },
     {
       "id": "kanji-037",
@@ -841,10 +1231,20 @@
         "おく.れる"
       ],
       "strokes": 9,
-      "example_words": [],
+      "example_words": [
+        {
+          "word": "後",
+          "reading": "あと",
+          "meaning_ko": "뒤",
+          "romaji": "ato",
+          "source_reading_match": true,
+          "reading_editorial_review_required": false
+        }
+      ],
       "related_lesson_ids": [],
-      "review_status": "basic_meaning_drafted",
-      "example_review_status": "pending"
+      "review_status": "base_gloss_and_primary_word_drafted",
+      "example_review_status": "editorial_review_pending",
+      "example_sentence": null
     },
     {
       "id": "kanji-038",
@@ -862,10 +1262,25 @@
         "いま"
       ],
       "strokes": 4,
-      "example_words": [],
+      "example_words": [
+        {
+          "word": "今",
+          "reading": "いま",
+          "meaning_ko": "지금",
+          "romaji": "ima",
+          "source_reading_match": true,
+          "reading_editorial_review_required": false
+        }
+      ],
       "related_lesson_ids": [],
-      "review_status": "basic_meaning_drafted",
-      "example_review_status": "pending"
+      "review_status": "base_gloss_and_primary_word_drafted",
+      "example_review_status": "editorial_review_pending",
+      "example_sentence": {
+        "ja": "今は三時です。",
+        "reading": "いまはさんじです。",
+        "translation_ko": "지금은 세 시입니다.",
+        "status": "draft_review_pending"
+      }
     },
     {
       "id": "kanji-039",
@@ -883,10 +1298,20 @@
         "-ごと.に"
       ],
       "strokes": 6,
-      "example_words": [],
+      "example_words": [
+        {
+          "word": "毎日",
+          "reading": "まいにち",
+          "meaning_ko": "매일",
+          "romaji": "mainichi",
+          "source_reading_match": true,
+          "reading_editorial_review_required": false
+        }
+      ],
       "related_lesson_ids": [],
-      "review_status": "basic_meaning_drafted",
-      "example_review_status": "pending"
+      "review_status": "base_gloss_and_primary_word_drafted",
+      "example_review_status": "editorial_review_pending",
+      "example_sentence": null
     },
     {
       "id": "kanji-040",
@@ -901,12 +1326,22 @@
       ],
       "kun_readings": [],
       "strokes": 9,
-      "example_words": [],
+      "example_words": [
+        {
+          "word": "昨日",
+          "reading": "きのう",
+          "meaning_ko": "어제",
+          "romaji": "kinou",
+          "source_reading_match": true,
+          "reading_editorial_review_required": false
+        }
+      ],
       "related_lesson_ids": [
         7
       ],
-      "review_status": "basic_meaning_drafted",
-      "example_review_status": "pending"
+      "review_status": "base_gloss_and_primary_word_drafted",
+      "example_review_status": "editorial_review_pending",
+      "example_sentence": null
     },
     {
       "id": "kanji-041",
@@ -939,10 +1374,20 @@
         "たてまつ.る"
       ],
       "strokes": 3,
-      "example_words": [],
+      "example_words": [
+        {
+          "word": "上",
+          "reading": "うえ",
+          "meaning_ko": "위",
+          "romaji": "ue",
+          "source_reading_match": true,
+          "reading_editorial_review_required": false
+        }
+      ],
       "related_lesson_ids": [],
-      "review_status": "basic_meaning_drafted",
-      "example_review_status": "pending"
+      "review_status": "base_gloss_and_primary_word_drafted",
+      "example_review_status": "editorial_review_pending",
+      "example_sentence": null
     },
     {
       "id": "kanji-042",
@@ -971,10 +1416,20 @@
         "お.りる"
       ],
       "strokes": 3,
-      "example_words": [],
+      "example_words": [
+        {
+          "word": "下",
+          "reading": "した",
+          "meaning_ko": "아래",
+          "romaji": "shita",
+          "source_reading_match": true,
+          "reading_editorial_review_required": false
+        }
+      ],
       "related_lesson_ids": [],
-      "review_status": "basic_meaning_drafted",
-      "example_review_status": "pending"
+      "review_status": "base_gloss_and_primary_word_drafted",
+      "example_review_status": "editorial_review_pending",
+      "example_sentence": null
     },
     {
       "id": "kanji-043",
@@ -993,10 +1448,20 @@
         "あた.る"
       ],
       "strokes": 4,
-      "example_words": [],
+      "example_words": [
+        {
+          "word": "中",
+          "reading": "なか",
+          "meaning_ko": "안",
+          "romaji": "naka",
+          "source_reading_match": true,
+          "reading_editorial_review_required": false
+        }
+      ],
       "related_lesson_ids": [],
-      "review_status": "basic_meaning_drafted",
-      "example_review_status": "pending"
+      "review_status": "base_gloss_and_primary_word_drafted",
+      "example_review_status": "editorial_review_pending",
+      "example_sentence": null
     },
     {
       "id": "kanji-044",
@@ -1018,10 +1483,20 @@
         "と-"
       ],
       "strokes": 5,
-      "example_words": [],
+      "example_words": [
+        {
+          "word": "外",
+          "reading": "そと",
+          "meaning_ko": "밖",
+          "romaji": "soto",
+          "source_reading_match": true,
+          "reading_editorial_review_required": false
+        }
+      ],
       "related_lesson_ids": [],
-      "review_status": "basic_meaning_drafted",
-      "example_review_status": "pending"
+      "review_status": "base_gloss_and_primary_word_drafted",
+      "example_review_status": "editorial_review_pending",
+      "example_sentence": null
     },
     {
       "id": "kanji-045",
@@ -1039,10 +1514,20 @@
         "ひだり"
       ],
       "strokes": 5,
-      "example_words": [],
+      "example_words": [
+        {
+          "word": "左",
+          "reading": "ひだり",
+          "meaning_ko": "왼쪽",
+          "romaji": "hidari",
+          "source_reading_match": true,
+          "reading_editorial_review_required": false
+        }
+      ],
       "related_lesson_ids": [],
-      "review_status": "basic_meaning_drafted",
-      "example_review_status": "pending"
+      "review_status": "base_gloss_and_primary_word_drafted",
+      "example_review_status": "editorial_review_pending",
+      "example_sentence": null
     },
     {
       "id": "kanji-046",
@@ -1060,10 +1545,20 @@
         "みぎ"
       ],
       "strokes": 5,
-      "example_words": [],
+      "example_words": [
+        {
+          "word": "右",
+          "reading": "みぎ",
+          "meaning_ko": "오른쪽",
+          "romaji": "migi",
+          "source_reading_match": true,
+          "reading_editorial_review_required": false
+        }
+      ],
       "related_lesson_ids": [],
-      "review_status": "basic_meaning_drafted",
-      "example_review_status": "pending"
+      "review_status": "base_gloss_and_primary_word_drafted",
+      "example_review_status": "editorial_review_pending",
+      "example_sentence": null
     },
     {
       "id": "kanji-047",
@@ -1080,10 +1575,20 @@
         "ひがし"
       ],
       "strokes": 8,
-      "example_words": [],
+      "example_words": [
+        {
+          "word": "東",
+          "reading": "ひがし",
+          "meaning_ko": "동쪽",
+          "romaji": "higashi",
+          "source_reading_match": true,
+          "reading_editorial_review_required": false
+        }
+      ],
       "related_lesson_ids": [],
-      "review_status": "basic_meaning_drafted",
-      "example_review_status": "pending"
+      "review_status": "base_gloss_and_primary_word_drafted",
+      "example_review_status": "editorial_review_pending",
+      "example_sentence": null
     },
     {
       "id": "kanji-048",
@@ -1102,10 +1607,20 @@
         "にし"
       ],
       "strokes": 6,
-      "example_words": [],
+      "example_words": [
+        {
+          "word": "西",
+          "reading": "にし",
+          "meaning_ko": "서쪽",
+          "romaji": "nishi",
+          "source_reading_match": true,
+          "reading_editorial_review_required": false
+        }
+      ],
       "related_lesson_ids": [],
-      "review_status": "basic_meaning_drafted",
-      "example_review_status": "pending"
+      "review_status": "base_gloss_and_primary_word_drafted",
+      "example_review_status": "editorial_review_pending",
+      "example_sentence": null
     },
     {
       "id": "kanji-049",
@@ -1122,10 +1637,20 @@
         "きた"
       ],
       "strokes": 5,
-      "example_words": [],
+      "example_words": [
+        {
+          "word": "北",
+          "reading": "きた",
+          "meaning_ko": "북쪽",
+          "romaji": "kita",
+          "source_reading_match": true,
+          "reading_editorial_review_required": false
+        }
+      ],
       "related_lesson_ids": [],
-      "review_status": "basic_meaning_drafted",
-      "example_review_status": "pending"
+      "review_status": "base_gloss_and_primary_word_drafted",
+      "example_review_status": "editorial_review_pending",
+      "example_sentence": null
     },
     {
       "id": "kanji-050",
@@ -1143,10 +1668,20 @@
         "みなみ"
       ],
       "strokes": 9,
-      "example_words": [],
+      "example_words": [
+        {
+          "word": "南",
+          "reading": "みなみ",
+          "meaning_ko": "남쪽",
+          "romaji": "minami",
+          "source_reading_match": true,
+          "reading_editorial_review_required": false
+        }
+      ],
       "related_lesson_ids": [],
-      "review_status": "basic_meaning_drafted",
-      "example_review_status": "pending"
+      "review_status": "base_gloss_and_primary_word_drafted",
+      "example_review_status": "editorial_review_pending",
+      "example_sentence": null
     },
     {
       "id": "kanji-051",
@@ -1172,10 +1707,25 @@
         "おこ.なう"
       ],
       "strokes": 6,
-      "example_words": [],
+      "example_words": [
+        {
+          "word": "行く",
+          "reading": "いく",
+          "meaning_ko": "가다",
+          "romaji": "iku",
+          "source_reading_match": true,
+          "reading_editorial_review_required": false
+        }
+      ],
       "related_lesson_ids": [],
-      "review_status": "basic_meaning_drafted",
-      "example_review_status": "pending"
+      "review_status": "base_gloss_and_primary_word_drafted",
+      "example_review_status": "editorial_review_pending",
+      "example_sentence": {
+        "ja": "学校へ行きます。",
+        "reading": "がっこうへいきます。",
+        "translation_ko": "학교에 갑니다.",
+        "status": "draft_review_pending"
+      }
     },
     {
       "id": "kanji-052",
@@ -1199,10 +1749,20 @@
         "こ"
       ],
       "strokes": 7,
-      "example_words": [],
+      "example_words": [
+        {
+          "word": "来る",
+          "reading": "くる",
+          "meaning_ko": "오다",
+          "romaji": "kuru",
+          "source_reading_match": true,
+          "reading_editorial_review_required": false
+        }
+      ],
       "related_lesson_ids": [],
-      "review_status": "basic_meaning_drafted",
-      "example_review_status": "pending"
+      "review_status": "base_gloss_and_primary_word_drafted",
+      "example_review_status": "editorial_review_pending",
+      "example_sentence": null
     },
     {
       "id": "kanji-053",
@@ -1222,10 +1782,20 @@
         "とつ.ぐ"
       ],
       "strokes": 10,
-      "example_words": [],
+      "example_words": [
+        {
+          "word": "帰る",
+          "reading": "かえる",
+          "meaning_ko": "돌아가다",
+          "romaji": "kaeru",
+          "source_reading_match": true,
+          "reading_editorial_review_required": false
+        }
+      ],
       "related_lesson_ids": [],
-      "review_status": "basic_meaning_drafted",
-      "example_review_status": "pending"
+      "review_status": "base_gloss_and_primary_word_drafted",
+      "example_review_status": "editorial_review_pending",
+      "example_sentence": null
     },
     {
       "id": "kanji-054",
@@ -1248,10 +1818,20 @@
         "はい.る"
       ],
       "strokes": 2,
-      "example_words": [],
+      "example_words": [
+        {
+          "word": "入る",
+          "reading": "はいる",
+          "meaning_ko": "들어가다",
+          "romaji": "hairu",
+          "source_reading_match": true,
+          "reading_editorial_review_required": false
+        }
+      ],
       "related_lesson_ids": [],
-      "review_status": "basic_meaning_drafted",
-      "example_review_status": "pending"
+      "review_status": "base_gloss_and_primary_word_drafted",
+      "example_review_status": "editorial_review_pending",
+      "example_sentence": null
     },
     {
       "id": "kanji-055",
@@ -1274,10 +1854,20 @@
         "い.だす"
       ],
       "strokes": 5,
-      "example_words": [],
+      "example_words": [
+        {
+          "word": "出る",
+          "reading": "でる",
+          "meaning_ko": "나가다",
+          "romaji": "deru",
+          "source_reading_match": true,
+          "reading_editorial_review_required": false
+        }
+      ],
       "related_lesson_ids": [],
-      "review_status": "basic_meaning_drafted",
-      "example_review_status": "pending"
+      "review_status": "base_gloss_and_primary_word_drafted",
+      "example_review_status": "editorial_review_pending",
+      "example_sentence": null
     },
     {
       "id": "kanji-056",
@@ -1296,10 +1886,20 @@
         "み.せる"
       ],
       "strokes": 7,
-      "example_words": [],
+      "example_words": [
+        {
+          "word": "見る",
+          "reading": "みる",
+          "meaning_ko": "보다",
+          "romaji": "miru",
+          "source_reading_match": true,
+          "reading_editorial_review_required": false
+        }
+      ],
       "related_lesson_ids": [],
-      "review_status": "basic_meaning_drafted",
-      "example_review_status": "pending"
+      "review_status": "base_gloss_and_primary_word_drafted",
+      "example_review_status": "editorial_review_pending",
+      "example_sentence": null
     },
     {
       "id": "kanji-057",
@@ -1318,10 +1918,20 @@
         "き.こえる"
       ],
       "strokes": 14,
-      "example_words": [],
+      "example_words": [
+        {
+          "word": "聞く",
+          "reading": "きく",
+          "meaning_ko": "듣다",
+          "romaji": "kiku",
+          "source_reading_match": true,
+          "reading_editorial_review_required": false
+        }
+      ],
       "related_lesson_ids": [],
-      "review_status": "basic_meaning_drafted",
-      "example_review_status": "pending"
+      "review_status": "base_gloss_and_primary_word_drafted",
+      "example_review_status": "editorial_review_pending",
+      "example_sentence": null
     },
     {
       "id": "kanji-058",
@@ -1341,10 +1951,25 @@
         "-よ.み"
       ],
       "strokes": 14,
-      "example_words": [],
+      "example_words": [
+        {
+          "word": "読む",
+          "reading": "よむ",
+          "meaning_ko": "읽다",
+          "romaji": "yomu",
+          "source_reading_match": true,
+          "reading_editorial_review_required": false
+        }
+      ],
       "related_lesson_ids": [],
-      "review_status": "basic_meaning_drafted",
-      "example_review_status": "pending"
+      "review_status": "base_gloss_and_primary_word_drafted",
+      "example_review_status": "editorial_review_pending",
+      "example_sentence": {
+        "ja": "本を読みます。",
+        "reading": "ほんをよみます。",
+        "translation_ko": "책을 읽습니다.",
+        "status": "draft_review_pending"
+      }
     },
     {
       "id": "kanji-059",
@@ -1363,10 +1988,25 @@
         "-がき"
       ],
       "strokes": 10,
-      "example_words": [],
+      "example_words": [
+        {
+          "word": "書く",
+          "reading": "かく",
+          "meaning_ko": "쓰다",
+          "romaji": "kaku",
+          "source_reading_match": true,
+          "reading_editorial_review_required": false
+        }
+      ],
       "related_lesson_ids": [],
-      "review_status": "basic_meaning_drafted",
-      "example_review_status": "pending"
+      "review_status": "base_gloss_and_primary_word_drafted",
+      "example_review_status": "editorial_review_pending",
+      "example_sentence": {
+        "ja": "名前を書きます。",
+        "reading": "なまえをかきます。",
+        "translation_ko": "이름을 씁니다.",
+        "status": "draft_review_pending"
+      }
     },
     {
       "id": "kanji-060",
@@ -1384,10 +2024,20 @@
         "はなし"
       ],
       "strokes": 13,
-      "example_words": [],
+      "example_words": [
+        {
+          "word": "話す",
+          "reading": "はなす",
+          "meaning_ko": "말하다",
+          "romaji": "hanasu",
+          "source_reading_match": true,
+          "reading_editorial_review_required": false
+        }
+      ],
       "related_lesson_ids": [],
-      "review_status": "basic_meaning_drafted",
-      "example_review_status": "pending"
+      "review_status": "base_gloss_and_primary_word_drafted",
+      "example_review_status": "editorial_review_pending",
+      "example_sentence": null
     },
     {
       "id": "kanji-061",
@@ -1408,10 +2058,25 @@
         "は.む"
       ],
       "strokes": 9,
-      "example_words": [],
+      "example_words": [
+        {
+          "word": "食べる",
+          "reading": "たべる",
+          "meaning_ko": "먹다",
+          "romaji": "taberu",
+          "source_reading_match": true,
+          "reading_editorial_review_required": false
+        }
+      ],
       "related_lesson_ids": [],
-      "review_status": "basic_meaning_drafted",
-      "example_review_status": "pending"
+      "review_status": "base_gloss_and_primary_word_drafted",
+      "example_review_status": "editorial_review_pending",
+      "example_sentence": {
+        "ja": "ご飯を食べます。",
+        "reading": "ごはんをたべます。",
+        "translation_ko": "밥을 먹습니다.",
+        "status": "draft_review_pending"
+      }
     },
     {
       "id": "kanji-062",
@@ -1430,12 +2095,27 @@
         "-の.み"
       ],
       "strokes": 12,
-      "example_words": [],
+      "example_words": [
+        {
+          "word": "飲む",
+          "reading": "のむ",
+          "meaning_ko": "마시다",
+          "romaji": "nomu",
+          "source_reading_match": true,
+          "reading_editorial_review_required": false
+        }
+      ],
       "related_lesson_ids": [
         6
       ],
-      "review_status": "basic_meaning_drafted",
-      "example_review_status": "pending"
+      "review_status": "base_gloss_and_primary_word_drafted",
+      "example_review_status": "editorial_review_pending",
+      "example_sentence": {
+        "ja": "水を飲みます。",
+        "reading": "みずをのみます。",
+        "translation_ko": "물을 마십니다.",
+        "status": "draft_review_pending"
+      }
     },
     {
       "id": "kanji-063",
@@ -1452,10 +2132,25 @@
         "か.う"
       ],
       "strokes": 12,
-      "example_words": [],
+      "example_words": [
+        {
+          "word": "買う",
+          "reading": "かう",
+          "meaning_ko": "사다",
+          "romaji": "kau",
+          "source_reading_match": true,
+          "reading_editorial_review_required": false
+        }
+      ],
       "related_lesson_ids": [],
-      "review_status": "basic_meaning_drafted",
-      "example_review_status": "pending"
+      "review_status": "base_gloss_and_primary_word_drafted",
+      "example_review_status": "editorial_review_pending",
+      "example_sentence": {
+        "ja": "本を買います。",
+        "reading": "ほんをかいます。",
+        "translation_ko": "책을 삽니다.",
+        "status": "draft_review_pending"
+      }
     },
     {
       "id": "kanji-064",
@@ -1474,12 +2169,22 @@
         "やす.める"
       ],
       "strokes": 6,
-      "example_words": [],
+      "example_words": [
+        {
+          "word": "休む",
+          "reading": "やすむ",
+          "meaning_ko": "쉬다",
+          "romaji": "yasumu",
+          "source_reading_match": true,
+          "reading_editorial_review_required": false
+        }
+      ],
       "related_lesson_ids": [
         7
       ],
-      "review_status": "basic_meaning_drafted",
-      "example_review_status": "pending"
+      "review_status": "base_gloss_and_primary_word_drafted",
+      "example_review_status": "editorial_review_pending",
+      "example_sentence": null
     },
     {
       "id": "kanji-065",
@@ -1497,10 +2202,20 @@
         "たな"
       ],
       "strokes": 8,
-      "example_words": [],
+      "example_words": [
+        {
+          "word": "店",
+          "reading": "みせ",
+          "meaning_ko": "가게",
+          "romaji": "mise",
+          "source_reading_match": true,
+          "reading_editorial_review_required": false
+        }
+      ],
       "related_lesson_ids": [],
-      "review_status": "basic_meaning_drafted",
-      "example_review_status": "pending"
+      "review_status": "base_gloss_and_primary_word_drafted",
+      "example_review_status": "editorial_review_pending",
+      "example_sentence": null
     },
     {
       "id": "kanji-066",
@@ -1515,10 +2230,25 @@
       ],
       "kun_readings": [],
       "strokes": 14,
-      "example_words": [],
+      "example_words": [
+        {
+          "word": "駅",
+          "reading": "えき",
+          "meaning_ko": "역",
+          "romaji": "eki",
+          "source_reading_match": true,
+          "reading_editorial_review_required": false
+        }
+      ],
       "related_lesson_ids": [],
-      "review_status": "basic_meaning_drafted",
-      "example_review_status": "pending"
+      "review_status": "base_gloss_and_primary_word_drafted",
+      "example_review_status": "editorial_review_pending",
+      "example_sentence": {
+        "ja": "駅はどこですか。",
+        "reading": "えきはどこですか。",
+        "translation_ko": "역은 어디입니까?",
+        "status": "draft_review_pending"
+      }
     },
     {
       "id": "kanji-067",
@@ -1535,10 +2265,20 @@
         "くるま"
       ],
       "strokes": 7,
-      "example_words": [],
+      "example_words": [
+        {
+          "word": "車",
+          "reading": "くるま",
+          "meaning_ko": "자동차",
+          "romaji": "kuruma",
+          "source_reading_match": true,
+          "reading_editorial_review_required": false
+        }
+      ],
       "related_lesson_ids": [],
-      "review_status": "basic_meaning_drafted",
-      "example_review_status": "pending"
+      "review_status": "base_gloss_and_primary_word_drafted",
+      "example_review_status": "editorial_review_pending",
+      "example_sentence": null
     },
     {
       "id": "kanji-068",
@@ -1553,10 +2293,20 @@
       ],
       "kun_readings": [],
       "strokes": 13,
-      "example_words": [],
+      "example_words": [
+        {
+          "word": "電車",
+          "reading": "でんしゃ",
+          "meaning_ko": "전철",
+          "romaji": "densha",
+          "source_reading_match": true,
+          "reading_editorial_review_required": false
+        }
+      ],
       "related_lesson_ids": [],
-      "review_status": "basic_meaning_drafted",
-      "example_review_status": "pending"
+      "review_status": "base_gloss_and_primary_word_drafted",
+      "example_review_status": "editorial_review_pending",
+      "example_sentence": null
     },
     {
       "id": "kanji-069",
@@ -1575,10 +2325,20 @@
         "いう"
       ],
       "strokes": 12,
-      "example_words": [],
+      "example_words": [
+        {
+          "word": "道",
+          "reading": "みち",
+          "meaning_ko": "길",
+          "romaji": "michi",
+          "source_reading_match": true,
+          "reading_editorial_review_required": false
+        }
+      ],
       "related_lesson_ids": [],
-      "review_status": "basic_meaning_drafted",
-      "example_review_status": "pending"
+      "review_status": "base_gloss_and_primary_word_drafted",
+      "example_review_status": "editorial_review_pending",
+      "example_sentence": null
     },
     {
       "id": "kanji-070",
@@ -1596,10 +2356,20 @@
         "くち"
       ],
       "strokes": 3,
-      "example_words": [],
+      "example_words": [
+        {
+          "word": "入口",
+          "reading": "いりぐち",
+          "meaning_ko": "입구",
+          "romaji": "iriguchi",
+          "source_reading_match": true,
+          "reading_editorial_review_required": false
+        }
+      ],
       "related_lesson_ids": [],
-      "review_status": "basic_meaning_drafted",
-      "example_review_status": "pending"
+      "review_status": "base_gloss_and_primary_word_drafted",
+      "example_review_status": "editorial_review_pending",
+      "example_sentence": null
     },
     {
       "id": "kanji-071",
@@ -1616,13 +2386,28 @@
         "まな.ぶ"
       ],
       "strokes": 8,
-      "example_words": [],
+      "example_words": [
+        {
+          "word": "学生",
+          "reading": "がくせい",
+          "meaning_ko": "학생",
+          "romaji": "gakusei",
+          "source_reading_match": true,
+          "reading_editorial_review_required": false
+        }
+      ],
       "related_lesson_ids": [
         6,
         7
       ],
-      "review_status": "basic_meaning_drafted",
-      "example_review_status": "pending"
+      "review_status": "base_gloss_and_primary_word_drafted",
+      "example_review_status": "editorial_review_pending",
+      "example_sentence": {
+        "ja": "私は学生です。",
+        "reading": "わたしはがくせいです。",
+        "translation_ko": "저는 학생입니다.",
+        "status": "draft_review_pending"
+      }
     },
     {
       "id": "kanji-072",
@@ -1638,10 +2423,25 @@
       ],
       "kun_readings": [],
       "strokes": 10,
-      "example_words": [],
+      "example_words": [
+        {
+          "word": "学校",
+          "reading": "がっこう",
+          "meaning_ko": "학교",
+          "romaji": "gakkou",
+          "source_reading_match": true,
+          "reading_editorial_review_required": false
+        }
+      ],
       "related_lesson_ids": [],
-      "review_status": "basic_meaning_drafted",
-      "example_review_status": "pending"
+      "review_status": "base_gloss_and_primary_word_drafted",
+      "example_review_status": "editorial_review_pending",
+      "example_sentence": {
+        "ja": "学校へ行きます。",
+        "reading": "がっこうへいきます。",
+        "translation_ko": "학교에 갑니다.",
+        "status": "draft_review_pending"
+      }
     },
     {
       "id": "kanji-073",
@@ -1658,10 +2458,25 @@
         "もと"
       ],
       "strokes": 5,
-      "example_words": [],
+      "example_words": [
+        {
+          "word": "本",
+          "reading": "ほん",
+          "meaning_ko": "책",
+          "romaji": "hon",
+          "source_reading_match": true,
+          "reading_editorial_review_required": false
+        }
+      ],
       "related_lesson_ids": [],
-      "review_status": "basic_meaning_drafted",
-      "example_review_status": "pending"
+      "review_status": "base_gloss_and_primary_word_drafted",
+      "example_review_status": "editorial_review_pending",
+      "example_sentence": {
+        "ja": "本を読みます。",
+        "reading": "ほんをよみます。",
+        "translation_ko": "책을 읽습니다.",
+        "status": "draft_review_pending"
+      }
     },
     {
       "id": "kanji-074",
@@ -1679,10 +2494,20 @@
         "かた.らう"
       ],
       "strokes": 14,
-      "example_words": [],
+      "example_words": [
+        {
+          "word": "日本語",
+          "reading": "にほんご",
+          "meaning_ko": "일본어",
+          "romaji": null,
+          "source_reading_match": false,
+          "reading_editorial_review_required": true
+        }
+      ],
       "related_lesson_ids": [],
-      "review_status": "basic_meaning_drafted",
-      "example_review_status": "pending"
+      "review_status": "base_gloss_and_primary_word_drafted",
+      "example_review_status": "editorial_review_pending",
+      "example_sentence": null
     },
     {
       "id": "kanji-075",
@@ -1701,10 +2526,20 @@
         "あや"
       ],
       "strokes": 4,
-      "example_words": [],
+      "example_words": [
+        {
+          "word": "文章",
+          "reading": "ぶんしょう",
+          "meaning_ko": "문장",
+          "romaji": "bunshou",
+          "source_reading_match": true,
+          "reading_editorial_review_required": false
+        }
+      ],
       "related_lesson_ids": [],
-      "review_status": "basic_meaning_drafted",
-      "example_review_status": "pending"
+      "review_status": "base_gloss_and_primary_word_drafted",
+      "example_review_status": "editorial_review_pending",
+      "example_sentence": null
     },
     {
       "id": "kanji-076",
@@ -1723,10 +2558,20 @@
         "-な"
       ],
       "strokes": 6,
-      "example_words": [],
+      "example_words": [
+        {
+          "word": "文字",
+          "reading": "もじ",
+          "meaning_ko": "글자",
+          "romaji": null,
+          "source_reading_match": false,
+          "reading_editorial_review_required": true
+        }
+      ],
       "related_lesson_ids": [],
-      "review_status": "basic_meaning_drafted",
-      "example_review_status": "pending"
+      "review_status": "base_gloss_and_primary_word_drafted",
+      "example_review_status": "editorial_review_pending",
+      "example_sentence": null
     },
     {
       "id": "kanji-077",
@@ -1746,10 +2591,20 @@
         "なん-"
       ],
       "strokes": 7,
-      "example_words": [],
+      "example_words": [
+        {
+          "word": "何",
+          "reading": "なに",
+          "meaning_ko": "무엇",
+          "romaji": null,
+          "source_reading_match": false,
+          "reading_editorial_review_required": true
+        }
+      ],
       "related_lesson_ids": [],
-      "review_status": "basic_meaning_drafted",
-      "example_review_status": "pending"
+      "review_status": "base_gloss_and_primary_word_drafted",
+      "example_review_status": "editorial_review_pending",
+      "example_sentence": null
     },
     {
       "id": "kanji-078",
@@ -1768,10 +2623,20 @@
         "とん"
       ],
       "strokes": 11,
-      "example_words": [],
+      "example_words": [
+        {
+          "word": "質問",
+          "reading": "しつもん",
+          "meaning_ko": "질문",
+          "romaji": "shitsumon",
+          "source_reading_match": true,
+          "reading_editorial_review_required": false
+        }
+      ],
       "related_lesson_ids": [],
-      "review_status": "basic_meaning_drafted",
-      "example_review_status": "pending"
+      "review_status": "base_gloss_and_primary_word_drafted",
+      "example_review_status": "editorial_review_pending",
+      "example_sentence": null
     },
     {
       "id": "kanji-079",
@@ -1789,10 +2654,20 @@
         "こた.え"
       ],
       "strokes": 12,
-      "example_words": [],
+      "example_words": [
+        {
+          "word": "答える",
+          "reading": "こたえる",
+          "meaning_ko": "대답하다",
+          "romaji": "kotaeru",
+          "source_reading_match": true,
+          "reading_editorial_review_required": false
+        }
+      ],
       "related_lesson_ids": [],
-      "review_status": "basic_meaning_drafted",
-      "example_review_status": "pending"
+      "review_status": "base_gloss_and_primary_word_drafted",
+      "example_review_status": "editorial_review_pending",
+      "example_sentence": null
     },
     {
       "id": "kanji-080",
@@ -1810,12 +2685,27 @@
         "わたし"
       ],
       "strokes": 7,
-      "example_words": [],
+      "example_words": [
+        {
+          "word": "私",
+          "reading": "わたし",
+          "meaning_ko": "나",
+          "romaji": null,
+          "source_reading_match": false,
+          "reading_editorial_review_required": true
+        }
+      ],
       "related_lesson_ids": [
         6
       ],
-      "review_status": "basic_meaning_drafted",
-      "example_review_status": "pending"
+      "review_status": "base_gloss_and_primary_word_drafted",
+      "example_review_status": "editorial_review_pending",
+      "example_sentence": {
+        "ja": "私は学生です。",
+        "reading": "わたしはがくせいです。",
+        "translation_ko": "저는 학생입니다.",
+        "status": "draft_review_pending"
+      }
     },
     {
       "id": "kanji-081",
@@ -1835,10 +2725,20 @@
         "-おお.いに"
       ],
       "strokes": 3,
-      "example_words": [],
+      "example_words": [
+        {
+          "word": "大きい",
+          "reading": "おおきい",
+          "meaning_ko": "크다",
+          "romaji": "ookii",
+          "source_reading_match": true,
+          "reading_editorial_review_required": false
+        }
+      ],
       "related_lesson_ids": [],
-      "review_status": "basic_meaning_drafted",
-      "example_review_status": "pending"
+      "review_status": "base_gloss_and_primary_word_drafted",
+      "example_review_status": "editorial_review_pending",
+      "example_sentence": null
     },
     {
       "id": "kanji-082",
@@ -1858,10 +2758,20 @@
         "さ-"
       ],
       "strokes": 3,
-      "example_words": [],
+      "example_words": [
+        {
+          "word": "小さい",
+          "reading": "ちいさい",
+          "meaning_ko": "작다",
+          "romaji": "chiisai",
+          "source_reading_match": true,
+          "reading_editorial_review_required": false
+        }
+      ],
       "related_lesson_ids": [],
-      "review_status": "basic_meaning_drafted",
-      "example_review_status": "pending"
+      "review_status": "base_gloss_and_primary_word_drafted",
+      "example_review_status": "editorial_review_pending",
+      "example_sentence": null
     },
     {
       "id": "kanji-083",
@@ -1882,10 +2792,25 @@
         "たか.める"
       ],
       "strokes": 10,
-      "example_words": [],
+      "example_words": [
+        {
+          "word": "高い",
+          "reading": "たかい",
+          "meaning_ko": "비싸다",
+          "romaji": "takai",
+          "source_reading_match": true,
+          "reading_editorial_review_required": false
+        }
+      ],
       "related_lesson_ids": [],
-      "review_status": "basic_meaning_drafted",
-      "example_review_status": "pending"
+      "review_status": "base_gloss_and_primary_word_drafted",
+      "example_review_status": "editorial_review_pending",
+      "example_sentence": {
+        "ja": "これは高いです。",
+        "reading": "これはたかいです。",
+        "translation_ko": "이것은 비쌉니다.",
+        "status": "draft_review_pending"
+      }
     },
     {
       "id": "kanji-084",
@@ -1905,10 +2830,25 @@
         "やす.らか"
       ],
       "strokes": 6,
-      "example_words": [],
+      "example_words": [
+        {
+          "word": "安い",
+          "reading": "やすい",
+          "meaning_ko": "싸다",
+          "romaji": "yasui",
+          "source_reading_match": true,
+          "reading_editorial_review_required": false
+        }
+      ],
       "related_lesson_ids": [],
-      "review_status": "basic_meaning_drafted",
-      "example_review_status": "pending"
+      "review_status": "base_gloss_and_primary_word_drafted",
+      "example_review_status": "editorial_review_pending",
+      "example_sentence": {
+        "ja": "これは安いです。",
+        "reading": "これはやすいです。",
+        "translation_ko": "이것은 쌉니다.",
+        "status": "draft_review_pending"
+      }
     },
     {
       "id": "kanji-085",
@@ -1928,10 +2868,20 @@
         "にい-"
       ],
       "strokes": 13,
-      "example_words": [],
+      "example_words": [
+        {
+          "word": "新しい",
+          "reading": "あたらしい",
+          "meaning_ko": "새롭다",
+          "romaji": "atarashii",
+          "source_reading_match": true,
+          "reading_editorial_review_required": false
+        }
+      ],
       "related_lesson_ids": [],
-      "review_status": "basic_meaning_drafted",
-      "example_review_status": "pending"
+      "review_status": "base_gloss_and_primary_word_drafted",
+      "example_review_status": "editorial_review_pending",
+      "example_sentence": null
     },
     {
       "id": "kanji-086",
@@ -1950,10 +2900,20 @@
         "-ふる.す"
       ],
       "strokes": 5,
-      "example_words": [],
+      "example_words": [
+        {
+          "word": "古い",
+          "reading": "ふるい",
+          "meaning_ko": "오래되다",
+          "romaji": "furui",
+          "source_reading_match": true,
+          "reading_editorial_review_required": false
+        }
+      ],
       "related_lesson_ids": [],
-      "review_status": "basic_meaning_drafted",
-      "example_review_status": "pending"
+      "review_status": "base_gloss_and_primary_word_drafted",
+      "example_review_status": "editorial_review_pending",
+      "example_sentence": null
     },
     {
       "id": "kanji-087",
@@ -1971,10 +2931,20 @@
         "おさ"
       ],
       "strokes": 8,
-      "example_words": [],
+      "example_words": [
+        {
+          "word": "長い",
+          "reading": "ながい",
+          "meaning_ko": "길다",
+          "romaji": "nagai",
+          "source_reading_match": true,
+          "reading_editorial_review_required": false
+        }
+      ],
       "related_lesson_ids": [],
-      "review_status": "basic_meaning_drafted",
-      "example_review_status": "pending"
+      "review_status": "base_gloss_and_primary_word_drafted",
+      "example_review_status": "editorial_review_pending",
+      "example_sentence": null
     },
     {
       "id": "kanji-088",
@@ -1994,10 +2964,20 @@
         "しろ.い"
       ],
       "strokes": 5,
-      "example_words": [],
+      "example_words": [
+        {
+          "word": "白い",
+          "reading": "しろい",
+          "meaning_ko": "희다",
+          "romaji": "shiroi",
+          "source_reading_match": true,
+          "reading_editorial_review_required": false
+        }
+      ],
       "related_lesson_ids": [],
-      "review_status": "basic_meaning_drafted",
-      "example_review_status": "pending"
+      "review_status": "base_gloss_and_primary_word_drafted",
+      "example_review_status": "editorial_review_pending",
+      "example_sentence": null
     },
     {
       "id": "kanji-089",
@@ -2016,10 +2996,20 @@
         "くろ.い"
       ],
       "strokes": 11,
-      "example_words": [],
+      "example_words": [
+        {
+          "word": "黒い",
+          "reading": "くろい",
+          "meaning_ko": "검다",
+          "romaji": "kuroi",
+          "source_reading_match": true,
+          "reading_editorial_review_required": false
+        }
+      ],
       "related_lesson_ids": [],
-      "review_status": "basic_meaning_drafted",
-      "example_review_status": "pending"
+      "review_status": "base_gloss_and_primary_word_drafted",
+      "example_review_status": "editorial_review_pending",
+      "example_sentence": null
     },
     {
       "id": "kanji-090",
@@ -2041,10 +3031,20 @@
         "あか.らめる"
       ],
       "strokes": 7,
-      "example_words": [],
+      "example_words": [
+        {
+          "word": "赤い",
+          "reading": "あかい",
+          "meaning_ko": "빨갛다",
+          "romaji": "akai",
+          "source_reading_match": true,
+          "reading_editorial_review_required": false
+        }
+      ],
       "related_lesson_ids": [],
-      "review_status": "basic_meaning_drafted",
-      "example_review_status": "pending"
+      "review_status": "base_gloss_and_primary_word_drafted",
+      "example_review_status": "editorial_review_pending",
+      "example_sentence": null
     },
     {
       "id": "kanji-091",
@@ -2061,10 +3061,20 @@
         "くに"
       ],
       "strokes": 8,
-      "example_words": [],
+      "example_words": [
+        {
+          "word": "国",
+          "reading": "くに",
+          "meaning_ko": "나라",
+          "romaji": "kuni",
+          "source_reading_match": true,
+          "reading_editorial_review_required": false
+        }
+      ],
       "related_lesson_ids": [],
-      "review_status": "basic_meaning_drafted",
-      "example_review_status": "pending"
+      "review_status": "base_gloss_and_primary_word_drafted",
+      "example_review_status": "editorial_review_pending",
+      "example_sentence": null
     },
     {
       "id": "kanji-092",
@@ -2085,10 +3095,20 @@
         "まろ.やか"
       ],
       "strokes": 4,
-      "example_words": [],
+      "example_words": [
+        {
+          "word": "円",
+          "reading": "えん",
+          "meaning_ko": "엔",
+          "romaji": null,
+          "source_reading_match": false,
+          "reading_editorial_review_required": true
+        }
+      ],
       "related_lesson_ids": [],
-      "review_status": "basic_meaning_drafted",
-      "example_review_status": "pending"
+      "review_status": "base_gloss_and_primary_word_drafted",
+      "example_review_status": "editorial_review_pending",
+      "example_sentence": null
     },
     {
       "id": "kanji-093",
@@ -2106,10 +3126,20 @@
         "もも"
       ],
       "strokes": 6,
-      "example_words": [],
+      "example_words": [
+        {
+          "word": "百",
+          "reading": "ひゃく",
+          "meaning_ko": "백",
+          "romaji": "hyaku",
+          "source_reading_match": true,
+          "reading_editorial_review_required": false
+        }
+      ],
       "related_lesson_ids": [],
-      "review_status": "basic_meaning_drafted",
-      "example_review_status": "pending"
+      "review_status": "base_gloss_and_primary_word_drafted",
+      "example_review_status": "editorial_review_pending",
+      "example_sentence": null
     },
     {
       "id": "kanji-094",
@@ -2126,10 +3156,20 @@
         "ち"
       ],
       "strokes": 3,
-      "example_words": [],
+      "example_words": [
+        {
+          "word": "千",
+          "reading": "せん",
+          "meaning_ko": "천",
+          "romaji": "sen",
+          "source_reading_match": true,
+          "reading_editorial_review_required": false
+        }
+      ],
       "related_lesson_ids": [],
-      "review_status": "basic_meaning_drafted",
-      "example_review_status": "pending"
+      "review_status": "base_gloss_and_primary_word_drafted",
+      "example_review_status": "editorial_review_pending",
+      "example_sentence": null
     },
     {
       "id": "kanji-095",
@@ -2147,10 +3187,20 @@
         "よろず"
       ],
       "strokes": 3,
-      "example_words": [],
+      "example_words": [
+        {
+          "word": "万",
+          "reading": "まん",
+          "meaning_ko": "만",
+          "romaji": "man",
+          "source_reading_match": true,
+          "reading_editorial_review_required": false
+        }
+      ],
       "related_lesson_ids": [],
-      "review_status": "basic_meaning_drafted",
-      "example_review_status": "pending"
+      "review_status": "base_gloss_and_primary_word_drafted",
+      "example_review_status": "editorial_review_pending",
+      "example_sentence": null
     },
     {
       "id": "kanji-096",
@@ -2174,10 +3224,20 @@
         "むな.しい"
       ],
       "strokes": 8,
-      "example_words": [],
+      "example_words": [
+        {
+          "word": "空",
+          "reading": "そら",
+          "meaning_ko": "하늘",
+          "romaji": "sora",
+          "source_reading_match": true,
+          "reading_editorial_review_required": false
+        }
+      ],
       "related_lesson_ids": [],
-      "review_status": "basic_meaning_drafted",
-      "example_review_status": "pending"
+      "review_status": "base_gloss_and_primary_word_drafted",
+      "example_review_status": "editorial_review_pending",
+      "example_sentence": null
     },
     {
       "id": "kanji-097",
@@ -2194,10 +3254,20 @@
         "みなと"
       ],
       "strokes": 12,
-      "example_words": [],
+      "example_words": [
+        {
+          "word": "港",
+          "reading": "みなと",
+          "meaning_ko": "항구",
+          "romaji": "minato",
+          "source_reading_match": true,
+          "reading_editorial_review_required": false
+        }
+      ],
       "related_lesson_ids": [],
-      "review_status": "basic_meaning_drafted",
-      "example_review_status": "pending"
+      "review_status": "base_gloss_and_primary_word_drafted",
+      "example_review_status": "editorial_review_pending",
+      "example_sentence": null
     },
     {
       "id": "kanji-098",
@@ -2214,10 +3284,20 @@
         "たび"
       ],
       "strokes": 10,
-      "example_words": [],
+      "example_words": [
+        {
+          "word": "旅行",
+          "reading": "りょこう",
+          "meaning_ko": "여행",
+          "romaji": "ryokou",
+          "source_reading_match": true,
+          "reading_editorial_review_required": false
+        }
+      ],
       "related_lesson_ids": [],
-      "review_status": "basic_meaning_drafted",
-      "example_review_status": "pending"
+      "review_status": "base_gloss_and_primary_word_drafted",
+      "example_review_status": "editorial_review_pending",
+      "example_sentence": null
     },
     {
       "id": "kanji-099",
@@ -2234,10 +3314,20 @@
         "むろ"
       ],
       "strokes": 9,
-      "example_words": [],
+      "example_words": [
+        {
+          "word": "教室",
+          "reading": "きょうしつ",
+          "meaning_ko": "교실",
+          "romaji": "kyoushitsu",
+          "source_reading_match": true,
+          "reading_editorial_review_required": false
+        }
+      ],
       "related_lesson_ids": [],
-      "review_status": "basic_meaning_drafted",
-      "example_review_status": "pending"
+      "review_status": "base_gloss_and_primary_word_drafted",
+      "example_review_status": "editorial_review_pending",
+      "example_sentence": null
     },
     {
       "id": "kanji-100",
@@ -2254,12 +3344,100 @@
         "ねこ"
       ],
       "strokes": 11,
-      "example_words": [],
+      "example_words": [
+        {
+          "word": "猫",
+          "reading": "ねこ",
+          "meaning_ko": "고양이",
+          "romaji": "neko",
+          "source_reading_match": true,
+          "reading_editorial_review_required": false
+        }
+      ],
       "related_lesson_ids": [
         6
       ],
-      "review_status": "basic_meaning_drafted",
-      "example_review_status": "pending"
+      "review_status": "base_gloss_and_primary_word_drafted",
+      "example_review_status": "editorial_review_pending",
+      "example_sentence": {
+        "ja": "猫がいます。",
+        "reading": "ねこがいます。",
+        "translation_ko": "고양이가 있습니다.",
+        "status": "draft_review_pending"
+      }
+    }
+  ],
+  "progress": {
+    "kanji": 100,
+    "primary_words_with_ko_gloss": 100,
+    "source_word_reading_matched": 90,
+    "draft_sentence_links": 21,
+    "readings_needing_independent_review": 10
+  },
+  "reading_review_queue": [
+    {
+      "id": "kanji-020",
+      "word": "田んぼ",
+      "reading": "たんぼ",
+      "source_alternate_readings": []
+    },
+    {
+      "id": "kanji-024",
+      "word": "子ども",
+      "reading": "こども",
+      "source_alternate_readings": []
+    },
+    {
+      "id": "kanji-025",
+      "word": "父",
+      "reading": "ちち",
+      "source_alternate_readings": []
+    },
+    {
+      "id": "kanji-026",
+      "word": "母",
+      "reading": "はは",
+      "source_alternate_readings": []
+    },
+    {
+      "id": "kanji-033",
+      "word": "分",
+      "reading": "ふん",
+      "source_alternate_readings": []
+    },
+    {
+      "id": "kanji-074",
+      "word": "日本語",
+      "reading": "にほんご",
+      "source_alternate_readings": []
+    },
+    {
+      "id": "kanji-076",
+      "word": "文字",
+      "reading": "もじ",
+      "source_alternate_readings": []
+    },
+    {
+      "id": "kanji-077",
+      "word": "何",
+      "reading": "なに",
+      "source_alternate_readings": [
+        "なん"
+      ]
+    },
+    {
+      "id": "kanji-080",
+      "word": "私",
+      "reading": "わたし",
+      "source_alternate_readings": [
+        "わたくし"
+      ]
+    },
+    {
+      "id": "kanji-092",
+      "word": "円",
+      "reading": "えん",
+      "source_alternate_readings": []
     }
   ]
 }
