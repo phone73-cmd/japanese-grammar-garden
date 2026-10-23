@@ -10,7 +10,7 @@
       "path": "kanji-stage-1-100.draft.json",
       "count": 100,
       "meaning_ko_status": "100 primary vocabulary glosses drafted; review pending",
-      "word_example_status": "100 primary words drafted; 21 sentence links; review pending"
+      "word_example_status": "100 primary words and 100 JP/KR sentence links authored; editorial review pending"
     },
     {
       "stage": 2,
@@ -49,7 +49,9 @@
     "example_translation_ko",
     "quiz_distractor_validation",
     "license_audit",
-    "offline_cache_test"
+    "offline_cache_test",
+    "clear READING-REVIEW-QUEUE.json and verify all published vocabulary readings",
+    "review naturalness of 100 beginner example sentences"
   ],
   "notes": "Draft content only; do not register in service worker or show as approved lessons until editorial QA passes."
 }
