@@ -36,3 +36,5 @@
 #app .kj-inline{display:inline;border:0;background:transparent;border-bottom:1px dotted var(--garden-accent-ink,#9675bd);border-radius:0;color:inherit;font:inherit;line-height:inherit;padding:0 1px;cursor:pointer}
 #app .kj-inline:focus-visible{outline:2px solid var(--garden-accent-ink,#9675bd);outline-offset:1px}
 #kanji-panel .kj-choices .kj-choice:disabled{cursor:default;opacity:1}
+
+.kj-study-launch{margin:12px 0 16px}.kj-study-launch .kj-btn{width:100%;min-height:52px;background:var(--garden-soft,#f3eafc);border:1px solid var(--garden-line,#e4d6f1);border-radius:14px;color:inherit;font-weight:700;font-size:15px;text-align:left;padding:13px}
