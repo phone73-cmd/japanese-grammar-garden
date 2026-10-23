@@ -1,6 +1,6 @@
 {
   "schema_version": "kanji-v1",
-  "content_version": "2026-10-23-draft-500-sentences",
+  "content_version": "2026-10-23-draft-500-jmdict-verified",
   "app_integration_enabled": true,
   "expected_total": 500,
   "base_stage": 1,
@@ -50,9 +50,16 @@
     "quiz_distractor_validation",
     "license_audit",
     "offline_cache_test",
-    "clear READING-REVIEW-QUEUE.json and verify all published vocabulary readings",
+    "retain per-entry dictionary evidence and rerun reading verification when vocabulary changes",
     "review naturalness of 100 beginner example sentences"
   ],
-  "notes": "Draft content only; do not register in service worker or show as approved lessons until editorial QA passes.",
-  "integration_status": "v0.2.0-beta: draft-content visible with warnings; reading QA incomplete; quiz uses source-matched candidates when available"
+  "notes": "Draft content remains enabled with a review warning. Dictionary pair verification does not certify Korean meanings or contextual sentence readings.",
+  "integration_status": "v0.3.1-dev: draft content visible with warnings; 691/691 vocabulary reading pairs and 92/92 candidates verified against official JMdict; independent sentence/translation review pending",
+  "reading_verification": {
+    "vocabulary_entries_matched": 691,
+    "review_candidates_matched": 92,
+    "report": "DICTIONARY-CHECK-v0.3.0.json",
+    "queue_evidence": "READING-REVIEW-QUEUE.json",
+    "independent_native_review": "pending"
+  }
 }
