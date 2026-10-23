@@ -1,0 +1,17 @@
+{
+  "source": {
+    "title": "JMdict (English edition), EDRDG",
+    "download_url": "https://www.edrdg.org/pub/Nihongo/JMdict_e.gz",
+    "project_url": "https://www.edrdg.org/wiki/JMdict-EDICT_Dictionary_Project.html",
+    "licence_url": "https://www.edrdg.org/edrdg/licence.html",
+    "file_sha256": "b45f780bd76b56099fe36f1a6d12c7900db687592f3782280bd924dd7f3b2127",
+    "checked_at": "2026-10-23",
+    "method": "Exact keb/reb match with re_restr restrictions; not a sentence or Korean-meaning certification."
+  },
+  "queued_pairs": 92,
+  "queue_matched": 92,
+  "queue_unmatched": [],
+  "vocabulary_entries": 691,
+  "vocabulary_entries_matched": 691,
+  "all_vocabulary_unmatched": []
+}

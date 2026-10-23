@@ -33,7 +33,11 @@
           "meaning_ko": "하나",
           "romaji": "hitotsu",
           "source_reading_match": true,
-          "reading_editorial_review_required": false
+          "reading_editorial_review_required": false,
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1160820"
+          ]
         }
       ],
       "related_lesson_ids": [],
@@ -71,7 +75,11 @@
           "meaning_ko": "둘",
           "romaji": "futatsu",
           "source_reading_match": true,
-          "reading_editorial_review_required": false
+          "reading_editorial_review_required": false,
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1461160"
+          ]
         }
       ],
       "related_lesson_ids": [],
@@ -109,7 +117,11 @@
           "meaning_ko": "셋",
           "romaji": "mittsu",
           "source_reading_match": true,
-          "reading_editorial_review_required": false
+          "reading_editorial_review_required": false,
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1299740"
+          ]
         }
       ],
       "related_lesson_ids": [],
@@ -147,7 +159,11 @@
           "meaning_ko": "넷",
           "romaji": "yottsu",
           "source_reading_match": true,
-          "reading_editorial_review_required": false
+          "reading_editorial_review_required": false,
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1307040"
+          ]
         }
       ],
       "related_lesson_ids": [],
@@ -183,7 +199,11 @@
           "meaning_ko": "다섯",
           "romaji": "itsutsu",
           "source_reading_match": true,
-          "reading_editorial_review_required": false
+          "reading_editorial_review_required": false,
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1268070"
+          ]
         }
       ],
       "related_lesson_ids": [],
@@ -222,7 +242,11 @@
           "meaning_ko": "여섯",
           "romaji": "muttsu",
           "source_reading_match": true,
-          "reading_editorial_review_required": false
+          "reading_editorial_review_required": false,
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1585315"
+          ]
         }
       ],
       "related_lesson_ids": [],
@@ -259,7 +283,11 @@
           "meaning_ko": "일곱",
           "romaji": "nanatsu",
           "source_reading_match": true,
-          "reading_editorial_review_required": false
+          "reading_editorial_review_required": false,
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1319220"
+          ]
         }
       ],
       "related_lesson_ids": [],
@@ -298,7 +326,11 @@
           "meaning_ko": "여덟",
           "romaji": "yattsu",
           "source_reading_match": true,
-          "reading_editorial_review_required": false
+          "reading_editorial_review_required": false,
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1583095"
+          ]
         }
       ],
       "related_lesson_ids": [],
@@ -335,7 +367,11 @@
           "meaning_ko": "아홉",
           "romaji": "kokonotsu",
           "source_reading_match": true,
-          "reading_editorial_review_required": false
+          "reading_editorial_review_required": false,
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1243600"
+          ]
         }
       ],
       "related_lesson_ids": [],
@@ -374,7 +410,11 @@
           "meaning_ko": "열",
           "romaji": "juu",
           "source_reading_match": true,
-          "reading_editorial_review_required": false
+          "reading_editorial_review_required": false,
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1579840"
+          ]
         }
       ],
       "related_lesson_ids": [],
@@ -412,7 +452,11 @@
           "meaning_ko": "일요일",
           "romaji": "nichiyoubi",
           "source_reading_match": true,
-          "reading_editorial_review_required": false
+          "reading_editorial_review_required": false,
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1464900"
+          ]
         }
       ],
       "related_lesson_ids": [
@@ -450,7 +494,11 @@
           "meaning_ko": "월요일",
           "romaji": "getsuyoubi",
           "source_reading_match": true,
-          "reading_editorial_review_required": false
+          "reading_editorial_review_required": false,
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1255890"
+          ]
         }
       ],
       "related_lesson_ids": [],
@@ -487,7 +535,11 @@
           "meaning_ko": "화요일",
           "romaji": "kayoubi",
           "source_reading_match": true,
-          "reading_editorial_review_required": false
+          "reading_editorial_review_required": false,
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1194290"
+          ]
         }
       ],
       "related_lesson_ids": [],
@@ -523,7 +575,11 @@
           "meaning_ko": "물",
           "romaji": "mizu",
           "source_reading_match": true,
-          "reading_editorial_review_required": false
+          "reading_editorial_review_required": false,
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1371260"
+          ]
         }
       ],
       "related_lesson_ids": [
@@ -562,7 +618,11 @@
           "meaning_ko": "목요일",
           "romaji": "mokuyoubi",
           "source_reading_match": true,
-          "reading_editorial_review_required": false
+          "reading_editorial_review_required": false,
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1534890"
+          ]
         }
       ],
       "related_lesson_ids": [],
@@ -601,7 +661,11 @@
           "meaning_ko": "금요일",
           "romaji": "kin'youbi",
           "source_reading_match": true,
-          "reading_editorial_review_required": false
+          "reading_editorial_review_required": false,
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1243320"
+          ]
         }
       ],
       "related_lesson_ids": [],
@@ -637,7 +701,11 @@
           "meaning_ko": "토요일",
           "romaji": "doyoubi",
           "source_reading_match": true,
-          "reading_editorial_review_required": false
+          "reading_editorial_review_required": false,
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1445590"
+          ]
         }
       ],
       "related_lesson_ids": [],
@@ -673,7 +741,11 @@
           "meaning_ko": "산",
           "romaji": "yama",
           "source_reading_match": true,
-          "reading_editorial_review_required": false
+          "reading_editorial_review_required": false,
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1302680"
+          ]
         }
       ],
       "related_lesson_ids": [],
@@ -708,7 +780,11 @@
           "meaning_ko": "강",
           "romaji": "kawa",
           "source_reading_match": true,
-          "reading_editorial_review_required": false
+          "reading_editorial_review_required": false,
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1390020"
+          ]
         }
       ],
       "related_lesson_ids": [],
@@ -743,7 +819,11 @@
           "meaning_ko": "논",
           "romaji": null,
           "source_reading_match": false,
-          "reading_editorial_review_required": true
+          "reading_editorial_review_required": true,
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1442840"
+          ]
         }
       ],
       "related_lesson_ids": [],
@@ -781,7 +861,11 @@
           "meaning_ko": "사람",
           "romaji": "hito",
           "source_reading_match": true,
-          "reading_editorial_review_required": false
+          "reading_editorial_review_required": false,
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1580640"
+          ]
         }
       ],
       "related_lesson_ids": [],
@@ -818,7 +902,11 @@
           "meaning_ko": "남자",
           "romaji": "otoko",
           "source_reading_match": true,
-          "reading_editorial_review_required": false
+          "reading_editorial_review_required": false,
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1419990"
+          ]
         }
       ],
       "related_lesson_ids": [],
@@ -856,7 +944,11 @@
           "meaning_ko": "여자",
           "romaji": "onna",
           "source_reading_match": true,
-          "reading_editorial_review_required": false
+          "reading_editorial_review_required": false,
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1344930"
+          ]
         }
       ],
       "related_lesson_ids": [],
@@ -895,7 +987,11 @@
           "meaning_ko": "아이",
           "romaji": null,
           "source_reading_match": false,
-          "reading_editorial_review_required": true
+          "reading_editorial_review_required": true,
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1307850"
+          ]
         }
       ],
       "related_lesson_ids": [],
@@ -930,7 +1026,11 @@
           "meaning_ko": "아버지",
           "romaji": null,
           "source_reading_match": false,
-          "reading_editorial_review_required": true
+          "reading_editorial_review_required": true,
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1497610"
+          ]
         }
       ],
       "related_lesson_ids": [],
@@ -966,7 +1066,11 @@
           "meaning_ko": "어머니",
           "romaji": null,
           "source_reading_match": false,
-          "reading_editorial_review_required": true
+          "reading_editorial_review_required": true,
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1514990"
+          ]
         }
       ],
       "related_lesson_ids": [],
@@ -1001,7 +1105,11 @@
           "meaning_ko": "친구",
           "romaji": "tomodachi",
           "source_reading_match": true,
-          "reading_editorial_review_required": false
+          "reading_editorial_review_required": false,
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1540170"
+          ]
         }
       ],
       "related_lesson_ids": [],
@@ -1037,7 +1145,11 @@
           "meaning_ko": "선생님",
           "romaji": "sensei",
           "source_reading_match": true,
-          "reading_editorial_review_required": false
+          "reading_editorial_review_required": false,
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1387990"
+          ]
         }
       ],
       "related_lesson_ids": [],
@@ -1090,7 +1202,11 @@
           "meaning_ko": "학생",
           "romaji": "gakusei",
           "source_reading_match": true,
-          "reading_editorial_review_required": false
+          "reading_editorial_review_required": false,
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1206900"
+          ]
         }
       ],
       "related_lesson_ids": [
@@ -1130,7 +1246,11 @@
           "meaning_ko": "이름",
           "romaji": "namae",
           "source_reading_match": true,
-          "reading_editorial_review_required": false
+          "reading_editorial_review_required": false,
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1531710"
+          ]
         }
       ],
       "related_lesson_ids": [],
@@ -1165,7 +1285,11 @@
           "meaning_ko": "올해",
           "romaji": "kotoshi",
           "source_reading_match": true,
-          "reading_editorial_review_required": false
+          "reading_editorial_review_required": false,
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1579130"
+          ]
         }
       ],
       "related_lesson_ids": [],
@@ -1201,7 +1325,11 @@
           "meaning_ko": "시간",
           "romaji": "jikan",
           "source_reading_match": true,
-          "reading_editorial_review_required": false
+          "reading_editorial_review_required": false,
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1315920"
+          ]
         }
       ],
       "related_lesson_ids": [],
@@ -1242,7 +1370,11 @@
           "meaning_ko": "분",
           "romaji": null,
           "source_reading_match": false,
-          "reading_editorial_review_required": true
+          "reading_editorial_review_required": true,
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1502840"
+          ]
         }
       ],
       "related_lesson_ids": [],
@@ -1277,7 +1409,11 @@
           "meaning_ko": "절반",
           "romaji": "hanbun",
           "source_reading_match": true,
-          "reading_editorial_review_required": false
+          "reading_editorial_review_required": false,
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1479890"
+          ]
         }
       ],
       "related_lesson_ids": [],
@@ -1312,7 +1448,11 @@
           "meaning_ko": "오전",
           "romaji": "gozen",
           "source_reading_match": true,
-          "reading_editorial_review_required": false
+          "reading_editorial_review_required": false,
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1269060"
+          ]
         }
       ],
       "related_lesson_ids": [],
@@ -1348,7 +1488,11 @@
           "meaning_ko": "앞",
           "romaji": "mae",
           "source_reading_match": true,
-          "reading_editorial_review_required": false
+          "reading_editorial_review_required": false,
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1392580"
+          ]
         }
       ],
       "related_lesson_ids": [],
@@ -1388,7 +1532,11 @@
           "meaning_ko": "뒤",
           "romaji": "ato",
           "source_reading_match": true,
-          "reading_editorial_review_required": false
+          "reading_editorial_review_required": false,
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1269320"
+          ]
         }
       ],
       "related_lesson_ids": [],
@@ -1424,7 +1572,11 @@
           "meaning_ko": "지금",
           "romaji": "ima",
           "source_reading_match": true,
-          "reading_editorial_review_required": false
+          "reading_editorial_review_required": false,
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1288850"
+          ]
         }
       ],
       "related_lesson_ids": [],
@@ -1460,7 +1612,11 @@
           "meaning_ko": "매일",
           "romaji": "mainichi",
           "source_reading_match": true,
-          "reading_editorial_review_required": false
+          "reading_editorial_review_required": false,
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1524720"
+          ]
         }
       ],
       "related_lesson_ids": [],
@@ -1493,7 +1649,11 @@
           "meaning_ko": "어제",
           "romaji": "kinou",
           "source_reading_match": true,
-          "reading_editorial_review_required": false
+          "reading_editorial_review_required": false,
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1579260"
+          ]
         }
       ],
       "related_lesson_ids": [
@@ -1546,7 +1706,11 @@
           "meaning_ko": "위",
           "romaji": "ue",
           "source_reading_match": true,
-          "reading_editorial_review_required": false
+          "reading_editorial_review_required": false,
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1352130"
+          ]
         }
       ],
       "related_lesson_ids": [],
@@ -1593,7 +1757,11 @@
           "meaning_ko": "아래",
           "romaji": "shita",
           "source_reading_match": true,
-          "reading_editorial_review_required": false
+          "reading_editorial_review_required": false,
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1184140"
+          ]
         }
       ],
       "related_lesson_ids": [],
@@ -1630,7 +1798,11 @@
           "meaning_ko": "안",
           "romaji": "naka",
           "source_reading_match": true,
-          "reading_editorial_review_required": false
+          "reading_editorial_review_required": false,
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1423310"
+          ]
         }
       ],
       "related_lesson_ids": [],
@@ -1670,7 +1842,11 @@
           "meaning_ko": "밖",
           "romaji": "soto",
           "source_reading_match": true,
-          "reading_editorial_review_required": false
+          "reading_editorial_review_required": false,
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1203250"
+          ]
         }
       ],
       "related_lesson_ids": [],
@@ -1706,7 +1882,11 @@
           "meaning_ko": "왼쪽",
           "romaji": "hidari",
           "source_reading_match": true,
-          "reading_editorial_review_required": false
+          "reading_editorial_review_required": false,
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1290800"
+          ]
         }
       ],
       "related_lesson_ids": [],
@@ -1742,7 +1922,11 @@
           "meaning_ko": "오른쪽",
           "romaji": "migi",
           "source_reading_match": true,
-          "reading_editorial_review_required": false
+          "reading_editorial_review_required": false,
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1171010"
+          ]
         }
       ],
       "related_lesson_ids": [],
@@ -1777,16 +1961,20 @@
           "meaning_ko": "동쪽",
           "romaji": "higashi",
           "source_reading_match": true,
-          "reading_editorial_review_required": false
+          "reading_editorial_review_required": false,
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1447440"
+          ]
         }
       ],
       "related_lesson_ids": [],
       "review_status": "base_gloss_and_primary_word_drafted",
       "example_review_status": "editorial_review_pending",
       "example_sentence": {
-        "ja": "東京は日本の東にあります。",
-        "reading": "とうきょうはにほんのひがしにあります。",
-        "translation_ko": "도쿄는 일본의 동쪽에 있습니다.",
+        "ja": "東の空が明るくなりました。",
+        "reading": "ひがしのそらがあかるくなりました。",
+        "translation_ko": "동쪽 하늘이 밝아졌습니다.",
         "status": "authored_draft_editorial_review_pending"
       }
     },
@@ -1814,7 +2002,11 @@
           "meaning_ko": "서쪽",
           "romaji": "nishi",
           "source_reading_match": true,
-          "reading_editorial_review_required": false
+          "reading_editorial_review_required": false,
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1380840"
+          ]
         }
       ],
       "related_lesson_ids": [],
@@ -1849,7 +2041,11 @@
           "meaning_ko": "북쪽",
           "romaji": "kita",
           "source_reading_match": true,
-          "reading_editorial_review_required": false
+          "reading_editorial_review_required": false,
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1520670"
+          ]
         }
       ],
       "related_lesson_ids": [],
@@ -1885,7 +2081,11 @@
           "meaning_ko": "남쪽",
           "romaji": "minami",
           "source_reading_match": true,
-          "reading_editorial_review_required": false
+          "reading_editorial_review_required": false,
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1459870"
+          ]
         }
       ],
       "related_lesson_ids": [],
@@ -1929,7 +2129,11 @@
           "meaning_ko": "가다",
           "romaji": "iku",
           "source_reading_match": true,
-          "reading_editorial_review_required": false
+          "reading_editorial_review_required": false,
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1578850"
+          ]
         }
       ],
       "related_lesson_ids": [],
@@ -1971,7 +2175,11 @@
           "meaning_ko": "오다",
           "romaji": "kuru",
           "source_reading_match": true,
-          "reading_editorial_review_required": false
+          "reading_editorial_review_required": false,
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1547720"
+          ]
         }
       ],
       "related_lesson_ids": [],
@@ -2009,7 +2217,11 @@
           "meaning_ko": "돌아가다",
           "romaji": "kaeru",
           "source_reading_match": true,
-          "reading_editorial_review_required": false
+          "reading_editorial_review_required": false,
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1221270"
+          ]
         }
       ],
       "related_lesson_ids": [],
@@ -2050,7 +2262,11 @@
           "meaning_ko": "들어가다",
           "romaji": "hairu",
           "source_reading_match": true,
-          "reading_editorial_review_required": false
+          "reading_editorial_review_required": false,
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1465590"
+          ]
         }
       ],
       "related_lesson_ids": [],
@@ -2091,7 +2307,11 @@
           "meaning_ko": "나가다",
           "romaji": "deru",
           "source_reading_match": true,
-          "reading_editorial_review_required": false
+          "reading_editorial_review_required": false,
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1338240"
+          ]
         }
       ],
       "related_lesson_ids": [],
@@ -2128,7 +2348,11 @@
           "meaning_ko": "보다",
           "romaji": "miru",
           "source_reading_match": true,
-          "reading_editorial_review_required": false
+          "reading_editorial_review_required": false,
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1259290"
+          ]
         }
       ],
       "related_lesson_ids": [],
@@ -2165,7 +2389,11 @@
           "meaning_ko": "듣다",
           "romaji": "kiku",
           "source_reading_match": true,
-          "reading_editorial_review_required": false
+          "reading_editorial_review_required": false,
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1591110"
+          ]
         }
       ],
       "related_lesson_ids": [],
@@ -2203,7 +2431,11 @@
           "meaning_ko": "읽다",
           "romaji": "yomu",
           "source_reading_match": true,
-          "reading_editorial_review_required": false
+          "reading_editorial_review_required": false,
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1456360"
+          ]
         }
       ],
       "related_lesson_ids": [],
@@ -2240,7 +2472,11 @@
           "meaning_ko": "쓰다",
           "romaji": "kaku",
           "source_reading_match": true,
-          "reading_editorial_review_required": false
+          "reading_editorial_review_required": false,
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1343950"
+          ]
         }
       ],
       "related_lesson_ids": [],
@@ -2276,7 +2512,11 @@
           "meaning_ko": "말하다",
           "romaji": "hanasu",
           "source_reading_match": true,
-          "reading_editorial_review_required": false
+          "reading_editorial_review_required": false,
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1562350"
+          ]
         }
       ],
       "related_lesson_ids": [],
@@ -2315,7 +2555,11 @@
           "meaning_ko": "먹다",
           "romaji": "taberu",
           "source_reading_match": true,
-          "reading_editorial_review_required": false
+          "reading_editorial_review_required": false,
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1358280"
+          ]
         }
       ],
       "related_lesson_ids": [],
@@ -2352,7 +2596,11 @@
           "meaning_ko": "마시다",
           "romaji": "nomu",
           "source_reading_match": true,
-          "reading_editorial_review_required": false
+          "reading_editorial_review_required": false,
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1169870"
+          ]
         }
       ],
       "related_lesson_ids": [
@@ -2389,7 +2637,11 @@
           "meaning_ko": "사다",
           "romaji": "kau",
           "source_reading_match": true,
-          "reading_editorial_review_required": false
+          "reading_editorial_review_required": false,
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1473740"
+          ]
         }
       ],
       "related_lesson_ids": [],
@@ -2426,7 +2678,11 @@
           "meaning_ko": "쉬다",
           "romaji": "yasumu",
           "source_reading_match": true,
-          "reading_editorial_review_required": false
+          "reading_editorial_review_required": false,
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1227560"
+          ]
         }
       ],
       "related_lesson_ids": [
@@ -2464,7 +2720,11 @@
           "meaning_ko": "가게",
           "romaji": "mise",
           "source_reading_match": true,
-          "reading_editorial_review_required": false
+          "reading_editorial_review_required": false,
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1582120"
+          ]
         }
       ],
       "related_lesson_ids": [],
@@ -2497,7 +2757,11 @@
           "meaning_ko": "역",
           "romaji": "eki",
           "source_reading_match": true,
-          "reading_editorial_review_required": false
+          "reading_editorial_review_required": false,
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1175140"
+          ]
         }
       ],
       "related_lesson_ids": [],
@@ -2532,7 +2796,11 @@
           "meaning_ko": "자동차",
           "romaji": "kuruma",
           "source_reading_match": true,
-          "reading_editorial_review_required": false
+          "reading_editorial_review_required": false,
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1323080"
+          ]
         }
       ],
       "related_lesson_ids": [],
@@ -2565,7 +2833,11 @@
           "meaning_ko": "전철",
           "romaji": "densha",
           "source_reading_match": true,
-          "reading_editorial_review_required": false
+          "reading_editorial_review_required": false,
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1443530"
+          ]
         }
       ],
       "related_lesson_ids": [],
@@ -2602,7 +2874,11 @@
           "meaning_ko": "길",
           "romaji": "michi",
           "source_reading_match": true,
-          "reading_editorial_review_required": false
+          "reading_editorial_review_required": false,
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1454080"
+          ]
         }
       ],
       "related_lesson_ids": [],
@@ -2638,7 +2914,11 @@
           "meaning_ko": "입구",
           "romaji": "iriguchi",
           "source_reading_match": true,
-          "reading_editorial_review_required": false
+          "reading_editorial_review_required": false,
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1582820"
+          ]
         }
       ],
       "related_lesson_ids": [],
@@ -2673,7 +2953,11 @@
           "meaning_ko": "학생",
           "romaji": "gakusei",
           "source_reading_match": true,
-          "reading_editorial_review_required": false
+          "reading_editorial_review_required": false,
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1206900"
+          ]
         }
       ],
       "related_lesson_ids": [
@@ -2710,7 +2994,11 @@
           "meaning_ko": "학교",
           "romaji": "gakkou",
           "source_reading_match": true,
-          "reading_editorial_review_required": false
+          "reading_editorial_review_required": false,
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1206730"
+          ]
         }
       ],
       "related_lesson_ids": [],
@@ -2745,7 +3033,11 @@
           "meaning_ko": "책",
           "romaji": "hon",
           "source_reading_match": true,
-          "reading_editorial_review_required": false
+          "reading_editorial_review_required": false,
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1522150"
+          ]
         }
       ],
       "related_lesson_ids": [],
@@ -2781,7 +3073,11 @@
           "meaning_ko": "일본어",
           "romaji": null,
           "source_reading_match": false,
-          "reading_editorial_review_required": true
+          "reading_editorial_review_required": true,
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1464530"
+          ]
         }
       ],
       "related_lesson_ids": [],
@@ -2818,7 +3114,11 @@
           "meaning_ko": "문장",
           "romaji": "bunshou",
           "source_reading_match": true,
-          "reading_editorial_review_required": false
+          "reading_editorial_review_required": false,
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1505470"
+          ]
         }
       ],
       "related_lesson_ids": [],
@@ -2855,7 +3155,11 @@
           "meaning_ko": "글자",
           "romaji": null,
           "source_reading_match": false,
-          "reading_editorial_review_required": true
+          "reading_editorial_review_required": true,
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1505390"
+          ]
         }
       ],
       "related_lesson_ids": [],
@@ -2893,7 +3197,11 @@
           "meaning_ko": "무엇",
           "romaji": null,
           "source_reading_match": false,
-          "reading_editorial_review_required": true
+          "reading_editorial_review_required": true,
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1577100"
+          ]
         }
       ],
       "related_lesson_ids": [],
@@ -2930,7 +3238,11 @@
           "meaning_ko": "질문",
           "romaji": "shitsumon",
           "source_reading_match": true,
-          "reading_editorial_review_required": false
+          "reading_editorial_review_required": false,
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1320760"
+          ]
         }
       ],
       "related_lesson_ids": [],
@@ -2966,7 +3278,11 @@
           "meaning_ko": "대답하다",
           "romaji": "kotaeru",
           "source_reading_match": true,
-          "reading_editorial_review_required": false
+          "reading_editorial_review_required": false,
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1449540"
+          ]
         }
       ],
       "related_lesson_ids": [],
@@ -3002,7 +3318,11 @@
           "meaning_ko": "나",
           "romaji": null,
           "source_reading_match": false,
-          "reading_editorial_review_required": true
+          "reading_editorial_review_required": true,
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1311110"
+          ]
         }
       ],
       "related_lesson_ids": [
@@ -3042,7 +3362,11 @@
           "meaning_ko": "크다",
           "romaji": "ookii",
           "source_reading_match": true,
-          "reading_editorial_review_required": false
+          "reading_editorial_review_required": false,
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1588880"
+          ]
         }
       ],
       "related_lesson_ids": [],
@@ -3080,7 +3404,11 @@
           "meaning_ko": "작다",
           "romaji": "chiisai",
           "source_reading_match": true,
-          "reading_editorial_review_required": false
+          "reading_editorial_review_required": false,
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1347750"
+          ]
         }
       ],
       "related_lesson_ids": [],
@@ -3119,7 +3447,11 @@
           "meaning_ko": "비싸다",
           "romaji": "takai",
           "source_reading_match": true,
-          "reading_editorial_review_required": false
+          "reading_editorial_review_required": false,
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1283190"
+          ]
         }
       ],
       "related_lesson_ids": [],
@@ -3157,7 +3489,11 @@
           "meaning_ko": "싸다",
           "romaji": "yasui",
           "source_reading_match": true,
-          "reading_editorial_review_required": false
+          "reading_editorial_review_required": false,
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1153670"
+          ]
         }
       ],
       "related_lesson_ids": [],
@@ -3195,7 +3531,11 @@
           "meaning_ko": "새롭다",
           "romaji": "atarashii",
           "source_reading_match": true,
-          "reading_editorial_review_required": false
+          "reading_editorial_review_required": false,
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1361490"
+          ]
         }
       ],
       "related_lesson_ids": [],
@@ -3232,7 +3572,11 @@
           "meaning_ko": "오래되다",
           "romaji": "furui",
           "source_reading_match": true,
-          "reading_editorial_review_required": false
+          "reading_editorial_review_required": false,
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1265070"
+          ]
         }
       ],
       "related_lesson_ids": [],
@@ -3268,7 +3612,11 @@
           "meaning_ko": "길다",
           "romaji": "nagai",
           "source_reading_match": true,
-          "reading_editorial_review_required": false
+          "reading_editorial_review_required": false,
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1429750"
+          ]
         }
       ],
       "related_lesson_ids": [],
@@ -3306,7 +3654,11 @@
           "meaning_ko": "희다",
           "romaji": "shiroi",
           "source_reading_match": true,
-          "reading_editorial_review_required": false
+          "reading_editorial_review_required": false,
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1474910"
+          ]
         }
       ],
       "related_lesson_ids": [],
@@ -3343,7 +3695,11 @@
           "meaning_ko": "검다",
           "romaji": "kuroi",
           "source_reading_match": true,
-          "reading_editorial_review_required": false
+          "reading_editorial_review_required": false,
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1287420"
+          ]
         }
       ],
       "related_lesson_ids": [],
@@ -3383,7 +3739,11 @@
           "meaning_ko": "빨갛다",
           "romaji": "akai",
           "source_reading_match": true,
-          "reading_editorial_review_required": false
+          "reading_editorial_review_required": false,
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1383240"
+          ]
         }
       ],
       "related_lesson_ids": [],
@@ -3418,7 +3778,11 @@
           "meaning_ko": "나라",
           "romaji": "kuni",
           "source_reading_match": true,
-          "reading_editorial_review_required": false
+          "reading_editorial_review_required": false,
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1592250"
+          ]
         }
       ],
       "related_lesson_ids": [],
@@ -3457,7 +3821,11 @@
           "meaning_ko": "엔",
           "romaji": null,
           "source_reading_match": false,
-          "reading_editorial_review_required": true
+          "reading_editorial_review_required": true,
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1175570"
+          ]
         }
       ],
       "related_lesson_ids": [],
@@ -3493,7 +3861,11 @@
           "meaning_ko": "백",
           "romaji": "hyaku",
           "source_reading_match": true,
-          "reading_editorial_review_required": false
+          "reading_editorial_review_required": false,
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1488000"
+          ]
         }
       ],
       "related_lesson_ids": [],
@@ -3528,7 +3900,11 @@
           "meaning_ko": "천",
           "romaji": "sen",
           "source_reading_match": true,
-          "reading_editorial_review_required": false
+          "reading_editorial_review_required": false,
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1388740"
+          ]
         }
       ],
       "related_lesson_ids": [],
@@ -3564,7 +3940,11 @@
           "meaning_ko": "만",
           "romaji": "man",
           "source_reading_match": true,
-          "reading_editorial_review_required": false
+          "reading_editorial_review_required": false,
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1584460"
+          ]
         }
       ],
       "related_lesson_ids": [],
@@ -3606,7 +3986,11 @@
           "meaning_ko": "하늘",
           "romaji": "sora",
           "source_reading_match": true,
-          "reading_editorial_review_required": false
+          "reading_editorial_review_required": false,
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1245290"
+          ]
         }
       ],
       "related_lesson_ids": [],
@@ -3641,7 +4025,11 @@
           "meaning_ko": "항구",
           "romaji": "minato",
           "source_reading_match": true,
-          "reading_editorial_review_required": false
+          "reading_editorial_review_required": false,
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1279990"
+          ]
         }
       ],
       "related_lesson_ids": [],
@@ -3676,7 +4064,11 @@
           "meaning_ko": "여행",
           "romaji": "ryokou",
           "source_reading_match": true,
-          "reading_editorial_review_required": false
+          "reading_editorial_review_required": false,
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1553170"
+          ]
         }
       ],
       "related_lesson_ids": [],
@@ -3711,7 +4103,11 @@
           "meaning_ko": "교실",
           "romaji": "kyoushitsu",
           "source_reading_match": true,
-          "reading_editorial_review_required": false
+          "reading_editorial_review_required": false,
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1237150"
+          ]
         }
       ],
       "related_lesson_ids": [],
@@ -3746,7 +4142,11 @@
           "meaning_ko": "고양이",
           "romaji": "neko",
           "source_reading_match": true,
-          "reading_editorial_review_required": false
+          "reading_editorial_review_required": false,
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1467640"
+          ]
         }
       ],
       "related_lesson_ids": [
@@ -3835,5 +4235,14 @@
       "reading": "えん",
       "source_alternate_readings": []
     }
-  ]
+  ],
+  "dictionary_source": {
+    "title": "JMdict (English edition), EDRDG",
+    "download_url": "https://www.edrdg.org/pub/Nihongo/JMdict_e.gz",
+    "project_url": "https://www.edrdg.org/wiki/JMdict-EDICT_Dictionary_Project.html",
+    "licence_url": "https://www.edrdg.org/edrdg/licence.html",
+    "file_sha256": "b45f780bd76b56099fe36f1a6d12c7900db687592f3782280bd924dd7f3b2127",
+    "checked_at": "2026-10-23",
+    "method": "Exact keb/reb match with re_restr restrictions; not a sentence or Korean-meaning certification."
+  }
 }

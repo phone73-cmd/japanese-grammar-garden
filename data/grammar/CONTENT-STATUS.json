@@ -1,0 +1,20 @@
+{
+  "version": "0.3.0-dev",
+  "legacy_lessons_preserved": [
+    1,
+    6,
+    7
+  ],
+  "new_lessons": 57,
+  "total_lessons": 60,
+  "new_questions": 570,
+  "total_questions": 600,
+  "example_fields": [
+    "Japanese",
+    "hiragana",
+    "romaji",
+    "Korean"
+  ],
+  "status": "authored_draft_structure_checked_not_independent_native_review",
+  "sources_document": "docs/CONTENT-SOURCES.md"
+}

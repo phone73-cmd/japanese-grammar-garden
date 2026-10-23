@@ -32,7 +32,11 @@
           "romaji": "shinpai",
           "meaning_en": "to worry",
           "meaning_ko": "걱정",
-          "gloss_status": "curated_draft_needs_review"
+          "gloss_status": "curated_draft_needs_review",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1360930"
+          ]
         }
       ],
       "candidate_words": [
@@ -74,7 +78,11 @@
           "romaji": "keikan",
           "meaning_en": "policeman",
           "meaning_ko": "경찰관",
-          "gloss_status": "curated_draft_needs_review"
+          "gloss_status": "curated_draft_needs_review",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1252330"
+          ]
         },
         {
           "word": "警察",
@@ -82,7 +90,11 @@
           "romaji": "keisatsu",
           "meaning_en": "police",
           "meaning_ko": "경찰",
-          "gloss_status": "curated_draft_needs_review"
+          "gloss_status": "curated_draft_needs_review",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1252390"
+          ]
         }
       ],
       "candidate_words": [
@@ -127,7 +139,11 @@
           "romaji": "kyouiku",
           "meaning_en": "education",
           "meaning_ko": "교육",
-          "gloss_status": "curated_draft_needs_review"
+          "gloss_status": "curated_draft_needs_review",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1236950"
+          ]
         },
         {
           "word": "育てる",
@@ -135,7 +151,11 @@
           "romaji": "sodateru",
           "meaning_en": "to rear",
           "meaning_ko": "기르다",
-          "gloss_status": "curated_draft_needs_review"
+          "gloss_status": "curated_draft_needs_review",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1160570"
+          ]
         }
       ],
       "candidate_words": [
@@ -177,7 +197,11 @@
           "romaji": "seki",
           "meaning_en": "seat",
           "meaning_ko": "자리",
-          "gloss_status": "curated_draft_needs_review"
+          "gloss_status": "curated_draft_needs_review",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1382250"
+          ]
         },
         {
           "word": "出席",
@@ -185,7 +209,11 @@
           "romaji": "shusseki",
           "meaning_en": "to attend",
           "meaning_ko": "출석",
-          "gloss_status": "curated_draft_needs_review"
+          "gloss_status": "curated_draft_needs_review",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1339460"
+          ]
         }
       ],
       "candidate_words": [
@@ -229,7 +257,11 @@
           "romaji": "tazuneru",
           "meaning_en": "to visit",
           "meaning_ko": "방문하다",
-          "gloss_status": "curated_draft_needs_review"
+          "gloss_status": "curated_draft_needs_review",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1518070"
+          ]
         }
       ],
       "candidate_words": [
@@ -274,7 +306,11 @@
           "romaji": "noru",
           "meaning_en": "to get on",
           "meaning_ko": "타다",
-          "gloss_status": "curated_draft_needs_review"
+          "gloss_status": "curated_draft_needs_review",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1355120"
+          ]
         },
         {
           "word": "乗り物",
@@ -282,7 +318,11 @@
           "romaji": "norimono",
           "meaning_en": "vehicle",
           "meaning_ko": "탈것",
-          "gloss_status": "curated_draft_needs_review"
+          "gloss_status": "curated_draft_needs_review",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1600530"
+          ]
         }
       ],
       "candidate_words": [
@@ -328,7 +368,11 @@
           "romaji": "zannen",
           "meaning_en": "disappointment",
           "meaning_ko": "유감",
-          "gloss_status": "curated_draft_needs_review"
+          "gloss_status": "curated_draft_needs_review",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1304680"
+          ]
         },
         {
           "word": "残る",
@@ -336,7 +380,11 @@
           "romaji": "nokoru",
           "meaning_en": "to remain",
           "meaning_ko": "남다",
-          "gloss_status": "curated_draft_needs_review"
+          "gloss_status": "curated_draft_needs_review",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1304510"
+          ]
         }
       ],
       "candidate_words": [
@@ -380,7 +428,11 @@
           "romaji": null,
           "source_reading_match": false,
           "reading_editorial_review_required": true,
-          "editorial_status": "new_curated_draft"
+          "editorial_status": "new_curated_draft",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1399610"
+          ]
         }
       ],
       "candidate_words": [
@@ -424,7 +476,11 @@
           "romaji": "koe",
           "meaning_en": "voice",
           "meaning_ko": "목소리",
-          "gloss_status": "curated_draft_needs_review"
+          "gloss_status": "curated_draft_needs_review",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1380440"
+          ]
         }
       ],
       "candidate_words": [
@@ -464,7 +520,11 @@
           "romaji": "zannen",
           "meaning_en": "disappointment",
           "meaning_ko": "유감",
-          "gloss_status": "curated_draft_needs_review"
+          "gloss_status": "curated_draft_needs_review",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1304680"
+          ]
         }
       ],
       "candidate_words": [
@@ -510,7 +570,11 @@
           "romaji": null,
           "source_reading_match": false,
           "reading_editorial_review_required": true,
-          "editorial_status": "new_curated_draft"
+          "editorial_status": "new_curated_draft",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1344410"
+          ]
         }
       ],
       "candidate_words": [
@@ -558,7 +622,11 @@
           "romaji": null,
           "source_reading_match": false,
           "reading_editorial_review_required": true,
-          "editorial_status": "new_curated_draft"
+          "editorial_status": "new_curated_draft",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1244680"
+          ]
         }
       ],
       "candidate_words": [
@@ -600,7 +668,11 @@
           "romaji": "tatoeba",
           "meaning_en": "for example",
           "meaning_ko": "예를 들면",
-          "gloss_status": "curated_draft_needs_review"
+          "gloss_status": "curated_draft_needs_review",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1556370"
+          ]
         }
       ],
       "candidate_words": [
@@ -647,7 +719,11 @@
           "romaji": null,
           "source_reading_match": false,
           "reading_editorial_review_required": true,
-          "editorial_status": "new_curated_draft"
+          "editorial_status": "new_curated_draft",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1318090"
+          ]
         }
       ],
       "candidate_words": [
@@ -692,7 +768,11 @@
           "romaji": null,
           "source_reading_match": false,
           "reading_editorial_review_required": true,
-          "editorial_status": "new_curated_draft"
+          "editorial_status": "new_curated_draft",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1264650"
+          ]
         }
       ],
       "candidate_words": [
@@ -735,7 +815,11 @@
           "romaji": null,
           "source_reading_match": false,
           "reading_editorial_review_required": true,
-          "editorial_status": "new_curated_draft"
+          "editorial_status": "new_curated_draft",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1432410"
+          ]
         }
       ],
       "candidate_words": [
@@ -778,7 +862,11 @@
           "romaji": null,
           "source_reading_match": false,
           "reading_editorial_review_required": true,
-          "editorial_status": "new_curated_draft"
+          "editorial_status": "new_curated_draft",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1347310"
+          ]
         }
       ],
       "candidate_words": [
@@ -820,7 +908,11 @@
           "romaji": "ha",
           "meaning_en": "leaf",
           "meaning_ko": "잎",
-          "gloss_status": "curated_draft_needs_review"
+          "gloss_status": "curated_draft_needs_review",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1546550"
+          ]
         },
         {
           "word": "言葉",
@@ -828,7 +920,11 @@
           "romaji": "kotoba",
           "meaning_en": "word",
           "meaning_ko": "말·단어",
-          "gloss_status": "curated_draft_needs_review"
+          "gloss_status": "curated_draft_needs_review",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1264540"
+          ]
         }
       ],
       "candidate_words": [
@@ -876,7 +972,11 @@
           "romaji": "tsutaeru",
           "meaning_en": "to report",
           "meaning_ko": "전하다",
-          "gloss_status": "curated_draft_needs_review"
+          "gloss_status": "curated_draft_needs_review",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1441870"
+          ]
         },
         {
           "word": "手伝う",
@@ -884,7 +984,11 @@
           "romaji": "tetsudau",
           "meaning_en": "to assist",
           "meaning_ko": "돕다",
-          "gloss_status": "curated_draft_needs_review"
+          "gloss_status": "curated_draft_needs_review",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1328190"
+          ]
         }
       ],
       "candidate_words": [
@@ -926,7 +1030,11 @@
           "romaji": "hataraku",
           "meaning_en": "to work",
           "meaning_ko": "일하다",
-          "gloss_status": "curated_draft_needs_review"
+          "gloss_status": "curated_draft_needs_review",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1451150"
+          ]
         }
       ],
       "candidate_words": [
@@ -972,7 +1080,11 @@
           "romaji": "katachi",
           "meaning_en": "shape",
           "meaning_ko": "모양",
-          "gloss_status": "curated_draft_needs_review"
+          "gloss_status": "curated_draft_needs_review",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1250220"
+          ]
         },
         {
           "word": "人形",
@@ -980,7 +1092,11 @@
           "romaji": "ningyou",
           "meaning_en": "doll",
           "meaning_ko": "인형",
-          "gloss_status": "curated_draft_needs_review"
+          "gloss_status": "curated_draft_needs_review",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1367120"
+          ]
         }
       ],
       "candidate_words": [
@@ -1020,7 +1136,11 @@
           "romaji": "keshiki",
           "meaning_en": "scene",
           "meaning_ko": "경치",
-          "gloss_status": "curated_draft_needs_review"
+          "gloss_status": "curated_draft_needs_review",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1250870"
+          ]
         }
       ],
       "candidate_words": [
@@ -1064,7 +1184,11 @@
           "romaji": "otosu",
           "meaning_en": "to drop",
           "meaning_ko": "떨어뜨리다",
-          "gloss_status": "curated_draft_needs_review"
+          "gloss_status": "curated_draft_needs_review",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1589260"
+          ]
         },
         {
           "word": "落ちる",
@@ -1072,7 +1196,11 @@
           "romaji": "ochiru",
           "meaning_en": "to fall or drop",
           "meaning_ko": "떨어지다",
-          "gloss_status": "curated_draft_needs_review"
+          "gloss_status": "curated_draft_needs_review",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1548550"
+          ]
         }
       ],
       "candidate_words": [
@@ -1117,7 +1245,11 @@
           "romaji": "suki",
           "meaning_en": "likeable",
           "meaning_ko": "좋아함",
-          "gloss_status": "curated_draft_needs_review"
+          "gloss_status": "curated_draft_needs_review",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1277450"
+          ]
         },
         {
           "word": "大好き",
@@ -1125,7 +1257,11 @@
           "romaji": "daisuki",
           "meaning_en": "to be very likeable",
           "meaning_ko": "매우 좋아함",
-          "gloss_status": "curated_draft_needs_review"
+          "gloss_status": "curated_draft_needs_review",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1413660"
+          ]
         }
       ],
       "candidate_words": [
@@ -1172,7 +1308,11 @@
           "romaji": "taiin",
           "meaning_en": "to leave hospital",
           "meaning_ko": "퇴원",
-          "gloss_status": "curated_draft_needs_review"
+          "gloss_status": "curated_draft_needs_review",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1411300"
+          ]
         }
       ],
       "candidate_words": [
@@ -1219,7 +1359,11 @@
           "romaji": "atama",
           "meaning_en": "head",
           "meaning_ko": "머리",
-          "gloss_status": "curated_draft_needs_review"
+          "gloss_status": "curated_draft_needs_review",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1582310"
+          ]
         }
       ],
       "candidate_words": [
@@ -1263,7 +1407,11 @@
           "romaji": "makeru",
           "meaning_en": "to lose",
           "meaning_ko": "지다",
-          "gloss_status": "curated_draft_needs_review"
+          "gloss_status": "curated_draft_needs_review",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1497980"
+          ]
         }
       ],
       "candidate_words": [
@@ -1307,7 +1455,11 @@
           "romaji": "watasu",
           "meaning_en": "to hand over",
           "meaning_ko": "건네다",
-          "gloss_status": "curated_draft_needs_review"
+          "gloss_status": "curated_draft_needs_review",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1444610"
+          ]
         },
         {
           "word": "渡る",
@@ -1315,7 +1467,11 @@
           "romaji": "wataru",
           "meaning_en": "to go across",
           "meaning_ko": "건너다",
-          "gloss_status": "curated_draft_needs_review"
+          "gloss_status": "curated_draft_needs_review",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1444680"
+          ]
         }
       ],
       "candidate_words": [
@@ -1358,7 +1514,11 @@
           "romaji": "shippai",
           "meaning_en": "failure",
           "meaning_ko": "실패",
-          "gloss_status": "curated_draft_needs_review"
+          "gloss_status": "curated_draft_needs_review",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1320140"
+          ]
         }
       ],
       "candidate_words": [
@@ -1367,9 +1527,9 @@
         "失業"
       ],
       "example_sentence": {
-        "ja": "道を間違えてしまいました。",
-        "reading": "みちをまちがえてしまいました。",
-        "translation_ko": "길을 잘못 들었습니다.",
+        "ja": "失敗しても、もう一度やってみます。",
+        "reading": "しっぱいしても、もういちどやってみます。",
+        "translation_ko": "실패해도 한 번 더 해 봅니다.",
         "status": "authored_draft_editorial_review_pending"
       },
       "example_translation_ko": null,
@@ -1401,7 +1561,11 @@
           "romaji": "sasu",
           "meaning_en": "to stretch out hands",
           "meaning_ko": "내밀다·비추다",
-          "gloss_status": "curated_draft_needs_review"
+          "gloss_status": "curated_draft_needs_review",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1291330"
+          ]
         },
         {
           "word": "交差点",
@@ -1409,7 +1573,11 @@
           "romaji": "kousaten",
           "meaning_en": "intersection",
           "meaning_ko": "교차로",
-          "gloss_status": "curated_draft_needs_review"
+          "gloss_status": "curated_draft_needs_review",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1592970"
+          ]
         }
       ],
       "candidate_words": [
@@ -1455,7 +1623,11 @@
           "romaji": null,
           "source_reading_match": false,
           "reading_editorial_review_required": true,
-          "editorial_status": "new_curated_draft"
+          "editorial_status": "new_curated_draft",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1255840"
+          ]
         }
       ],
       "candidate_words": [
@@ -1502,7 +1674,11 @@
           "romaji": "rusu",
           "meaning_en": "absence",
           "meaning_ko": "부재중",
-          "gloss_status": "curated_draft_needs_review"
+          "gloss_status": "curated_draft_needs_review",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1552760"
+          ]
         }
       ],
       "candidate_words": [
@@ -1551,7 +1727,11 @@
           "romaji": "wakai",
           "meaning_en": "young",
           "meaning_ko": "젊다",
-          "gloss_status": "curated_draft_needs_review"
+          "gloss_status": "curated_draft_needs_review",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1324300"
+          ]
         }
       ],
       "candidate_words": [
@@ -1595,7 +1775,11 @@
           "romaji": null,
           "source_reading_match": false,
           "reading_editorial_review_required": true,
-          "editorial_status": "new_curated_draft"
+          "editorial_status": "new_curated_draft",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1328890"
+          ]
         }
       ],
       "candidate_words": [
@@ -1638,7 +1822,11 @@
           "romaji": "utsukushii",
           "meaning_en": "beautiful",
           "meaning_ko": "아름답다",
-          "gloss_status": "curated_draft_needs_review"
+          "gloss_status": "curated_draft_needs_review",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1486360"
+          ]
         },
         {
           "word": "美術館",
@@ -1646,7 +1834,11 @@
           "romaji": "bijutsukan",
           "meaning_en": "art gallery",
           "meaning_ko": "미술관",
-          "gloss_status": "curated_draft_needs_review"
+          "gloss_status": "curated_draft_needs_review",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1486460"
+          ]
         }
       ],
       "candidate_words": [
@@ -1689,7 +1881,11 @@
           "romaji": "isshoukenmei",
           "meaning_en": "with utmost effort",
           "meaning_ko": "열심히",
-          "gloss_status": "curated_draft_needs_review"
+          "gloss_status": "curated_draft_needs_review",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1164010"
+          ]
         }
       ],
       "candidate_words": [
@@ -1730,7 +1926,11 @@
           "romaji": null,
           "source_reading_match": false,
           "reading_editorial_review_required": true,
-          "editorial_status": "new_curated_draft"
+          "editorial_status": "new_curated_draft",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1278400"
+          ]
         }
       ],
       "candidate_words": [
@@ -1775,7 +1975,11 @@
           "romaji": null,
           "source_reading_match": false,
           "reading_editorial_review_required": true,
-          "editorial_status": "new_curated_draft"
+          "editorial_status": "new_curated_draft",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1219910"
+          ]
         }
       ],
       "candidate_words": [
@@ -1817,7 +2021,11 @@
           "romaji": "hijouni",
           "meaning_en": "extremely",
           "meaning_ko": "매우",
-          "gloss_status": "curated_draft_needs_review"
+          "gloss_status": "curated_draft_needs_review",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1484930"
+          ]
         }
       ],
       "candidate_words": [
@@ -1861,7 +2069,11 @@
           "romaji": null,
           "source_reading_match": false,
           "reading_editorial_review_required": true,
-          "editorial_status": "new_curated_draft"
+          "editorial_status": "new_curated_draft",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1214840"
+          ]
         }
       ],
       "candidate_words": [
@@ -1901,7 +2113,11 @@
           "romaji": "keisatsu",
           "meaning_en": "police",
           "meaning_ko": "경찰",
-          "gloss_status": "curated_draft_needs_review"
+          "gloss_status": "curated_draft_needs_review",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1252390"
+          ]
         }
       ],
       "candidate_words": [
@@ -1942,7 +2158,11 @@
           "romaji": "kaidan",
           "meaning_en": "stairs",
           "meaning_ko": "계단",
-          "gloss_status": "curated_draft_needs_review"
+          "gloss_status": "curated_draft_needs_review",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1203090"
+          ]
         }
       ],
       "candidate_words": [
@@ -1984,7 +2204,11 @@
           "romaji": "yoko",
           "meaning_en": "beside",
           "meaning_ko": "옆",
-          "gloss_status": "curated_draft_needs_review"
+          "gloss_status": "curated_draft_needs_review",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1180570"
+          ]
         }
       ],
       "candidate_words": [
@@ -2030,7 +2254,11 @@
           "romaji": "fukai",
           "meaning_en": "deep",
           "meaning_ko": "깊다",
-          "gloss_status": "curated_draft_needs_review"
+          "gloss_status": "curated_draft_needs_review",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1362640"
+          ]
         }
       ],
       "candidate_words": [
@@ -2074,7 +2302,11 @@
           "romaji": "mousu",
           "meaning_en": "(humble) to be called",
           "meaning_ko": "말하다(겸양어)",
-          "gloss_status": "curated_draft_needs_review"
+          "gloss_status": "curated_draft_needs_review",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1363090"
+          ]
         },
         {
           "word": "申し上げる",
@@ -2082,7 +2314,11 @@
           "romaji": "moushiageru",
           "meaning_en": "(humble) to say",
           "meaning_ko": "말씀드리다(겸양)",
-          "gloss_status": "curated_draft_needs_review"
+          "gloss_status": "curated_draft_needs_review",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1362950"
+          ]
         }
       ],
       "candidate_words": [
@@ -2127,7 +2363,11 @@
           "romaji": null,
           "source_reading_match": false,
           "reading_editorial_review_required": true,
-          "editorial_status": "new_curated_draft"
+          "editorial_status": "new_curated_draft",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1181700"
+          ]
         }
       ],
       "candidate_words": [
@@ -2171,7 +2411,11 @@
           "romaji": "saifu",
           "meaning_en": "wallet",
           "meaning_ko": "지갑",
-          "gloss_status": "curated_draft_needs_review"
+          "gloss_status": "curated_draft_needs_review",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1296970"
+          ]
         }
       ],
       "candidate_words": [
@@ -2215,7 +2459,11 @@
           "romaji": null,
           "source_reading_match": false,
           "reading_editorial_review_required": true,
-          "editorial_status": "new_curated_draft"
+          "editorial_status": "new_curated_draft",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1420590"
+          ]
         }
       ],
       "candidate_words": [
@@ -2257,7 +2505,11 @@
           "romaji": "yobu",
           "meaning_en": "to call out",
           "meaning_ko": "부르다",
-          "gloss_status": "curated_draft_needs_review"
+          "gloss_status": "curated_draft_needs_review",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1266440"
+          ]
         }
       ],
       "candidate_words": [
@@ -2300,7 +2552,11 @@
           "romaji": "tomodachi",
           "meaning_en": "friend",
           "meaning_ko": "친구",
-          "gloss_status": "curated_draft_needs_review"
+          "gloss_status": "curated_draft_needs_review",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1540170"
+          ]
         }
       ],
       "candidate_words": [
@@ -2346,7 +2602,11 @@
           "romaji": null,
           "source_reading_match": false,
           "reading_editorial_review_required": true,
-          "editorial_status": "new_curated_draft"
+          "editorial_status": "new_curated_draft",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1605820"
+          ]
         }
       ],
       "candidate_words": [
@@ -2389,7 +2649,11 @@
           "romaji": null,
           "source_reading_match": false,
           "reading_editorial_review_required": true,
-          "editorial_status": "new_curated_draft"
+          "editorial_status": "new_curated_draft",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1222170"
+          ]
         }
       ],
       "candidate_words": [
@@ -2433,7 +2697,11 @@
           "romaji": null,
           "source_reading_match": false,
           "reading_editorial_review_required": true,
-          "editorial_status": "new_curated_draft"
+          "editorial_status": "new_curated_draft",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1436540"
+          ]
         }
       ],
       "candidate_words": [
@@ -2479,7 +2747,11 @@
           "romaji": null,
           "source_reading_match": false,
           "reading_editorial_review_required": true,
-          "editorial_status": "new_curated_draft"
+          "editorial_status": "new_curated_draft",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1526860"
+          ]
         }
       ],
       "candidate_words": [
@@ -2521,7 +2793,11 @@
           "romaji": "shippai",
           "meaning_en": "failure",
           "meaning_ko": "실패",
-          "gloss_status": "curated_draft_needs_review"
+          "gloss_status": "curated_draft_needs_review",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1320140"
+          ]
         }
       ],
       "candidate_words": [
@@ -2565,7 +2841,11 @@
           "romaji": null,
           "source_reading_match": false,
           "reading_editorial_review_required": true,
-          "editorial_status": "new_curated_draft"
+          "editorial_status": "new_curated_draft",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1600160"
+          ]
         }
       ],
       "candidate_words": [
@@ -2609,7 +2889,11 @@
           "romaji": null,
           "source_reading_match": false,
           "reading_editorial_review_required": true,
-          "editorial_status": "new_curated_draft"
+          "editorial_status": "new_curated_draft",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1457040"
+          ]
         }
       ],
       "candidate_words": [
@@ -2652,7 +2936,11 @@
           "romaji": "hikari",
           "meaning_en": "light",
           "meaning_ko": "빛",
-          "gloss_status": "curated_draft_needs_review"
+          "gloss_status": "curated_draft_needs_review",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1272780"
+          ]
         },
         {
           "word": "光る",
@@ -2660,7 +2948,11 @@
           "romaji": "hikaru",
           "meaning_en": "to shine",
           "meaning_ko": "빛나다",
-          "gloss_status": "curated_draft_needs_review"
+          "gloss_status": "curated_draft_needs_review",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1272820"
+          ]
         }
       ],
       "candidate_words": [
@@ -2705,7 +2997,11 @@
           "romaji": null,
           "source_reading_match": false,
           "reading_editorial_review_required": true,
-          "editorial_status": "new_curated_draft"
+          "editorial_status": "new_curated_draft",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1454290"
+          ]
         }
       ],
       "candidate_words": [
@@ -2745,7 +3041,11 @@
           "romaji": "kagaku",
           "meaning_en": "science",
           "meaning_ko": "과학",
-          "gloss_status": "curated_draft_needs_review"
+          "gloss_status": "curated_draft_needs_review",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1192700"
+          ]
         }
       ],
       "candidate_words": [
@@ -2791,7 +3091,11 @@
           "romaji": null,
           "source_reading_match": false,
           "reading_editorial_review_required": true,
-          "editorial_status": "new_curated_draft"
+          "editorial_status": "new_curated_draft",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1382990"
+          ]
         }
       ],
       "candidate_words": [
@@ -2834,7 +3138,11 @@
           "romaji": null,
           "source_reading_match": false,
           "reading_editorial_review_required": true,
-          "editorial_status": "new_curated_draft"
+          "editorial_status": "new_curated_draft",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1581400"
+          ]
         }
       ],
       "candidate_words": [
@@ -2843,9 +3151,9 @@
         "他意"
       ],
       "example_sentence": {
-        "ja": "他の方法もありますか。",
-        "reading": "ほかのほうほうもありますか。",
-        "translation_ko": "다른 방법도 있나요?",
+        "ja": "他人の物を勝手に使ってはいけません。",
+        "reading": "たにんのものをかってにつかってはいけません。",
+        "translation_ko": "남의 물건을 마음대로 사용하면 안 됩니다.",
         "status": "authored_draft_editorial_review_pending"
       },
       "example_translation_ko": null,
@@ -2879,7 +3187,11 @@
           "romaji": null,
           "source_reading_match": false,
           "reading_editorial_review_required": true,
-          "editorial_status": "new_curated_draft"
+          "editorial_status": "new_curated_draft",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1342510"
+          ]
         }
       ],
       "candidate_words": [
@@ -2923,7 +3235,11 @@
           "romaji": "futoi",
           "meaning_en": "fat",
           "meaning_ko": "굵다",
-          "gloss_status": "curated_draft_needs_review"
+          "gloss_status": "curated_draft_needs_review",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1408180"
+          ]
         },
         {
           "word": "太る",
@@ -2931,7 +3247,11 @@
           "romaji": "futoru",
           "meaning_en": "to become fat",
           "meaning_ko": "살찌다",
-          "gloss_status": "curated_draft_needs_review"
+          "gloss_status": "curated_draft_needs_review",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1408220"
+          ]
         }
       ],
       "candidate_words": [
@@ -2972,7 +3292,11 @@
           "romaji": "kyaku",
           "meaning_en": "guest",
           "meaning_ko": "손님",
-          "gloss_status": "curated_draft_needs_review"
+          "gloss_status": "curated_draft_needs_review",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1226630"
+          ]
         }
       ],
       "candidate_words": [
@@ -3016,7 +3340,11 @@
           "romaji": null,
           "source_reading_match": false,
           "reading_editorial_review_required": true,
-          "editorial_status": "new_curated_draft"
+          "editorial_status": "new_curated_draft",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1482990"
+          ]
         }
       ],
       "candidate_words": [
@@ -3059,7 +3387,11 @@
           "romaji": null,
           "source_reading_match": false,
           "reading_editorial_review_required": true,
-          "editorial_status": "new_curated_draft"
+          "editorial_status": "new_curated_draft",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1237130"
+          ]
         }
       ],
       "candidate_words": [
@@ -3106,7 +3438,11 @@
           "romaji": "noboru",
           "meaning_en": "to climb",
           "meaning_ko": "오르다",
-          "gloss_status": "curated_draft_needs_review"
+          "gloss_status": "curated_draft_needs_review",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1352570"
+          ]
         }
       ],
       "candidate_words": [
@@ -3150,7 +3486,11 @@
           "romaji": "boueki",
           "meaning_en": "trade",
           "meaning_ko": "무역",
-          "gloss_status": "curated_draft_needs_review"
+          "gloss_status": "curated_draft_needs_review",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1520120"
+          ]
         },
         {
           "word": "易しい",
@@ -3158,7 +3498,11 @@
           "romaji": "yasashii",
           "meaning_en": "easy",
           "meaning_ko": "쉽다",
-          "gloss_status": "curated_draft_needs_review"
+          "gloss_status": "curated_draft_needs_review",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1157000"
+          ]
         }
       ],
       "candidate_words": [
@@ -3203,7 +3547,11 @@
           "romaji": "hayai",
           "meaning_en": "quick",
           "meaning_ko": "빠르다",
-          "gloss_status": "curated_draft_needs_review"
+          "gloss_status": "curated_draft_needs_review",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1404975"
+          ]
         }
       ],
       "candidate_words": [
@@ -3249,7 +3597,11 @@
           "romaji": "gozonji",
           "meaning_en": "knowing",
           "meaning_ko": "알고 계심",
-          "gloss_status": "curated_draft_needs_review"
+          "gloss_status": "curated_draft_needs_review",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1593570"
+          ]
         }
       ],
       "candidate_words": [
@@ -3293,7 +3645,11 @@
           "romaji": "tobu",
           "meaning_en": "to fly",
           "meaning_ko": "날다",
-          "gloss_status": "curated_draft_needs_review"
+          "gloss_status": "curated_draft_needs_review",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1429700"
+          ]
         },
         {
           "word": "飛行機",
@@ -3301,7 +3657,11 @@
           "romaji": "hikouki",
           "meaning_en": "aeroplane",
           "meaning_ko": "비행기",
-          "gloss_status": "curated_draft_needs_review"
+          "gloss_status": "curated_draft_needs_review",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1485470"
+          ]
         }
       ],
       "candidate_words": [
@@ -3349,7 +3709,11 @@
           "romaji": null,
           "source_reading_match": false,
           "reading_editorial_review_required": true,
-          "editorial_status": "new_curated_draft"
+          "editorial_status": "new_curated_draft",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1299030"
+          ]
         }
       ],
       "candidate_words": [
@@ -3392,7 +3756,11 @@
           "romaji": "bangou",
           "meaning_en": "number",
           "meaning_ko": "번호",
-          "gloss_status": "curated_draft_needs_review"
+          "gloss_status": "curated_draft_needs_review",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1482290"
+          ]
         }
       ],
       "candidate_words": [
@@ -3434,7 +3802,11 @@
           "romaji": "kantan",
           "meaning_en": "simple",
           "meaning_ko": "간단하다",
-          "gloss_status": "curated_draft_needs_review"
+          "gloss_status": "curated_draft_needs_review",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1214330"
+          ]
         }
       ],
       "candidate_words": [
@@ -3476,7 +3848,11 @@
           "romaji": "suwaru",
           "meaning_en": "to sit",
           "meaning_ko": "앉다",
-          "gloss_status": "curated_draft_needs_review"
+          "gloss_status": "curated_draft_needs_review",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1291800"
+          ]
         }
       ],
       "candidate_words": [
@@ -3521,7 +3897,11 @@
           "romaji": null,
           "source_reading_match": false,
           "reading_editorial_review_required": true,
-          "editorial_status": "new_curated_draft"
+          "editorial_status": "new_curated_draft",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1471200"
+          ]
         }
       ],
       "candidate_words": [
@@ -3565,7 +3945,11 @@
           "romaji": "souji",
           "meaning_en": "to clean",
           "meaning_ko": "청소",
-          "gloss_status": "curated_draft_needs_review"
+          "gloss_status": "curated_draft_needs_review",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1399790"
+          ]
         }
       ],
       "candidate_words": [
@@ -3606,7 +3990,11 @@
           "romaji": null,
           "source_reading_match": false,
           "reading_editorial_review_required": true,
-          "editorial_status": "new_curated_draft"
+          "editorial_status": "new_curated_draft",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1211490"
+          ]
         }
       ],
       "candidate_words": [
@@ -3654,7 +4042,11 @@
           "romaji": "furu",
           "meaning_en": "to fall (e.g. rain or snow)",
           "meaning_ko": "내리다(비·눈)",
-          "gloss_status": "curated_draft_needs_review"
+          "gloss_status": "curated_draft_needs_review",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1282790"
+          ]
         },
         {
           "word": "降りる",
@@ -3662,7 +4054,11 @@
           "romaji": "oriru",
           "meaning_en": "to get off",
           "meaning_ko": "내리다(탈것)",
-          "gloss_status": "curated_draft_needs_review"
+          "gloss_status": "curated_draft_needs_review",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1589500"
+          ]
         }
       ],
       "candidate_words": [
@@ -3705,7 +4101,11 @@
           "romaji": null,
           "source_reading_match": false,
           "reading_editorial_review_required": true,
-          "editorial_status": "new_curated_draft"
+          "editorial_status": "new_curated_draft",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1383180"
+          ]
         }
       ],
       "candidate_words": [
@@ -3753,7 +4153,11 @@
           "romaji": "tsukamaeru",
           "meaning_en": "to seize",
           "meaning_ko": "잡다",
-          "gloss_status": "curated_draft_needs_review"
+          "gloss_status": "curated_draft_needs_review",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1597780"
+          ]
         }
       ],
       "candidate_words": [
@@ -3797,7 +4201,11 @@
           "romaji": "kiken",
           "meaning_en": "danger",
           "meaning_ko": "위험",
-          "gloss_status": "curated_draft_needs_review"
+          "gloss_status": "curated_draft_needs_review",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1218560"
+          ]
         },
         {
           "word": "危ない",
@@ -3805,7 +4213,11 @@
           "romaji": "abunai",
           "meaning_en": "dangerous",
           "meaning_ko": "위험하다",
-          "gloss_status": "curated_draft_needs_review"
+          "gloss_status": "curated_draft_needs_review",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1218380"
+          ]
         }
       ],
       "candidate_words": [
@@ -3850,7 +4262,11 @@
           "romaji": null,
           "source_reading_match": false,
           "reading_editorial_review_required": true,
-          "editorial_status": "new_curated_draft"
+          "editorial_status": "new_curated_draft",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1230360"
+          ]
         }
       ],
       "candidate_words": [
@@ -3897,7 +4313,11 @@
           "romaji": "nigai",
           "meaning_en": "bitter",
           "meaning_ko": "쓰다",
-          "gloss_status": "curated_draft_needs_review"
+          "gloss_status": "curated_draft_needs_review",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1244310"
+          ]
         }
       ],
       "candidate_words": [
@@ -3939,7 +4359,11 @@
           "romaji": "mukaeru",
           "meaning_en": "to go out to meet",
           "meaning_ko": "맞이하다",
-          "gloss_status": "curated_draft_needs_review"
+          "gloss_status": "curated_draft_needs_review",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1253190"
+          ]
         }
       ],
       "candidate_words": [
@@ -3981,7 +4405,11 @@
           "romaji": "kouen",
           "meaning_en": "park",
           "meaning_ko": "공원",
-          "gloss_status": "curated_draft_needs_review"
+          "gloss_status": "curated_draft_needs_review",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1273270"
+          ]
         },
         {
           "word": "動物園",
@@ -3989,7 +4417,11 @@
           "romaji": "doubutsuen",
           "meaning_en": "zoo",
           "meaning_ko": "동물원",
-          "gloss_status": "curated_draft_needs_review"
+          "gloss_status": "curated_draft_needs_review",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1451490"
+          ]
         }
       ],
       "candidate_words": [
@@ -4032,7 +4464,11 @@
           "romaji": "guai",
           "meaning_en": "condition",
           "meaning_ko": "상태",
-          "gloss_status": "curated_draft_needs_review"
+          "gloss_status": "curated_draft_needs_review",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1592500"
+          ]
         },
         {
           "word": "道具",
@@ -4040,7 +4476,11 @@
           "romaji": "dougu",
           "meaning_en": "tool",
           "meaning_ko": "도구",
-          "gloss_status": "curated_draft_needs_review"
+          "gloss_status": "curated_draft_needs_review",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1454180"
+          ]
         }
       ],
       "candidate_words": [
@@ -4083,7 +4523,11 @@
           "romaji": "jisho",
           "meaning_en": "dictionary",
           "meaning_ko": "사전",
-          "gloss_status": "curated_draft_needs_review"
+          "gloss_status": "curated_draft_needs_review",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1318970"
+          ]
         },
         {
           "word": "辞典",
@@ -4091,7 +4535,11 @@
           "romaji": "jiten",
           "meaning_en": "dictionary",
           "meaning_ko": "사전",
-          "gloss_status": "curated_draft_needs_review"
+          "gloss_status": "curated_draft_needs_review",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1595270"
+          ]
         }
       ],
       "candidate_words": [
@@ -4134,7 +4582,11 @@
           "romaji": "gen'in",
           "meaning_en": "cause",
           "meaning_ko": "원인",
-          "gloss_status": "curated_draft_needs_review"
+          "gloss_status": "curated_draft_needs_review",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1261190"
+          ]
         }
       ],
       "candidate_words": [
@@ -4181,7 +4633,11 @@
           "romaji": null,
           "source_reading_match": false,
           "reading_editorial_review_required": true,
-          "editorial_status": "new_curated_draft"
+          "editorial_status": "new_curated_draft",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1471560"
+          ]
         }
       ],
       "candidate_words": [
@@ -4228,7 +4684,11 @@
           "romaji": null,
           "source_reading_match": false,
           "reading_editorial_review_required": true,
-          "editorial_status": "new_curated_draft"
+          "editorial_status": "new_curated_draft",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1150410"
+          ]
         }
       ],
       "candidate_words": [
@@ -4273,7 +4733,11 @@
           "romaji": null,
           "source_reading_match": false,
           "reading_editorial_review_required": true,
-          "editorial_status": "new_curated_draft"
+          "editorial_status": "new_curated_draft",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1518180"
+          ]
         }
       ],
       "candidate_words": [
@@ -4282,9 +4746,9 @@
         "富む"
       ],
       "example_sentence": {
-        "ja": "この国は自然が豊富です。",
-        "reading": "このくにはしぜんがほうふです。",
-        "translation_ko": "이 나라는 자연이 풍부합니다.",
+        "ja": "この店は商品の種類が豊富です。",
+        "reading": "このみせはしょうひんのしゅるいがほうふです。",
+        "translation_ko": "이 가게는 상품의 종류가 다양합니다.",
         "status": "authored_draft_editorial_review_pending"
       },
       "example_translation_ko": null,
@@ -4317,7 +4781,11 @@
           "romaji": "kare",
           "meaning_en": "he",
           "meaning_ko": "그",
-          "gloss_status": "curated_draft_needs_review"
+          "gloss_status": "curated_draft_needs_review",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1483070"
+          ]
         },
         {
           "word": "彼女",
@@ -4325,7 +4793,11 @@
           "romaji": "kanojo",
           "meaning_en": "she",
           "meaning_ko": "그녀",
-          "gloss_status": "curated_draft_needs_review"
+          "gloss_status": "curated_draft_needs_review",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1483150"
+          ]
         }
       ],
       "candidate_words": [
@@ -4371,7 +4843,11 @@
           "romaji": null,
           "source_reading_match": false,
           "reading_editorial_review_required": true,
-          "editorial_status": "new_curated_draft"
+          "editorial_status": "new_curated_draft",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1528060"
+          ]
         }
       ],
       "candidate_words": [
@@ -4415,7 +4891,11 @@
           "romaji": "omimai",
           "meaning_en": "calling on someone who is ill",
           "meaning_ko": "문병",
-          "gloss_status": "curated_draft_needs_review"
+          "gloss_status": "curated_draft_needs_review",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1001870"
+          ]
         }
       ],
       "candidate_words": [
@@ -4462,7 +4942,11 @@
           "romaji": "nakunaru",
           "meaning_en": "to die",
           "meaning_ko": "돌아가시다",
-          "gloss_status": "curated_draft_needs_review"
+          "gloss_status": "curated_draft_needs_review",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1518540"
+          ]
         }
       ],
       "candidate_words": [
@@ -4511,7 +4995,11 @@
           "romaji": "reibou",
           "meaning_en": "air conditioning",
           "meaning_ko": "냉방",
-          "gloss_status": "curated_draft_needs_review"
+          "gloss_status": "curated_draft_needs_review",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1557290"
+          ]
         },
         {
           "word": "冷たい",
@@ -4519,7 +5007,11 @@
           "romaji": "tsumetai",
           "meaning_en": "cold to the touch",
           "meaning_ko": "차갑다",
-          "gloss_status": "curated_draft_needs_review"
+          "gloss_status": "curated_draft_needs_review",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1556730"
+          ]
         }
       ],
       "candidate_words": [
@@ -4561,7 +5053,11 @@
           "romaji": "tekitou",
           "meaning_en": "suitability",
           "meaning_ko": "적당함",
-          "gloss_status": "curated_draft_needs_review"
+          "gloss_status": "curated_draft_needs_review",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1437450"
+          ]
         }
       ],
       "candidate_words": [
@@ -4603,7 +5099,11 @@
           "romaji": "fuufu",
           "meaning_en": "married couple",
           "meaning_ko": "부부",
-          "gloss_status": "curated_draft_needs_review"
+          "gloss_status": "curated_draft_needs_review",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1583640"
+          ]
         }
       ],
       "candidate_words": [
@@ -4628,5 +5128,14 @@
     "word_ko_gloss_drafted": 125,
     "words_need_editorial_validation": true,
     "sentences_ko_drafted": 100
+  },
+  "dictionary_source": {
+    "title": "JMdict (English edition), EDRDG",
+    "download_url": "https://www.edrdg.org/pub/Nihongo/JMdict_e.gz",
+    "project_url": "https://www.edrdg.org/wiki/JMdict-EDICT_Dictionary_Project.html",
+    "licence_url": "https://www.edrdg.org/edrdg/licence.html",
+    "file_sha256": "b45f780bd76b56099fe36f1a6d12c7900db687592f3782280bd924dd7f3b2127",
+    "checked_at": "2026-10-23",
+    "method": "Exact keb/reb match with re_restr restrictions; not a sentence or Korean-meaning certification."
   }
 }
