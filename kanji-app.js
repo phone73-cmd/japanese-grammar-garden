@@ -12,7 +12,7 @@ function store(){try{localStorage.setItem(KEY,JSON.stringify(record));if(quiz)se
 function byId(id){return items.find(x=>x.id===id)}
 function pool(n){return items.filter(x=>x.stage===n)}
 function makeBtn(label,a){return '<button class="kj-btn" data-kj="'+esc(a)+'">'+esc(label)+'</button>'}
-function draw(html){let p=document.getElementById("kanji-panel");if(!p){p=document.createElement("div");p.id="kanji-panel";document.body.append(p)}document.body.style.overflow="hidden";p.innerHTML='<main class="kj-shell"><div class="kj-head">'+makeBtn("‹ 뒤로","back")+'<strong>🌸 일본어 한자정원</strong><small>v0.2.3</small></div>'+html+'</main><div class="kj-nav">'+makeBtn("학습 목록","home")+makeBtn("오답","errors")+makeBtn("닫기","close")+'</div>';p.scrollTop=0;syncRoute()}
+function draw(html){let p=document.getElementById("kanji-panel");if(!p){p=document.createElement("div");p.id="kanji-panel";document.body.append(p)}document.body.style.overflow="hidden";p.innerHTML='<main class="kj-shell"><div class="kj-head">'+makeBtn("‹ 뒤로","back")+'<strong>🌸 일본어 한자정원</strong><small>v0.2.4-dev</small></div>'+html+'</main><div class="kj-nav">'+makeBtn("학습 목록","home")+makeBtn("오답","errors")+makeBtn("닫기","close")+'</div>';p.scrollTop=0;syncRoute()}
 function hideExitDialog(){document.getElementById("kanji-exit-modal")?.remove()}
 function showExitDialog(){
  if(document.getElementById("kanji-exit-modal"))return;
