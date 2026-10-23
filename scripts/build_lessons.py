@@ -39,8 +39,8 @@ for n,d in lessons.items():
  assert len(d['questions'])==2,(n,'rules')
  questions=[]
  for i,e in enumerate(d['examples']):
-  questions.append({'question':f'「{e[0]}」의 뜻은?','choices':[x[3] for x in d['examples']],'correct':i,'reason':f'{e[0]} → {e[3]} '+d['explain']})
-  questions.append({'question':f'‘{e[3]}’에 맞는 일본어는?','choices':[x[0] for x in d['examples']],'correct':i,'reason':f'{e[3]} → {e[0]} '+d['explain']})
+  questions.append({'question':f'「{e[0]}」의 뜻은?','choices':[x[3] for x in d['examples']],'correct':i,'reason':f'{e[0]} → {e[3]} '+d['explain'].split('.')[0]+'.'})
+  questions.append({'question':f'‘{e[3]}’에 맞는 일본어는?','choices':[x[0] for x in d['examples']],'correct':i,'reason':f'{e[3]} → {e[0]} '+d['explain'].split('.')[0]+'.'})
  d['questions']=questions+d['questions']
 # Stage reviews use different source questions, not newly invented copies of old indices.
 merged={**legacy,**lessons}
