@@ -24,3 +24,9 @@ Date: 2026-10-23. This is a **triage report**, not a completed dictionary or nat
 ## Release gate
 - Data remains `.draft.json`; dictionary cross-check, full native-language editorial pass, and source licensing are **pending**.
 - No deployment or main-branch merge authorized by this report.
+
+## Dictionary evidence batch 1 (2026-10-23)
+- 5 of 92 review candidates have an exact reading verified with a published dictionary entry or kanji-reading index: 父(ちち), 母(はは), 分(ふん), 私(わたし), 円(えん). URLs and notes are stored in `READING-REVIEW-QUEUE.json` for each item.
+- For 分, フン is documented as an on-reading; numeral combinations may surface ぷん. Do not replace the standalone entry with ぷん without context.
+- 87 candidates remain `pending_editorial_dictionary_check`. Stage 1+2: 6 remaining, stages 3–5: 81 remaining.
+- `dictionary_reading_checked` is **not** full word-sense, contextual usage, translation, licensing, or native-speaker approval.
