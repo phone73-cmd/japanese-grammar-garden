@@ -1,7 +1,7 @@
 {
   "schema_version": "kanji-v1",
   "content_version": "2026-10-23-draft-500-sentences",
-  "app_integration_enabled": false,
+  "app_integration_enabled": true,
   "expected_total": 500,
   "base_stage": 1,
   "stages": [
@@ -53,5 +53,6 @@
     "clear READING-REVIEW-QUEUE.json and verify all published vocabulary readings",
     "review naturalness of 100 beginner example sentences"
   ],
-  "notes": "Draft content only; do not register in service worker or show as approved lessons until editorial QA passes."
+  "notes": "Draft content only; do not register in service worker or show as approved lessons until editorial QA passes.",
+  "integration_status": "v0.2.0-beta: draft-content visible with warnings; reading QA incomplete; quiz uses source-matched candidates when available"
 }
