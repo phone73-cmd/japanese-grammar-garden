@@ -473,9 +473,9 @@
         "観念"
       ],
       "example_sentence": {
-        "ja": "約束を忘れて残念でした。",
-        "reading": "やくそくをわすれてざんねんでした。",
-        "translation_ko": "약속을 잊어서 아쉬웠습니다.",
+        "ja": "約束を守れなくて残念でした。",
+        "reading": "やくそくをまもれなくてざんねんでした。",
+        "translation_ko": "약속을 지키지 못해서 아쉬웠습니다.",
         "status": "authored_draft_editorial_review_pending"
       },
       "example_translation_ko": null,
@@ -1367,9 +1367,9 @@
         "失業"
       ],
       "example_sentence": {
-        "ja": "道を間違えて失敗しました。",
-        "reading": "みちをまちがえてしっぱいしました。",
-        "translation_ko": "길을 잘못 들어 실수했습니다.",
+        "ja": "道を間違えてしまいました。",
+        "reading": "みちをまちがえてしまいました。",
+        "translation_ko": "길을 잘못 들었습니다.",
         "status": "authored_draft_editorial_review_pending"
       },
       "example_translation_ko": null,
@@ -4530,7 +4530,7 @@
       "example_sentence": {
         "ja": "部屋の冷房をつけました。",
         "reading": "へやのれいぼうをつけました。",
-        "translation_ko": "방의 냉방을 켰습니다.",
+        "translation_ko": "방의 에어컨을 켰습니다.",
         "status": "authored_draft_editorial_review_pending"
       },
       "example_translation_ko": null,
@@ -4598,18 +4598,17 @@
       "strokes": 11,
       "example_words": [
         {
-          "word": "看護婦",
-          "reading": "かんごふ",
-          "romaji": "kangofu",
-          "meaning_en": "female nurse",
-          "meaning_ko": "간호사(옛 명칭)",
+          "word": "夫婦",
+          "reading": "ふうふ",
+          "romaji": "fuufu",
+          "meaning_en": "married couple",
+          "meaning_ko": "부부",
           "gloss_status": "curated_draft_needs_review"
         }
       ],
       "candidate_words": [
-        "看護婦",
-        "主婦",
-        "夫婦"
+        "夫婦",
+        "主婦"
       ],
       "example_sentence": {
         "ja": "夫婦で旅行に行きました。",
