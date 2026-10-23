@@ -1,0 +1,2265 @@
+{
+  "schema_version": "kanji-v1",
+  "status": "basic-meanings-drafted;word-and-example-review-pending",
+  "count": 100,
+  "description": "기본 내장 100자: 한글 뜻/읽기/획수/순서 초안. 단어/예문 검수 후 UI 학습 활성화.",
+  "source": {
+    "name": "OpenJLPT",
+    "url": "https://github.com/evanclan/OpenJLPT",
+    "license": "CC BY-SA 4.0, verify source compatibility before release"
+  },
+  "items": [
+    {
+      "id": "kanji-001",
+      "character": "一",
+      "stage": 1,
+      "order": 1,
+      "group": 1,
+      "group_name": "숫자",
+      "meaning_ko": "하나",
+      "on_readings": [
+        "イチ",
+        "イツ"
+      ],
+      "kun_readings": [
+        "ひと-",
+        "ひと.つ"
+      ],
+      "strokes": 1,
+      "example_words": [],
+      "related_lesson_ids": [],
+      "review_status": "basic_meaning_drafted",
+      "example_review_status": "pending"
+    },
+    {
+      "id": "kanji-002",
+      "character": "二",
+      "stage": 1,
+      "order": 2,
+      "group": 1,
+      "group_name": "숫자",
+      "meaning_ko": "둘",
+      "on_readings": [
+        "ニ",
+        "ジ"
+      ],
+      "kun_readings": [
+        "ふた",
+        "ふた.つ",
+        "ふたたび"
+      ],
+      "strokes": 2,
+      "example_words": [],
+      "related_lesson_ids": [],
+      "review_status": "basic_meaning_drafted",
+      "example_review_status": "pending"
+    },
+    {
+      "id": "kanji-003",
+      "character": "三",
+      "stage": 1,
+      "order": 3,
+      "group": 1,
+      "group_name": "숫자",
+      "meaning_ko": "셋",
+      "on_readings": [
+        "サン",
+        "ゾウ"
+      ],
+      "kun_readings": [
+        "み",
+        "み.つ",
+        "みっ.つ"
+      ],
+      "strokes": 3,
+      "example_words": [],
+      "related_lesson_ids": [],
+      "review_status": "basic_meaning_drafted",
+      "example_review_status": "pending"
+    },
+    {
+      "id": "kanji-004",
+      "character": "四",
+      "stage": 1,
+      "order": 4,
+      "group": 1,
+      "group_name": "숫자",
+      "meaning_ko": "넷",
+      "on_readings": [
+        "シ"
+      ],
+      "kun_readings": [
+        "よ",
+        "よ.つ",
+        "よっ.つ",
+        "よん"
+      ],
+      "strokes": 5,
+      "example_words": [],
+      "related_lesson_ids": [],
+      "review_status": "basic_meaning_drafted",
+      "example_review_status": "pending"
+    },
+    {
+      "id": "kanji-005",
+      "character": "五",
+      "stage": 1,
+      "order": 5,
+      "group": 1,
+      "group_name": "숫자",
+      "meaning_ko": "다섯",
+      "on_readings": [
+        "ゴ"
+      ],
+      "kun_readings": [
+        "いつ",
+        "いつ.つ"
+      ],
+      "strokes": 4,
+      "example_words": [],
+      "related_lesson_ids": [],
+      "review_status": "basic_meaning_drafted",
+      "example_review_status": "pending"
+    },
+    {
+      "id": "kanji-006",
+      "character": "六",
+      "stage": 1,
+      "order": 6,
+      "group": 1,
+      "group_name": "숫자",
+      "meaning_ko": "여섯",
+      "on_readings": [
+        "ロク",
+        "リク"
+      ],
+      "kun_readings": [
+        "む",
+        "む.つ",
+        "むっ.つ",
+        "むい"
+      ],
+      "strokes": 4,
+      "example_words": [],
+      "related_lesson_ids": [],
+      "review_status": "basic_meaning_drafted",
+      "example_review_status": "pending"
+    },
+    {
+      "id": "kanji-007",
+      "character": "七",
+      "stage": 1,
+      "order": 7,
+      "group": 1,
+      "group_name": "숫자",
+      "meaning_ko": "일곱",
+      "on_readings": [
+        "シチ"
+      ],
+      "kun_readings": [
+        "なな",
+        "なな.つ",
+        "なの"
+      ],
+      "strokes": 2,
+      "example_words": [],
+      "related_lesson_ids": [],
+      "review_status": "basic_meaning_drafted",
+      "example_review_status": "pending"
+    },
+    {
+      "id": "kanji-008",
+      "character": "八",
+      "stage": 1,
+      "order": 8,
+      "group": 1,
+      "group_name": "숫자",
+      "meaning_ko": "여덟",
+      "on_readings": [
+        "ハチ",
+        "ハツ"
+      ],
+      "kun_readings": [
+        "や",
+        "や.つ",
+        "やっ.つ",
+        "よう"
+      ],
+      "strokes": 2,
+      "example_words": [],
+      "related_lesson_ids": [],
+      "review_status": "basic_meaning_drafted",
+      "example_review_status": "pending"
+    },
+    {
+      "id": "kanji-009",
+      "character": "九",
+      "stage": 1,
+      "order": 9,
+      "group": 1,
+      "group_name": "숫자",
+      "meaning_ko": "아홉",
+      "on_readings": [
+        "キュウ",
+        "ク"
+      ],
+      "kun_readings": [
+        "ここの",
+        "ここの.つ"
+      ],
+      "strokes": 2,
+      "example_words": [],
+      "related_lesson_ids": [],
+      "review_status": "basic_meaning_drafted",
+      "example_review_status": "pending"
+    },
+    {
+      "id": "kanji-010",
+      "character": "十",
+      "stage": 1,
+      "order": 10,
+      "group": 1,
+      "group_name": "숫자",
+      "meaning_ko": "열",
+      "on_readings": [
+        "ジュウ",
+        "ジッ",
+        "ジュッ"
+      ],
+      "kun_readings": [
+        "とお",
+        "と",
+        "そ"
+      ],
+      "strokes": 2,
+      "example_words": [],
+      "related_lesson_ids": [],
+      "review_status": "basic_meaning_drafted",
+      "example_review_status": "pending"
+    },
+    {
+      "id": "kanji-011",
+      "character": "日",
+      "stage": 1,
+      "order": 11,
+      "group": 2,
+      "group_name": "자연·요일",
+      "meaning_ko": "해",
+      "on_readings": [
+        "ニチ",
+        "ジツ"
+      ],
+      "kun_readings": [
+        "ひ",
+        "-び",
+        "-か"
+      ],
+      "strokes": 4,
+      "example_words": [],
+      "related_lesson_ids": [
+        7
+      ],
+      "review_status": "basic_meaning_drafted",
+      "example_review_status": "pending"
+    },
+    {
+      "id": "kanji-012",
+      "character": "月",
+      "stage": 1,
+      "order": 12,
+      "group": 2,
+      "group_name": "자연·요일",
+      "meaning_ko": "달",
+      "on_readings": [
+        "ゲツ",
+        "ガツ"
+      ],
+      "kun_readings": [
+        "つき"
+      ],
+      "strokes": 4,
+      "example_words": [],
+      "related_lesson_ids": [],
+      "review_status": "basic_meaning_drafted",
+      "example_review_status": "pending"
+    },
+    {
+      "id": "kanji-013",
+      "character": "火",
+      "stage": 1,
+      "order": 13,
+      "group": 2,
+      "group_name": "자연·요일",
+      "meaning_ko": "불",
+      "on_readings": [
+        "カ"
+      ],
+      "kun_readings": [
+        "ひ",
+        "-び",
+        "ほ-"
+      ],
+      "strokes": 4,
+      "example_words": [],
+      "related_lesson_ids": [],
+      "review_status": "basic_meaning_drafted",
+      "example_review_status": "pending"
+    },
+    {
+      "id": "kanji-014",
+      "character": "水",
+      "stage": 1,
+      "order": 14,
+      "group": 2,
+      "group_name": "자연·요일",
+      "meaning_ko": "물",
+      "on_readings": [
+        "スイ"
+      ],
+      "kun_readings": [
+        "みず",
+        "みず-"
+      ],
+      "strokes": 4,
+      "example_words": [],
+      "related_lesson_ids": [
+        6
+      ],
+      "review_status": "basic_meaning_drafted",
+      "example_review_status": "pending"
+    },
+    {
+      "id": "kanji-015",
+      "character": "木",
+      "stage": 1,
+      "order": 15,
+      "group": 2,
+      "group_name": "자연·요일",
+      "meaning_ko": "나무",
+      "on_readings": [
+        "ボク",
+        "モク"
+      ],
+      "kun_readings": [
+        "き",
+        "こ-"
+      ],
+      "strokes": 4,
+      "example_words": [],
+      "related_lesson_ids": [],
+      "review_status": "basic_meaning_drafted",
+      "example_review_status": "pending"
+    },
+    {
+      "id": "kanji-016",
+      "character": "金",
+      "stage": 1,
+      "order": 16,
+      "group": 2,
+      "group_name": "자연·요일",
+      "meaning_ko": "쇠",
+      "on_readings": [
+        "キン",
+        "コン",
+        "ゴン"
+      ],
+      "kun_readings": [
+        "かね",
+        "かな-",
+        "-がね"
+      ],
+      "strokes": 8,
+      "example_words": [],
+      "related_lesson_ids": [],
+      "review_status": "basic_meaning_drafted",
+      "example_review_status": "pending"
+    },
+    {
+      "id": "kanji-017",
+      "character": "土",
+      "stage": 1,
+      "order": 17,
+      "group": 2,
+      "group_name": "자연·요일",
+      "meaning_ko": "흙",
+      "on_readings": [
+        "ド",
+        "ト"
+      ],
+      "kun_readings": [
+        "つち"
+      ],
+      "strokes": 3,
+      "example_words": [],
+      "related_lesson_ids": [],
+      "review_status": "basic_meaning_drafted",
+      "example_review_status": "pending"
+    },
+    {
+      "id": "kanji-018",
+      "character": "山",
+      "stage": 1,
+      "order": 18,
+      "group": 2,
+      "group_name": "자연·요일",
+      "meaning_ko": "산",
+      "on_readings": [
+        "サン",
+        "セン"
+      ],
+      "kun_readings": [
+        "やま"
+      ],
+      "strokes": 3,
+      "example_words": [],
+      "related_lesson_ids": [],
+      "review_status": "basic_meaning_drafted",
+      "example_review_status": "pending"
+    },
+    {
+      "id": "kanji-019",
+      "character": "川",
+      "stage": 1,
+      "order": 19,
+      "group": 2,
+      "group_name": "자연·요일",
+      "meaning_ko": "강",
+      "on_readings": [
+        "セン"
+      ],
+      "kun_readings": [
+        "かわ"
+      ],
+      "strokes": 3,
+      "example_words": [],
+      "related_lesson_ids": [],
+      "review_status": "basic_meaning_drafted",
+      "example_review_status": "pending"
+    },
+    {
+      "id": "kanji-020",
+      "character": "田",
+      "stage": 1,
+      "order": 20,
+      "group": 2,
+      "group_name": "자연·요일",
+      "meaning_ko": "논",
+      "on_readings": [
+        "デン"
+      ],
+      "kun_readings": [
+        "た"
+      ],
+      "strokes": 5,
+      "example_words": [],
+      "related_lesson_ids": [],
+      "review_status": "basic_meaning_drafted",
+      "example_review_status": "pending"
+    },
+    {
+      "id": "kanji-021",
+      "character": "人",
+      "stage": 1,
+      "order": 21,
+      "group": 3,
+      "group_name": "사람·가족",
+      "meaning_ko": "사람",
+      "on_readings": [
+        "ジン",
+        "ニン"
+      ],
+      "kun_readings": [
+        "ひと",
+        "-り",
+        "-と"
+      ],
+      "strokes": 2,
+      "example_words": [],
+      "related_lesson_ids": [],
+      "review_status": "basic_meaning_drafted",
+      "example_review_status": "pending"
+    },
+    {
+      "id": "kanji-022",
+      "character": "男",
+      "stage": 1,
+      "order": 22,
+      "group": 3,
+      "group_name": "사람·가족",
+      "meaning_ko": "남자",
+      "on_readings": [
+        "ダン",
+        "ナン"
+      ],
+      "kun_readings": [
+        "おとこ",
+        "お"
+      ],
+      "strokes": 7,
+      "example_words": [],
+      "related_lesson_ids": [],
+      "review_status": "basic_meaning_drafted",
+      "example_review_status": "pending"
+    },
+    {
+      "id": "kanji-023",
+      "character": "女",
+      "stage": 1,
+      "order": 23,
+      "group": 3,
+      "group_name": "사람·가족",
+      "meaning_ko": "여자",
+      "on_readings": [
+        "ジョ",
+        "ニョ",
+        "ニョウ"
+      ],
+      "kun_readings": [
+        "おんな",
+        "め"
+      ],
+      "strokes": 3,
+      "example_words": [],
+      "related_lesson_ids": [],
+      "review_status": "basic_meaning_drafted",
+      "example_review_status": "pending"
+    },
+    {
+      "id": "kanji-024",
+      "character": "子",
+      "stage": 1,
+      "order": 24,
+      "group": 3,
+      "group_name": "사람·가족",
+      "meaning_ko": "아이",
+      "on_readings": [
+        "シ",
+        "ス",
+        "ツ"
+      ],
+      "kun_readings": [
+        "こ",
+        "-こ",
+        "ね"
+      ],
+      "strokes": 3,
+      "example_words": [],
+      "related_lesson_ids": [],
+      "review_status": "basic_meaning_drafted",
+      "example_review_status": "pending"
+    },
+    {
+      "id": "kanji-025",
+      "character": "父",
+      "stage": 1,
+      "order": 25,
+      "group": 3,
+      "group_name": "사람·가족",
+      "meaning_ko": "아버지",
+      "on_readings": [
+        "フ"
+      ],
+      "kun_readings": [
+        "ちち"
+      ],
+      "strokes": 4,
+      "example_words": [],
+      "related_lesson_ids": [],
+      "review_status": "basic_meaning_drafted",
+      "example_review_status": "pending"
+    },
+    {
+      "id": "kanji-026",
+      "character": "母",
+      "stage": 1,
+      "order": 26,
+      "group": 3,
+      "group_name": "사람·가족",
+      "meaning_ko": "어머니",
+      "on_readings": [
+        "ボ"
+      ],
+      "kun_readings": [
+        "はは",
+        "も"
+      ],
+      "strokes": 5,
+      "example_words": [],
+      "related_lesson_ids": [],
+      "review_status": "basic_meaning_drafted",
+      "example_review_status": "pending"
+    },
+    {
+      "id": "kanji-027",
+      "character": "友",
+      "stage": 1,
+      "order": 27,
+      "group": 3,
+      "group_name": "사람·가족",
+      "meaning_ko": "친구",
+      "on_readings": [
+        "ユウ"
+      ],
+      "kun_readings": [
+        "とも"
+      ],
+      "strokes": 4,
+      "example_words": [],
+      "related_lesson_ids": [],
+      "review_status": "basic_meaning_drafted",
+      "example_review_status": "pending"
+    },
+    {
+      "id": "kanji-028",
+      "character": "先",
+      "stage": 1,
+      "order": 28,
+      "group": 3,
+      "group_name": "사람·가족",
+      "meaning_ko": "먼저",
+      "on_readings": [
+        "セン"
+      ],
+      "kun_readings": [
+        "さき",
+        "ま.ず"
+      ],
+      "strokes": 6,
+      "example_words": [],
+      "related_lesson_ids": [],
+      "review_status": "basic_meaning_drafted",
+      "example_review_status": "pending"
+    },
+    {
+      "id": "kanji-029",
+      "character": "生",
+      "stage": 1,
+      "order": 29,
+      "group": 3,
+      "group_name": "사람·가족",
+      "meaning_ko": "살다",
+      "on_readings": [
+        "セイ",
+        "ショウ"
+      ],
+      "kun_readings": [
+        "い.きる",
+        "い.かす",
+        "い.ける",
+        "う.まれる",
+        "うま.れる",
+        "う.まれ",
+        "うまれ",
+        "う.む",
+        "お.う",
+        "は.える",
+        "は.やす",
+        "き",
+        "なま",
+        "なま-",
+        "な.る",
+        "な.す",
+        "む.す",
+        "-う"
+      ],
+      "strokes": 5,
+      "example_words": [],
+      "related_lesson_ids": [
+        6,
+        7
+      ],
+      "review_status": "basic_meaning_drafted",
+      "example_review_status": "pending"
+    },
+    {
+      "id": "kanji-030",
+      "character": "名",
+      "stage": 1,
+      "order": 30,
+      "group": 3,
+      "group_name": "사람·가족",
+      "meaning_ko": "이름",
+      "on_readings": [
+        "メイ",
+        "ミョウ"
+      ],
+      "kun_readings": [
+        "な",
+        "-な"
+      ],
+      "strokes": 6,
+      "example_words": [],
+      "related_lesson_ids": [],
+      "review_status": "basic_meaning_drafted",
+      "example_review_status": "pending"
+    },
+    {
+      "id": "kanji-031",
+      "character": "年",
+      "stage": 1,
+      "order": 31,
+      "group": 4,
+      "group_name": "시간",
+      "meaning_ko": "해",
+      "on_readings": [
+        "ネン"
+      ],
+      "kun_readings": [
+        "とし"
+      ],
+      "strokes": 6,
+      "example_words": [],
+      "related_lesson_ids": [],
+      "review_status": "basic_meaning_drafted",
+      "example_review_status": "pending"
+    },
+    {
+      "id": "kanji-032",
+      "character": "時",
+      "stage": 1,
+      "order": 32,
+      "group": 4,
+      "group_name": "시간",
+      "meaning_ko": "시간",
+      "on_readings": [
+        "ジ"
+      ],
+      "kun_readings": [
+        "とき",
+        "-どき"
+      ],
+      "strokes": 10,
+      "example_words": [],
+      "related_lesson_ids": [],
+      "review_status": "basic_meaning_drafted",
+      "example_review_status": "pending"
+    },
+    {
+      "id": "kanji-033",
+      "character": "分",
+      "stage": 1,
+      "order": 33,
+      "group": 4,
+      "group_name": "시간",
+      "meaning_ko": "나누다",
+      "on_readings": [
+        "ブン",
+        "フン",
+        "ブ"
+      ],
+      "kun_readings": [
+        "わ.ける",
+        "わ.け",
+        "わ.かれる",
+        "わ.かる",
+        "わ.かつ"
+      ],
+      "strokes": 4,
+      "example_words": [],
+      "related_lesson_ids": [],
+      "review_status": "basic_meaning_drafted",
+      "example_review_status": "pending"
+    },
+    {
+      "id": "kanji-034",
+      "character": "半",
+      "stage": 1,
+      "order": 34,
+      "group": 4,
+      "group_name": "시간",
+      "meaning_ko": "반",
+      "on_readings": [
+        "ハン"
+      ],
+      "kun_readings": [
+        "なか.ば"
+      ],
+      "strokes": 5,
+      "example_words": [],
+      "related_lesson_ids": [],
+      "review_status": "basic_meaning_drafted",
+      "example_review_status": "pending"
+    },
+    {
+      "id": "kanji-035",
+      "character": "午",
+      "stage": 1,
+      "order": 35,
+      "group": 4,
+      "group_name": "시간",
+      "meaning_ko": "낮",
+      "on_readings": [
+        "ゴ"
+      ],
+      "kun_readings": [
+        "うま"
+      ],
+      "strokes": 4,
+      "example_words": [],
+      "related_lesson_ids": [],
+      "review_status": "basic_meaning_drafted",
+      "example_review_status": "pending"
+    },
+    {
+      "id": "kanji-036",
+      "character": "前",
+      "stage": 1,
+      "order": 36,
+      "group": 4,
+      "group_name": "시간",
+      "meaning_ko": "앞",
+      "on_readings": [
+        "ゼン"
+      ],
+      "kun_readings": [
+        "まえ",
+        "-まえ"
+      ],
+      "strokes": 9,
+      "example_words": [],
+      "related_lesson_ids": [],
+      "review_status": "basic_meaning_drafted",
+      "example_review_status": "pending"
+    },
+    {
+      "id": "kanji-037",
+      "character": "後",
+      "stage": 1,
+      "order": 37,
+      "group": 4,
+      "group_name": "시간",
+      "meaning_ko": "뒤",
+      "on_readings": [
+        "ゴ",
+        "コウ"
+      ],
+      "kun_readings": [
+        "のち",
+        "うし.ろ",
+        "うしろ",
+        "あと",
+        "おく.れる"
+      ],
+      "strokes": 9,
+      "example_words": [],
+      "related_lesson_ids": [],
+      "review_status": "basic_meaning_drafted",
+      "example_review_status": "pending"
+    },
+    {
+      "id": "kanji-038",
+      "character": "今",
+      "stage": 1,
+      "order": 38,
+      "group": 4,
+      "group_name": "시간",
+      "meaning_ko": "지금",
+      "on_readings": [
+        "コン",
+        "キン"
+      ],
+      "kun_readings": [
+        "いま"
+      ],
+      "strokes": 4,
+      "example_words": [],
+      "related_lesson_ids": [],
+      "review_status": "basic_meaning_drafted",
+      "example_review_status": "pending"
+    },
+    {
+      "id": "kanji-039",
+      "character": "毎",
+      "stage": 1,
+      "order": 39,
+      "group": 4,
+      "group_name": "시간",
+      "meaning_ko": "매번",
+      "on_readings": [
+        "マイ"
+      ],
+      "kun_readings": [
+        "ごと",
+        "-ごと.に"
+      ],
+      "strokes": 6,
+      "example_words": [],
+      "related_lesson_ids": [],
+      "review_status": "basic_meaning_drafted",
+      "example_review_status": "pending"
+    },
+    {
+      "id": "kanji-040",
+      "character": "昨",
+      "stage": 1,
+      "order": 40,
+      "group": 4,
+      "group_name": "시간",
+      "meaning_ko": "어제",
+      "on_readings": [
+        "サク"
+      ],
+      "kun_readings": [],
+      "strokes": 9,
+      "example_words": [],
+      "related_lesson_ids": [
+        7
+      ],
+      "review_status": "basic_meaning_drafted",
+      "example_review_status": "pending"
+    },
+    {
+      "id": "kanji-041",
+      "character": "上",
+      "stage": 1,
+      "order": 41,
+      "group": 5,
+      "group_name": "위치·방향",
+      "meaning_ko": "위",
+      "on_readings": [
+        "ジョウ",
+        "ショウ",
+        "シャン"
+      ],
+      "kun_readings": [
+        "うえ",
+        "-うえ",
+        "うわ-",
+        "かみ",
+        "あ.げる",
+        "-あ.げる",
+        "あ.がる",
+        "-あ.がる",
+        "あ.がり",
+        "-あ.がり",
+        "のぼ.る",
+        "のぼ.り",
+        "のぼ.せる",
+        "のぼ.す",
+        "たてまつ.る"
+      ],
+      "strokes": 3,
+      "example_words": [],
+      "related_lesson_ids": [],
+      "review_status": "basic_meaning_drafted",
+      "example_review_status": "pending"
+    },
+    {
+      "id": "kanji-042",
+      "character": "下",
+      "stage": 1,
+      "order": 42,
+      "group": 5,
+      "group_name": "위치·방향",
+      "meaning_ko": "아래",
+      "on_readings": [
+        "カ",
+        "ゲ"
+      ],
+      "kun_readings": [
+        "した",
+        "しも",
+        "もと",
+        "さ.げる",
+        "さ.がる",
+        "くだ.る",
+        "くだ.り",
+        "くだ.す",
+        "-くだ.す",
+        "くだ.さる",
+        "お.ろす",
+        "お.りる"
+      ],
+      "strokes": 3,
+      "example_words": [],
+      "related_lesson_ids": [],
+      "review_status": "basic_meaning_drafted",
+      "example_review_status": "pending"
+    },
+    {
+      "id": "kanji-043",
+      "character": "中",
+      "stage": 1,
+      "order": 43,
+      "group": 5,
+      "group_name": "위치·방향",
+      "meaning_ko": "가운데",
+      "on_readings": [
+        "チュウ"
+      ],
+      "kun_readings": [
+        "なか",
+        "うち",
+        "あた.る"
+      ],
+      "strokes": 4,
+      "example_words": [],
+      "related_lesson_ids": [],
+      "review_status": "basic_meaning_drafted",
+      "example_review_status": "pending"
+    },
+    {
+      "id": "kanji-044",
+      "character": "外",
+      "stage": 1,
+      "order": 44,
+      "group": 5,
+      "group_name": "위치·방향",
+      "meaning_ko": "밖",
+      "on_readings": [
+        "ガイ",
+        "ゲ"
+      ],
+      "kun_readings": [
+        "そと",
+        "ほか",
+        "はず.す",
+        "はず.れる",
+        "と-"
+      ],
+      "strokes": 5,
+      "example_words": [],
+      "related_lesson_ids": [],
+      "review_status": "basic_meaning_drafted",
+      "example_review_status": "pending"
+    },
+    {
+      "id": "kanji-045",
+      "character": "左",
+      "stage": 1,
+      "order": 45,
+      "group": 5,
+      "group_name": "위치·방향",
+      "meaning_ko": "왼쪽",
+      "on_readings": [
+        "サ",
+        "シャ"
+      ],
+      "kun_readings": [
+        "ひだり"
+      ],
+      "strokes": 5,
+      "example_words": [],
+      "related_lesson_ids": [],
+      "review_status": "basic_meaning_drafted",
+      "example_review_status": "pending"
+    },
+    {
+      "id": "kanji-046",
+      "character": "右",
+      "stage": 1,
+      "order": 46,
+      "group": 5,
+      "group_name": "위치·방향",
+      "meaning_ko": "오른쪽",
+      "on_readings": [
+        "ウ",
+        "ユウ"
+      ],
+      "kun_readings": [
+        "みぎ"
+      ],
+      "strokes": 5,
+      "example_words": [],
+      "related_lesson_ids": [],
+      "review_status": "basic_meaning_drafted",
+      "example_review_status": "pending"
+    },
+    {
+      "id": "kanji-047",
+      "character": "東",
+      "stage": 1,
+      "order": 47,
+      "group": 5,
+      "group_name": "위치·방향",
+      "meaning_ko": "동쪽",
+      "on_readings": [
+        "トウ"
+      ],
+      "kun_readings": [
+        "ひがし"
+      ],
+      "strokes": 8,
+      "example_words": [],
+      "related_lesson_ids": [],
+      "review_status": "basic_meaning_drafted",
+      "example_review_status": "pending"
+    },
+    {
+      "id": "kanji-048",
+      "character": "西",
+      "stage": 1,
+      "order": 48,
+      "group": 5,
+      "group_name": "위치·방향",
+      "meaning_ko": "서쪽",
+      "on_readings": [
+        "セイ",
+        "サイ",
+        "ス"
+      ],
+      "kun_readings": [
+        "にし"
+      ],
+      "strokes": 6,
+      "example_words": [],
+      "related_lesson_ids": [],
+      "review_status": "basic_meaning_drafted",
+      "example_review_status": "pending"
+    },
+    {
+      "id": "kanji-049",
+      "character": "北",
+      "stage": 1,
+      "order": 49,
+      "group": 5,
+      "group_name": "위치·방향",
+      "meaning_ko": "북쪽",
+      "on_readings": [
+        "ホク"
+      ],
+      "kun_readings": [
+        "きた"
+      ],
+      "strokes": 5,
+      "example_words": [],
+      "related_lesson_ids": [],
+      "review_status": "basic_meaning_drafted",
+      "example_review_status": "pending"
+    },
+    {
+      "id": "kanji-050",
+      "character": "南",
+      "stage": 1,
+      "order": 50,
+      "group": 5,
+      "group_name": "위치·방향",
+      "meaning_ko": "남쪽",
+      "on_readings": [
+        "ナン",
+        "ナ"
+      ],
+      "kun_readings": [
+        "みなみ"
+      ],
+      "strokes": 9,
+      "example_words": [],
+      "related_lesson_ids": [],
+      "review_status": "basic_meaning_drafted",
+      "example_review_status": "pending"
+    },
+    {
+      "id": "kanji-051",
+      "character": "行",
+      "stage": 1,
+      "order": 51,
+      "group": 6,
+      "group_name": "동작",
+      "meaning_ko": "가다",
+      "on_readings": [
+        "コウ",
+        "ギョウ",
+        "アン"
+      ],
+      "kun_readings": [
+        "い.く",
+        "ゆ.く",
+        "-ゆ.き",
+        "-ゆき",
+        "-い.き",
+        "-いき",
+        "おこな.う",
+        "おこ.なう"
+      ],
+      "strokes": 6,
+      "example_words": [],
+      "related_lesson_ids": [],
+      "review_status": "basic_meaning_drafted",
+      "example_review_status": "pending"
+    },
+    {
+      "id": "kanji-052",
+      "character": "来",
+      "stage": 1,
+      "order": 52,
+      "group": 6,
+      "group_name": "동작",
+      "meaning_ko": "오다",
+      "on_readings": [
+        "ライ",
+        "タイ"
+      ],
+      "kun_readings": [
+        "く.る",
+        "きた.る",
+        "きた.す",
+        "き.たす",
+        "き.たる",
+        "き",
+        "こ"
+      ],
+      "strokes": 7,
+      "example_words": [],
+      "related_lesson_ids": [],
+      "review_status": "basic_meaning_drafted",
+      "example_review_status": "pending"
+    },
+    {
+      "id": "kanji-053",
+      "character": "帰",
+      "stage": 1,
+      "order": 53,
+      "group": 6,
+      "group_name": "동작",
+      "meaning_ko": "돌아가다",
+      "on_readings": [
+        "キ"
+      ],
+      "kun_readings": [
+        "かえ.る",
+        "かえ.す",
+        "おく.る",
+        "とつ.ぐ"
+      ],
+      "strokes": 10,
+      "example_words": [],
+      "related_lesson_ids": [],
+      "review_status": "basic_meaning_drafted",
+      "example_review_status": "pending"
+    },
+    {
+      "id": "kanji-054",
+      "character": "入",
+      "stage": 1,
+      "order": 54,
+      "group": 6,
+      "group_name": "동작",
+      "meaning_ko": "들어가다",
+      "on_readings": [
+        "ニュウ",
+        "ジュ"
+      ],
+      "kun_readings": [
+        "い.る",
+        "-い.る",
+        "-い.り",
+        "い.れる",
+        "-い.れ",
+        "はい.る"
+      ],
+      "strokes": 2,
+      "example_words": [],
+      "related_lesson_ids": [],
+      "review_status": "basic_meaning_drafted",
+      "example_review_status": "pending"
+    },
+    {
+      "id": "kanji-055",
+      "character": "出",
+      "stage": 1,
+      "order": 55,
+      "group": 6,
+      "group_name": "동작",
+      "meaning_ko": "나가다",
+      "on_readings": [
+        "シュツ",
+        "スイ"
+      ],
+      "kun_readings": [
+        "で.る",
+        "-で",
+        "だ.す",
+        "-だ.す",
+        "い.でる",
+        "い.だす"
+      ],
+      "strokes": 5,
+      "example_words": [],
+      "related_lesson_ids": [],
+      "review_status": "basic_meaning_drafted",
+      "example_review_status": "pending"
+    },
+    {
+      "id": "kanji-056",
+      "character": "見",
+      "stage": 1,
+      "order": 56,
+      "group": 6,
+      "group_name": "동작",
+      "meaning_ko": "보다",
+      "on_readings": [
+        "ケン"
+      ],
+      "kun_readings": [
+        "み.る",
+        "み.える",
+        "み.せる"
+      ],
+      "strokes": 7,
+      "example_words": [],
+      "related_lesson_ids": [],
+      "review_status": "basic_meaning_drafted",
+      "example_review_status": "pending"
+    },
+    {
+      "id": "kanji-057",
+      "character": "聞",
+      "stage": 1,
+      "order": 57,
+      "group": 6,
+      "group_name": "동작",
+      "meaning_ko": "듣다",
+      "on_readings": [
+        "ブン",
+        "モン"
+      ],
+      "kun_readings": [
+        "き.く",
+        "き.こえる"
+      ],
+      "strokes": 14,
+      "example_words": [],
+      "related_lesson_ids": [],
+      "review_status": "basic_meaning_drafted",
+      "example_review_status": "pending"
+    },
+    {
+      "id": "kanji-058",
+      "character": "読",
+      "stage": 1,
+      "order": 58,
+      "group": 6,
+      "group_name": "동작",
+      "meaning_ko": "읽다",
+      "on_readings": [
+        "ドク",
+        "トク",
+        "トウ"
+      ],
+      "kun_readings": [
+        "よ.む",
+        "-よ.み"
+      ],
+      "strokes": 14,
+      "example_words": [],
+      "related_lesson_ids": [],
+      "review_status": "basic_meaning_drafted",
+      "example_review_status": "pending"
+    },
+    {
+      "id": "kanji-059",
+      "character": "書",
+      "stage": 1,
+      "order": 59,
+      "group": 6,
+      "group_name": "동작",
+      "meaning_ko": "쓰다",
+      "on_readings": [
+        "ショ"
+      ],
+      "kun_readings": [
+        "か.く",
+        "-が.き",
+        "-がき"
+      ],
+      "strokes": 10,
+      "example_words": [],
+      "related_lesson_ids": [],
+      "review_status": "basic_meaning_drafted",
+      "example_review_status": "pending"
+    },
+    {
+      "id": "kanji-060",
+      "character": "話",
+      "stage": 1,
+      "order": 60,
+      "group": 6,
+      "group_name": "동작",
+      "meaning_ko": "말하다",
+      "on_readings": [
+        "ワ"
+      ],
+      "kun_readings": [
+        "はな.す",
+        "はなし"
+      ],
+      "strokes": 13,
+      "example_words": [],
+      "related_lesson_ids": [],
+      "review_status": "basic_meaning_drafted",
+      "example_review_status": "pending"
+    },
+    {
+      "id": "kanji-061",
+      "character": "食",
+      "stage": 1,
+      "order": 61,
+      "group": 7,
+      "group_name": "일상·교통",
+      "meaning_ko": "먹다",
+      "on_readings": [
+        "ショク",
+        "ジキ"
+      ],
+      "kun_readings": [
+        "く.う",
+        "く.らう",
+        "た.べる",
+        "は.む"
+      ],
+      "strokes": 9,
+      "example_words": [],
+      "related_lesson_ids": [],
+      "review_status": "basic_meaning_drafted",
+      "example_review_status": "pending"
+    },
+    {
+      "id": "kanji-062",
+      "character": "飲",
+      "stage": 1,
+      "order": 62,
+      "group": 7,
+      "group_name": "일상·교통",
+      "meaning_ko": "마시다",
+      "on_readings": [
+        "イン",
+        "オン"
+      ],
+      "kun_readings": [
+        "の.む",
+        "-の.み"
+      ],
+      "strokes": 12,
+      "example_words": [],
+      "related_lesson_ids": [
+        6
+      ],
+      "review_status": "basic_meaning_drafted",
+      "example_review_status": "pending"
+    },
+    {
+      "id": "kanji-063",
+      "character": "買",
+      "stage": 1,
+      "order": 63,
+      "group": 7,
+      "group_name": "일상·교통",
+      "meaning_ko": "사다",
+      "on_readings": [
+        "バイ"
+      ],
+      "kun_readings": [
+        "か.う"
+      ],
+      "strokes": 12,
+      "example_words": [],
+      "related_lesson_ids": [],
+      "review_status": "basic_meaning_drafted",
+      "example_review_status": "pending"
+    },
+    {
+      "id": "kanji-064",
+      "character": "休",
+      "stage": 1,
+      "order": 64,
+      "group": 7,
+      "group_name": "일상·교통",
+      "meaning_ko": "쉬다",
+      "on_readings": [
+        "キュウ"
+      ],
+      "kun_readings": [
+        "やす.む",
+        "やす.まる",
+        "やす.める"
+      ],
+      "strokes": 6,
+      "example_words": [],
+      "related_lesson_ids": [
+        7
+      ],
+      "review_status": "basic_meaning_drafted",
+      "example_review_status": "pending"
+    },
+    {
+      "id": "kanji-065",
+      "character": "店",
+      "stage": 1,
+      "order": 65,
+      "group": 7,
+      "group_name": "일상·교통",
+      "meaning_ko": "가게",
+      "on_readings": [
+        "テン"
+      ],
+      "kun_readings": [
+        "みせ",
+        "たな"
+      ],
+      "strokes": 8,
+      "example_words": [],
+      "related_lesson_ids": [],
+      "review_status": "basic_meaning_drafted",
+      "example_review_status": "pending"
+    },
+    {
+      "id": "kanji-066",
+      "character": "駅",
+      "stage": 1,
+      "order": 66,
+      "group": 7,
+      "group_name": "일상·교통",
+      "meaning_ko": "역",
+      "on_readings": [
+        "エキ"
+      ],
+      "kun_readings": [],
+      "strokes": 14,
+      "example_words": [],
+      "related_lesson_ids": [],
+      "review_status": "basic_meaning_drafted",
+      "example_review_status": "pending"
+    },
+    {
+      "id": "kanji-067",
+      "character": "車",
+      "stage": 1,
+      "order": 67,
+      "group": 7,
+      "group_name": "일상·교통",
+      "meaning_ko": "수레",
+      "on_readings": [
+        "シャ"
+      ],
+      "kun_readings": [
+        "くるま"
+      ],
+      "strokes": 7,
+      "example_words": [],
+      "related_lesson_ids": [],
+      "review_status": "basic_meaning_drafted",
+      "example_review_status": "pending"
+    },
+    {
+      "id": "kanji-068",
+      "character": "電",
+      "stage": 1,
+      "order": 68,
+      "group": 7,
+      "group_name": "일상·교통",
+      "meaning_ko": "전기",
+      "on_readings": [
+        "デン"
+      ],
+      "kun_readings": [],
+      "strokes": 13,
+      "example_words": [],
+      "related_lesson_ids": [],
+      "review_status": "basic_meaning_drafted",
+      "example_review_status": "pending"
+    },
+    {
+      "id": "kanji-069",
+      "character": "道",
+      "stage": 1,
+      "order": 69,
+      "group": 7,
+      "group_name": "일상·교통",
+      "meaning_ko": "길",
+      "on_readings": [
+        "ドウ",
+        "トウ"
+      ],
+      "kun_readings": [
+        "みち",
+        "いう"
+      ],
+      "strokes": 12,
+      "example_words": [],
+      "related_lesson_ids": [],
+      "review_status": "basic_meaning_drafted",
+      "example_review_status": "pending"
+    },
+    {
+      "id": "kanji-070",
+      "character": "口",
+      "stage": 1,
+      "order": 70,
+      "group": 7,
+      "group_name": "일상·교통",
+      "meaning_ko": "입",
+      "on_readings": [
+        "コウ",
+        "ク"
+      ],
+      "kun_readings": [
+        "くち"
+      ],
+      "strokes": 3,
+      "example_words": [],
+      "related_lesson_ids": [],
+      "review_status": "basic_meaning_drafted",
+      "example_review_status": "pending"
+    },
+    {
+      "id": "kanji-071",
+      "character": "学",
+      "stage": 1,
+      "order": 71,
+      "group": 8,
+      "group_name": "학교·언어",
+      "meaning_ko": "배우다",
+      "on_readings": [
+        "ガク"
+      ],
+      "kun_readings": [
+        "まな.ぶ"
+      ],
+      "strokes": 8,
+      "example_words": [],
+      "related_lesson_ids": [
+        6,
+        7
+      ],
+      "review_status": "basic_meaning_drafted",
+      "example_review_status": "pending"
+    },
+    {
+      "id": "kanji-072",
+      "character": "校",
+      "stage": 1,
+      "order": 72,
+      "group": 8,
+      "group_name": "학교·언어",
+      "meaning_ko": "학교",
+      "on_readings": [
+        "コウ",
+        "キョウ"
+      ],
+      "kun_readings": [],
+      "strokes": 10,
+      "example_words": [],
+      "related_lesson_ids": [],
+      "review_status": "basic_meaning_drafted",
+      "example_review_status": "pending"
+    },
+    {
+      "id": "kanji-073",
+      "character": "本",
+      "stage": 1,
+      "order": 73,
+      "group": 8,
+      "group_name": "학교·언어",
+      "meaning_ko": "책",
+      "on_readings": [
+        "ホン"
+      ],
+      "kun_readings": [
+        "もと"
+      ],
+      "strokes": 5,
+      "example_words": [],
+      "related_lesson_ids": [],
+      "review_status": "basic_meaning_drafted",
+      "example_review_status": "pending"
+    },
+    {
+      "id": "kanji-074",
+      "character": "語",
+      "stage": 1,
+      "order": 74,
+      "group": 8,
+      "group_name": "학교·언어",
+      "meaning_ko": "말",
+      "on_readings": [
+        "ゴ"
+      ],
+      "kun_readings": [
+        "かた.る",
+        "かた.らう"
+      ],
+      "strokes": 14,
+      "example_words": [],
+      "related_lesson_ids": [],
+      "review_status": "basic_meaning_drafted",
+      "example_review_status": "pending"
+    },
+    {
+      "id": "kanji-075",
+      "character": "文",
+      "stage": 1,
+      "order": 75,
+      "group": 8,
+      "group_name": "학교·언어",
+      "meaning_ko": "글월",
+      "on_readings": [
+        "ブン",
+        "モン"
+      ],
+      "kun_readings": [
+        "ふみ",
+        "あや"
+      ],
+      "strokes": 4,
+      "example_words": [],
+      "related_lesson_ids": [],
+      "review_status": "basic_meaning_drafted",
+      "example_review_status": "pending"
+    },
+    {
+      "id": "kanji-076",
+      "character": "字",
+      "stage": 1,
+      "order": 76,
+      "group": 8,
+      "group_name": "학교·언어",
+      "meaning_ko": "글자",
+      "on_readings": [
+        "ジ"
+      ],
+      "kun_readings": [
+        "あざ",
+        "あざな",
+        "-な"
+      ],
+      "strokes": 6,
+      "example_words": [],
+      "related_lesson_ids": [],
+      "review_status": "basic_meaning_drafted",
+      "example_review_status": "pending"
+    },
+    {
+      "id": "kanji-077",
+      "character": "何",
+      "stage": 1,
+      "order": 77,
+      "group": 8,
+      "group_name": "학교·언어",
+      "meaning_ko": "무엇",
+      "on_readings": [
+        "カ"
+      ],
+      "kun_readings": [
+        "なに",
+        "なん",
+        "なに-",
+        "なん-"
+      ],
+      "strokes": 7,
+      "example_words": [],
+      "related_lesson_ids": [],
+      "review_status": "basic_meaning_drafted",
+      "example_review_status": "pending"
+    },
+    {
+      "id": "kanji-078",
+      "character": "問",
+      "stage": 1,
+      "order": 78,
+      "group": 8,
+      "group_name": "학교·언어",
+      "meaning_ko": "묻다",
+      "on_readings": [
+        "モン"
+      ],
+      "kun_readings": [
+        "と.う",
+        "と.い",
+        "とん"
+      ],
+      "strokes": 11,
+      "example_words": [],
+      "related_lesson_ids": [],
+      "review_status": "basic_meaning_drafted",
+      "example_review_status": "pending"
+    },
+    {
+      "id": "kanji-079",
+      "character": "答",
+      "stage": 1,
+      "order": 79,
+      "group": 8,
+      "group_name": "학교·언어",
+      "meaning_ko": "대답",
+      "on_readings": [
+        "トウ"
+      ],
+      "kun_readings": [
+        "こた.える",
+        "こた.え"
+      ],
+      "strokes": 12,
+      "example_words": [],
+      "related_lesson_ids": [],
+      "review_status": "basic_meaning_drafted",
+      "example_review_status": "pending"
+    },
+    {
+      "id": "kanji-080",
+      "character": "私",
+      "stage": 1,
+      "order": 80,
+      "group": 8,
+      "group_name": "학교·언어",
+      "meaning_ko": "나",
+      "on_readings": [
+        "シ"
+      ],
+      "kun_readings": [
+        "わたくし",
+        "わたし"
+      ],
+      "strokes": 7,
+      "example_words": [],
+      "related_lesson_ids": [
+        6
+      ],
+      "review_status": "basic_meaning_drafted",
+      "example_review_status": "pending"
+    },
+    {
+      "id": "kanji-081",
+      "character": "大",
+      "stage": 1,
+      "order": 81,
+      "group": 9,
+      "group_name": "상태·색상",
+      "meaning_ko": "크다",
+      "on_readings": [
+        "ダイ",
+        "タイ"
+      ],
+      "kun_readings": [
+        "おお-",
+        "おお.きい",
+        "-おお.いに"
+      ],
+      "strokes": 3,
+      "example_words": [],
+      "related_lesson_ids": [],
+      "review_status": "basic_meaning_drafted",
+      "example_review_status": "pending"
+    },
+    {
+      "id": "kanji-082",
+      "character": "小",
+      "stage": 1,
+      "order": 82,
+      "group": 9,
+      "group_name": "상태·색상",
+      "meaning_ko": "작다",
+      "on_readings": [
+        "ショウ"
+      ],
+      "kun_readings": [
+        "ちい.さい",
+        "こ-",
+        "お-",
+        "さ-"
+      ],
+      "strokes": 3,
+      "example_words": [],
+      "related_lesson_ids": [],
+      "review_status": "basic_meaning_drafted",
+      "example_review_status": "pending"
+    },
+    {
+      "id": "kanji-083",
+      "character": "高",
+      "stage": 1,
+      "order": 83,
+      "group": 9,
+      "group_name": "상태·색상",
+      "meaning_ko": "높다",
+      "on_readings": [
+        "コウ"
+      ],
+      "kun_readings": [
+        "たか.い",
+        "たか",
+        "-だか",
+        "たか.まる",
+        "たか.める"
+      ],
+      "strokes": 10,
+      "example_words": [],
+      "related_lesson_ids": [],
+      "review_status": "basic_meaning_drafted",
+      "example_review_status": "pending"
+    },
+    {
+      "id": "kanji-084",
+      "character": "安",
+      "stage": 1,
+      "order": 84,
+      "group": 9,
+      "group_name": "상태·색상",
+      "meaning_ko": "저렴하다",
+      "on_readings": [
+        "アン"
+      ],
+      "kun_readings": [
+        "やす.い",
+        "やす.まる",
+        "やす",
+        "やす.らか"
+      ],
+      "strokes": 6,
+      "example_words": [],
+      "related_lesson_ids": [],
+      "review_status": "basic_meaning_drafted",
+      "example_review_status": "pending"
+    },
+    {
+      "id": "kanji-085",
+      "character": "新",
+      "stage": 1,
+      "order": 85,
+      "group": 9,
+      "group_name": "상태·색상",
+      "meaning_ko": "새롭다",
+      "on_readings": [
+        "シン"
+      ],
+      "kun_readings": [
+        "あたら.しい",
+        "あら.た",
+        "あら-",
+        "にい-"
+      ],
+      "strokes": 13,
+      "example_words": [],
+      "related_lesson_ids": [],
+      "review_status": "basic_meaning_drafted",
+      "example_review_status": "pending"
+    },
+    {
+      "id": "kanji-086",
+      "character": "古",
+      "stage": 1,
+      "order": 86,
+      "group": 9,
+      "group_name": "상태·색상",
+      "meaning_ko": "오래되다",
+      "on_readings": [
+        "コ"
+      ],
+      "kun_readings": [
+        "ふる.い",
+        "ふる-",
+        "-ふる.す"
+      ],
+      "strokes": 5,
+      "example_words": [],
+      "related_lesson_ids": [],
+      "review_status": "basic_meaning_drafted",
+      "example_review_status": "pending"
+    },
+    {
+      "id": "kanji-087",
+      "character": "長",
+      "stage": 1,
+      "order": 87,
+      "group": 9,
+      "group_name": "상태·색상",
+      "meaning_ko": "길다",
+      "on_readings": [
+        "チョウ"
+      ],
+      "kun_readings": [
+        "なが.い",
+        "おさ"
+      ],
+      "strokes": 8,
+      "example_words": [],
+      "related_lesson_ids": [],
+      "review_status": "basic_meaning_drafted",
+      "example_review_status": "pending"
+    },
+    {
+      "id": "kanji-088",
+      "character": "白",
+      "stage": 1,
+      "order": 88,
+      "group": 9,
+      "group_name": "상태·색상",
+      "meaning_ko": "하얗다",
+      "on_readings": [
+        "ハク",
+        "ビャク"
+      ],
+      "kun_readings": [
+        "しろ",
+        "しら-",
+        "しろ.い"
+      ],
+      "strokes": 5,
+      "example_words": [],
+      "related_lesson_ids": [],
+      "review_status": "basic_meaning_drafted",
+      "example_review_status": "pending"
+    },
+    {
+      "id": "kanji-089",
+      "character": "黒",
+      "stage": 1,
+      "order": 89,
+      "group": 9,
+      "group_name": "상태·색상",
+      "meaning_ko": "검다",
+      "on_readings": [
+        "コク"
+      ],
+      "kun_readings": [
+        "くろ",
+        "くろ.ずむ",
+        "くろ.い"
+      ],
+      "strokes": 11,
+      "example_words": [],
+      "related_lesson_ids": [],
+      "review_status": "basic_meaning_drafted",
+      "example_review_status": "pending"
+    },
+    {
+      "id": "kanji-090",
+      "character": "赤",
+      "stage": 1,
+      "order": 90,
+      "group": 9,
+      "group_name": "상태·색상",
+      "meaning_ko": "빨갛다",
+      "on_readings": [
+        "セキ",
+        "シャク"
+      ],
+      "kun_readings": [
+        "あか",
+        "あか-",
+        "あか.い",
+        "あか.らむ",
+        "あか.らめる"
+      ],
+      "strokes": 7,
+      "example_words": [],
+      "related_lesson_ids": [],
+      "review_status": "basic_meaning_drafted",
+      "example_review_status": "pending"
+    },
+    {
+      "id": "kanji-091",
+      "character": "国",
+      "stage": 1,
+      "order": 91,
+      "group": 10,
+      "group_name": "여행·생활",
+      "meaning_ko": "나라",
+      "on_readings": [
+        "コク"
+      ],
+      "kun_readings": [
+        "くに"
+      ],
+      "strokes": 8,
+      "example_words": [],
+      "related_lesson_ids": [],
+      "review_status": "basic_meaning_drafted",
+      "example_review_status": "pending"
+    },
+    {
+      "id": "kanji-092",
+      "character": "円",
+      "stage": 1,
+      "order": 92,
+      "group": 10,
+      "group_name": "여행·생활",
+      "meaning_ko": "엔",
+      "on_readings": [
+        "エン"
+      ],
+      "kun_readings": [
+        "まる.い",
+        "まる",
+        "まど",
+        "まど.か",
+        "まろ.やか"
+      ],
+      "strokes": 4,
+      "example_words": [],
+      "related_lesson_ids": [],
+      "review_status": "basic_meaning_drafted",
+      "example_review_status": "pending"
+    },
+    {
+      "id": "kanji-093",
+      "character": "百",
+      "stage": 1,
+      "order": 93,
+      "group": 10,
+      "group_name": "여행·생활",
+      "meaning_ko": "백",
+      "on_readings": [
+        "ヒャク",
+        "ビャク"
+      ],
+      "kun_readings": [
+        "もも"
+      ],
+      "strokes": 6,
+      "example_words": [],
+      "related_lesson_ids": [],
+      "review_status": "basic_meaning_drafted",
+      "example_review_status": "pending"
+    },
+    {
+      "id": "kanji-094",
+      "character": "千",
+      "stage": 1,
+      "order": 94,
+      "group": 10,
+      "group_name": "여행·생활",
+      "meaning_ko": "천",
+      "on_readings": [
+        "セン"
+      ],
+      "kun_readings": [
+        "ち"
+      ],
+      "strokes": 3,
+      "example_words": [],
+      "related_lesson_ids": [],
+      "review_status": "basic_meaning_drafted",
+      "example_review_status": "pending"
+    },
+    {
+      "id": "kanji-095",
+      "character": "万",
+      "stage": 1,
+      "order": 95,
+      "group": 10,
+      "group_name": "여행·생활",
+      "meaning_ko": "만",
+      "on_readings": [
+        "マン",
+        "バン"
+      ],
+      "kun_readings": [
+        "よろず"
+      ],
+      "strokes": 3,
+      "example_words": [],
+      "related_lesson_ids": [],
+      "review_status": "basic_meaning_drafted",
+      "example_review_status": "pending"
+    },
+    {
+      "id": "kanji-096",
+      "character": "空",
+      "stage": 1,
+      "order": 96,
+      "group": 10,
+      "group_name": "여행·생활",
+      "meaning_ko": "하늘",
+      "on_readings": [
+        "クウ"
+      ],
+      "kun_readings": [
+        "そら",
+        "あ.く",
+        "あ.き",
+        "あ.ける",
+        "から",
+        "す.く",
+        "す.かす",
+        "むな.しい"
+      ],
+      "strokes": 8,
+      "example_words": [],
+      "related_lesson_ids": [],
+      "review_status": "basic_meaning_drafted",
+      "example_review_status": "pending"
+    },
+    {
+      "id": "kanji-097",
+      "character": "港",
+      "stage": 1,
+      "order": 97,
+      "group": 10,
+      "group_name": "여행·생활",
+      "meaning_ko": "항구",
+      "on_readings": [
+        "コウ"
+      ],
+      "kun_readings": [
+        "みなと"
+      ],
+      "strokes": 12,
+      "example_words": [],
+      "related_lesson_ids": [],
+      "review_status": "basic_meaning_drafted",
+      "example_review_status": "pending"
+    },
+    {
+      "id": "kanji-098",
+      "character": "旅",
+      "stage": 1,
+      "order": 98,
+      "group": 10,
+      "group_name": "여행·생활",
+      "meaning_ko": "여행",
+      "on_readings": [
+        "リョ"
+      ],
+      "kun_readings": [
+        "たび"
+      ],
+      "strokes": 10,
+      "example_words": [],
+      "related_lesson_ids": [],
+      "review_status": "basic_meaning_drafted",
+      "example_review_status": "pending"
+    },
+    {
+      "id": "kanji-099",
+      "character": "室",
+      "stage": 1,
+      "order": 99,
+      "group": 10,
+      "group_name": "여행·생활",
+      "meaning_ko": "방",
+      "on_readings": [
+        "シツ"
+      ],
+      "kun_readings": [
+        "むろ"
+      ],
+      "strokes": 9,
+      "example_words": [],
+      "related_lesson_ids": [],
+      "review_status": "basic_meaning_drafted",
+      "example_review_status": "pending"
+    },
+    {
+      "id": "kanji-100",
+      "character": "猫",
+      "stage": 1,
+      "order": 100,
+      "group": 10,
+      "group_name": "여행·생활",
+      "meaning_ko": "고양이",
+      "on_readings": [
+        "ビョウ"
+      ],
+      "kun_readings": [
+        "ねこ"
+      ],
+      "strokes": 11,
+      "example_words": [],
+      "related_lesson_ids": [
+        6
+      ],
+      "review_status": "basic_meaning_drafted",
+      "example_review_status": "pending"
+    }
+  ]
+}
