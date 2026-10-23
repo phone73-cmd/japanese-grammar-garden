@@ -1634,8 +1634,8 @@
         "衣服"
       ],
       "example_sentence": {
-        "ja": "旅行に着る服を選びます。",
-        "reading": "りょこうにきるふくをえらびます。",
+        "ja": "旅行で着る服を選びます。",
+        "reading": "りょこうできるふくをえらびます。",
         "translation_ko": "여행에서 입을 옷을 고릅니다.",
         "status": "authored_draft_editorial_review_pending"
       },
@@ -2615,8 +2615,8 @@
         "坊や"
       ],
       "example_sentence": {
-        "ja": "寝坊して電車に遅れました。",
-        "reading": "ねぼうしてでんしゃにおくれました。",
+        "ja": "寝坊して電車に乗り遅れました。",
+        "reading": "ねぼうしてでんしゃにのりおくれました。",
         "translation_ko": "늦잠을 자서 전철을 놓쳤습니다.",
         "status": "authored_draft_editorial_review_pending"
       },
