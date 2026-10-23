@@ -11,7 +11,13 @@
       "word": "田んぼ",
       "reading": "たんぼ",
       "source_status": "not_source_matched",
-      "review_status": "pending_editorial_dictionary_check"
+      "review_status": "editorial_reading_passed_dictionary_pending",
+      "editorial_review": {
+        "date": "2026-10-23",
+        "assessment": "The displayed spelling and kana reading are consistent with standard Japanese usage on manual linguistic review. Independent exact-entry dictionary cross-check remains pending.",
+        "caution": null,
+        "supporting_source": "https://dictionary.goo.ne.jp/thsrs/7154/meaning/m0u/"
+      }
     },
     {
       "kanji_id": "kanji-024",
@@ -20,7 +26,12 @@
       "word": "子ども",
       "reading": "こども",
       "source_status": "not_source_matched",
-      "review_status": "pending_editorial_dictionary_check"
+      "review_status": "editorial_reading_passed_dictionary_pending",
+      "editorial_review": {
+        "date": "2026-10-23",
+        "assessment": "The displayed spelling and kana reading are consistent with standard Japanese usage on manual linguistic review. Independent exact-entry dictionary cross-check remains pending.",
+        "caution": null
+      }
     },
     {
       "kanji_id": "kanji-025",
@@ -68,7 +79,12 @@
       "word": "日本語",
       "reading": "にほんご",
       "source_status": "not_source_matched",
-      "review_status": "pending_editorial_dictionary_check"
+      "review_status": "editorial_reading_passed_dictionary_pending",
+      "editorial_review": {
+        "date": "2026-10-23",
+        "assessment": "The displayed spelling and kana reading are consistent with standard Japanese usage on manual linguistic review. Independent exact-entry dictionary cross-check remains pending.",
+        "caution": null
+      }
     },
     {
       "kanji_id": "kanji-076",
@@ -77,7 +93,12 @@
       "word": "文字",
       "reading": "もじ",
       "source_status": "not_source_matched",
-      "review_status": "pending_editorial_dictionary_check"
+      "review_status": "editorial_reading_passed_dictionary_pending",
+      "editorial_review": {
+        "date": "2026-10-23",
+        "assessment": "The displayed spelling and kana reading are consistent with standard Japanese usage on manual linguistic review. Independent exact-entry dictionary cross-check remains pending.",
+        "caution": null
+      }
     },
     {
       "kanji_id": "kanji-077",
@@ -86,7 +107,12 @@
       "word": "何",
       "reading": "なに",
       "source_status": "not_source_matched",
-      "review_status": "pending_editorial_dictionary_check"
+      "review_status": "editorial_reading_passed_dictionary_pending",
+      "editorial_review": {
+        "date": "2026-10-23",
+        "assessment": "The displayed spelling and kana reading are consistent with standard Japanese usage on manual linguistic review. Independent exact-entry dictionary cross-check remains pending.",
+        "caution": "何 also reads なん depending on context."
+      }
     },
     {
       "kanji_id": "kanji-080",
@@ -121,7 +147,13 @@
       "word": "東京",
       "reading": "とうきょう",
       "source_status": "not_source_matched",
-      "review_status": "pending_editorial_dictionary_check"
+      "review_status": "editorial_reading_passed_dictionary_pending",
+      "editorial_review": {
+        "date": "2026-10-23",
+        "assessment": "The displayed spelling and kana reading are consistent with standard Japanese usage on manual linguistic review. Independent exact-entry dictionary cross-check remains pending.",
+        "caution": null,
+        "supporting_source": "https://dictionary.goo.ne.jp/word/%E6%9D%B1%E4%BA%AC_%28%E3%81%A8%E3%81%86%E3%81%8D%E3%82%87%E3%81%86%29/"
+      }
     },
     {
       "kanji_id": "kanji-271",
@@ -130,7 +162,12 @@
       "word": "実",
       "reading": "み",
       "source_status": "not_source_matched",
-      "review_status": "pending_editorial_dictionary_check"
+      "review_status": "editorial_reading_passed_dictionary_pending",
+      "editorial_review": {
+        "date": "2026-10-23",
+        "assessment": "The displayed spelling and kana reading are consistent with standard Japanese usage on manual linguistic review. Independent exact-entry dictionary cross-check remains pending.",
+        "caution": "実(み) refers to fruit/seed in the supplied sentence."
+      }
     },
     {
       "kanji_id": "kanji-279",
@@ -139,7 +176,12 @@
       "word": "現金",
       "reading": "げんきん",
       "source_status": "not_source_matched",
-      "review_status": "pending_editorial_dictionary_check"
+      "review_status": "editorial_reading_passed_dictionary_pending",
+      "editorial_review": {
+        "date": "2026-10-23",
+        "assessment": "The displayed spelling and kana reading are consistent with standard Japanese usage on manual linguistic review. Independent exact-entry dictionary cross-check remains pending.",
+        "caution": null
+      }
     },
     {
       "kanji_id": "kanji-287",
@@ -148,7 +190,12 @@
       "word": "目的",
       "reading": "もくてき",
       "source_status": "not_source_matched",
-      "review_status": "pending_editorial_dictionary_check"
+      "review_status": "editorial_reading_passed_dictionary_pending",
+      "editorial_review": {
+        "date": "2026-10-23",
+        "assessment": "The displayed spelling and kana reading are consistent with standard Japanese usage on manual linguistic review. Independent exact-entry dictionary cross-check remains pending.",
+        "caution": null
+      }
     },
     {
       "kanji_id": "kanji-289",
@@ -157,7 +204,12 @@
       "word": "制度",
       "reading": "せいど",
       "source_status": "not_source_matched",
-      "review_status": "pending_editorial_dictionary_check"
+      "review_status": "editorial_reading_passed_dictionary_pending",
+      "editorial_review": {
+        "date": "2026-10-23",
+        "assessment": "The displayed spelling and kana reading are consistent with standard Japanese usage on manual linguistic review. Independent exact-entry dictionary cross-check remains pending.",
+        "caution": null
+      }
     },
     {
       "kanji_id": "kanji-292",
@@ -166,7 +218,12 @@
       "word": "完成",
       "reading": "かんせい",
       "source_status": "not_source_matched",
-      "review_status": "pending_editorial_dictionary_check"
+      "review_status": "editorial_reading_passed_dictionary_pending",
+      "editorial_review": {
+        "date": "2026-10-23",
+        "assessment": "The displayed spelling and kana reading are consistent with standard Japanese usage on manual linguistic review. Independent exact-entry dictionary cross-check remains pending.",
+        "caution": null
+      }
     },
     {
       "kanji_id": "kanji-293",
@@ -175,7 +232,12 @@
       "word": "期間",
       "reading": "きかん",
       "source_status": "not_source_matched",
-      "review_status": "pending_editorial_dictionary_check"
+      "review_status": "editorial_reading_passed_dictionary_pending",
+      "editorial_review": {
+        "date": "2026-10-23",
+        "assessment": "The displayed spelling and kana reading are consistent with standard Japanese usage on manual linguistic review. Independent exact-entry dictionary cross-check remains pending.",
+        "caution": null
+      }
     },
     {
       "kanji_id": "kanji-296",
@@ -184,7 +246,12 @@
       "word": "平和",
       "reading": "へいわ",
       "source_status": "not_source_matched",
-      "review_status": "pending_editorial_dictionary_check"
+      "review_status": "editorial_reading_passed_dictionary_pending",
+      "editorial_review": {
+        "date": "2026-10-23",
+        "assessment": "The displayed spelling and kana reading are consistent with standard Japanese usage on manual linguistic review. Independent exact-entry dictionary cross-check remains pending.",
+        "caution": null
+      }
     },
     {
       "kanji_id": "kanji-298",
@@ -193,7 +260,12 @@
       "word": "平和",
       "reading": "へいわ",
       "source_status": "not_source_matched",
-      "review_status": "pending_editorial_dictionary_check"
+      "review_status": "editorial_reading_passed_dictionary_pending",
+      "editorial_review": {
+        "date": "2026-10-23",
+        "assessment": "The displayed spelling and kana reading are consistent with standard Japanese usage on manual linguistic review. Independent exact-entry dictionary cross-check remains pending.",
+        "caution": null
+      }
     },
     {
       "kanji_id": "kanji-299",
@@ -202,7 +274,12 @@
       "word": "参加",
       "reading": "さんか",
       "source_status": "not_source_matched",
-      "review_status": "pending_editorial_dictionary_check"
+      "review_status": "editorial_reading_passed_dictionary_pending",
+      "editorial_review": {
+        "date": "2026-10-23",
+        "assessment": "The displayed spelling and kana reading are consistent with standard Japanese usage on manual linguistic review. Independent exact-entry dictionary cross-check remains pending.",
+        "caution": null
+      }
     },
     {
       "kanji_id": "kanji-307",
@@ -211,7 +288,12 @@
       "word": "権利",
       "reading": "けんり",
       "source_status": "not_source_matched",
-      "review_status": "pending_editorial_dictionary_check"
+      "review_status": "editorial_reading_passed_dictionary_pending",
+      "editorial_review": {
+        "date": "2026-10-23",
+        "assessment": "The displayed spelling and kana reading are consistent with standard Japanese usage on manual linguistic review. Independent exact-entry dictionary cross-check remains pending.",
+        "caution": null
+      }
     },
     {
       "kanji_id": "kanji-315",
@@ -220,7 +302,12 @@
       "word": "共通",
       "reading": "きょうつう",
       "source_status": "not_source_matched",
-      "review_status": "pending_editorial_dictionary_check"
+      "review_status": "editorial_reading_passed_dictionary_pending",
+      "editorial_review": {
+        "date": "2026-10-23",
+        "assessment": "The displayed spelling and kana reading are consistent with standard Japanese usage on manual linguistic review. Independent exact-entry dictionary cross-check remains pending.",
+        "caution": null
+      }
     },
     {
       "kanji_id": "kanji-316",
@@ -229,7 +316,12 @@
       "word": "得意",
       "reading": "とくい",
       "source_status": "not_source_matched",
-      "review_status": "pending_editorial_dictionary_check"
+      "review_status": "editorial_reading_passed_dictionary_pending",
+      "editorial_review": {
+        "date": "2026-10-23",
+        "assessment": "The displayed spelling and kana reading are consistent with standard Japanese usage on manual linguistic review. Independent exact-entry dictionary cross-check remains pending.",
+        "caution": null
+      }
     },
     {
       "kanji_id": "kanji-317",
@@ -238,7 +330,12 @@
       "word": "理解",
       "reading": "りかい",
       "source_status": "not_source_matched",
-      "review_status": "pending_editorial_dictionary_check"
+      "review_status": "editorial_reading_passed_dictionary_pending",
+      "editorial_review": {
+        "date": "2026-10-23",
+        "assessment": "The displayed spelling and kana reading are consistent with standard Japanese usage on manual linguistic review. Independent exact-entry dictionary cross-check remains pending.",
+        "caution": null
+      }
     },
     {
       "kanji_id": "kanji-319",
@@ -247,7 +344,12 @@
       "word": "資料",
       "reading": "しりょう",
       "source_status": "not_source_matched",
-      "review_status": "pending_editorial_dictionary_check"
+      "review_status": "editorial_reading_passed_dictionary_pending",
+      "editorial_review": {
+        "date": "2026-10-23",
+        "assessment": "The displayed spelling and kana reading are consistent with standard Japanese usage on manual linguistic review. Independent exact-entry dictionary cross-check remains pending.",
+        "caution": null
+      }
     },
     {
       "kanji_id": "kanji-324",
@@ -256,7 +358,12 @@
       "word": "表面",
       "reading": "ひょうめん",
       "source_status": "not_source_matched",
-      "review_status": "pending_editorial_dictionary_check"
+      "review_status": "editorial_reading_passed_dictionary_pending",
+      "editorial_review": {
+        "date": "2026-10-23",
+        "assessment": "The displayed spelling and kana reading are consistent with standard Japanese usage on manual linguistic review. Independent exact-entry dictionary cross-check remains pending.",
+        "caution": null
+      }
     },
     {
       "kanji_id": "kanji-325",
@@ -265,7 +372,12 @@
       "word": "報告",
       "reading": "ほうこく",
       "source_status": "not_source_matched",
-      "review_status": "pending_editorial_dictionary_check"
+      "review_status": "editorial_reading_passed_dictionary_pending",
+      "editorial_review": {
+        "date": "2026-10-23",
+        "assessment": "The displayed spelling and kana reading are consistent with standard Japanese usage on manual linguistic review. Independent exact-entry dictionary cross-check remains pending.",
+        "caution": null
+      }
     },
     {
       "kanji_id": "kanji-327",
@@ -274,7 +386,12 @@
       "word": "判断",
       "reading": "はんだん",
       "source_status": "not_source_matched",
-      "review_status": "pending_editorial_dictionary_check"
+      "review_status": "editorial_reading_passed_dictionary_pending",
+      "editorial_review": {
+        "date": "2026-10-23",
+        "assessment": "The displayed spelling and kana reading are consistent with standard Japanese usage on manual linguistic review. Independent exact-entry dictionary cross-check remains pending.",
+        "caution": null
+      }
     },
     {
       "kanji_id": "kanji-328",
@@ -283,7 +400,12 @@
       "word": "確認",
       "reading": "かくにん",
       "source_status": "not_source_matched",
-      "review_status": "pending_editorial_dictionary_check"
+      "review_status": "editorial_reading_passed_dictionary_pending",
+      "editorial_review": {
+        "date": "2026-10-23",
+        "assessment": "The displayed spelling and kana reading are consistent with standard Japanese usage on manual linguistic review. Independent exact-entry dictionary cross-check remains pending.",
+        "caution": null
+      }
     },
     {
       "kanji_id": "kanji-332",
@@ -292,7 +414,12 @@
       "word": "信号",
       "reading": "しんごう",
       "source_status": "not_source_matched",
-      "review_status": "pending_editorial_dictionary_check"
+      "review_status": "editorial_reading_passed_dictionary_pending",
+      "editorial_review": {
+        "date": "2026-10-23",
+        "assessment": "The displayed spelling and kana reading are consistent with standard Japanese usage on manual linguistic review. Independent exact-entry dictionary cross-check remains pending.",
+        "caution": null
+      }
     },
     {
       "kanji_id": "kanji-333",
@@ -301,7 +428,12 @@
       "word": "現在",
       "reading": "げんざい",
       "source_status": "not_source_matched",
-      "review_status": "pending_editorial_dictionary_check"
+      "review_status": "editorial_reading_passed_dictionary_pending",
+      "editorial_review": {
+        "date": "2026-10-23",
+        "assessment": "The displayed spelling and kana reading are consistent with standard Japanese usage on manual linguistic review. Independent exact-entry dictionary cross-check remains pending.",
+        "caution": null
+      }
     },
     {
       "kanji_id": "kanji-334",
@@ -310,7 +442,12 @@
       "word": "事件",
       "reading": "じけん",
       "source_status": "not_source_matched",
-      "review_status": "pending_editorial_dictionary_check"
+      "review_status": "editorial_reading_passed_dictionary_pending",
+      "editorial_review": {
+        "date": "2026-10-23",
+        "assessment": "The displayed spelling and kana reading are consistent with standard Japanese usage on manual linguistic review. Independent exact-entry dictionary cross-check remains pending.",
+        "caution": null
+      }
     },
     {
       "kanji_id": "kanji-335",
@@ -319,7 +456,12 @@
       "word": "両側",
       "reading": "りょうがわ",
       "source_status": "not_source_matched",
-      "review_status": "pending_editorial_dictionary_check"
+      "review_status": "editorial_reading_passed_dictionary_pending",
+      "editorial_review": {
+        "date": "2026-10-23",
+        "assessment": "The displayed spelling and kana reading are consistent with standard Japanese usage on manual linguistic review. Independent exact-entry dictionary cross-check remains pending.",
+        "caution": null
+      }
     },
     {
       "kanji_id": "kanji-336",
@@ -328,7 +470,12 @@
       "word": "責任",
       "reading": "せきにん",
       "source_status": "not_source_matched",
-      "review_status": "pending_editorial_dictionary_check"
+      "review_status": "editorial_reading_passed_dictionary_pending",
+      "editorial_review": {
+        "date": "2026-10-23",
+        "assessment": "The displayed spelling and kana reading are consistent with standard Japanese usage on manual linguistic review. Independent exact-entry dictionary cross-check remains pending.",
+        "caution": null
+      }
     },
     {
       "kanji_id": "kanji-338",
@@ -337,7 +484,12 @@
       "word": "要求",
       "reading": "ようきゅう",
       "source_status": "not_source_matched",
-      "review_status": "pending_editorial_dictionary_check"
+      "review_status": "editorial_reading_passed_dictionary_pending",
+      "editorial_review": {
+        "date": "2026-10-23",
+        "assessment": "The displayed spelling and kana reading are consistent with standard Japanese usage on manual linguistic review. Independent exact-entry dictionary cross-check remains pending.",
+        "caution": null
+      }
     },
     {
       "kanji_id": "kanji-341",
@@ -346,7 +498,12 @@
       "word": "議論",
       "reading": "ぎろん",
       "source_status": "not_source_matched",
-      "review_status": "pending_editorial_dictionary_check"
+      "review_status": "editorial_reading_passed_dictionary_pending",
+      "editorial_review": {
+        "date": "2026-10-23",
+        "assessment": "The displayed spelling and kana reading are consistent with standard Japanese usage on manual linguistic review. Independent exact-entry dictionary cross-check remains pending.",
+        "caution": null
+      }
     },
     {
       "kanji_id": "kanji-345",
@@ -355,7 +512,12 @@
       "word": "感謝",
       "reading": "かんしゃ",
       "source_status": "not_source_matched",
-      "review_status": "pending_editorial_dictionary_check"
+      "review_status": "editorial_reading_passed_dictionary_pending",
+      "editorial_review": {
+        "date": "2026-10-23",
+        "assessment": "The displayed spelling and kana reading are consistent with standard Japanese usage on manual linguistic review. Independent exact-entry dictionary cross-check remains pending.",
+        "caution": null
+      }
     },
     {
       "kanji_id": "kanji-346",
@@ -364,7 +526,12 @@
       "word": "感情",
       "reading": "かんじょう",
       "source_status": "not_source_matched",
-      "review_status": "pending_editorial_dictionary_check"
+      "review_status": "editorial_reading_passed_dictionary_pending",
+      "editorial_review": {
+        "date": "2026-10-23",
+        "assessment": "The displayed spelling and kana reading are consistent with standard Japanese usage on manual linguistic review. Independent exact-entry dictionary cross-check remains pending.",
+        "caution": null
+      }
     },
     {
       "kanji_id": "kanji-348",
@@ -373,7 +540,12 @@
       "word": "示す",
       "reading": "しめす",
       "source_status": "not_source_matched",
-      "review_status": "pending_editorial_dictionary_check"
+      "review_status": "editorial_reading_passed_dictionary_pending",
+      "editorial_review": {
+        "date": "2026-10-23",
+        "assessment": "The displayed spelling and kana reading are consistent with standard Japanese usage on manual linguistic review. Independent exact-entry dictionary cross-check remains pending.",
+        "caution": null
+      }
     },
     {
       "kanji_id": "kanji-353",
@@ -382,7 +554,12 @@
       "word": "正式",
       "reading": "せいしき",
       "source_status": "not_source_matched",
-      "review_status": "pending_editorial_dictionary_check"
+      "review_status": "editorial_reading_passed_dictionary_pending",
+      "editorial_review": {
+        "date": "2026-10-23",
+        "assessment": "The displayed spelling and kana reading are consistent with standard Japanese usage on manual linguistic review. Independent exact-entry dictionary cross-check remains pending.",
+        "caution": null
+      }
     },
     {
       "kanji_id": "kanji-356",
@@ -391,7 +568,12 @@
       "word": "内容",
       "reading": "ないよう",
       "source_status": "not_source_matched",
-      "review_status": "pending_editorial_dictionary_check"
+      "review_status": "editorial_reading_passed_dictionary_pending",
+      "editorial_review": {
+        "date": "2026-10-23",
+        "assessment": "The displayed spelling and kana reading are consistent with standard Japanese usage on manual linguistic review. Independent exact-entry dictionary cross-check remains pending.",
+        "caution": null
+      }
     },
     {
       "kanji_id": "kanji-358",
@@ -400,7 +582,12 @@
       "word": "演奏",
       "reading": "えんそう",
       "source_status": "not_source_matched",
-      "review_status": "pending_editorial_dictionary_check"
+      "review_status": "editorial_reading_passed_dictionary_pending",
+      "editorial_review": {
+        "date": "2026-10-23",
+        "assessment": "The displayed spelling and kana reading are consistent with standard Japanese usage on manual linguistic review. Independent exact-entry dictionary cross-check remains pending.",
+        "caution": null
+      }
     },
     {
       "kanji_id": "kanji-362",
@@ -409,7 +596,12 @@
       "word": "可能",
       "reading": "かのう",
       "source_status": "not_source_matched",
-      "review_status": "pending_editorial_dictionary_check"
+      "review_status": "editorial_reading_passed_dictionary_pending",
+      "editorial_review": {
+        "date": "2026-10-23",
+        "assessment": "The displayed spelling and kana reading are consistent with standard Japanese usage on manual linguistic review. Independent exact-entry dictionary cross-check remains pending.",
+        "caution": null
+      }
     },
     {
       "kanji_id": "kanji-363",
@@ -418,7 +610,12 @@
       "word": "位置",
       "reading": "いち",
       "source_status": "not_source_matched",
-      "review_status": "pending_editorial_dictionary_check"
+      "review_status": "editorial_reading_passed_dictionary_pending",
+      "editorial_review": {
+        "date": "2026-10-23",
+        "assessment": "The displayed spelling and kana reading are consistent with standard Japanese usage on manual linguistic review. Independent exact-entry dictionary cross-check remains pending.",
+        "caution": null
+      }
     },
     {
       "kanji_id": "kanji-365",
@@ -427,7 +624,12 @@
       "word": "流行",
       "reading": "りゅうこう",
       "source_status": "not_source_matched",
-      "review_status": "pending_editorial_dictionary_check"
+      "review_status": "editorial_reading_passed_dictionary_pending",
+      "editorial_review": {
+        "date": "2026-10-23",
+        "assessment": "The displayed spelling and kana reading are consistent with standard Japanese usage on manual linguistic review. Independent exact-entry dictionary cross-check remains pending.",
+        "caution": null
+      }
     },
     {
       "kanji_id": "kanji-366",
@@ -436,7 +638,12 @@
       "word": "合格",
       "reading": "ごうかく",
       "source_status": "not_source_matched",
-      "review_status": "pending_editorial_dictionary_check"
+      "review_status": "editorial_reading_passed_dictionary_pending",
+      "editorial_review": {
+        "date": "2026-10-23",
+        "assessment": "The displayed spelling and kana reading are consistent with standard Japanese usage on manual linguistic review. Independent exact-entry dictionary cross-check remains pending.",
+        "caution": null
+      }
     },
     {
       "kanji_id": "kanji-367",
@@ -445,7 +652,12 @@
       "word": "疑問",
       "reading": "ぎもん",
       "source_status": "not_source_matched",
-      "review_status": "pending_editorial_dictionary_check"
+      "review_status": "editorial_reading_passed_dictionary_pending",
+      "editorial_review": {
+        "date": "2026-10-23",
+        "assessment": "The displayed spelling and kana reading are consistent with standard Japanese usage on manual linguistic review. Independent exact-entry dictionary cross-check remains pending.",
+        "caution": null
+      }
     },
     {
       "kanji_id": "kanji-372",
@@ -454,7 +666,12 @@
       "word": "状況",
       "reading": "じょうきょう",
       "source_status": "not_source_matched",
-      "review_status": "pending_editorial_dictionary_check"
+      "review_status": "editorial_reading_passed_dictionary_pending",
+      "editorial_review": {
+        "date": "2026-10-23",
+        "assessment": "The displayed spelling and kana reading are consistent with standard Japanese usage on manual linguistic review. Independent exact-entry dictionary cross-check remains pending.",
+        "caution": null
+      }
     },
     {
       "kanji_id": "kanji-373",
@@ -463,7 +680,12 @@
       "word": "地球",
       "reading": "ちきゅう",
       "source_status": "not_source_matched",
-      "review_status": "pending_editorial_dictionary_check"
+      "review_status": "editorial_reading_passed_dictionary_pending",
+      "editorial_review": {
+        "date": "2026-10-23",
+        "assessment": "The displayed spelling and kana reading are consistent with standard Japanese usage on manual linguistic review. Independent exact-entry dictionary cross-check remains pending.",
+        "caution": null
+      }
     },
     {
       "kanji_id": "kanji-374",
@@ -472,7 +694,12 @@
       "word": "職業",
       "reading": "しょくぎょう",
       "source_status": "not_source_matched",
-      "review_status": "pending_editorial_dictionary_check"
+      "review_status": "editorial_reading_passed_dictionary_pending",
+      "editorial_review": {
+        "date": "2026-10-23",
+        "assessment": "The displayed spelling and kana reading are consistent with standard Japanese usage on manual linguistic review. Independent exact-entry dictionary cross-check remains pending.",
+        "caution": null
+      }
     },
     {
       "kanji_id": "kanji-375",
@@ -481,7 +708,12 @@
       "word": "与える",
       "reading": "あたえる",
       "source_status": "not_source_matched",
-      "review_status": "pending_editorial_dictionary_check"
+      "review_status": "editorial_reading_passed_dictionary_pending",
+      "editorial_review": {
+        "date": "2026-10-23",
+        "assessment": "The displayed spelling and kana reading are consistent with standard Japanese usage on manual linguistic review. Independent exact-entry dictionary cross-check remains pending.",
+        "caution": null
+      }
     },
     {
       "kanji_id": "kanji-377",
@@ -490,7 +722,12 @@
       "word": "可能",
       "reading": "かのう",
       "source_status": "not_source_matched",
-      "review_status": "pending_editorial_dictionary_check"
+      "review_status": "editorial_reading_passed_dictionary_pending",
+      "editorial_review": {
+        "date": "2026-10-23",
+        "assessment": "The displayed spelling and kana reading are consistent with standard Japanese usage on manual linguistic review. Independent exact-entry dictionary cross-check remains pending.",
+        "caution": null
+      }
     },
     {
       "kanji_id": "kanji-381",
@@ -499,7 +736,12 @@
       "word": "出身",
       "reading": "しゅっしん",
       "source_status": "not_source_matched",
-      "review_status": "pending_editorial_dictionary_check"
+      "review_status": "editorial_reading_passed_dictionary_pending",
+      "editorial_review": {
+        "date": "2026-10-23",
+        "assessment": "The displayed spelling and kana reading are consistent with standard Japanese usage on manual linguistic review. Independent exact-entry dictionary cross-check remains pending.",
+        "caution": null
+      }
     },
     {
       "kanji_id": "kanji-382",
@@ -508,7 +750,12 @@
       "word": "費用",
       "reading": "ひよう",
       "source_status": "not_source_matched",
-      "review_status": "pending_editorial_dictionary_check"
+      "review_status": "editorial_reading_passed_dictionary_pending",
+      "editorial_review": {
+        "date": "2026-10-23",
+        "assessment": "The displayed spelling and kana reading are consistent with standard Japanese usage on manual linguistic review. Independent exact-entry dictionary cross-check remains pending.",
+        "caution": null
+      }
     },
     {
       "kanji_id": "kanji-389",
@@ -517,7 +764,12 @@
       "word": "収入",
       "reading": "しゅうにゅう",
       "source_status": "not_source_matched",
-      "review_status": "pending_editorial_dictionary_check"
+      "review_status": "editorial_reading_passed_dictionary_pending",
+      "editorial_review": {
+        "date": "2026-10-23",
+        "assessment": "The displayed spelling and kana reading are consistent with standard Japanese usage on manual linguistic review. Independent exact-entry dictionary cross-check remains pending.",
+        "caution": null
+      }
     },
     {
       "kanji_id": "kanji-390",
@@ -526,7 +778,12 @@
       "word": "断る",
       "reading": "ことわる",
       "source_status": "not_source_matched",
-      "review_status": "pending_editorial_dictionary_check"
+      "review_status": "editorial_reading_passed_dictionary_pending",
+      "editorial_review": {
+        "date": "2026-10-23",
+        "assessment": "The displayed spelling and kana reading are consistent with standard Japanese usage on manual linguistic review. Independent exact-entry dictionary cross-check remains pending.",
+        "caution": null
+      }
     },
     {
       "kanji_id": "kanji-400",
@@ -535,7 +792,12 @@
       "word": "被害",
       "reading": "ひがい",
       "source_status": "not_source_matched",
-      "review_status": "pending_editorial_dictionary_check"
+      "review_status": "editorial_reading_passed_dictionary_pending",
+      "editorial_review": {
+        "date": "2026-10-23",
+        "assessment": "The displayed spelling and kana reading are consistent with standard Japanese usage on manual linguistic review. Independent exact-entry dictionary cross-check remains pending.",
+        "caution": null
+      }
     },
     {
       "kanji_id": "kanji-408",
@@ -544,7 +806,12 @@
       "word": "想像",
       "reading": "そうぞう",
       "source_status": "not_source_matched",
-      "review_status": "pending_editorial_dictionary_check"
+      "review_status": "editorial_reading_passed_dictionary_pending",
+      "editorial_review": {
+        "date": "2026-10-23",
+        "assessment": "The displayed spelling and kana reading are consistent with standard Japanese usage on manual linguistic review. Independent exact-entry dictionary cross-check remains pending.",
+        "caution": null
+      }
     },
     {
       "kanji_id": "kanji-411",
@@ -553,7 +820,12 @@
       "word": "助ける",
       "reading": "たすける",
       "source_status": "not_source_matched",
-      "review_status": "pending_editorial_dictionary_check"
+      "review_status": "editorial_reading_passed_dictionary_pending",
+      "editorial_review": {
+        "date": "2026-10-23",
+        "assessment": "The displayed spelling and kana reading are consistent with standard Japanese usage on manual linguistic review. Independent exact-entry dictionary cross-check remains pending.",
+        "caution": null
+      }
     },
     {
       "kanji_id": "kanji-412",
@@ -562,7 +834,12 @@
       "word": "苦労",
       "reading": "くろう",
       "source_status": "not_source_matched",
-      "review_status": "pending_editorial_dictionary_check"
+      "review_status": "editorial_reading_passed_dictionary_pending",
+      "editorial_review": {
+        "date": "2026-10-23",
+        "assessment": "The displayed spelling and kana reading are consistent with standard Japanese usage on manual linguistic review. Independent exact-entry dictionary cross-check remains pending.",
+        "caution": null
+      }
     },
     {
       "kanji_id": "kanji-414",
@@ -571,7 +848,12 @@
       "word": "自然",
       "reading": "しぜん",
       "source_status": "not_source_matched",
-      "review_status": "pending_editorial_dictionary_check"
+      "review_status": "editorial_reading_passed_dictionary_pending",
+      "editorial_review": {
+        "date": "2026-10-23",
+        "assessment": "The displayed spelling and kana reading are consistent with standard Japanese usage on manual linguistic review. Independent exact-entry dictionary cross-check remains pending.",
+        "caution": null
+      }
     },
     {
       "kanji_id": "kanji-415",
@@ -580,7 +862,12 @@
       "word": "限界",
       "reading": "げんかい",
       "source_status": "not_source_matched",
-      "review_status": "pending_editorial_dictionary_check"
+      "review_status": "editorial_reading_passed_dictionary_pending",
+      "editorial_review": {
+        "date": "2026-10-23",
+        "assessment": "The displayed spelling and kana reading are consistent with standard Japanese usage on manual linguistic review. Independent exact-entry dictionary cross-check remains pending.",
+        "caution": null
+      }
     },
     {
       "kanji_id": "kanji-416",
@@ -589,7 +876,12 @@
       "word": "追う",
       "reading": "おう",
       "source_status": "not_source_matched",
-      "review_status": "pending_editorial_dictionary_check"
+      "review_status": "editorial_reading_passed_dictionary_pending",
+      "editorial_review": {
+        "date": "2026-10-23",
+        "assessment": "The displayed spelling and kana reading are consistent with standard Japanese usage on manual linguistic review. Independent exact-entry dictionary cross-check remains pending.",
+        "caution": null
+      }
     },
     {
       "kanji_id": "kanji-417",
@@ -598,7 +890,12 @@
       "word": "商品",
       "reading": "しょうひん",
       "source_status": "not_source_matched",
-      "review_status": "pending_editorial_dictionary_check"
+      "review_status": "editorial_reading_passed_dictionary_pending",
+      "editorial_review": {
+        "date": "2026-10-23",
+        "assessment": "The displayed spelling and kana reading are consistent with standard Japanese usage on manual linguistic review. Independent exact-entry dictionary cross-check remains pending.",
+        "caution": null
+      }
     },
     {
       "kanji_id": "kanji-431",
@@ -607,7 +904,12 @@
       "word": "月末",
       "reading": "げつまつ",
       "source_status": "not_source_matched",
-      "review_status": "pending_editorial_dictionary_check"
+      "review_status": "editorial_reading_passed_dictionary_pending",
+      "editorial_review": {
+        "date": "2026-10-23",
+        "assessment": "The displayed spelling and kana reading are consistent with standard Japanese usage on manual linguistic review. Independent exact-entry dictionary cross-check remains pending.",
+        "caution": null
+      }
     },
     {
       "kanji_id": "kanji-434",
@@ -616,7 +918,12 @@
       "word": "種類",
       "reading": "しゅるい",
       "source_status": "not_source_matched",
-      "review_status": "pending_editorial_dictionary_check"
+      "review_status": "editorial_reading_passed_dictionary_pending",
+      "editorial_review": {
+        "date": "2026-10-23",
+        "assessment": "The displayed spelling and kana reading are consistent with standard Japanese usage on manual linguistic review. Independent exact-entry dictionary cross-check remains pending.",
+        "caution": null
+      }
     },
     {
       "kanji_id": "kanji-437",
@@ -625,7 +932,12 @@
       "word": "幸福",
       "reading": "こうふく",
       "source_status": "not_source_matched",
-      "review_status": "pending_editorial_dictionary_check"
+      "review_status": "editorial_reading_passed_dictionary_pending",
+      "editorial_review": {
+        "date": "2026-10-23",
+        "assessment": "The displayed spelling and kana reading are consistent with standard Japanese usage on manual linguistic review. Independent exact-entry dictionary cross-check remains pending.",
+        "caution": null
+      }
     },
     {
       "kanji_id": "kanji-438",
@@ -634,7 +946,12 @@
       "word": "希望",
       "reading": "きぼう",
       "source_status": "not_source_matched",
-      "review_status": "pending_editorial_dictionary_check"
+      "review_status": "editorial_reading_passed_dictionary_pending",
+      "editorial_review": {
+        "date": "2026-10-23",
+        "assessment": "The displayed spelling and kana reading are consistent with standard Japanese usage on manual linguistic review. Independent exact-entry dictionary cross-check remains pending.",
+        "caution": null
+      }
     },
     {
       "kanji_id": "kanji-440",
@@ -643,7 +960,12 @@
       "word": "観光",
       "reading": "かんこう",
       "source_status": "not_source_matched",
-      "review_status": "pending_editorial_dictionary_check"
+      "review_status": "editorial_reading_passed_dictionary_pending",
+      "editorial_review": {
+        "date": "2026-10-23",
+        "assessment": "The displayed spelling and kana reading are consistent with standard Japanese usage on manual linguistic review. Independent exact-entry dictionary cross-check remains pending.",
+        "caution": null
+      }
     },
     {
       "kanji_id": "kanji-446",
@@ -652,7 +974,12 @@
       "word": "王様",
       "reading": "おうさま",
       "source_status": "not_source_matched",
-      "review_status": "pending_editorial_dictionary_check"
+      "review_status": "editorial_reading_passed_dictionary_pending",
+      "editorial_review": {
+        "date": "2026-10-23",
+        "assessment": "The displayed spelling and kana reading are consistent with standard Japanese usage on manual linguistic review. Independent exact-entry dictionary cross-check remains pending.",
+        "caution": null
+      }
     },
     {
       "kanji_id": "kanji-448",
@@ -661,7 +988,12 @@
       "word": "知識",
       "reading": "ちしき",
       "source_status": "not_source_matched",
-      "review_status": "pending_editorial_dictionary_check"
+      "review_status": "editorial_reading_passed_dictionary_pending",
+      "editorial_review": {
+        "date": "2026-10-23",
+        "assessment": "The displayed spelling and kana reading are consistent with standard Japanese usage on manual linguistic review. Independent exact-entry dictionary cross-check remains pending.",
+        "caution": null
+      }
     },
     {
       "kanji_id": "kanji-451",
@@ -670,7 +1002,12 @@
       "word": "良い",
       "reading": "よい",
       "source_status": "not_source_matched",
-      "review_status": "pending_editorial_dictionary_check"
+      "review_status": "editorial_reading_passed_dictionary_pending",
+      "editorial_review": {
+        "date": "2026-10-23",
+        "assessment": "The displayed spelling and kana reading are consistent with standard Japanese usage on manual linguistic review. Independent exact-entry dictionary cross-check remains pending.",
+        "caution": "良い may also be read いい in everyday use."
+      }
     },
     {
       "kanji_id": "kanji-452",
@@ -679,7 +1016,12 @@
       "word": "気候",
       "reading": "きこう",
       "source_status": "not_source_matched",
-      "review_status": "pending_editorial_dictionary_check"
+      "review_status": "editorial_reading_passed_dictionary_pending",
+      "editorial_review": {
+        "date": "2026-10-23",
+        "assessment": "The displayed spelling and kana reading are consistent with standard Japanese usage on manual linguistic review. Independent exact-entry dictionary cross-check remains pending.",
+        "caution": null
+      }
     },
     {
       "kanji_id": "kanji-453",
@@ -688,7 +1030,12 @@
       "word": "程度",
       "reading": "ていど",
       "source_status": "not_source_matched",
-      "review_status": "pending_editorial_dictionary_check"
+      "review_status": "editorial_reading_passed_dictionary_pending",
+      "editorial_review": {
+        "date": "2026-10-23",
+        "assessment": "The displayed spelling and kana reading are consistent with standard Japanese usage on manual linguistic review. Independent exact-entry dictionary cross-check remains pending.",
+        "caution": null
+      }
     },
     {
       "kanji_id": "kanji-454",
@@ -697,7 +1044,12 @@
       "word": "満足",
       "reading": "まんぞく",
       "source_status": "not_source_matched",
-      "review_status": "pending_editorial_dictionary_check"
+      "review_status": "editorial_reading_passed_dictionary_pending",
+      "editorial_review": {
+        "date": "2026-10-23",
+        "assessment": "The displayed spelling and kana reading are consistent with standard Japanese usage on manual linguistic review. Independent exact-entry dictionary cross-check remains pending.",
+        "caution": null
+      }
     },
     {
       "kanji_id": "kanji-456",
@@ -706,7 +1058,12 @@
       "word": "値段",
       "reading": "ねだん",
       "source_status": "not_source_matched",
-      "review_status": "pending_editorial_dictionary_check"
+      "review_status": "editorial_reading_passed_dictionary_pending",
+      "editorial_review": {
+        "date": "2026-10-23",
+        "assessment": "The displayed spelling and kana reading are consistent with standard Japanese usage on manual linguistic review. Independent exact-entry dictionary cross-check remains pending.",
+        "caution": null
+      }
     },
     {
       "kanji_id": "kanji-457",
@@ -715,7 +1072,12 @@
       "word": "突然",
       "reading": "とつぜん",
       "source_status": "not_source_matched",
-      "review_status": "pending_editorial_dictionary_check"
+      "review_status": "editorial_reading_passed_dictionary_pending",
+      "editorial_review": {
+        "date": "2026-10-23",
+        "assessment": "The displayed spelling and kana reading are consistent with standard Japanese usage on manual linguistic review. Independent exact-entry dictionary cross-check remains pending.",
+        "caution": null
+      }
     },
     {
       "kanji_id": "kanji-459",
@@ -724,7 +1086,12 @@
       "word": "道路",
       "reading": "どうろ",
       "source_status": "not_source_matched",
-      "review_status": "pending_editorial_dictionary_check"
+      "review_status": "editorial_reading_passed_dictionary_pending",
+      "editorial_review": {
+        "date": "2026-10-23",
+        "assessment": "The displayed spelling and kana reading are consistent with standard Japanese usage on manual linguistic review. Independent exact-entry dictionary cross-check remains pending.",
+        "caution": null
+      }
     },
     {
       "kanji_id": "kanji-461",
@@ -733,7 +1100,12 @@
       "word": "積もる",
       "reading": "つもる",
       "source_status": "not_source_matched",
-      "review_status": "pending_editorial_dictionary_check"
+      "review_status": "editorial_reading_passed_dictionary_pending",
+      "editorial_review": {
+        "date": "2026-10-23",
+        "assessment": "The displayed spelling and kana reading are consistent with standard Japanese usage on manual linguistic review. Independent exact-entry dictionary cross-check remains pending.",
+        "caution": null
+      }
     },
     {
       "kanji_id": "kanji-462",
@@ -742,7 +1114,12 @@
       "word": "他人",
       "reading": "たにん",
       "source_status": "not_source_matched",
-      "review_status": "pending_editorial_dictionary_check"
+      "review_status": "editorial_reading_passed_dictionary_pending",
+      "editorial_review": {
+        "date": "2026-10-23",
+        "assessment": "The displayed spelling and kana reading are consistent with standard Japanese usage on manual linguistic review. Independent exact-entry dictionary cross-check remains pending.",
+        "caution": null
+      }
     },
     {
       "kanji_id": "kanji-463",
@@ -751,7 +1128,12 @@
       "word": "処理",
       "reading": "しょり",
       "source_status": "not_source_matched",
-      "review_status": "pending_editorial_dictionary_check"
+      "review_status": "editorial_reading_passed_dictionary_pending",
+      "editorial_review": {
+        "date": "2026-10-23",
+        "assessment": "The displayed spelling and kana reading are consistent with standard Japanese usage on manual linguistic review. Independent exact-entry dictionary cross-check remains pending.",
+        "caution": null
+      }
     },
     {
       "kanji_id": "kanji-466",
@@ -760,7 +1142,12 @@
       "word": "否定",
       "reading": "ひてい",
       "source_status": "not_source_matched",
-      "review_status": "pending_editorial_dictionary_check"
+      "review_status": "editorial_reading_passed_dictionary_pending",
+      "editorial_review": {
+        "date": "2026-10-23",
+        "assessment": "The displayed spelling and kana reading are consistent with standard Japanese usage on manual linguistic review. Independent exact-entry dictionary cross-check remains pending.",
+        "caution": null
+      }
     },
     {
       "kanji_id": "kanji-467",
@@ -769,7 +1156,12 @@
       "word": "教師",
       "reading": "きょうし",
       "source_status": "not_source_matched",
-      "review_status": "pending_editorial_dictionary_check"
+      "review_status": "editorial_reading_passed_dictionary_pending",
+      "editorial_review": {
+        "date": "2026-10-23",
+        "assessment": "The displayed spelling and kana reading are consistent with standard Japanese usage on manual linguistic review. Independent exact-entry dictionary cross-check remains pending.",
+        "caution": null
+      }
     },
     {
       "kanji_id": "kanji-473",
@@ -778,7 +1170,12 @@
       "word": "殺す",
       "reading": "ころす",
       "source_status": "not_source_matched",
-      "review_status": "pending_editorial_dictionary_check"
+      "review_status": "editorial_reading_passed_dictionary_pending",
+      "editorial_review": {
+        "date": "2026-10-23",
+        "assessment": "The displayed spelling and kana reading are consistent with standard Japanese usage on manual linguistic review. Independent exact-entry dictionary cross-check remains pending.",
+        "caution": null
+      }
     },
     {
       "kanji_id": "kanji-477",
@@ -787,7 +1184,12 @@
       "word": "破る",
       "reading": "やぶる",
       "source_status": "not_source_matched",
-      "review_status": "pending_editorial_dictionary_check"
+      "review_status": "editorial_reading_passed_dictionary_pending",
+      "editorial_review": {
+        "date": "2026-10-23",
+        "assessment": "The displayed spelling and kana reading are consistent with standard Japanese usage on manual linguistic review. Independent exact-entry dictionary cross-check remains pending.",
+        "caution": null
+      }
     },
     {
       "kanji_id": "kanji-479",
@@ -796,7 +1198,12 @@
       "word": "完成",
       "reading": "かんせい",
       "source_status": "not_source_matched",
-      "review_status": "pending_editorial_dictionary_check"
+      "review_status": "editorial_reading_passed_dictionary_pending",
+      "editorial_review": {
+        "date": "2026-10-23",
+        "assessment": "The displayed spelling and kana reading are consistent with standard Japanese usage on manual linguistic review. Independent exact-entry dictionary cross-check remains pending.",
+        "caution": null
+      }
     },
     {
       "kanji_id": "kanji-481",
@@ -805,7 +1212,12 @@
       "word": "責任",
       "reading": "せきにん",
       "source_status": "not_source_matched",
-      "review_status": "pending_editorial_dictionary_check"
+      "review_status": "editorial_reading_passed_dictionary_pending",
+      "editorial_review": {
+        "date": "2026-10-23",
+        "assessment": "The displayed spelling and kana reading are consistent with standard Japanese usage on manual linguistic review. Independent exact-entry dictionary cross-check remains pending.",
+        "caution": null
+      }
     },
     {
       "kanji_id": "kanji-484",
@@ -814,7 +1226,12 @@
       "word": "給料",
       "reading": "きゅうりょう",
       "source_status": "not_source_matched",
-      "review_status": "pending_editorial_dictionary_check"
+      "review_status": "editorial_reading_passed_dictionary_pending",
+      "editorial_review": {
+        "date": "2026-10-23",
+        "assessment": "The displayed spelling and kana reading are consistent with standard Japanese usage on manual linguistic review. Independent exact-entry dictionary cross-check remains pending.",
+        "caution": null
+      }
     },
     {
       "kanji_id": "kanji-491",
@@ -823,7 +1240,12 @@
       "word": "馬",
       "reading": "うま",
       "source_status": "not_source_matched",
-      "review_status": "pending_editorial_dictionary_check"
+      "review_status": "editorial_reading_passed_dictionary_pending",
+      "editorial_review": {
+        "date": "2026-10-23",
+        "assessment": "The displayed spelling and kana reading are consistent with standard Japanese usage on manual linguistic review. Independent exact-entry dictionary cross-check remains pending.",
+        "caution": null
+      }
     },
     {
       "kanji_id": "kanji-492",
@@ -832,7 +1254,12 @@
       "word": "愛",
       "reading": "あい",
       "source_status": "not_source_matched",
-      "review_status": "pending_editorial_dictionary_check"
+      "review_status": "editorial_reading_passed_dictionary_pending",
+      "editorial_review": {
+        "date": "2026-10-23",
+        "assessment": "The displayed spelling and kana reading are consistent with standard Japanese usage on manual linguistic review. Independent exact-entry dictionary cross-check remains pending.",
+        "caution": null
+      }
     },
     {
       "kanji_id": "kanji-493",
@@ -841,7 +1268,12 @@
       "word": "豊富",
       "reading": "ほうふ",
       "source_status": "not_source_matched",
-      "review_status": "pending_editorial_dictionary_check"
+      "review_status": "editorial_reading_passed_dictionary_pending",
+      "editorial_review": {
+        "date": "2026-10-23",
+        "assessment": "The displayed spelling and kana reading are consistent with standard Japanese usage on manual linguistic review. Independent exact-entry dictionary cross-check remains pending.",
+        "caution": null
+      }
     },
     {
       "kanji_id": "kanji-495",
@@ -850,7 +1282,12 @@
       "word": "未来",
       "reading": "みらい",
       "source_status": "not_source_matched",
-      "review_status": "pending_editorial_dictionary_check"
+      "review_status": "editorial_reading_passed_dictionary_pending",
+      "editorial_review": {
+        "date": "2026-10-23",
+        "assessment": "The displayed spelling and kana reading are consistent with standard Japanese usage on manual linguistic review. Independent exact-entry dictionary cross-check remains pending.",
+        "caution": null
+      }
     }
   ]
 }
