@@ -34,14 +34,16 @@
           "reading": "あいだ",
           "romaji": "aida",
           "meaning_en": "a space",
-          "meaning_ko": null
+          "meaning_ko": "사이·동안",
+          "gloss_status": "curated_draft_needs_review"
         },
         {
           "word": "時間",
           "reading": "じかん",
           "romaji": "jikan",
           "meaning_en": "time",
-          "meaning_ko": null
+          "meaning_ko": "시간",
+          "gloss_status": "curated_draft_needs_review"
         }
       ],
       "candidate_words": [
@@ -52,7 +54,7 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
       "source_level": "N5",
       "meaning_ko_review_status": "draft_review_pending"
     },
@@ -79,14 +81,16 @@
           "reading": "き",
           "romaji": "ki",
           "meaning_en": "spirit",
-          "meaning_ko": null
+          "meaning_ko": "기운·기분",
+          "gloss_status": "curated_draft_needs_review"
         },
         {
           "word": "元気",
           "reading": "げんき",
           "romaji": "genki",
           "meaning_en": "health",
-          "meaning_ko": null
+          "meaning_ko": "건강함·활기",
+          "gloss_status": "curated_draft_needs_review"
         }
       ],
       "candidate_words": [
@@ -97,7 +101,7 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
       "source_level": "N5",
       "meaning_ko_review_status": "draft_review_pending"
     },
@@ -123,7 +127,8 @@
           "reading": "むり",
           "romaji": "muri",
           "meaning_en": "impossible",
-          "meaning_ko": null
+          "meaning_ko": "무리·불가능",
+          "gloss_status": "curated_draft_needs_review"
         },
         {
           "word": "無くす",
@@ -141,7 +146,7 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
       "source_level": "N5",
       "meaning_ko_review_status": "draft_review_pending"
     },
@@ -168,14 +173,16 @@
           "reading": "てんき",
           "romaji": "tenki",
           "meaning_en": "weather",
-          "meaning_ko": null
+          "meaning_ko": "날씨",
+          "gloss_status": "curated_draft_needs_review"
         },
         {
           "word": "天気予報",
           "reading": "てんきよほう",
           "romaji": "tenkiyohou",
           "meaning_en": "weather forecast",
-          "meaning_ko": null
+          "meaning_ko": "일기예보",
+          "gloss_status": "curated_draft_needs_review"
         }
       ],
       "candidate_words": [
@@ -186,7 +193,7 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
       "source_level": "N5",
       "meaning_ko_review_status": "draft_review_pending"
     },
@@ -213,7 +220,8 @@
           "reading": "あめ",
           "romaji": "ame",
           "meaning_en": "rain",
-          "meaning_ko": null
+          "meaning_ko": "비",
+          "gloss_status": "curated_draft_needs_review"
         }
       ],
       "candidate_words": [
@@ -224,7 +232,7 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
       "source_level": "N5",
       "meaning_ko_review_status": "draft_review_pending"
     },
@@ -250,14 +258,16 @@
           "reading": "じょうぶ",
           "romaji": "joubu",
           "meaning_en": "strong",
-          "meaning_ko": null
+          "meaning_ko": "튼튼함",
+          "gloss_status": "curated_draft_needs_review"
         },
         {
           "word": "大丈夫",
           "reading": "だいじょうぶ",
           "romaji": "daijoubu",
           "meaning_en": "all right",
-          "meaning_ko": null
+          "meaning_ko": "괜찮음",
+          "gloss_status": "curated_draft_needs_review"
         }
       ],
       "candidate_words": [
@@ -268,7 +278,7 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
       "source_level": "N5",
       "meaning_ko_review_status": "draft_review_pending"
     },
@@ -295,7 +305,8 @@
           "reading": "だれ",
           "romaji": "dare",
           "meaning_en": "who",
-          "meaning_ko": null
+          "meaning_ko": "누구",
+          "gloss_status": "curated_draft_needs_review"
         }
       ],
       "candidate_words": [
@@ -305,7 +316,7 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
       "source_level": "N5",
       "meaning_ko_review_status": "draft_review_pending"
     },
@@ -332,7 +343,8 @@
           "reading": "はる",
           "romaji": "haru",
           "meaning_en": "to stick",
-          "meaning_ko": null
+          "meaning_ko": "붙이다",
+          "gloss_status": "curated_draft_needs_review"
         }
       ],
       "candidate_words": [
@@ -341,7 +353,7 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
       "source_level": "N5",
       "meaning_ko_review_status": "draft_review_pending"
     },
@@ -369,14 +381,16 @@
           "reading": "あう",
           "romaji": "au",
           "meaning_en": "to meet",
-          "meaning_ko": null
+          "meaning_ko": "만나다",
+          "gloss_status": "curated_draft_needs_review"
         },
         {
           "word": "会社",
           "reading": "かいしゃ",
           "romaji": "kaisha",
           "meaning_en": "company",
-          "meaning_ko": null
+          "meaning_ko": "회사",
+          "gloss_status": "curated_draft_needs_review"
         }
       ],
       "candidate_words": [
@@ -387,7 +401,7 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
       "source_level": "N4",
       "meaning_ko_review_status": "draft_review_pending"
     },
@@ -412,7 +426,8 @@
           "reading": "おなじ",
           "romaji": "onaji",
           "meaning_en": "same",
-          "meaning_ko": null
+          "meaning_ko": "같다",
+          "gloss_status": "curated_draft_needs_review"
         }
       ],
       "candidate_words": [
@@ -423,7 +438,7 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
       "source_level": "N4",
       "meaning_ko_review_status": "draft_review_pending"
     },
@@ -451,14 +466,16 @@
           "reading": "しごと",
           "romaji": "shigoto",
           "meaning_en": "job",
-          "meaning_ko": null
+          "meaning_ko": "일·직업",
+          "gloss_status": "curated_draft_needs_review"
         },
         {
           "word": "火事",
           "reading": "かじ",
           "romaji": "kaji",
           "meaning_en": "fire",
-          "meaning_ko": null
+          "meaning_ko": "화재",
+          "gloss_status": "curated_draft_needs_review"
         }
       ],
       "candidate_words": [
@@ -469,7 +486,7 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
       "source_level": "N4",
       "meaning_ko_review_status": "draft_review_pending"
     },
@@ -497,14 +514,16 @@
           "reading": "じぶん",
           "romaji": "jibun",
           "meaning_en": "oneself",
-          "meaning_ko": null
+          "meaning_ko": "자신",
+          "gloss_status": "curated_draft_needs_review"
         },
         {
           "word": "自由",
           "reading": "じゆう",
           "romaji": "jiyuu",
           "meaning_en": "freedom",
-          "meaning_ko": null
+          "meaning_ko": "자유",
+          "gloss_status": "curated_draft_needs_review"
         }
       ],
       "candidate_words": [
@@ -515,7 +534,7 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
       "source_level": "N4",
       "meaning_ko_review_status": "draft_review_pending"
     },
@@ -540,14 +559,16 @@
           "reading": "かいしゃ",
           "romaji": "kaisha",
           "meaning_en": "company",
-          "meaning_ko": null
+          "meaning_ko": "회사",
+          "gloss_status": "curated_draft_needs_review"
         },
         {
           "word": "社会",
           "reading": "しゃかい",
           "romaji": "shakai",
           "meaning_en": "society",
-          "meaning_ko": null
+          "meaning_ko": "사회",
+          "gloss_status": "curated_draft_needs_review"
         }
       ],
       "candidate_words": [
@@ -558,7 +579,7 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
       "source_level": "N4",
       "meaning_ko_review_status": "draft_review_pending"
     },
@@ -588,14 +609,16 @@
           "reading": "しゅっぱつ",
           "romaji": "shuppatsu",
           "meaning_en": "to depart",
-          "meaning_ko": null
+          "meaning_ko": "출발",
+          "gloss_status": "curated_draft_needs_review"
         },
         {
           "word": "発音",
           "reading": "はつおん",
           "romaji": "hatsuon",
           "meaning_en": "pronunciation",
-          "meaning_ko": null
+          "meaning_ko": "발음",
+          "gloss_status": "curated_draft_needs_review"
         }
       ],
       "candidate_words": [
@@ -606,7 +629,7 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
       "source_level": "N4",
       "meaning_ko_review_status": "draft_review_pending"
     },
@@ -631,14 +654,16 @@
           "reading": "いしゃ",
           "romaji": "isha",
           "meaning_en": "medical doctor",
-          "meaning_ko": null
+          "meaning_ko": "의사",
+          "gloss_status": "curated_draft_needs_review"
         },
         {
           "word": "歯医者",
           "reading": "はいしゃ",
           "romaji": "haisha",
           "meaning_en": "dentist",
-          "meaning_ko": null
+          "meaning_ko": "치과의사",
+          "gloss_status": "curated_draft_needs_review"
         }
       ],
       "candidate_words": [
@@ -649,7 +674,7 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
       "source_level": "N4",
       "meaning_ko_review_status": "draft_review_pending"
     },
@@ -673,14 +698,16 @@
           "reading": "ちず",
           "romaji": "chizu",
           "meaning_en": "map",
-          "meaning_ko": null
+          "meaning_ko": "지도",
+          "gloss_status": "curated_draft_needs_review"
         },
         {
           "word": "地震",
           "reading": "じしん",
           "romaji": "jishin",
           "meaning_en": "earthquake",
-          "meaning_ko": null
+          "meaning_ko": "지진",
+          "gloss_status": "curated_draft_needs_review"
         }
       ],
       "candidate_words": [
@@ -691,7 +718,7 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
       "source_level": "N4",
       "meaning_ko_review_status": "draft_review_pending"
     },
@@ -717,14 +744,16 @@
           "reading": "じゅぎょう",
           "romaji": "jugyou",
           "meaning_en": "lesson",
-          "meaning_ko": null
+          "meaning_ko": "수업",
+          "gloss_status": "curated_draft_needs_review"
         },
         {
           "word": "工業",
           "reading": "こうぎょう",
           "romaji": "kougyou",
           "meaning_en": "the manufacturing industry",
-          "meaning_ko": null
+          "meaning_ko": "공업",
+          "gloss_status": "curated_draft_needs_review"
         }
       ],
       "candidate_words": [
@@ -735,7 +764,7 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
       "source_level": "N4",
       "meaning_ko_review_status": "draft_review_pending"
     },
@@ -769,7 +798,8 @@
           "reading": "ゆうがた",
           "romaji": "yuugata",
           "meaning_en": "evening",
-          "meaning_ko": null
+          "meaning_ko": "저녁 무렵",
+          "gloss_status": "curated_draft_needs_review"
         }
       ],
       "candidate_words": [
@@ -780,7 +810,7 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
       "source_level": "N4",
       "meaning_ko_review_status": "draft_review_pending"
     },
@@ -806,14 +836,16 @@
           "reading": "かいじょう",
           "romaji": "kaijou",
           "meaning_en": "assembly hall or meeting place",
-          "meaning_ko": null
+          "meaning_ko": "행사장",
+          "gloss_status": "curated_draft_needs_review"
         },
         {
           "word": "工場",
           "reading": "こうじょう",
           "romaji": "koujou",
           "meaning_en": "factory",
-          "meaning_ko": null
+          "meaning_ko": "공장",
+          "gloss_status": "curated_draft_needs_review"
         }
       ],
       "candidate_words": [
@@ -824,7 +856,7 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
       "source_level": "N4",
       "meaning_ko_review_status": "draft_review_pending"
     },
@@ -847,14 +879,16 @@
           "reading": "てんいん",
           "romaji": "ten'in",
           "meaning_en": "shop assistant",
-          "meaning_ko": null
+          "meaning_ko": "점원",
+          "gloss_status": "curated_draft_needs_review"
         },
         {
           "word": "公務員",
           "reading": "こうむいん",
           "romaji": "koumuin",
           "meaning_en": "government worker",
-          "meaning_ko": null
+          "meaning_ko": "공무원",
+          "gloss_status": "curated_draft_needs_review"
         }
       ],
       "candidate_words": [
@@ -865,7 +899,7 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
       "source_level": "N4",
       "meaning_ko_review_status": "draft_review_pending"
     },
@@ -901,14 +935,16 @@
           "reading": "たつ",
           "romaji": "tatsu",
           "meaning_en": "to stand",
-          "meaning_ko": null
+          "meaning_ko": "서다",
+          "gloss_status": "curated_draft_needs_review"
         },
         {
           "word": "立てる",
           "reading": "たてる",
           "romaji": "tateru",
           "meaning_en": "to stand something up",
-          "meaning_ko": null
+          "meaning_ko": "세우다",
+          "gloss_status": "curated_draft_needs_review"
         }
       ],
       "candidate_words": [
@@ -919,7 +955,7 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
       "source_level": "N4",
       "meaning_ko_review_status": "draft_review_pending"
     },
@@ -949,14 +985,16 @@
           "reading": "あく",
           "romaji": "aku",
           "meaning_en": "to open",
-          "meaning_ko": null
+          "meaning_ko": "열리다·열다",
+          "gloss_status": "curated_draft_needs_review"
         },
         {
           "word": "開く",
           "reading": "ひらく",
           "romaji": "hiraku",
           "meaning_en": "to open an event",
-          "meaning_ko": null
+          "meaning_ko": "열리다·열다",
+          "gloss_status": "curated_draft_needs_review"
         }
       ],
       "candidate_words": [
@@ -967,7 +1005,7 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
       "source_level": "N4",
       "meaning_ko_review_status": "draft_review_pending"
     },
@@ -996,14 +1034,16 @@
           "reading": "て",
           "romaji": "te",
           "meaning_en": "hand",
-          "meaning_ko": null
+          "meaning_ko": "손",
+          "gloss_status": "curated_draft_needs_review"
         },
         {
           "word": "切手",
           "reading": "きって",
           "romaji": "kitte",
           "meaning_en": "postage stamp",
-          "meaning_ko": null
+          "meaning_ko": "우표",
+          "gloss_status": "curated_draft_needs_review"
         }
       ],
       "candidate_words": [
@@ -1014,7 +1054,7 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
       "source_level": "N4",
       "meaning_ko_review_status": "draft_review_pending"
     },
@@ -1041,7 +1081,8 @@
           "reading": "ちから",
           "romaji": "chikara",
           "meaning_en": "strength",
-          "meaning_ko": null
+          "meaning_ko": "힘",
+          "gloss_status": "curated_draft_needs_review"
         }
       ],
       "candidate_words": [
@@ -1052,7 +1093,7 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
       "source_level": "N4",
       "meaning_ko_review_status": "draft_review_pending"
     },
@@ -1086,14 +1127,16 @@
           "reading": "じだい",
           "romaji": "jidai",
           "meaning_en": "era",
-          "meaning_ko": null
+          "meaning_ko": "시대",
+          "gloss_status": "curated_draft_needs_review"
         },
         {
           "word": "代わり",
           "reading": "かわり",
           "romaji": "kawari",
           "meaning_en": "substitute",
-          "meaning_ko": null
+          "meaning_ko": "대신",
+          "gloss_status": "curated_draft_needs_review"
         }
       ],
       "candidate_words": [
@@ -1104,7 +1147,7 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
       "source_level": "N4",
       "meaning_ko_review_status": "draft_review_pending"
     },
@@ -1140,14 +1183,16 @@
           "reading": "あした",
           "romaji": "ashita",
           "meaning_en": "tomorrow",
-          "meaning_ko": null
+          "meaning_ko": "내일",
+          "gloss_status": "curated_draft_needs_review"
         },
         {
           "word": "明日",
           "reading": "あす",
           "romaji": "asu",
           "meaning_en": "tomorrow",
-          "meaning_ko": null
+          "meaning_ko": "내일",
+          "gloss_status": "curated_draft_needs_review"
         }
       ],
       "candidate_words": [
@@ -1158,7 +1203,7 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
       "source_level": "N4",
       "meaning_ko_review_status": "draft_review_pending"
     },
@@ -1184,14 +1229,16 @@
           "reading": "どうぶつ",
           "romaji": "doubutsu",
           "meaning_en": "animal",
-          "meaning_ko": null
+          "meaning_ko": "동물",
+          "gloss_status": "curated_draft_needs_review"
         },
         {
           "word": "動く",
           "reading": "うごく",
           "romaji": "ugoku",
           "meaning_en": "to move",
-          "meaning_ko": null
+          "meaning_ko": "움직이다",
+          "gloss_status": "curated_draft_needs_review"
         }
       ],
       "candidate_words": [
@@ -1202,7 +1249,7 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
       "source_level": "N4",
       "meaning_ko_review_status": "draft_review_pending"
     },
@@ -1231,7 +1278,7 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
       "source_level": "N4",
       "meaning_ko_review_status": "draft_review_pending"
     },
@@ -1259,7 +1306,8 @@
           "reading": "め",
           "romaji": "me",
           "meaning_en": "eye",
-          "meaning_ko": null
+          "meaning_ko": "눈",
+          "gloss_status": "curated_draft_needs_review"
         }
       ],
       "candidate_words": [
@@ -1270,7 +1318,7 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
       "source_level": "N4",
       "meaning_ko_review_status": "draft_review_pending"
     },
@@ -1303,14 +1351,16 @@
           "reading": "かよう",
           "romaji": "kayou",
           "meaning_en": "to commute",
-          "meaning_ko": null
+          "meaning_ko": "다니다",
+          "gloss_status": "curated_draft_needs_review"
         },
         {
           "word": "交通",
           "reading": "こうつう",
           "romaji": "koutsuu",
           "meaning_en": "traffic",
-          "meaning_ko": null
+          "meaning_ko": "교통",
+          "gloss_status": "curated_draft_needs_review"
         }
       ],
       "candidate_words": [
@@ -1321,7 +1371,7 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
       "source_level": "N4",
       "meaning_ko_review_status": "draft_review_pending"
     },
@@ -1348,14 +1398,16 @@
           "reading": "いう",
           "romaji": "iu",
           "meaning_en": "to say",
-          "meaning_ko": null
+          "meaning_ko": "말하다",
+          "gloss_status": "curated_draft_needs_review"
         },
         {
           "word": "言葉",
           "reading": "ことば",
           "romaji": "kotoba",
           "meaning_en": "word",
-          "meaning_ko": null
+          "meaning_ko": "말·단어",
+          "gloss_status": "curated_draft_needs_review"
         }
       ],
       "candidate_words": [
@@ -1366,7 +1418,7 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
       "source_level": "N4",
       "meaning_ko_review_status": "draft_review_pending"
     },
@@ -1391,14 +1443,16 @@
           "reading": "りょうり",
           "romaji": "ryouri",
           "meaning_en": "cuisine",
-          "meaning_ko": null
+          "meaning_ko": "요리",
+          "gloss_status": "curated_draft_needs_review"
         },
         {
           "word": "地理",
           "reading": "ちり",
           "romaji": "chiri",
           "meaning_en": "geography",
-          "meaning_ko": null
+          "meaning_ko": "지리",
+          "gloss_status": "curated_draft_needs_review"
         }
       ],
       "candidate_words": [
@@ -1409,7 +1463,7 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
       "source_level": "N4",
       "meaning_ko_review_status": "draft_review_pending"
     },
@@ -1436,14 +1490,16 @@
           "reading": "からだ",
           "romaji": "karada",
           "meaning_en": "body",
-          "meaning_ko": null
+          "meaning_ko": "몸",
+          "gloss_status": "curated_draft_needs_review"
         },
         {
           "word": "大体",
           "reading": "だいたい",
           "romaji": "daitai",
           "meaning_en": "generally",
-          "meaning_ko": null
+          "meaning_ko": "대체로",
+          "gloss_status": "curated_draft_needs_review"
         }
       ],
       "candidate_words": [
@@ -1454,7 +1510,7 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
       "source_level": "N4",
       "meaning_ko_review_status": "draft_review_pending"
     },
@@ -1483,7 +1539,8 @@
           "reading": "ごしゅじん",
           "romaji": "goshujin",
           "meaning_en": "(honorable) your husband",
-          "meaning_ko": null
+          "meaning_ko": "남편(상대의)",
+          "gloss_status": "curated_draft_needs_review"
         }
       ],
       "candidate_words": [
@@ -1494,7 +1551,7 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
       "source_level": "N4",
       "meaning_ko_review_status": "draft_review_pending"
     },
@@ -1517,14 +1574,16 @@
           "reading": "しゅくだい",
           "romaji": "shukudai",
           "meaning_en": "homework",
-          "meaning_ko": null
+          "meaning_ko": "숙제",
+          "gloss_status": "curated_draft_needs_review"
         },
         {
           "word": "問題",
           "reading": "もんだい",
           "romaji": "mondai",
           "meaning_en": "problem",
-          "meaning_ko": null
+          "meaning_ko": "문제",
+          "gloss_status": "curated_draft_needs_review"
         }
       ],
       "candidate_words": [
@@ -1535,7 +1594,7 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
       "source_level": "N4",
       "meaning_ko_review_status": "draft_review_pending"
     },
@@ -1558,14 +1617,16 @@
           "reading": "いみ",
           "romaji": "imi",
           "meaning_en": "meaning",
-          "meaning_ko": null
+          "meaning_ko": "의미",
+          "gloss_status": "curated_draft_needs_review"
         },
         {
           "word": "意見",
           "reading": "いけん",
           "romaji": "iken",
           "meaning_en": "opinion",
-          "meaning_ko": null
+          "meaning_ko": "의견",
+          "gloss_status": "curated_draft_needs_review"
         }
       ],
       "candidate_words": [
@@ -1576,7 +1637,7 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
       "source_level": "N4",
       "meaning_ko_review_status": "draft_review_pending"
     },
@@ -1600,7 +1661,8 @@
           "reading": "ふべん",
           "romaji": "fuben",
           "meaning_en": "inconvenience",
-          "meaning_ko": null
+          "meaning_ko": "불편함",
+          "gloss_status": "curated_draft_needs_review"
         }
       ],
       "candidate_words": [
@@ -1611,7 +1673,7 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
       "source_level": "N4",
       "meaning_ko_review_status": "draft_review_pending"
     },
@@ -1639,14 +1701,16 @@
           "reading": "さくぶん",
           "romaji": "sakubun",
           "meaning_en": "composition",
-          "meaning_ko": null
+          "meaning_ko": "작문",
+          "gloss_status": "curated_draft_needs_review"
         },
         {
           "word": "作る",
           "reading": "つくる",
           "romaji": "tsukuru",
           "meaning_en": "to make",
-          "meaning_ko": null
+          "meaning_ko": "만들다",
+          "gloss_status": "curated_draft_needs_review"
         }
       ],
       "candidate_words": [
@@ -1657,7 +1721,7 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
       "source_level": "N4",
       "meaning_ko_review_status": "draft_review_pending"
     },
@@ -1689,7 +1753,8 @@
           "reading": "ようい",
           "romaji": "youi",
           "meaning_en": "preparation",
-          "meaning_ko": null
+          "meaning_ko": "준비",
+          "gloss_status": "curated_draft_needs_review"
         }
       ],
       "candidate_words": [
@@ -1700,7 +1765,7 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
       "source_level": "N4",
       "meaning_ko_review_status": "draft_review_pending"
     },
@@ -1728,14 +1793,16 @@
           "reading": "いちど",
           "romaji": "ichido",
           "meaning_en": "once",
-          "meaning_ko": null
+          "meaning_ko": "한 번",
+          "gloss_status": "curated_draft_needs_review"
         },
         {
           "word": "今度",
           "reading": "こんど",
           "romaji": "kondo",
           "meaning_en": "now",
-          "meaning_ko": null
+          "meaning_ko": "이번·다음번",
+          "gloss_status": "curated_draft_needs_review"
         }
       ],
       "candidate_words": [
@@ -1746,7 +1813,7 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
       "source_level": "N4",
       "meaning_ko_review_status": "draft_review_pending"
     },
@@ -1776,14 +1843,16 @@
           "reading": "つよい",
           "romaji": "tsuyoi",
           "meaning_en": "powerful",
-          "meaning_ko": null
+          "meaning_ko": "강하다",
+          "gloss_status": "curated_draft_needs_review"
         },
         {
           "word": "勉強",
           "reading": "べんきょう",
           "romaji": "benkyou",
           "meaning_en": "to study",
-          "meaning_ko": null
+          "meaning_ko": "공부",
+          "gloss_status": "curated_draft_needs_review"
         }
       ],
       "candidate_words": [
@@ -1794,7 +1863,7 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
       "source_level": "N4",
       "meaning_ko_review_status": "draft_review_pending"
     },
@@ -1820,14 +1889,16 @@
           "reading": "こうえん",
           "romaji": "kouen",
           "meaning_en": "park",
-          "meaning_ko": null
+          "meaning_ko": "공원",
+          "gloss_status": "curated_draft_needs_review"
         },
         {
           "word": "公務員",
           "reading": "こうむいん",
           "romaji": "koumuin",
           "meaning_en": "government worker",
-          "meaning_ko": null
+          "meaning_ko": "공무원",
+          "gloss_status": "curated_draft_needs_review"
         }
       ],
       "candidate_words": [
@@ -1838,7 +1909,7 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
       "source_level": "N4",
       "meaning_ko_review_status": "draft_review_pending"
     },
@@ -1865,14 +1936,16 @@
           "reading": "もつ",
           "romaji": "motsu",
           "meaning_en": "to hold",
-          "meaning_ko": null
+          "meaning_ko": "가지다",
+          "gloss_status": "curated_draft_needs_review"
         },
         {
           "word": "気持ち",
           "reading": "きもち",
           "romaji": "kimochi",
           "meaning_en": "feeling",
-          "meaning_ko": null
+          "meaning_ko": "기분·마음",
+          "gloss_status": "curated_draft_needs_review"
         }
       ],
       "candidate_words": [
@@ -1883,7 +1956,7 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
       "source_level": "N4",
       "meaning_ko_review_status": "draft_review_pending"
     },
@@ -1910,7 +1983,8 @@
           "reading": "やさい",
           "romaji": "yasai",
           "meaning_en": "vegetable",
-          "meaning_ko": null
+          "meaning_ko": "채소",
+          "gloss_status": "curated_draft_needs_review"
         }
       ],
       "candidate_words": [
@@ -1921,7 +1995,7 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
       "source_level": "N4",
       "meaning_ko_review_status": "draft_review_pending"
     },
@@ -1946,14 +2020,16 @@
           "reading": "いか",
           "romaji": "ika",
           "meaning_en": "less than",
-          "meaning_ko": null
+          "meaning_ko": "이하",
+          "gloss_status": "curated_draft_needs_review"
         },
         {
           "word": "以外",
           "reading": "いがい",
           "romaji": "igai",
           "meaning_en": "with the exception of",
-          "meaning_ko": null
+          "meaning_ko": "이외",
+          "gloss_status": "curated_draft_needs_review"
         }
       ],
       "candidate_words": [
@@ -1964,7 +2040,7 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
       "source_level": "N4",
       "meaning_ko_review_status": "draft_review_pending"
     },
@@ -1991,14 +2067,16 @@
           "reading": "おもう",
           "romaji": "omou",
           "meaning_en": "to think",
-          "meaning_ko": null
+          "meaning_ko": "생각하다",
+          "gloss_status": "curated_draft_needs_review"
         },
         {
           "word": "思い出す",
           "reading": "おもいだす",
           "romaji": "omoidasu",
           "meaning_en": "to remember",
-          "meaning_ko": null
+          "meaning_ko": "떠올리다",
+          "gloss_status": "curated_draft_needs_review"
         }
       ],
       "candidate_words": [
@@ -2009,7 +2087,7 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
       "source_level": "N4",
       "meaning_ko_review_status": "draft_review_pending"
     },
@@ -2037,14 +2115,16 @@
           "reading": "いえ",
           "romaji": "ie",
           "meaning_en": "house",
-          "meaning_ko": null
+          "meaning_ko": "집",
+          "gloss_status": "curated_draft_needs_review"
         },
         {
           "word": "家族",
           "reading": "かぞく",
           "romaji": "kazoku",
           "meaning_en": "family",
-          "meaning_ko": null
+          "meaning_ko": "가족",
+          "gloss_status": "curated_draft_needs_review"
         }
       ],
       "candidate_words": [
@@ -2055,7 +2135,7 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
       "source_level": "N4",
       "meaning_ko_review_status": "draft_review_pending"
     },
@@ -2082,14 +2162,16 @@
           "reading": "せかい",
           "romaji": "sekai",
           "meaning_en": "the world",
-          "meaning_ko": null
+          "meaning_ko": "세계",
+          "gloss_status": "curated_draft_needs_review"
         },
         {
           "word": "世話",
           "reading": "せわ",
           "romaji": "sewa",
           "meaning_en": "to look after",
-          "meaning_ko": null
+          "meaning_ko": "돌봄",
+          "gloss_status": "curated_draft_needs_review"
         }
       ],
       "candidate_words": [
@@ -2100,7 +2182,7 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
       "source_level": "N4",
       "meaning_ko_review_status": "draft_review_pending"
     },
@@ -2127,7 +2209,8 @@
           "reading": "おおい",
           "romaji": "ooi",
           "meaning_en": "many",
-          "meaning_ko": null
+          "meaning_ko": "많다",
+          "gloss_status": "curated_draft_needs_review"
         }
       ],
       "candidate_words": [
@@ -2138,7 +2221,7 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
       "source_level": "N4",
       "meaning_ko_review_status": "draft_review_pending"
     },
@@ -2167,7 +2250,8 @@
           "reading": "ただしい",
           "romaji": "tadashii",
           "meaning_en": "correct",
-          "meaning_ko": null
+          "meaning_ko": "올바르다",
+          "gloss_status": "curated_draft_needs_review"
         }
       ],
       "candidate_words": [
@@ -2178,7 +2262,7 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
       "source_level": "N4",
       "meaning_ko_review_status": "draft_review_pending"
     },
@@ -2201,14 +2285,16 @@
           "reading": "びょういん",
           "romaji": "byouin",
           "meaning_en": "hospital",
-          "meaning_ko": null
+          "meaning_ko": "병원",
+          "gloss_status": "curated_draft_needs_review"
         },
         {
           "word": "退院",
           "reading": "たいいん",
           "romaji": "taiin",
           "meaning_en": "to leave hospital",
-          "meaning_ko": null
+          "meaning_ko": "퇴원",
+          "gloss_status": "curated_draft_needs_review"
         }
       ],
       "candidate_words": [
@@ -2219,7 +2305,7 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
       "source_level": "N4",
       "meaning_ko_review_status": "draft_review_pending"
     },
@@ -2245,14 +2331,16 @@
           "reading": "こころ",
           "romaji": "kokoro",
           "meaning_en": "core",
-          "meaning_ko": null
+          "meaning_ko": "마음",
+          "gloss_status": "curated_draft_needs_review"
         },
         {
           "word": "安心",
           "reading": "あんしん",
           "romaji": "anshin",
           "meaning_en": "relief",
-          "meaning_ko": null
+          "meaning_ko": "안심",
+          "gloss_status": "curated_draft_needs_review"
         }
       ],
       "candidate_words": [
@@ -2263,7 +2351,7 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
       "source_level": "N4",
       "meaning_ko_review_status": "draft_review_pending"
     },
@@ -2286,7 +2374,8 @@
           "reading": "せかい",
           "romaji": "sekai",
           "meaning_en": "the world",
-          "meaning_ko": null
+          "meaning_ko": "세계",
+          "gloss_status": "curated_draft_needs_review"
         }
       ],
       "candidate_words": [
@@ -2297,7 +2386,7 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
       "source_level": "N4",
       "meaning_ko_review_status": "draft_review_pending"
     },
@@ -2323,14 +2412,16 @@
           "reading": "きょうしつ",
           "romaji": "kyoushitsu",
           "meaning_en": "classroom",
-          "meaning_ko": null
+          "meaning_ko": "교실",
+          "gloss_status": "curated_draft_needs_review"
         },
         {
           "word": "教育",
           "reading": "きょういく",
           "romaji": "kyouiku",
           "meaning_en": "education",
-          "meaning_ko": null
+          "meaning_ko": "교육",
+          "gloss_status": "curated_draft_needs_review"
         }
       ],
       "candidate_words": [
@@ -2341,7 +2432,7 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
       "source_level": "N4",
       "meaning_ko_review_status": "draft_review_pending"
     },
@@ -2367,7 +2458,8 @@
           "reading": "げんき",
           "romaji": "genki",
           "meaning_en": "health",
-          "meaning_ko": null
+          "meaning_ko": "건강함·활기",
+          "gloss_status": "curated_draft_needs_review"
         }
       ],
       "candidate_words": [
@@ -2378,7 +2470,7 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
       "source_level": "N4",
       "meaning_ko_review_status": "draft_review_pending"
     },
@@ -2410,7 +2502,8 @@
           "reading": "おもい",
           "romaji": "omoi",
           "meaning_en": "heavy",
-          "meaning_ko": null
+          "meaning_ko": "무겁다",
+          "gloss_status": "curated_draft_needs_review"
         }
       ],
       "candidate_words": [
@@ -2421,7 +2514,7 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
       "source_level": "N4",
       "meaning_ko_review_status": "draft_review_pending"
     },
@@ -2447,14 +2540,16 @@
           "reading": "ちかい",
           "romaji": "chikai",
           "meaning_en": "near",
-          "meaning_ko": null
+          "meaning_ko": "가깝다",
+          "gloss_status": "curated_draft_needs_review"
         },
         {
           "word": "近く",
           "reading": "ちかく",
           "romaji": "chikaku",
           "meaning_en": "near",
-          "meaning_ko": null
+          "meaning_ko": "근처",
+          "gloss_status": "curated_draft_needs_review"
         }
       ],
       "candidate_words": [
@@ -2465,7 +2560,7 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
       "source_level": "N4",
       "meaning_ko_review_status": "draft_review_pending"
     },
@@ -2491,7 +2586,8 @@
           "reading": "かんがえる",
           "romaji": "kangaeru",
           "meaning_en": "to consider",
-          "meaning_ko": null
+          "meaning_ko": "생각하다",
+          "gloss_status": "curated_draft_needs_review"
         }
       ],
       "candidate_words": [
@@ -2502,7 +2598,7 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
       "source_level": "N4",
       "meaning_ko_review_status": "draft_review_pending"
     },
@@ -2534,14 +2630,16 @@
           "reading": "えいが",
           "romaji": "eiga",
           "meaning_en": "movie",
-          "meaning_ko": null
+          "meaning_ko": "영화",
+          "gloss_status": "curated_draft_needs_review"
         },
         {
           "word": "計画",
           "reading": "けいかく",
           "romaji": "keikaku",
           "meaning_en": "to plan",
-          "meaning_ko": null
+          "meaning_ko": "계획",
+          "gloss_status": "curated_draft_needs_review"
         }
       ],
       "candidate_words": [
@@ -2552,7 +2650,7 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
       "source_level": "N4",
       "meaning_ko_review_status": "draft_review_pending"
     },
@@ -2577,14 +2675,16 @@
           "reading": "うみ",
           "romaji": "umi",
           "meaning_en": "sea",
-          "meaning_ko": null
+          "meaning_ko": "바다",
+          "gloss_status": "curated_draft_needs_review"
         },
         {
           "word": "海岸",
           "reading": "かいがん",
           "romaji": "kaigan",
           "meaning_en": "coast",
-          "meaning_ko": null
+          "meaning_ko": "해안",
+          "gloss_status": "curated_draft_needs_review"
         }
       ],
       "candidate_words": [
@@ -2595,7 +2695,7 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
       "source_level": "N4",
       "meaning_ko_review_status": "draft_review_pending"
     },
@@ -2621,14 +2721,16 @@
           "reading": "うる",
           "romaji": "uru",
           "meaning_en": "to sell",
-          "meaning_ko": null
+          "meaning_ko": "팔다",
+          "gloss_status": "curated_draft_needs_review"
         },
         {
           "word": "売り場",
           "reading": "うりば",
           "romaji": "uriba",
           "meaning_en": "place where things are sold",
-          "meaning_ko": null
+          "meaning_ko": "매장",
+          "gloss_status": "curated_draft_needs_review"
         }
       ],
       "candidate_words": [
@@ -2639,7 +2741,7 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
       "source_level": "N4",
       "meaning_ko_review_status": "draft_review_pending"
     },
@@ -2665,7 +2767,8 @@
           "reading": "しる",
           "romaji": "shiru",
           "meaning_en": "to know",
-          "meaning_ko": null
+          "meaning_ko": "알다",
+          "gloss_status": "curated_draft_needs_review"
         },
         {
           "word": "承知",
@@ -2683,7 +2786,7 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
       "source_level": "N4",
       "meaning_ko_review_status": "draft_review_pending"
     },
@@ -2710,14 +2813,16 @@
           "reading": "あつまる",
           "romaji": "atsumaru",
           "meaning_en": "to gather",
-          "meaning_ko": null
+          "meaning_ko": "모이다",
+          "gloss_status": "curated_draft_needs_review"
         },
         {
           "word": "集める",
           "reading": "あつめる",
           "romaji": "atsumeru",
           "meaning_en": "to collect something",
-          "meaning_ko": null
+          "meaning_ko": "모으다",
+          "gloss_status": "curated_draft_needs_review"
         }
       ],
       "candidate_words": [
@@ -2728,7 +2833,7 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
       "source_level": "N4",
       "meaning_ko_review_status": "draft_review_pending"
     },
@@ -2754,14 +2859,16 @@
           "reading": "べつ",
           "romaji": "betsu",
           "meaning_en": "different",
-          "meaning_ko": null
+          "meaning_ko": "별도·다름",
+          "gloss_status": "curated_draft_needs_review"
         },
         {
           "word": "特別",
           "reading": "とくべつ",
           "romaji": "tokubetsu",
           "meaning_en": "special",
-          "meaning_ko": null
+          "meaning_ko": "특별",
+          "gloss_status": "curated_draft_needs_review"
         }
       ],
       "candidate_words": [
@@ -2772,7 +2879,7 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
       "source_level": "N4",
       "meaning_ko_review_status": "draft_review_pending"
     },
@@ -2799,14 +2906,16 @@
           "reading": "もの",
           "romaji": "mono",
           "meaning_en": "thing",
-          "meaning_ko": null
+          "meaning_ko": "물건",
+          "gloss_status": "curated_draft_needs_review"
         },
         {
           "word": "果物",
           "reading": "くだもの",
           "romaji": "kudamono",
           "meaning_en": "fruit",
-          "meaning_ko": null
+          "meaning_ko": "과일",
+          "gloss_status": "curated_draft_needs_review"
         }
       ],
       "candidate_words": [
@@ -2817,7 +2926,7 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
       "source_level": "N4",
       "meaning_ko_review_status": "draft_review_pending"
     },
@@ -2845,14 +2954,16 @@
           "reading": "つかう",
           "romaji": "tsukau",
           "meaning_en": "to use",
-          "meaning_ko": null
+          "meaning_ko": "사용하다",
+          "gloss_status": "curated_draft_needs_review"
         },
         {
           "word": "大使館",
           "reading": "たいしかん",
           "romaji": "taishikan",
           "meaning_en": "embassy",
-          "meaning_ko": null
+          "meaning_ko": "대사관",
+          "gloss_status": "curated_draft_needs_review"
         }
       ],
       "candidate_words": [
@@ -2863,7 +2974,7 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
       "source_level": "N4",
       "meaning_ko_review_status": "draft_review_pending"
     },
@@ -2889,14 +3000,16 @@
           "reading": "しなもの",
           "romaji": "shinamono",
           "meaning_en": "goods",
-          "meaning_ko": null
+          "meaning_ko": "물품",
+          "gloss_status": "curated_draft_needs_review"
         },
         {
           "word": "食料品",
           "reading": "しょくりょうひん",
           "romaji": "shokuryouhin",
           "meaning_en": "groceries",
-          "meaning_ko": null
+          "meaning_ko": "식료품",
+          "gloss_status": "curated_draft_needs_review"
         }
       ],
       "candidate_words": [
@@ -2907,7 +3020,7 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
       "source_level": "N4",
       "meaning_ko_review_status": "draft_review_pending"
     },
@@ -2933,14 +3046,16 @@
           "reading": "とけい",
           "romaji": "tokei",
           "meaning_en": "watch",
-          "meaning_ko": null
+          "meaning_ko": "시계",
+          "gloss_status": "curated_draft_needs_review"
         },
         {
           "word": "計画",
           "reading": "けいかく",
           "romaji": "keikaku",
           "meaning_en": "to plan",
-          "meaning_ko": null
+          "meaning_ko": "계획",
+          "gloss_status": "curated_draft_needs_review"
         }
       ],
       "candidate_words": [
@@ -2951,7 +3066,7 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
       "source_level": "N4",
       "meaning_ko_review_status": "draft_review_pending"
     },
@@ -2977,7 +3092,8 @@
           "reading": "しぬ",
           "romaji": "shinu",
           "meaning_en": "to die",
-          "meaning_ko": null
+          "meaning_ko": "죽다",
+          "gloss_status": "curated_draft_needs_review"
         }
       ],
       "candidate_words": [
@@ -2988,7 +3104,7 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
       "source_level": "N4",
       "meaning_ko_review_status": "draft_review_pending"
     },
@@ -3011,14 +3127,16 @@
           "reading": "とくに",
           "romaji": "tokuni",
           "meaning_en": "particularly",
-          "meaning_ko": null
+          "meaning_ko": "특히",
+          "gloss_status": "curated_draft_needs_review"
         },
         {
           "word": "特別",
           "reading": "とくべつ",
           "romaji": "tokubetsu",
           "meaning_en": "special",
-          "meaning_ko": null
+          "meaning_ko": "특별",
+          "gloss_status": "curated_draft_needs_review"
         }
       ],
       "candidate_words": [
@@ -3029,7 +3147,7 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
       "source_level": "N4",
       "meaning_ko_review_status": "draft_review_pending"
     },
@@ -3056,14 +3174,16 @@
           "reading": "はじまる",
           "romaji": "hajimaru",
           "meaning_en": "to begin",
-          "meaning_ko": null
+          "meaning_ko": "시작되다",
+          "gloss_status": "curated_draft_needs_review"
         },
         {
           "word": "始める",
           "reading": "はじめる",
           "romaji": "hajimeru",
           "meaning_en": "to begin",
-          "meaning_ko": null
+          "meaning_ko": "시작하다",
+          "gloss_status": "curated_draft_needs_review"
         }
       ],
       "candidate_words": [
@@ -3074,7 +3194,7 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
       "source_level": "N4",
       "meaning_ko_review_status": "draft_review_pending"
     },
@@ -3099,14 +3219,16 @@
           "reading": "あさ",
           "romaji": "asa",
           "meaning_en": "morning",
-          "meaning_ko": null
+          "meaning_ko": "아침",
+          "gloss_status": "curated_draft_needs_review"
         },
         {
           "word": "今朝",
           "reading": "けさ",
           "romaji": "kesa",
           "meaning_en": "this morning",
-          "meaning_ko": null
+          "meaning_ko": "오늘 아침",
+          "gloss_status": "curated_draft_needs_review"
         }
       ],
       "candidate_words": [
@@ -3117,7 +3239,7 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
       "source_level": "N4",
       "meaning_ko_review_status": "draft_review_pending"
     },
@@ -3142,14 +3264,16 @@
           "reading": "うんてん",
           "romaji": "unten",
           "meaning_en": "to drive",
-          "meaning_ko": null
+          "meaning_ko": "운전",
+          "gloss_status": "curated_draft_needs_review"
         },
         {
           "word": "運動",
           "reading": "うんどう",
           "romaji": "undou",
           "meaning_en": "to exercise",
-          "meaning_ko": null
+          "meaning_ko": "운동",
+          "gloss_status": "curated_draft_needs_review"
         }
       ],
       "candidate_words": [
@@ -3160,7 +3284,7 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
       "source_level": "N4",
       "meaning_ko_review_status": "draft_review_pending"
     },
@@ -3197,7 +3321,8 @@
           "reading": "おわり",
           "romaji": "owari",
           "meaning_en": "the end",
-          "meaning_ko": null
+          "meaning_ko": "끝",
+          "gloss_status": "curated_draft_needs_review"
         }
       ],
       "candidate_words": [
@@ -3208,7 +3333,7 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
       "source_level": "N4",
       "meaning_ko_review_status": "draft_review_pending"
     },
@@ -3236,14 +3361,16 @@
           "reading": "だいどころ",
           "romaji": "daidokoro",
           "meaning_en": "kitchen",
-          "meaning_ko": null
+          "meaning_ko": "부엌",
+          "gloss_status": "curated_draft_needs_review"
         },
         {
           "word": "台風",
           "reading": "たいふう",
           "romaji": "taifuu",
           "meaning_en": "typhoon",
-          "meaning_ko": null
+          "meaning_ko": "태풍",
+          "gloss_status": "curated_draft_needs_review"
         }
       ],
       "candidate_words": [
@@ -3254,7 +3381,7 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
       "source_level": "N4",
       "meaning_ko_review_status": "draft_review_pending"
     },
@@ -3290,7 +3417,8 @@
           "reading": "ひろい",
           "romaji": "hiroi",
           "meaning_en": "spacious",
-          "meaning_ko": null
+          "meaning_ko": "넓다",
+          "gloss_status": "curated_draft_needs_review"
         }
       ],
       "candidate_words": [
@@ -3301,7 +3429,7 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
       "source_level": "N4",
       "meaning_ko_review_status": "draft_review_pending"
     },
@@ -3330,14 +3458,16 @@
           "reading": "すむ",
           "romaji": "sumu",
           "meaning_en": "to live in",
-          "meaning_ko": null
+          "meaning_ko": "살다",
+          "gloss_status": "curated_draft_needs_review"
         },
         {
           "word": "住所",
           "reading": "じゅうしょ",
           "romaji": "juusho",
           "meaning_en": "an address",
-          "meaning_ko": null
+          "meaning_ko": "주소",
+          "gloss_status": "curated_draft_needs_review"
         }
       ],
       "candidate_words": [
@@ -3348,7 +3478,7 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
       "source_level": "N4",
       "meaning_ko_review_status": "draft_review_pending"
     },
@@ -3375,14 +3505,16 @@
           "reading": "しゃしん",
           "romaji": "shashin",
           "meaning_en": "photograph",
-          "meaning_ko": null
+          "meaning_ko": "사진",
+          "gloss_status": "curated_draft_needs_review"
         },
         {
           "word": "真ん中",
           "reading": "まんなか",
           "romaji": "mannaka",
           "meaning_en": "middle",
-          "meaning_ko": null
+          "meaning_ko": "정중앙",
+          "gloss_status": "curated_draft_needs_review"
         }
       ],
       "candidate_words": [
@@ -3393,7 +3525,7 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
       "source_level": "N4",
       "meaning_ko_review_status": "draft_review_pending"
     },
@@ -3419,7 +3551,8 @@
           "reading": "ゆうめい",
           "romaji": "yuumei",
           "meaning_en": "famous",
-          "meaning_ko": null
+          "meaning_ko": "유명하다",
+          "gloss_status": "curated_draft_needs_review"
         }
       ],
       "candidate_words": [
@@ -3430,7 +3563,7 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
       "source_level": "N4",
       "meaning_ko_review_status": "draft_review_pending"
     },
@@ -3456,14 +3589,16 @@
           "reading": "すこし",
           "romaji": "sukoshi",
           "meaning_en": "few",
-          "meaning_ko": null
+          "meaning_ko": "조금",
+          "gloss_status": "curated_draft_needs_review"
         },
         {
           "word": "少ない",
           "reading": "すくない",
           "romaji": "sukunai",
           "meaning_en": "a few",
-          "meaning_ko": null
+          "meaning_ko": "적다",
+          "gloss_status": "curated_draft_needs_review"
         }
       ],
       "candidate_words": [
@@ -3474,7 +3609,7 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
       "source_level": "N4",
       "meaning_ko_review_status": "draft_review_pending"
     },
@@ -3499,7 +3634,8 @@
           "reading": "まち",
           "romaji": "machi",
           "meaning_en": "town",
-          "meaning_ko": null
+          "meaning_ko": "마을",
+          "gloss_status": "curated_draft_needs_review"
         }
       ],
       "candidate_words": [
@@ -3509,7 +3645,7 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
       "source_level": "N4",
       "meaning_ko_review_status": "draft_review_pending"
     },
@@ -3532,14 +3668,16 @@
           "reading": "りょうり",
           "romaji": "ryouri",
           "meaning_en": "cuisine",
-          "meaning_ko": null
+          "meaning_ko": "요리",
+          "gloss_status": "curated_draft_needs_review"
         },
         {
           "word": "食料品",
           "reading": "しょくりょうひん",
           "romaji": "shokuryouhin",
           "meaning_en": "groceries",
-          "meaning_ko": null
+          "meaning_ko": "식료품",
+          "gloss_status": "curated_draft_needs_review"
         }
       ],
       "candidate_words": [
@@ -3550,7 +3688,7 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
       "source_level": "N4",
       "meaning_ko_review_status": "draft_review_pending"
     },
@@ -3575,14 +3713,16 @@
           "reading": "こうぎょう",
           "romaji": "kougyou",
           "meaning_en": "the manufacturing industry",
-          "meaning_ko": null
+          "meaning_ko": "공업",
+          "gloss_status": "curated_draft_needs_review"
         },
         {
           "word": "工場",
           "reading": "こうじょう",
           "romaji": "koujou",
           "meaning_en": "factory",
-          "meaning_ko": null
+          "meaning_ko": "공장",
+          "gloss_status": "curated_draft_needs_review"
         }
       ],
       "candidate_words": [
@@ -3593,7 +3733,7 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
       "source_level": "N4",
       "meaning_ko_review_status": "draft_review_pending"
     },
@@ -3622,14 +3762,16 @@
           "reading": "たてもの",
           "romaji": "tatemono",
           "meaning_en": "building",
-          "meaning_ko": null
+          "meaning_ko": "건물",
+          "gloss_status": "curated_draft_needs_review"
         },
         {
           "word": "建てる",
           "reading": "たてる",
           "romaji": "tateru",
           "meaning_en": "to build",
-          "meaning_ko": null
+          "meaning_ko": "짓다",
+          "gloss_status": "curated_draft_needs_review"
         }
       ],
       "candidate_words": [
@@ -3640,7 +3782,7 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
       "source_level": "N4",
       "meaning_ko_review_status": "draft_review_pending"
     },
@@ -3674,7 +3816,8 @@
           "reading": "いそぐ",
           "romaji": "isogu",
           "meaning_en": "to hurry",
-          "meaning_ko": null
+          "meaning_ko": "서두르다",
+          "gloss_status": "curated_draft_needs_review"
         }
       ],
       "candidate_words": [
@@ -3685,7 +3828,7 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
       "source_level": "N4",
       "meaning_ko_review_status": "draft_review_pending"
     },
@@ -3730,7 +3873,8 @@
           "reading": "とまる",
           "romaji": "tomaru",
           "meaning_en": "to come to a halt",
-          "meaning_ko": null
+          "meaning_ko": "멈추다",
+          "gloss_status": "curated_draft_needs_review"
         }
       ],
       "candidate_words": [
@@ -3741,7 +3885,7 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
       "source_level": "N4",
       "meaning_ko_review_status": "draft_review_pending"
     },
@@ -3766,14 +3910,16 @@
           "reading": "おくる",
           "romaji": "okuru",
           "meaning_en": "to send",
-          "meaning_ko": null
+          "meaning_ko": "보내다",
+          "gloss_status": "curated_draft_needs_review"
         },
         {
           "word": "放送",
           "reading": "ほうそう",
           "romaji": "housou",
           "meaning_en": "to broadcast",
-          "meaning_ko": null
+          "meaning_ko": "방송",
+          "gloss_status": "curated_draft_needs_review"
         }
       ],
       "candidate_words": [
@@ -3784,7 +3930,7 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
       "source_level": "N4",
       "meaning_ko_review_status": "draft_review_pending"
     },
@@ -3819,14 +3965,16 @@
           "reading": "きって",
           "romaji": "kitte",
           "meaning_en": "postage stamp",
-          "meaning_ko": null
+          "meaning_ko": "우표",
+          "gloss_status": "curated_draft_needs_review"
         },
         {
           "word": "切符",
           "reading": "きっぷ",
           "romaji": "kippu",
           "meaning_en": "ticket",
-          "meaning_ko": null
+          "meaning_ko": "표·승차권",
+          "gloss_status": "curated_draft_needs_review"
         }
       ],
       "candidate_words": [
@@ -3837,7 +3985,7 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
       "source_level": "N4",
       "meaning_ko_review_status": "draft_review_pending"
     },
@@ -3869,14 +4017,16 @@
           "reading": "うんてん",
           "romaji": "unten",
           "meaning_en": "to drive",
-          "meaning_ko": null
+          "meaning_ko": "운전",
+          "gloss_status": "curated_draft_needs_review"
         },
         {
           "word": "自転車",
           "reading": "じてんしゃ",
           "romaji": "jitensha",
           "meaning_en": "bicycle",
-          "meaning_ko": null
+          "meaning_ko": "자전거",
+          "gloss_status": "curated_draft_needs_review"
         }
       ],
       "candidate_words": [
@@ -3887,7 +4037,7 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
       "source_level": "N4",
       "meaning_ko_review_status": "draft_review_pending"
     },
@@ -3912,14 +4062,16 @@
           "reading": "けんきゅう",
           "romaji": "kenkyuu",
           "meaning_en": "research",
-          "meaning_ko": null
+          "meaning_ko": "연구",
+          "gloss_status": "curated_draft_needs_review"
         },
         {
           "word": "研究室",
           "reading": "けんきゅうしつ",
           "romaji": "kenkyuushitsu",
           "meaning_en": "study room",
-          "meaning_ko": null
+          "meaning_ko": "연구실",
+          "gloss_status": "curated_draft_needs_review"
         }
       ],
       "candidate_words": [
@@ -3930,7 +4082,7 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
       "source_level": "N4",
       "meaning_ko_review_status": "draft_review_pending"
     },
@@ -3958,14 +4110,16 @@
           "reading": "あし",
           "romaji": "ashi",
           "meaning_en": "foot",
-          "meaning_ko": null
+          "meaning_ko": "발·다리",
+          "gloss_status": "curated_draft_needs_review"
         },
         {
           "word": "足す",
           "reading": "たす",
           "romaji": "tasu",
           "meaning_en": "to add a number",
-          "meaning_ko": null
+          "meaning_ko": "더하다",
+          "gloss_status": "curated_draft_needs_review"
         }
       ],
       "candidate_words": [
@@ -3976,7 +4130,7 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
       "source_level": "N4",
       "meaning_ko_review_status": "draft_review_pending"
     },
@@ -4002,14 +4156,16 @@
           "reading": "けんきゅう",
           "romaji": "kenkyuu",
           "meaning_en": "research",
-          "meaning_ko": null
+          "meaning_ko": "연구",
+          "gloss_status": "curated_draft_needs_review"
         },
         {
           "word": "研究室",
           "reading": "けんきゅうしつ",
           "romaji": "kenkyuushitsu",
           "meaning_en": "study room",
-          "meaning_ko": null
+          "meaning_ko": "연구실",
+          "gloss_status": "curated_draft_needs_review"
         }
       ],
       "candidate_words": [
@@ -4020,7 +4176,7 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
       "source_level": "N4",
       "meaning_ko_review_status": "draft_review_pending"
     },
@@ -4049,14 +4205,16 @@
           "reading": "おんがく",
           "romaji": "ongaku",
           "meaning_en": "music",
-          "meaning_ko": null
+          "meaning_ko": "음악",
+          "gloss_status": "curated_draft_needs_review"
         },
         {
           "word": "楽しい",
           "reading": "たのしい",
           "romaji": "tanoshii",
           "meaning_en": "enjoyable",
-          "meaning_ko": null
+          "meaning_ko": "즐겁다",
+          "gloss_status": "curated_draft_needs_review"
         }
       ],
       "candidate_words": [
@@ -4067,7 +4225,7 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
       "source_level": "N4",
       "meaning_ko_review_status": "draft_review_pending"
     },
@@ -4103,7 +4261,8 @@
           "reading": "おきる",
           "romaji": "okiru",
           "meaning_en": "to get up",
-          "meaning_ko": null
+          "meaning_ko": "일어나다",
+          "gloss_status": "curated_draft_needs_review"
         }
       ],
       "candidate_words": [
@@ -4114,7 +4273,7 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
       "source_level": "N4",
       "meaning_ko_review_status": "draft_review_pending"
     },
@@ -4143,14 +4302,16 @@
           "reading": "うわぎ",
           "romaji": "uwagi",
           "meaning_en": "jacket",
-          "meaning_ko": null
+          "meaning_ko": "겉옷",
+          "gloss_status": "curated_draft_needs_review"
         },
         {
           "word": "着る",
           "reading": "きる",
           "romaji": "kiru",
           "meaning_en": "to put on from the shoulders down",
-          "meaning_ko": null
+          "meaning_ko": "입다",
+          "gloss_status": "curated_draft_needs_review"
         }
       ],
       "candidate_words": [
@@ -4161,7 +4322,7 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
       "source_level": "N4",
       "meaning_ko_review_status": "draft_review_pending"
     },
@@ -4189,14 +4350,16 @@
           "reading": "びょういん",
           "romaji": "byouin",
           "meaning_en": "hospital",
-          "meaning_ko": null
+          "meaning_ko": "병원",
+          "gloss_status": "curated_draft_needs_review"
         },
         {
           "word": "病気",
           "reading": "びょうき",
           "romaji": "byouki",
           "meaning_en": "illness",
-          "meaning_ko": null
+          "meaning_ko": "병",
+          "gloss_status": "curated_draft_needs_review"
         }
       ],
       "candidate_words": [
@@ -4207,7 +4370,7 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
       "source_level": "N4",
       "meaning_ko_review_status": "draft_review_pending"
     },
@@ -4237,7 +4400,8 @@
           "reading": "しつもん",
           "romaji": "shitsumon",
           "meaning_en": "question",
-          "meaning_ko": null
+          "meaning_ko": "질문",
+          "gloss_status": "curated_draft_needs_review"
         }
       ],
       "candidate_words": [
@@ -4248,7 +4412,7 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
       "source_level": "N4",
       "meaning_ko_review_status": "draft_review_pending"
     },
@@ -4274,14 +4438,16 @@
           "reading": "まつ",
           "romaji": "matsu",
           "meaning_en": "to wait",
-          "meaning_ko": null
+          "meaning_ko": "기다리다",
+          "gloss_status": "curated_draft_needs_review"
         },
         {
           "word": "招待",
           "reading": "しょうたい",
           "romaji": "shoutai",
           "meaning_en": "to invite",
-          "meaning_ko": null
+          "meaning_ko": "초대",
+          "gloss_status": "curated_draft_needs_review"
         }
       ],
       "candidate_words": [
@@ -4292,7 +4458,7 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
       "source_level": "N4",
       "meaning_ko_review_status": "draft_review_pending"
     },
@@ -4318,14 +4484,16 @@
           "reading": "しあい",
           "romaji": "shiai",
           "meaning_en": "match",
-          "meaning_ko": null
+          "meaning_ko": "경기",
+          "gloss_status": "curated_draft_needs_review"
         },
         {
           "word": "試験",
           "reading": "しけん",
           "romaji": "shiken",
           "meaning_en": "examination",
-          "meaning_ko": null
+          "meaning_ko": "시험",
+          "gloss_status": "curated_draft_needs_review"
         }
       ],
       "candidate_words": [
@@ -4336,7 +4504,7 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
       "source_level": "N4",
       "meaning_ko_review_status": "draft_review_pending"
     },
@@ -4359,7 +4527,8 @@
           "reading": "かぞく",
           "romaji": "kazoku",
           "meaning_en": "family",
-          "meaning_ko": null
+          "meaning_ko": "가족",
+          "gloss_status": "curated_draft_needs_review"
         }
       ],
       "candidate_words": [
@@ -4370,14 +4539,14 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
       "source_level": "N4",
       "meaning_ko_review_status": "draft_review_pending"
     }
   ],
   "translation_progress": {
     "kanji_ko_gloss_drafted": 100,
-    "word_ko_gloss_drafted": 0,
+    "word_ko_gloss_drafted": 169,
     "sentences_ko_drafted": 0
   }
 }
