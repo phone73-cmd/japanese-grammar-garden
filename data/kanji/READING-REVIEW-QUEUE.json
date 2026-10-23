@@ -29,7 +29,11 @@
       "word": "父",
       "reading": "ちち",
       "source_status": "not_source_matched",
-      "review_status": "pending_editorial_dictionary_check"
+      "review_status": "dictionary_reading_checked",
+      "dictionary_evidence": {
+        "url": "https://dictionary.goo.ne.jp/word/%E7%88%B6_%28%E3%81%A1%E3%81%A1%29/",
+        "note": "父(ちち) 사전 표제어 확인"
+      }
     },
     {
       "kanji_id": "kanji-026",
@@ -38,7 +42,11 @@
       "word": "母",
       "reading": "はは",
       "source_status": "not_source_matched",
-      "review_status": "pending_editorial_dictionary_check"
+      "review_status": "dictionary_reading_checked",
+      "dictionary_evidence": {
+        "url": "https://dictionary.goo.ne.jp/jn/index/%E3%81%AF%E3%81%AF/",
+        "note": "母(はは) 사전 색인 표제어 확인"
+      }
     },
     {
       "kanji_id": "kanji-033",
@@ -47,7 +55,11 @@
       "word": "分",
       "reading": "ふん",
       "source_status": "not_source_matched",
-      "review_status": "pending_editorial_dictionary_check"
+      "review_status": "dictionary_reading_checked",
+      "dictionary_evidence": {
+        "url": "https://dictionary.goo.ne.jp/word/kanji/%E5%88%86/",
+        "note": "分의 フン 독음 확인. 시간 수사 결합에 따른 ぷん 변동은 별도 주의"
+      }
     },
     {
       "kanji_id": "kanji-074",
@@ -83,7 +95,11 @@
       "word": "私",
       "reading": "わたし",
       "source_status": "not_source_matched",
-      "review_status": "pending_editorial_dictionary_check"
+      "review_status": "dictionary_reading_checked",
+      "dictionary_evidence": {
+        "url": "https://dictionary.goo.ne.jp/word/%E7%A7%81_%28%E3%82%8F%E3%81%9F%E3%81%97%29/",
+        "note": "私(わたし) 사전 표제어 확인"
+      }
     },
     {
       "kanji_id": "kanji-092",
@@ -92,7 +108,11 @@
       "word": "円",
       "reading": "えん",
       "source_status": "not_source_matched",
-      "review_status": "pending_editorial_dictionary_check"
+      "review_status": "dictionary_reading_checked",
+      "dictionary_evidence": {
+        "url": "https://dictionary.goo.ne.jp/word/%E3%81%88%E3%82%93/",
+        "note": "円(えん) 사전 표제어 확인"
+      }
     },
     {
       "kanji_id": "kanji-128",
