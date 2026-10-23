@@ -1,6 +1,6 @@
 {
   "schema_version": "draft-1",
-  "status": "source-data-draft—not-app-ready",
+  "status": "kanji_ko_gloss_drafted;not-app-ready",
   "stage": 3,
   "description": "일본어 문법정원 추가 한자 400자 중 100자. 한국어 뜻·예문은 검수 후 채울 것.",
   "source": {
@@ -16,7 +16,7 @@
       "stage": 3,
       "order": 1,
       "category": "추가 한자",
-      "meaning_ko": null,
+      "meaning_ko": "은",
       "meaning_en": "silver",
       "on_readings": [
         "ギン"
@@ -41,8 +41,9 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "needs_ko_translation_and_examples",
-      "source_level": "N4"
+      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "source_level": "N4",
+      "meaning_ko_review_status": "draft_review_pending"
     },
     {
       "id": "kanji-202",
@@ -50,7 +51,7 @@
       "stage": 3,
       "order": 2,
       "category": "추가 한자",
-      "meaning_ko": null,
+      "meaning_ko": "이르다·빠르다",
       "meaning_en": "early",
       "on_readings": [
         "ソウ",
@@ -82,8 +83,9 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "needs_ko_translation_and_examples",
-      "source_level": "N4"
+      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "source_level": "N4",
+      "meaning_ko_review_status": "draft_review_pending"
     },
     {
       "id": "kanji-203",
@@ -91,7 +93,7 @@
       "stage": 3,
       "order": 3,
       "category": "추가 한자",
-      "meaning_ko": null,
+      "meaning_ko": "비추다",
       "meaning_en": "reflect",
       "on_readings": [
         "エイ"
@@ -127,8 +129,9 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "needs_ko_translation_and_examples",
-      "source_level": "N4"
+      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "source_level": "N4",
+      "meaning_ko_review_status": "draft_review_pending"
     },
     {
       "id": "kanji-204",
@@ -136,7 +139,7 @@
       "stage": 3,
       "order": 4,
       "category": "추가 한자",
-      "meaning_ko": null,
+      "meaning_ko": "부모·친하다",
       "meaning_en": "parent",
       "on_readings": [
         "シン"
@@ -172,8 +175,9 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "needs_ko_translation_and_examples",
-      "source_level": "N4"
+      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "source_level": "N4",
+      "meaning_ko_review_status": "draft_review_pending"
     },
     {
       "id": "kanji-205",
@@ -181,7 +185,7 @@
       "stage": 3,
       "order": 5,
       "category": "추가 한자",
-      "meaning_ko": null,
+      "meaning_ko": "시험·경험",
       "meaning_en": "verification",
       "on_readings": [
         "ケン",
@@ -218,8 +222,9 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "needs_ko_translation_and_examples",
-      "source_level": "N4"
+      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "source_level": "N4",
+      "meaning_ko_review_status": "draft_review_pending"
     },
     {
       "id": "kanji-206",
@@ -227,7 +232,7 @@
       "stage": 3,
       "order": 6,
       "category": "추가 한자",
-      "meaning_ko": null,
+      "meaning_ko": "영국·뛰어나다",
       "meaning_en": "England",
       "on_readings": [
         "エイ"
@@ -253,8 +258,9 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "needs_ko_translation_and_examples",
-      "source_level": "N4"
+      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "source_level": "N4",
+      "meaning_ko_review_status": "draft_review_pending"
     },
     {
       "id": "kanji-207",
@@ -262,7 +268,7 @@
       "stage": 3,
       "order": 7,
       "category": "추가 한자",
-      "meaning_ko": null,
+      "meaning_ko": "의사·의학",
       "meaning_en": "doctor",
       "on_readings": [
         "イ"
@@ -297,8 +303,9 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "needs_ko_translation_and_examples",
-      "source_level": "N4"
+      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "source_level": "N4",
+      "meaning_ko_review_status": "draft_review_pending"
     },
     {
       "id": "kanji-208",
@@ -306,7 +313,7 @@
       "stage": 3,
       "order": 8,
       "category": "추가 한자",
-      "meaning_ko": null,
+      "meaning_ko": "섬기다·일하다",
       "meaning_en": "attend",
       "on_readings": [
         "シ",
@@ -340,8 +347,9 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "needs_ko_translation_and_examples",
-      "source_level": "N4"
+      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "source_level": "N4",
+      "meaning_ko_review_status": "draft_review_pending"
     },
     {
       "id": "kanji-209",
@@ -349,7 +357,7 @@
       "stage": 3,
       "order": 9,
       "category": "추가 한자",
-      "meaning_ko": null,
+      "meaning_ko": "지나다·떠나다",
       "meaning_en": "gone",
       "on_readings": [
         "キョ",
@@ -377,8 +385,9 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "needs_ko_translation_and_examples",
-      "source_level": "N4"
+      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "source_level": "N4",
+      "meaning_ko_review_status": "draft_review_pending"
     },
     {
       "id": "kanji-210",
@@ -386,7 +395,7 @@
       "stage": 3,
       "order": 10,
       "category": "추가 한자",
-      "meaning_ko": null,
+      "meaning_ko": "맛",
       "meaning_en": "flavor",
       "on_readings": [
         "ミ"
@@ -420,8 +429,9 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "needs_ko_translation_and_examples",
-      "source_level": "N4"
+      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "source_level": "N4",
+      "meaning_ko_review_status": "draft_review_pending"
     },
     {
       "id": "kanji-211",
@@ -429,7 +439,7 @@
       "stage": 3,
       "order": 11,
       "category": "추가 한자",
-      "meaning_ko": null,
+      "meaning_ko": "베끼다·사진",
       "meaning_en": "copy",
       "on_readings": [
         "シャ",
@@ -466,8 +476,9 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "needs_ko_translation_and_examples",
-      "source_level": "N4"
+      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "source_level": "N4",
+      "meaning_ko_review_status": "draft_review_pending"
     },
     {
       "id": "kanji-212",
@@ -475,7 +486,7 @@
       "stage": 3,
       "order": 12,
       "category": "추가 한자",
-      "meaning_ko": null,
+      "meaning_ko": "밤",
       "meaning_en": "night",
       "on_readings": [
         "ヤ"
@@ -509,8 +520,9 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "needs_ko_translation_and_examples",
-      "source_level": "N4"
+      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "source_level": "N4",
+      "meaning_ko_review_status": "draft_review_pending"
     },
     {
       "id": "kanji-213",
@@ -518,7 +530,7 @@
       "stage": 3,
       "order": 13,
       "category": "추가 한자",
-      "meaning_ko": null,
+      "meaning_ko": "소리",
       "meaning_en": "sound",
       "on_readings": [
         "オン",
@@ -554,8 +566,9 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "needs_ko_translation_and_examples",
-      "source_level": "N4"
+      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "source_level": "N4",
+      "meaning_ko_review_status": "draft_review_pending"
     },
     {
       "id": "kanji-214",
@@ -563,7 +576,7 @@
       "stage": 3,
       "order": 14,
       "category": "추가 한자",
-      "meaning_ko": null,
+      "meaning_ko": "주의·주입",
       "meaning_en": "pour",
       "on_readings": [
         "チュウ"
@@ -598,8 +611,9 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "needs_ko_translation_and_examples",
-      "source_level": "N4"
+      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "source_level": "N4",
+      "meaning_ko_review_status": "draft_review_pending"
     },
     {
       "id": "kanji-215",
@@ -607,7 +621,7 @@
       "stage": 3,
       "order": 15,
       "category": "추가 한자",
-      "meaning_ko": null,
+      "meaning_ko": "노래",
       "meaning_en": "song",
       "on_readings": [
         "カ"
@@ -641,8 +655,9 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "needs_ko_translation_and_examples",
-      "source_level": "N4"
+      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "source_level": "N4",
+      "meaning_ko_review_status": "draft_review_pending"
     },
     {
       "id": "kanji-216",
@@ -650,7 +665,7 @@
       "stage": 3,
       "order": 16,
       "category": "추가 한자",
-      "meaning_ko": null,
+      "meaning_ko": "나쁘다",
       "meaning_en": "bad",
       "on_readings": [
         "アク",
@@ -685,8 +700,9 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "needs_ko_translation_and_examples",
-      "source_level": "N4"
+      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "source_level": "N4",
+      "meaning_ko_review_status": "draft_review_pending"
     },
     {
       "id": "kanji-217",
@@ -694,7 +710,7 @@
       "stage": 3,
       "order": 17,
       "category": "추가 한자",
-      "meaning_ko": null,
+      "meaning_ko": "그림·지도",
       "meaning_en": "map",
       "on_readings": [
         "ズ",
@@ -729,8 +745,9 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "needs_ko_translation_and_examples",
-      "source_level": "N4"
+      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "source_level": "N4",
+      "meaning_ko_review_status": "draft_review_pending"
     },
     {
       "id": "kanji-218",
@@ -738,7 +755,7 @@
       "stage": 3,
       "order": 18,
       "category": "추가 한자",
-      "meaning_ko": null,
+      "meaning_ko": "주",
       "meaning_en": "week",
       "on_readings": [
         "シュウ"
@@ -769,8 +786,9 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "needs_ko_translation_and_examples",
-      "source_level": "N4"
+      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "source_level": "N4",
+      "meaning_ko_review_status": "draft_review_pending"
     },
     {
       "id": "kanji-219",
@@ -778,7 +796,7 @@
       "stage": 3,
       "order": 19,
       "category": "추가 한자",
-      "meaning_ko": null,
+      "meaning_ko": "걷다",
       "meaning_en": "walk",
       "on_readings": [
         "ホ",
@@ -814,8 +832,9 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "needs_ko_translation_and_examples",
-      "source_level": "N4"
+      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "source_level": "N4",
+      "meaning_ko_review_status": "draft_review_pending"
     },
     {
       "id": "kanji-220",
@@ -823,7 +842,7 @@
       "stage": 3,
       "order": 20,
       "category": "추가 한자",
-      "meaning_ko": null,
+      "meaning_ko": "바람",
       "meaning_en": "wind",
       "on_readings": [
         "フウ",
@@ -858,8 +877,9 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "needs_ko_translation_and_examples",
-      "source_level": "N4"
+      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "source_level": "N4",
+      "meaning_ko_review_status": "draft_review_pending"
     },
     {
       "id": "kanji-221",
@@ -867,7 +887,7 @@
       "stage": 3,
       "order": 21,
       "category": "추가 한자",
-      "meaning_ko": null,
+      "meaning_ko": "종이",
       "meaning_en": "paper",
       "on_readings": [
         "シ"
@@ -900,8 +920,9 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "needs_ko_translation_and_examples",
-      "source_level": "N4"
+      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "source_level": "N4",
+      "meaning_ko_review_status": "draft_review_pending"
     },
     {
       "id": "kanji-222",
@@ -909,7 +930,7 @@
       "stage": 3,
       "order": 22,
       "category": "추가 한자",
-      "meaning_ko": null,
+      "meaning_ko": "꽃",
       "meaning_en": "flower",
       "on_readings": [
         "カ",
@@ -943,8 +964,9 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "needs_ko_translation_and_examples",
-      "source_level": "N4"
+      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "source_level": "N4",
+      "meaning_ko_review_status": "draft_review_pending"
     },
     {
       "id": "kanji-223",
@@ -952,7 +974,7 @@
       "stage": 3,
       "order": 23,
       "category": "추가 한자",
-      "meaning_ko": null,
+      "meaning_ko": "봄",
       "meaning_en": "springtime",
       "on_readings": [
         "シュン"
@@ -977,8 +999,9 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "needs_ko_translation_and_examples",
-      "source_level": "N4"
+      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "source_level": "N4",
+      "meaning_ko_review_status": "draft_review_pending"
     },
     {
       "id": "kanji-224",
@@ -986,7 +1009,7 @@
       "stage": 3,
       "order": 24,
       "category": "추가 한자",
-      "meaning_ko": null,
+      "meaning_ko": "파랗다",
       "meaning_en": "blue",
       "on_readings": [
         "セイ",
@@ -1022,8 +1045,9 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "needs_ko_translation_and_examples",
-      "source_level": "N4"
+      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "source_level": "N4",
+      "meaning_ko_review_status": "draft_review_pending"
     },
     {
       "id": "kanji-225",
@@ -1031,7 +1055,7 @@
       "stage": 3,
       "order": 25,
       "category": "추가 한자",
-      "meaning_ko": null,
+      "meaning_ko": "건물·관",
       "meaning_en": "building",
       "on_readings": [
         "カン"
@@ -1065,8 +1089,9 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "needs_ko_translation_and_examples",
-      "source_level": "N4"
+      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "source_level": "N4",
+      "meaning_ko_review_status": "draft_review_pending"
     },
     {
       "id": "kanji-226",
@@ -1074,7 +1099,7 @@
       "stage": 3,
       "order": 26,
       "category": "추가 한자",
-      "meaning_ko": null,
+      "meaning_ko": "집·가게",
       "meaning_en": "roof",
       "on_readings": [
         "オク"
@@ -1107,8 +1132,9 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "needs_ko_translation_and_examples",
-      "source_level": "N4"
+      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "source_level": "N4",
+      "meaning_ko_review_status": "draft_review_pending"
     },
     {
       "id": "kanji-227",
@@ -1116,7 +1142,7 @@
       "stage": 3,
       "order": 27,
       "category": "추가 한자",
-      "meaning_ko": null,
+      "meaning_ko": "색",
       "meaning_en": "color",
       "on_readings": [
         "ショク",
@@ -1150,8 +1176,9 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "needs_ko_translation_and_examples",
-      "source_level": "N4"
+      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "source_level": "N4",
+      "meaning_ko_review_status": "draft_review_pending"
     },
     {
       "id": "kanji-228",
@@ -1159,7 +1186,7 @@
       "stage": 3,
       "order": 28,
       "category": "추가 한자",
-      "meaning_ko": null,
+      "meaning_ko": "달리다",
       "meaning_en": "run",
       "on_readings": [
         "ソウ"
@@ -1185,8 +1212,9 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "needs_ko_translation_and_examples",
-      "source_level": "N4"
+      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "source_level": "N4",
+      "meaning_ko_review_status": "draft_review_pending"
     },
     {
       "id": "kanji-229",
@@ -1194,7 +1222,7 @@
       "stage": 3,
       "order": 29,
       "category": "추가 한자",
-      "meaning_ko": null,
+      "meaning_ko": "가을",
       "meaning_en": "autumn",
       "on_readings": [
         "シュウ"
@@ -1219,8 +1247,9 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "needs_ko_translation_and_examples",
-      "source_level": "N4"
+      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "source_level": "N4",
+      "meaning_ko_review_status": "draft_review_pending"
     },
     {
       "id": "kanji-230",
@@ -1228,7 +1257,7 @@
       "stage": 3,
       "order": 30,
       "category": "추가 한자",
-      "meaning_ko": null,
+      "meaning_ko": "여름",
       "meaning_en": "summer",
       "on_readings": [
         "カ",
@@ -1262,8 +1291,9 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "needs_ko_translation_and_examples",
-      "source_level": "N4"
+      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "source_level": "N4",
+      "meaning_ko_review_status": "draft_review_pending"
     },
     {
       "id": "kanji-231",
@@ -1271,7 +1301,7 @@
       "stage": 3,
       "order": 31,
       "category": "추가 한자",
-      "meaning_ko": null,
+      "meaning_ko": "배우다·익히다",
       "meaning_en": "learn",
       "on_readings": [
         "シュウ",
@@ -1306,8 +1336,9 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "needs_ko_translation_and_examples",
-      "source_level": "N4"
+      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "source_level": "N4",
+      "meaning_ko_review_status": "draft_review_pending"
     },
     {
       "id": "kanji-232",
@@ -1315,7 +1346,7 @@
       "stage": 3,
       "order": 32,
       "category": "추가 한자",
-      "meaning_ko": null,
+      "meaning_ko": "서양·바다",
       "meaning_en": "ocean",
       "on_readings": [
         "ヨウ"
@@ -1346,8 +1377,9 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "needs_ko_translation_and_examples",
-      "source_level": "N4"
+      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "source_level": "N4",
+      "meaning_ko_review_status": "draft_review_pending"
     },
     {
       "id": "kanji-233",
@@ -1355,7 +1387,7 @@
       "stage": 3,
       "order": 33,
       "category": "추가 한자",
-      "meaning_ko": null,
+      "meaning_ko": "옷",
       "meaning_en": "clothing",
       "on_readings": [
         "フク"
@@ -1386,8 +1418,9 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "needs_ko_translation_and_examples",
-      "source_level": "N4"
+      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "source_level": "N4",
+      "meaning_ko_review_status": "draft_review_pending"
     },
     {
       "id": "kanji-234",
@@ -1395,7 +1428,7 @@
       "stage": 3,
       "order": 34,
       "category": "추가 한자",
-      "meaning_ko": null,
+      "meaning_ko": "저녁",
       "meaning_en": "evening",
       "on_readings": [
         "セキ"
@@ -1428,8 +1461,9 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "needs_ko_translation_and_examples",
-      "source_level": "N4"
+      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "source_level": "N4",
+      "meaning_ko_review_status": "draft_review_pending"
     },
     {
       "id": "kanji-235",
@@ -1437,7 +1471,7 @@
       "stage": 3,
       "order": 35,
       "category": "추가 한자",
-      "meaning_ko": null,
+      "meaning_ko": "빌리다",
       "meaning_en": "borrow",
       "on_readings": [
         "シャク"
@@ -1463,8 +1497,9 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "needs_ko_translation_and_examples",
-      "source_level": "N4"
+      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "source_level": "N4",
+      "meaning_ko_review_status": "draft_review_pending"
     },
     {
       "id": "kanji-236",
@@ -1472,7 +1507,7 @@
       "stage": 3,
       "order": 36,
       "category": "추가 한자",
-      "meaning_ko": null,
+      "meaning_ko": "요일",
       "meaning_en": "weekday",
       "on_readings": [
         "ヨウ"
@@ -1503,8 +1538,9 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "needs_ko_translation_and_examples",
-      "source_level": "N4"
+      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "source_level": "N4",
+      "meaning_ko_review_status": "draft_review_pending"
     },
     {
       "id": "kanji-237",
@@ -1512,7 +1548,7 @@
       "stage": 3,
       "order": 37,
       "category": "추가 한자",
-      "meaning_ko": null,
+      "meaning_ko": "고기",
       "meaning_en": "meat",
       "on_readings": [
         "ニク"
@@ -1545,8 +1581,9 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "needs_ko_translation_and_examples",
-      "source_level": "N4"
+      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "source_level": "N4",
+      "meaning_ko_review_status": "draft_review_pending"
     },
     {
       "id": "kanji-238",
@@ -1554,7 +1591,7 @@
       "stage": 3,
       "order": 38,
       "category": "추가 한자",
-      "meaning_ko": null,
+      "meaning_ko": "빌려주다",
       "meaning_en": "lend",
       "on_readings": [
         "タイ"
@@ -1582,8 +1619,9 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "needs_ko_translation_and_examples",
-      "source_level": "N4"
+      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "source_level": "N4",
+      "meaning_ko_review_status": "draft_review_pending"
     },
     {
       "id": "kanji-239",
@@ -1591,7 +1629,7 @@
       "stage": 3,
       "order": 39,
       "category": "추가 한자",
-      "meaning_ko": null,
+      "meaning_ko": "건물·당",
       "meaning_en": "public chamber",
       "on_readings": [
         "ドウ"
@@ -1622,8 +1660,9 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "needs_ko_translation_and_examples",
-      "source_level": "N4"
+      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "source_level": "N4",
+      "meaning_ko_review_status": "draft_review_pending"
     },
     {
       "id": "kanji-240",
@@ -1631,7 +1670,7 @@
       "stage": 3,
       "order": 40,
       "category": "추가 한자",
-      "meaning_ko": null,
+      "meaning_ko": "새",
       "meaning_en": "bird",
       "on_readings": [
         "チョウ"
@@ -1664,8 +1703,9 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "needs_ko_translation_and_examples",
-      "source_level": "N4"
+      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "source_level": "N4",
+      "meaning_ko_review_status": "draft_review_pending"
     },
     {
       "id": "kanji-241",
@@ -1673,7 +1713,7 @@
       "stage": 3,
       "order": 41,
       "category": "추가 한자",
-      "meaning_ko": null,
+      "meaning_ko": "밥",
       "meaning_en": "meal",
       "on_readings": [
         "ハン"
@@ -1706,8 +1746,9 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "needs_ko_translation_and_examples",
-      "source_level": "N4"
+      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "source_level": "N4",
+      "meaning_ko_review_status": "draft_review_pending"
     },
     {
       "id": "kanji-242",
@@ -1715,7 +1756,7 @@
       "stage": 3,
       "order": 42,
       "category": "추가 한자",
-      "meaning_ko": null,
+      "meaning_ko": "힘쓰다",
       "meaning_en": "exertion",
       "on_readings": [
         "ベン"
@@ -1740,8 +1781,9 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "needs_ko_translation_and_examples",
-      "source_level": "N4"
+      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "source_level": "N4",
+      "meaning_ko_review_status": "draft_review_pending"
     },
     {
       "id": "kanji-243",
@@ -1749,7 +1791,7 @@
       "stage": 3,
       "order": 43,
       "category": "추가 한자",
-      "meaning_ko": null,
+      "meaning_ko": "겨울",
       "meaning_en": "winter",
       "on_readings": [
         "トウ"
@@ -1774,8 +1816,9 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "needs_ko_translation_and_examples",
-      "source_level": "N4"
+      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "source_level": "N4",
+      "meaning_ko_review_status": "draft_review_pending"
     },
     {
       "id": "kanji-244",
@@ -1783,7 +1826,7 @@
       "stage": 3,
       "order": 44,
       "category": "추가 한자",
-      "meaning_ko": null,
+      "meaning_ko": "낮",
       "meaning_en": "daytime",
       "on_readings": [
         "チュウ"
@@ -1816,8 +1859,9 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "needs_ko_translation_and_examples",
-      "source_level": "N4"
+      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "source_level": "N4",
+      "meaning_ko_review_status": "draft_review_pending"
     },
     {
       "id": "kanji-245",
@@ -1825,7 +1869,7 @@
       "stage": 3,
       "order": 45,
       "category": "추가 한자",
-      "meaning_ko": null,
+      "meaning_ko": "차",
       "meaning_en": "tea",
       "on_readings": [
         "チャ",
@@ -1857,8 +1901,9 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "needs_ko_translation_and_examples",
-      "source_level": "N4"
+      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "source_level": "N4",
+      "meaning_ko_review_status": "draft_review_pending"
     },
     {
       "id": "kanji-246",
@@ -1866,7 +1911,7 @@
       "stage": 3,
       "order": 46,
       "category": "추가 한자",
-      "meaning_ko": null,
+      "meaning_ko": "남동생",
       "meaning_en": "younger brother",
       "on_readings": [
         "テイ",
@@ -1901,8 +1946,9 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "needs_ko_translation_and_examples",
-      "source_level": "N4"
+      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "source_level": "N4",
+      "meaning_ko_review_status": "draft_review_pending"
     },
     {
       "id": "kanji-247",
@@ -1910,7 +1956,7 @@
       "stage": 3,
       "order": 47,
       "category": "추가 한자",
-      "meaning_ko": null,
+      "meaning_ko": "소",
       "meaning_en": "cow",
       "on_readings": [
         "ギュウ"
@@ -1943,8 +1989,9 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "needs_ko_translation_and_examples",
-      "source_level": "N4"
+      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "source_level": "N4",
+      "meaning_ko_review_status": "draft_review_pending"
     },
     {
       "id": "kanji-248",
@@ -1952,7 +1999,7 @@
       "stage": 3,
       "order": 48,
       "category": "추가 한자",
-      "meaning_ko": null,
+      "meaning_ko": "물고기",
       "meaning_en": "fish",
       "on_readings": [
         "ギョ"
@@ -1979,8 +2026,9 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "needs_ko_translation_and_examples",
-      "source_level": "N4"
+      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "source_level": "N4",
+      "meaning_ko_review_status": "draft_review_pending"
     },
     {
       "id": "kanji-249",
@@ -1988,7 +2036,7 @@
       "stage": 3,
       "order": 49,
       "category": "추가 한자",
-      "meaning_ko": null,
+      "meaning_ko": "형·오빠",
       "meaning_en": "elder brother",
       "on_readings": [
         "ケイ",
@@ -2022,8 +2070,9 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "needs_ko_translation_and_examples",
-      "source_level": "N4"
+      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "source_level": "N4",
+      "meaning_ko_review_status": "draft_review_pending"
     },
     {
       "id": "kanji-250",
@@ -2031,7 +2080,7 @@
       "stage": 3,
       "order": 50,
       "category": "추가 한자",
-      "meaning_ko": null,
+      "meaning_ko": "개",
       "meaning_en": "dog",
       "on_readings": [
         "ケン"
@@ -2056,8 +2105,9 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "needs_ko_translation_and_examples",
-      "source_level": "N4"
+      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "source_level": "N4",
+      "meaning_ko_review_status": "draft_review_pending"
     },
     {
       "id": "kanji-251",
@@ -2065,7 +2115,7 @@
       "stage": 3,
       "order": 51,
       "category": "추가 한자",
-      "meaning_ko": null,
+      "meaning_ko": "여동생",
       "meaning_en": "younger sister",
       "on_readings": [
         "マイ"
@@ -2090,8 +2140,9 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "needs_ko_translation_and_examples",
-      "source_level": "N4"
+      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "source_level": "N4",
+      "meaning_ko_review_status": "draft_review_pending"
     },
     {
       "id": "kanji-252",
@@ -2099,7 +2150,7 @@
       "stage": 3,
       "order": 52,
       "category": "추가 한자",
-      "meaning_ko": null,
+      "meaning_ko": "언니·누나",
       "meaning_en": "elder sister",
       "on_readings": [
         "シ"
@@ -2133,8 +2184,9 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "needs_ko_translation_and_examples",
-      "source_level": "N4"
+      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "source_level": "N4",
+      "meaning_ko_review_status": "draft_review_pending"
     },
     {
       "id": "kanji-253",
@@ -2142,7 +2194,7 @@
       "stage": 3,
       "order": 53,
       "category": "추가 한자",
-      "meaning_ko": null,
+      "meaning_ko": "한자·중국",
       "meaning_en": "Sino-",
       "on_readings": [
         "カン"
@@ -2166,8 +2218,9 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "needs_ko_translation_and_examples",
-      "source_level": "N4"
+      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "source_level": "N4",
+      "meaning_ko_review_status": "draft_review_pending"
     },
     {
       "id": "kanji-254",
@@ -2175,7 +2228,7 @@
       "stage": 3,
       "order": 54,
       "category": "추가 한자",
-      "meaning_ko": null,
+      "meaning_ko": "아이·동네",
       "meaning_en": "boy",
       "on_readings": [
         "ボウ",
@@ -2207,8 +2260,9 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "needs_ko_translation_and_examples",
-      "source_level": "N4"
+      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "source_level": "N4",
+      "meaning_ko_review_status": "draft_review_pending"
     },
     {
       "id": "kanji-255",
@@ -2216,7 +2270,7 @@
       "stage": 3,
       "order": 55,
       "category": "추가 한자",
-      "meaning_ko": null,
+      "meaning_ko": "대단하다",
       "meaning_en": "uncanny",
       "on_readings": [
         "セイ",
@@ -2244,8 +2298,9 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "needs_ko_translation_and_examples",
-      "source_level": "N4"
+      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "source_level": "N4",
+      "meaning_ko_review_status": "draft_review_pending"
     },
     {
       "id": "kanji-256",
@@ -2253,7 +2308,7 @@
       "stage": 3,
       "order": 56,
       "category": "추가 한자",
-      "meaning_ko": null,
+      "meaning_ko": "마르다",
       "meaning_en": "get thin",
       "on_readings": [
         "ソウ",
@@ -2280,8 +2335,9 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "needs_ko_translation_and_examples",
-      "source_level": "N4"
+      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "source_level": "N4",
+      "meaning_ko_review_status": "draft_review_pending"
     },
     {
       "id": "kanji-257",
@@ -2289,7 +2345,7 @@
       "stage": 3,
       "order": 57,
       "category": "추가 한자",
-      "meaning_ko": null,
+      "meaning_ko": "정치",
       "meaning_en": "politics",
       "on_readings": [
         "セイ",
@@ -2317,8 +2373,9 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "needs_ko_translation_and_examples",
-      "source_level": "N3"
+      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "source_level": "N3",
+      "meaning_ko_review_status": "draft_review_pending"
     },
     {
       "id": "kanji-258",
@@ -2326,7 +2383,7 @@
       "stage": 3,
       "order": 58,
       "category": "추가 한자",
-      "meaning_ko": null,
+      "meaning_ko": "의논",
       "meaning_en": "deliberation",
       "on_readings": [
         "ギ"
@@ -2357,8 +2414,9 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "needs_ko_translation_and_examples",
-      "source_level": "N3"
+      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "source_level": "N3",
+      "meaning_ko_review_status": "draft_review_pending"
     },
     {
       "id": "kanji-259",
@@ -2366,7 +2424,7 @@
       "stage": 3,
       "order": 59,
       "category": "추가 한자",
-      "meaning_ko": null,
+      "meaning_ko": "백성·시민",
       "meaning_en": "people",
       "on_readings": [
         "ミン"
@@ -2392,8 +2450,9 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "needs_ko_translation_and_examples",
-      "source_level": "N3"
+      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "source_level": "N3",
+      "meaning_ko_review_status": "draft_review_pending"
     },
     {
       "id": "kanji-260",
@@ -2401,7 +2460,7 @@
       "stage": 3,
       "order": 60,
       "category": "추가 한자",
-      "meaning_ko": null,
+      "meaning_ko": "잇다·연락",
       "meaning_en": "take along",
       "on_readings": [
         "レン"
@@ -2437,8 +2496,9 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "needs_ko_translation_and_examples",
-      "source_level": "N3"
+      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "source_level": "N3",
+      "meaning_ko_review_status": "draft_review_pending"
     },
     {
       "id": "kanji-261",
@@ -2446,7 +2506,7 @@
       "stage": 3,
       "order": 61,
       "category": "추가 한자",
-      "meaning_ko": null,
+      "meaning_ko": "상대·대응",
       "meaning_en": "vis-a-vis",
       "on_readings": [
         "タイ",
@@ -2478,8 +2538,9 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "needs_ko_translation_and_examples",
-      "source_level": "N3"
+      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "source_level": "N3",
+      "meaning_ko_review_status": "draft_review_pending"
     },
     {
       "id": "kanji-262",
@@ -2487,7 +2548,7 @@
       "stage": 3,
       "order": 62,
       "category": "추가 한자",
-      "meaning_ko": null,
+      "meaning_ko": "부분·부서",
       "meaning_en": "section",
       "on_readings": [
         "ブ"
@@ -2520,8 +2581,9 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "needs_ko_translation_and_examples",
-      "source_level": "N3"
+      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "source_level": "N3",
+      "meaning_ko_review_status": "draft_review_pending"
     },
     {
       "id": "kanji-263",
@@ -2529,7 +2591,7 @@
       "stage": 3,
       "order": 63,
       "category": "추가 한자",
-      "meaning_ko": null,
+      "meaning_ko": "맞다·합치다",
       "meaning_en": "fit",
       "on_readings": [
         "ゴウ",
@@ -2572,8 +2634,9 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "needs_ko_translation_and_examples",
-      "source_level": "N3"
+      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "source_level": "N3",
+      "meaning_ko_review_status": "draft_review_pending"
     },
     {
       "id": "kanji-264",
@@ -2581,7 +2644,7 @@
       "stage": 3,
       "order": 64,
       "category": "추가 한자",
-      "meaning_ko": null,
+      "meaning_ko": "시·시장",
       "meaning_en": "market",
       "on_readings": [
         "シ"
@@ -2614,8 +2677,9 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "needs_ko_translation_and_examples",
-      "source_level": "N3"
+      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "source_level": "N3",
+      "meaning_ko_review_status": "draft_review_pending"
     },
     {
       "id": "kanji-265",
@@ -2623,7 +2687,7 @@
       "stage": 3,
       "order": 65,
       "category": "추가 한자",
-      "meaning_ko": null,
+      "meaning_ko": "안",
       "meaning_en": "inside",
       "on_readings": [
         "ナイ",
@@ -2657,8 +2721,9 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "needs_ko_translation_and_examples",
-      "source_level": "N3"
+      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "source_level": "N3",
+      "meaning_ko_review_status": "draft_review_pending"
     },
     {
       "id": "kanji-266",
@@ -2666,7 +2731,7 @@
       "stage": 3,
       "order": 66,
       "category": "추가 한자",
-      "meaning_ko": null,
+      "meaning_ko": "서로·상대",
       "meaning_en": "inter-",
       "on_readings": [
         "ソウ",
@@ -2693,8 +2758,9 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "needs_ko_translation_and_examples",
-      "source_level": "N3"
+      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "source_level": "N3",
+      "meaning_ko_review_status": "draft_review_pending"
     },
     {
       "id": "kanji-267",
@@ -2702,7 +2768,7 @@
       "stage": 3,
       "order": 67,
       "category": "추가 한자",
-      "meaning_ko": null,
+      "meaning_ko": "정하다",
       "meaning_en": "determine",
       "on_readings": [
         "テイ",
@@ -2731,8 +2797,9 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "needs_ko_translation_and_examples",
-      "source_level": "N3"
+      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "source_level": "N3",
+      "meaning_ko_review_status": "draft_review_pending"
     },
     {
       "id": "kanji-268",
@@ -2740,7 +2807,7 @@
       "stage": 3,
       "order": 68,
       "category": "추가 한자",
-      "meaning_ko": null,
+      "meaning_ko": "돌다·횟수",
       "meaning_en": "-times",
       "on_readings": [
         "カイ",
@@ -2775,8 +2842,9 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "needs_ko_translation_and_examples",
-      "source_level": "N3"
+      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "source_level": "N3",
+      "meaning_ko_review_status": "draft_review_pending"
     },
     {
       "id": "kanji-269",
@@ -2784,7 +2852,7 @@
       "stage": 3,
       "order": 69,
       "category": "추가 한자",
-      "meaning_ko": null,
+      "meaning_ko": "고르다",
       "meaning_en": "elect",
       "on_readings": [
         "セン"
@@ -2812,8 +2880,9 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "needs_ko_translation_and_examples",
-      "source_level": "N3"
+      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "source_level": "N3",
+      "meaning_ko_review_status": "draft_review_pending"
     },
     {
       "id": "kanji-270",
@@ -2821,7 +2890,7 @@
       "stage": 3,
       "order": 70,
       "category": "추가 한자",
-      "meaning_ko": null,
+      "meaning_ko": "쌀·미국",
       "meaning_en": "rice",
       "on_readings": [
         "ベイ",
@@ -2850,8 +2919,9 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "needs_ko_translation_and_examples",
-      "source_level": "N3"
+      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "source_level": "N3",
+      "meaning_ko_review_status": "draft_review_pending"
     },
     {
       "id": "kanji-271",
@@ -2859,7 +2929,7 @@
       "stage": 3,
       "order": 71,
       "category": "추가 한자",
-      "meaning_ko": null,
+      "meaning_ko": "열매·사실",
       "meaning_en": "reality",
       "on_readings": [
         "ジツ",
@@ -2882,8 +2952,9 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "needs_ko_translation_and_examples",
-      "source_level": "N3"
+      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "source_level": "N3",
+      "meaning_ko_review_status": "draft_review_pending"
     },
     {
       "id": "kanji-272",
@@ -2891,7 +2962,7 @@
       "stage": 3,
       "order": 72,
       "category": "추가 한자",
-      "meaning_ko": null,
+      "meaning_ko": "관계",
       "meaning_en": "connection",
       "on_readings": [
         "カン"
@@ -2928,8 +2999,9 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "needs_ko_translation_and_examples",
-      "source_level": "N3"
+      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "source_level": "N3",
+      "meaning_ko_review_status": "draft_review_pending"
     },
     {
       "id": "kanji-273",
@@ -2937,7 +3009,7 @@
       "stage": 3,
       "order": 73,
       "category": "추가 한자",
-      "meaning_ko": null,
+      "meaning_ko": "결정하다",
       "meaning_en": "decide",
       "on_readings": [
         "ケツ"
@@ -2973,8 +3045,9 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "needs_ko_translation_and_examples",
-      "source_level": "N3"
+      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "source_level": "N3",
+      "meaning_ko_review_status": "draft_review_pending"
     },
     {
       "id": "kanji-274",
@@ -2982,7 +3055,7 @@
       "stage": 3,
       "order": 74,
       "category": "추가 한자",
-      "meaning_ko": null,
+      "meaning_ko": "전체",
       "meaning_en": "whole",
       "on_readings": [
         "ゼン"
@@ -3016,8 +3089,9 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "needs_ko_translation_and_examples",
-      "source_level": "N3"
+      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "source_level": "N3",
+      "meaning_ko_review_status": "draft_review_pending"
     },
     {
       "id": "kanji-275",
@@ -3025,7 +3099,7 @@
       "stage": 3,
       "order": 75,
       "category": "추가 한자",
-      "meaning_ko": null,
+      "meaning_ko": "겉·표현",
       "meaning_en": "surface",
       "on_readings": [
         "ヒョウ"
@@ -3055,8 +3129,9 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "needs_ko_translation_and_examples",
-      "source_level": "N3"
+      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "source_level": "N3",
+      "meaning_ko_review_status": "draft_review_pending"
     },
     {
       "id": "kanji-276",
@@ -3064,7 +3139,7 @@
       "stage": 3,
       "order": 76,
       "category": "추가 한자",
-      "meaning_ko": null,
+      "meaning_ko": "전쟁",
       "meaning_en": "war",
       "on_readings": [
         "セン"
@@ -3094,8 +3169,9 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "needs_ko_translation_and_examples",
-      "source_level": "N3"
+      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "source_level": "N3",
+      "meaning_ko_review_status": "draft_review_pending"
     },
     {
       "id": "kanji-277",
@@ -3103,7 +3179,7 @@
       "stage": 3,
       "order": 77,
       "category": "추가 한자",
-      "meaning_ko": null,
+      "meaning_ko": "지나다·경험",
       "meaning_en": "sutra",
       "on_readings": [
         "ケイ",
@@ -3142,8 +3218,9 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "needs_ko_translation_and_examples",
-      "source_level": "N3"
+      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "source_level": "N3",
+      "meaning_ko_review_status": "draft_review_pending"
     },
     {
       "id": "kanji-278",
@@ -3151,7 +3228,7 @@
       "stage": 3,
       "order": 78,
       "category": "추가 한자",
-      "meaning_ko": null,
+      "meaning_ko": "가장",
       "meaning_en": "utmost",
       "on_readings": [
         "サイ",
@@ -3186,8 +3263,9 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "needs_ko_translation_and_examples",
-      "source_level": "N3"
+      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "source_level": "N3",
+      "meaning_ko_review_status": "draft_review_pending"
     },
     {
       "id": "kanji-279",
@@ -3195,7 +3273,7 @@
       "stage": 3,
       "order": 79,
       "category": "추가 한자",
-      "meaning_ko": null,
+      "meaning_ko": "현재·나타나다",
       "meaning_en": "present",
       "on_readings": [
         "ゲン"
@@ -3216,8 +3294,9 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "needs_ko_translation_and_examples",
-      "source_level": "N3"
+      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "source_level": "N3",
+      "meaning_ko_review_status": "draft_review_pending"
     },
     {
       "id": "kanji-280",
@@ -3225,7 +3304,7 @@
       "stage": 3,
       "order": 80,
       "category": "추가 한자",
-      "meaning_ko": null,
+      "meaning_ko": "조사하다·상태",
       "meaning_en": "tune",
       "on_readings": [
         "チョウ"
@@ -3254,8 +3333,9 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "needs_ko_translation_and_examples",
-      "source_level": "N3"
+      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "source_level": "N3",
+      "meaning_ko_review_status": "draft_review_pending"
     },
     {
       "id": "kanji-281",
@@ -3263,7 +3343,7 @@
       "stage": 3,
       "order": 81,
       "category": "추가 한자",
-      "meaning_ko": null,
+      "meaning_ko": "변화",
       "meaning_en": "change",
       "on_readings": [
         "カ",
@@ -3293,8 +3373,9 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "needs_ko_translation_and_examples",
-      "source_level": "N3"
+      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "source_level": "N3",
+      "meaning_ko_review_status": "draft_review_pending"
     },
     {
       "id": "kanji-282",
@@ -3302,7 +3383,7 @@
       "stage": 3,
       "order": 82,
       "category": "추가 한자",
-      "meaning_ko": null,
+      "meaning_ko": "해당·맞다",
       "meaning_en": "hit",
       "on_readings": [
         "トウ"
@@ -3340,8 +3421,9 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "needs_ko_translation_and_examples",
-      "source_level": "N3"
+      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "source_level": "N3",
+      "meaning_ko_review_status": "draft_review_pending"
     },
     {
       "id": "kanji-283",
@@ -3349,7 +3431,7 @@
       "stage": 3,
       "order": 83,
       "category": "추가 한자",
-      "meaning_ko": null,
+      "meaning_ko": "약속",
       "meaning_en": "promise",
       "on_readings": [
         "ヤク"
@@ -3384,8 +3466,9 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "needs_ko_translation_and_examples",
-      "source_level": "N3"
+      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "source_level": "N3",
+      "meaning_ko_review_status": "draft_review_pending"
     },
     {
       "id": "kanji-284",
@@ -3393,7 +3476,7 @@
       "stage": 3,
       "order": 84,
       "category": "추가 한자",
-      "meaning_ko": null,
+      "meaning_ko": "목",
       "meaning_en": "neck",
       "on_readings": [
         "シュ"
@@ -3419,8 +3502,9 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "needs_ko_translation_and_examples",
-      "source_level": "N3"
+      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "source_level": "N3",
+      "meaning_ko_review_status": "draft_review_pending"
     },
     {
       "id": "kanji-285",
@@ -3428,7 +3512,7 @@
       "stage": 3,
       "order": 85,
       "category": "추가 한자",
-      "meaning_ko": null,
+      "meaning_ko": "법·방법",
       "meaning_en": "method",
       "on_readings": [
         "ホウ",
@@ -3464,8 +3548,9 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "needs_ko_translation_and_examples",
-      "source_level": "N3"
+      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "source_level": "N3",
+      "meaning_ko_review_status": "draft_review_pending"
     },
     {
       "id": "kanji-286",
@@ -3473,7 +3558,7 @@
       "stage": 3,
       "order": 86,
       "category": "추가 한자",
-      "meaning_ko": null,
+      "meaning_ko": "성질·성별",
       "meaning_en": "sex",
       "on_readings": [
         "セイ",
@@ -3507,8 +3592,9 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "needs_ko_translation_and_examples",
-      "source_level": "N3"
+      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "source_level": "N3",
+      "meaning_ko_review_status": "draft_review_pending"
     },
     {
       "id": "kanji-287",
@@ -3516,7 +3602,7 @@
       "stage": 3,
       "order": 87,
       "category": "추가 한자",
-      "meaning_ko": null,
+      "meaning_ko": "목표·~적",
       "meaning_en": "bull's eye",
       "on_readings": [
         "テキ"
@@ -3534,8 +3620,9 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "needs_ko_translation_and_examples",
-      "source_level": "N3"
+      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "source_level": "N3",
+      "meaning_ko_review_status": "draft_review_pending"
     },
     {
       "id": "kanji-288",
@@ -3543,7 +3630,7 @@
       "stage": 3,
       "order": 88,
       "category": "추가 한자",
-      "meaning_ko": null,
+      "meaning_ko": "필요하다",
       "meaning_en": "need",
       "on_readings": [
         "ヨウ"
@@ -3577,8 +3664,9 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "needs_ko_translation_and_examples",
-      "source_level": "N3"
+      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "source_level": "N3",
+      "meaning_ko_review_status": "draft_review_pending"
     },
     {
       "id": "kanji-289",
@@ -3586,7 +3674,7 @@
       "stage": 3,
       "order": 89,
       "category": "추가 한자",
-      "meaning_ko": null,
+      "meaning_ko": "제도·통제",
       "meaning_en": "system",
       "on_readings": [
         "セイ"
@@ -3602,8 +3690,9 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "needs_ko_translation_and_examples",
-      "source_level": "N3"
+      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "source_level": "N3",
+      "meaning_ko_review_status": "draft_review_pending"
     },
     {
       "id": "kanji-290",
@@ -3611,7 +3700,7 @@
       "stage": 3,
       "order": 90,
       "category": "추가 한자",
-      "meaning_ko": null,
+      "meaning_ko": "다스리다·낫다",
       "meaning_en": "reign",
       "on_readings": [
         "ジ",
@@ -3648,8 +3737,9 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "needs_ko_translation_and_examples",
-      "source_level": "N3"
+      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "source_level": "N3",
+      "meaning_ko_review_status": "draft_review_pending"
     },
     {
       "id": "kanji-291",
@@ -3657,7 +3747,7 @@
       "stage": 3,
       "order": 91,
       "category": "추가 한자",
-      "meaning_ko": null,
+      "meaning_ko": "업무",
       "meaning_en": "task",
       "on_readings": [
         "ム"
@@ -3690,8 +3780,9 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "needs_ko_translation_and_examples",
-      "source_level": "N3"
+      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "source_level": "N3",
+      "meaning_ko_review_status": "draft_review_pending"
     },
     {
       "id": "kanji-292",
@@ -3699,7 +3790,7 @@
       "stage": 3,
       "order": 92,
       "category": "추가 한자",
-      "meaning_ko": null,
+      "meaning_ko": "이루다",
       "meaning_en": "turn into",
       "on_readings": [
         "セイ",
@@ -3720,8 +3811,9 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "needs_ko_translation_and_examples",
-      "source_level": "N3"
+      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "source_level": "N3",
+      "meaning_ko_review_status": "draft_review_pending"
     },
     {
       "id": "kanji-293",
@@ -3729,7 +3821,7 @@
       "stage": 3,
       "order": 93,
       "category": "추가 한자",
-      "meaning_ko": null,
+      "meaning_ko": "기간",
       "meaning_en": "period",
       "on_readings": [
         "キ",
@@ -3746,8 +3838,9 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "needs_ko_translation_and_examples",
-      "source_level": "N3"
+      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "source_level": "N3",
+      "meaning_ko_review_status": "draft_review_pending"
     },
     {
       "id": "kanji-294",
@@ -3755,7 +3848,7 @@
       "stage": 3,
       "order": 94,
       "category": "추가 한자",
-      "meaning_ko": null,
+      "meaning_ko": "취하다·가져가다",
       "meaning_en": "take",
       "on_readings": [
         "シュ"
@@ -3792,8 +3885,9 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "needs_ko_translation_and_examples",
-      "source_level": "N3"
+      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "source_level": "N3",
+      "meaning_ko_review_status": "draft_review_pending"
     },
     {
       "id": "kanji-295",
@@ -3801,7 +3895,7 @@
       "stage": 3,
       "order": 95,
       "category": "추가 한자",
-      "meaning_ko": null,
+      "meaning_ko": "도시·수도",
       "meaning_en": "metropolis",
       "on_readings": [
         "ト",
@@ -3835,8 +3929,9 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "needs_ko_translation_and_examples",
-      "source_level": "N3"
+      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "source_level": "N3",
+      "meaning_ko_review_status": "draft_review_pending"
     },
     {
       "id": "kanji-296",
@@ -3844,7 +3939,7 @@
       "stage": 3,
       "order": 96,
       "category": "추가 한자",
-      "meaning_ko": null,
+      "meaning_ko": "화합·일본",
       "meaning_en": "harmony",
       "on_readings": [
         "ワ",
@@ -3868,8 +3963,9 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "needs_ko_translation_and_examples",
-      "source_level": "N3"
+      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "source_level": "N3",
+      "meaning_ko_review_status": "draft_review_pending"
     },
     {
       "id": "kanji-297",
@@ -3877,7 +3973,7 @@
       "stage": 3,
       "order": 97,
       "category": "추가 한자",
-      "meaning_ko": null,
+      "meaning_ko": "기계·기회",
       "meaning_en": "loom",
       "on_readings": [
         "キ"
@@ -3910,8 +4006,9 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "needs_ko_translation_and_examples",
-      "source_level": "N3"
+      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "source_level": "N3",
+      "meaning_ko_review_status": "draft_review_pending"
     },
     {
       "id": "kanji-298",
@@ -3919,7 +4016,7 @@
       "stage": 3,
       "order": 98,
       "category": "추가 한자",
-      "meaning_ko": null,
+      "meaning_ko": "평평하다",
       "meaning_en": "even",
       "on_readings": [
         "ヘイ",
@@ -3941,8 +4038,9 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "needs_ko_translation_and_examples",
-      "source_level": "N3"
+      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "source_level": "N3",
+      "meaning_ko_review_status": "draft_review_pending"
     },
     {
       "id": "kanji-299",
@@ -3950,7 +4048,7 @@
       "stage": 3,
       "order": 99,
       "category": "추가 한자",
-      "meaning_ko": null,
+      "meaning_ko": "더하다",
       "meaning_en": "add",
       "on_readings": [
         "カ"
@@ -3969,8 +4067,9 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "needs_ko_translation_and_examples",
-      "source_level": "N3"
+      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "source_level": "N3",
+      "meaning_ko_review_status": "draft_review_pending"
     },
     {
       "id": "kanji-300",
@@ -3978,7 +4077,7 @@
       "stage": 3,
       "order": 100,
       "category": "추가 한자",
-      "meaning_ko": null,
+      "meaning_ko": "받다",
       "meaning_en": "accept",
       "on_readings": [
         "ジュ"
@@ -4013,8 +4112,14 @@
       "example_sentence": null,
       "example_translation_ko": null,
       "related_lesson_ids": [],
-      "editorial_status": "needs_ko_translation_and_examples",
-      "source_level": "N3"
+      "editorial_status": "ko_gloss_drafted;word_gloss_and_sentences_pending",
+      "source_level": "N3",
+      "meaning_ko_review_status": "draft_review_pending"
     }
-  ]
+  ],
+  "translation_progress": {
+    "kanji_ko_gloss_drafted": 100,
+    "word_ko_gloss_drafted": 0,
+    "sentences_ko_drafted": 0
+  }
 }
