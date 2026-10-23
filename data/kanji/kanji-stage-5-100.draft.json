@@ -4598,16 +4598,16 @@
       "strokes": 11,
       "example_words": [
         {
-          "word": "看護婦",
-          "reading": "かんごふ",
-          "romaji": "kangofu",
-          "meaning_en": "female nurse",
-          "meaning_ko": "간호사(옛 명칭)",
+          "word": "夫婦",
+          "reading": "ふうふ",
+          "romaji": "fuufu",
+          "meaning_en": "married couple",
+          "meaning_ko": "부부",
           "gloss_status": "curated_draft_needs_review"
         }
       ],
       "candidate_words": [
-        "看護婦",
+        "夫婦",
         "主婦",
         "夫婦"
       ],
