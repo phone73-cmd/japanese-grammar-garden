@@ -1,0 +1,19 @@
+{
+  "name": "일본어 문법정원",
+  "short_name": "문법정원",
+  "lang": "ko",
+  "description": "일본어 문법정원 학습 및 문제 풀이",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#fbf9ff",
+  "theme_color": "#f3eafa",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
