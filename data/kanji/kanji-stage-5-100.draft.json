@@ -1,6 +1,6 @@
 {
   "schema_version": "draft-1",
-  "status": "all 100 kanji with one or more word/ko gloss drafts; read and semantics QA pending",
+  "status": "100 contextual JP/KR sentences drafted; language/editorial QA pending; not app ready",
   "stage": 5,
   "description": "일본어 문법정원 추가 한자 400자 중 100자. 한국어 뜻·예문은 검수 후 채울 것.",
   "source": {
@@ -40,7 +40,12 @@
         "支配",
         "配達"
       ],
-      "example_sentence": null,
+      "example_sentence": {
+        "ja": "心配しないでください。",
+        "reading": "しんぱいしないでください。",
+        "translation_ko": "걱정하지 마세요.",
+        "status": "authored_draft_editorial_review_pending"
+      },
       "example_translation_ko": null,
       "related_lesson_ids": [],
       "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
@@ -85,7 +90,12 @@
         "警察",
         "警告"
       ],
-      "example_sentence": null,
+      "example_sentence": {
+        "ja": "警官に道を聞きました。",
+        "reading": "けいかんにみちをききました。",
+        "translation_ko": "경찰관에게 길을 물었습니다.",
+        "status": "authored_draft_editorial_review_pending"
+      },
       "example_translation_ko": null,
       "related_lesson_ids": [],
       "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
@@ -133,7 +143,12 @@
         "育てる",
         "育つ"
       ],
-      "example_sentence": null,
+      "example_sentence": {
+        "ja": "子供の教育について話しました。",
+        "reading": "こどものきょういくについてはなしました。",
+        "translation_ko": "아이 교육에 관해 이야기했습니다.",
+        "status": "authored_draft_editorial_review_pending"
+      },
       "example_translation_ko": null,
       "related_lesson_ids": [],
       "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
@@ -178,7 +193,12 @@
         "出席",
         "欠席"
       ],
-      "example_sentence": null,
+      "example_sentence": {
+        "ja": "窓側の席をお願いします。",
+        "reading": "まどがわのせきをおねがいします。",
+        "translation_ko": "창가 좌석으로 부탁드립니다.",
+        "status": "authored_draft_editorial_review_pending"
+      },
       "example_translation_ko": null,
       "related_lesson_ids": [],
       "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
@@ -217,7 +237,12 @@
         "訪問",
         "訪れる"
       ],
-      "example_sentence": null,
+      "example_sentence": {
+        "ja": "明日、友達の家を訪ねます。",
+        "reading": "あした、ともだちのいえをたずねます。",
+        "translation_ko": "내일 친구 집을 방문합니다.",
+        "status": "authored_draft_editorial_review_pending"
+      },
       "example_translation_ko": null,
       "related_lesson_ids": [],
       "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
@@ -265,7 +290,12 @@
         "乗り物",
         "乗り換える"
       ],
-      "example_sentence": null,
+      "example_sentence": {
+        "ja": "この電車に乗ってください。",
+        "reading": "このでんしゃにのってください。",
+        "translation_ko": "이 전철에 타세요.",
+        "status": "authored_draft_editorial_review_pending"
+      },
       "example_translation_ko": null,
       "related_lesson_ids": [],
       "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
@@ -314,7 +344,12 @@
         "残る",
         "残す"
       ],
-      "example_sentence": null,
+      "example_sentence": {
+        "ja": "行けなくて残念です。",
+        "reading": "いけなくてざんねんです。",
+        "translation_ko": "갈 수 없어서 아쉽습니다.",
+        "status": "authored_draft_editorial_review_pending"
+      },
       "example_translation_ko": null,
       "related_lesson_ids": [],
       "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
@@ -353,7 +388,12 @@
         "想像",
         "理想"
       ],
-      "example_sentence": null,
+      "example_sentence": {
+        "ja": "未来の生活を想像します。",
+        "reading": "みらいのせいかつをそうぞうします。",
+        "translation_ko": "미래의 생활을 상상합니다.",
+        "status": "authored_draft_editorial_review_pending"
+      },
       "example_translation_ko": null,
       "related_lesson_ids": [],
       "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
@@ -392,7 +432,12 @@
         "歓声",
         "声明"
       ],
-      "example_sentence": null,
+      "example_sentence": {
+        "ja": "もう少し大きな声で話してください。",
+        "reading": "もうすこしおおきなこえではなしてください。",
+        "translation_ko": "조금 더 큰 목소리로 말씀해 주세요.",
+        "status": "authored_draft_editorial_review_pending"
+      },
       "example_translation_ko": null,
       "related_lesson_ids": [],
       "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
@@ -427,7 +472,12 @@
         "記念",
         "観念"
       ],
-      "example_sentence": null,
+      "example_sentence": {
+        "ja": "約束を忘れて残念でした。",
+        "reading": "やくそくをわすれてざんねんでした。",
+        "translation_ko": "약속을 잊어서 아쉬웠습니다.",
+        "status": "authored_draft_editorial_review_pending"
+      },
       "example_translation_ko": null,
       "related_lesson_ids": [],
       "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
@@ -468,7 +518,12 @@
         "救助",
         "助手"
       ],
-      "example_sentence": null,
+      "example_sentence": {
+        "ja": "荷物を運ぶのを助けてください。",
+        "reading": "にもつをはこぶのをたすけてください。",
+        "translation_ko": "짐을 옮기는 것을 도와주세요.",
+        "status": "authored_draft_editorial_review_pending"
+      },
       "example_translation_ko": null,
       "related_lesson_ids": [],
       "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
@@ -511,7 +566,12 @@
         "労働",
         "労る"
       ],
-      "example_sentence": null,
+      "example_sentence": {
+        "ja": "旅行の準備には苦労しました。",
+        "reading": "りょこうのじゅんびにはくろうしました。",
+        "translation_ko": "여행 준비에 고생했습니다.",
+        "status": "authored_draft_editorial_review_pending"
+      },
       "example_translation_ko": null,
       "related_lesson_ids": [],
       "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
@@ -548,7 +608,12 @@
         "例",
         "実例"
       ],
-      "example_sentence": null,
+      "example_sentence": {
+        "ja": "例えば、これはどうですか。",
+        "reading": "たとえば、これはどうですか。",
+        "translation_ko": "예를 들어 이것은 어떤가요?",
+        "status": "authored_draft_editorial_review_pending"
+      },
       "example_translation_ko": null,
       "related_lesson_ids": [],
       "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
@@ -590,7 +655,12 @@
         "自然",
         "天然"
       ],
-      "example_sentence": null,
+      "example_sentence": {
+        "ja": "自然の中で休みたいです。",
+        "reading": "しぜんのなかでやすみたいです。",
+        "translation_ko": "자연 속에서 쉬고 싶습니다.",
+        "status": "authored_draft_editorial_review_pending"
+      },
       "example_translation_ko": null,
       "related_lesson_ids": [],
       "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
@@ -630,7 +700,12 @@
         "限界",
         "制限"
       ],
-      "example_sentence": null,
+      "example_sentence": {
+        "ja": "時間には限界があります。",
+        "reading": "じかんにはげんかいがあります。",
+        "translation_ko": "시간에는 한계가 있습니다.",
+        "status": "authored_draft_editorial_review_pending"
+      },
       "example_translation_ko": null,
       "related_lesson_ids": [],
       "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
@@ -668,7 +743,12 @@
         "追い付く",
         "追加"
       ],
-      "example_sentence": null,
+      "example_sentence": {
+        "ja": "犬がボールを追っています。",
+        "reading": "いぬがぼーるをおっています。",
+        "translation_ko": "개가 공을 쫓고 있습니다.",
+        "status": "authored_draft_editorial_review_pending"
+      },
       "example_translation_ko": null,
       "related_lesson_ids": [],
       "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
@@ -706,7 +786,12 @@
         "商売",
         "商品"
       ],
-      "example_sentence": null,
+      "example_sentence": {
+        "ja": "新しい商品を見せてください。",
+        "reading": "あたらしいしょうひんをみせてください。",
+        "translation_ko": "새 상품을 보여 주세요.",
+        "status": "authored_draft_editorial_review_pending"
+      },
       "example_translation_ko": null,
       "related_lesson_ids": [],
       "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
@@ -751,7 +836,12 @@
         "葉書",
         "葉"
       ],
-      "example_sentence": null,
+      "example_sentence": {
+        "ja": "秋になると葉が赤くなります。",
+        "reading": "あきになるとはがあかくなります。",
+        "translation_ko": "가을이 되면 잎이 빨개집니다.",
+        "status": "authored_draft_editorial_review_pending"
+      },
       "example_translation_ko": null,
       "related_lesson_ids": [],
       "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
@@ -802,7 +892,12 @@
         "手伝う",
         "伝統"
       ],
-      "example_sentence": null,
+      "example_sentence": {
+        "ja": "家族に予定を伝えました。",
+        "reading": "かぞくによていをつたえました。",
+        "translation_ko": "가족에게 일정을 전했습니다.",
+        "status": "authored_draft_editorial_review_pending"
+      },
       "example_translation_ko": null,
       "related_lesson_ids": [],
       "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
@@ -839,7 +934,12 @@
         "働き",
         "労働"
       ],
-      "example_sentence": null,
+      "example_sentence": {
+        "ja": "兄は病院で働いています。",
+        "reading": "あにはびょういんではたらいています。",
+        "translation_ko": "형은 병원에서 일하고 있습니다.",
+        "status": "authored_draft_editorial_review_pending"
+      },
       "example_translation_ko": null,
       "related_lesson_ids": [],
       "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
@@ -888,7 +988,12 @@
         "人形",
         "形式"
       ],
-      "example_sentence": null,
+      "example_sentence": {
+        "ja": "このかばんは形がかわいいです。",
+        "reading": "このかばんはかたちがかわいいです。",
+        "translation_ko": "이 가방은 모양이 귀엽습니다.",
+        "status": "authored_draft_editorial_review_pending"
+      },
       "example_translation_ko": null,
       "related_lesson_ids": [],
       "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
@@ -923,7 +1028,12 @@
         "景気",
         "光景"
       ],
-      "example_sentence": null,
+      "example_sentence": {
+        "ja": "山からの景色がきれいです。",
+        "reading": "やまからのけしきがきれいです。",
+        "translation_ko": "산에서 보이는 경치가 아름답습니다.",
+        "status": "authored_draft_editorial_review_pending"
+      },
       "example_translation_ko": null,
       "related_lesson_ids": [],
       "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
@@ -970,7 +1080,12 @@
         "落ちる",
         "洒落"
       ],
-      "example_sentence": null,
+      "example_sentence": {
+        "ja": "財布を落としてしまいました。",
+        "reading": "さいふをおとしてしまいました。",
+        "translation_ko": "지갑을 떨어뜨리고 말았습니다.",
+        "status": "authored_draft_editorial_review_pending"
+      },
       "example_translation_ko": null,
       "related_lesson_ids": [],
       "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
@@ -1018,7 +1133,12 @@
         "大好き",
         "好み"
       ],
-      "example_sentence": null,
+      "example_sentence": {
+        "ja": "私は日本の料理が好きです。",
+        "reading": "わたしはにほんのりょうりがすきです。",
+        "translation_ko": "저는 일본 요리를 좋아합니다.",
+        "status": "authored_draft_editorial_review_pending"
+      },
       "example_translation_ko": null,
       "related_lesson_ids": [],
       "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
@@ -1060,7 +1180,12 @@
         "引退",
         "退屈"
       ],
-      "example_sentence": null,
+      "example_sentence": {
+        "ja": "父は昨日退院しました。",
+        "reading": "ちちはきのうたいいんしました。",
+        "translation_ko": "아버지는 어제 퇴원했습니다.",
+        "status": "authored_draft_editorial_review_pending"
+      },
       "example_translation_ko": null,
       "related_lesson_ids": [],
       "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
@@ -1102,7 +1227,12 @@
         "頭痛",
         "頭脳"
       ],
-      "example_sentence": null,
+      "example_sentence": {
+        "ja": "朝から頭が痛いです。",
+        "reading": "あさからあたまがいたいです。",
+        "translation_ko": "아침부터 머리가 아픕니다.",
+        "status": "authored_draft_editorial_review_pending"
+      },
       "example_translation_ko": null,
       "related_lesson_ids": [],
       "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
@@ -1141,7 +1271,12 @@
         "負け",
         "勝負"
       ],
-      "example_sentence": null,
+      "example_sentence": {
+        "ja": "昨日の試合で負けました。",
+        "reading": "きのうのしあいでまけました。",
+        "translation_ko": "어제 경기에서 졌습니다.",
+        "status": "authored_draft_editorial_review_pending"
+      },
       "example_translation_ko": null,
       "related_lesson_ids": [],
       "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
@@ -1188,7 +1323,12 @@
         "渡る",
         "橋渡し"
       ],
-      "example_sentence": null,
+      "example_sentence": {
+        "ja": "この書類を先生に渡してください。",
+        "reading": "このしょるいをせんせいにわたしてください。",
+        "translation_ko": "이 서류를 선생님께 건네주세요.",
+        "status": "authored_draft_editorial_review_pending"
+      },
       "example_translation_ko": null,
       "related_lesson_ids": [],
       "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
@@ -1226,7 +1366,12 @@
         "失う",
         "失業"
       ],
-      "example_sentence": null,
+      "example_sentence": {
+        "ja": "道を間違えて失敗しました。",
+        "reading": "みちをまちがえてしっぱいしました。",
+        "translation_ko": "길을 잘못 들어 실수했습니다.",
+        "status": "authored_draft_editorial_review_pending"
+      },
       "example_translation_ko": null,
       "related_lesson_ids": [],
       "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
@@ -1272,7 +1417,12 @@
         "交差点",
         "差し上げる"
       ],
-      "example_sentence": null,
+      "example_sentence": {
+        "ja": "窓から日が差しています。",
+        "reading": "まどからひがさしています。",
+        "translation_ko": "창문으로 햇빛이 들어오고 있습니다.",
+        "status": "authored_draft_editorial_review_pending"
+      },
       "example_translation_ko": null,
       "related_lesson_ids": [],
       "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
@@ -1313,7 +1463,12 @@
         "粗末",
         "月末"
       ],
-      "example_sentence": null,
+      "example_sentence": {
+        "ja": "月末までに払ってください。",
+        "reading": "げつまつまでにはらってください。",
+        "translation_ko": "월말까지 지불해 주세요.",
+        "status": "authored_draft_editorial_review_pending"
+      },
       "example_translation_ko": null,
       "related_lesson_ids": [],
       "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
@@ -1355,7 +1510,12 @@
         "守る",
         "留守番"
       ],
-      "example_sentence": null,
+      "example_sentence": {
+        "ja": "今日は父が留守です。",
+        "reading": "きょうはちちがるすです。",
+        "translation_ko": "오늘은 아버지가 집에 안 계십니다.",
+        "status": "authored_draft_editorial_review_pending"
+      },
       "example_translation_ko": null,
       "related_lesson_ids": [],
       "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
@@ -1399,7 +1559,12 @@
         "若々しい",
         "若干"
       ],
-      "example_sentence": null,
+      "example_sentence": {
+        "ja": "あの店員さんは若いです。",
+        "reading": "あのてんいんさんはわかいです。",
+        "translation_ko": "저 점원은 젊습니다.",
+        "status": "authored_draft_editorial_review_pending"
+      },
       "example_translation_ko": null,
       "related_lesson_ids": [],
       "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
@@ -1438,7 +1603,12 @@
         "一種",
         "種類"
       ],
-      "example_sentence": null,
+      "example_sentence": {
+        "ja": "いろいろな種類があります。",
+        "reading": "いろいろなしゅるいがあります。",
+        "translation_ko": "여러 종류가 있습니다.",
+        "status": "authored_draft_editorial_review_pending"
+      },
       "example_translation_ko": null,
       "related_lesson_ids": [],
       "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
@@ -1484,7 +1654,12 @@
         "美術館",
         "美人"
       ],
-      "example_sentence": null,
+      "example_sentence": {
+        "ja": "海がとても美しいです。",
+        "reading": "うみがとてもうつくしいです。",
+        "translation_ko": "바다가 매우 아름답습니다.",
+        "status": "authored_draft_editorial_review_pending"
+      },
       "example_translation_ko": null,
       "related_lesson_ids": [],
       "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
@@ -1522,7 +1697,12 @@
         "命",
         "生命"
       ],
-      "example_sentence": null,
+      "example_sentence": {
+        "ja": "試験に向けて一生懸命勉強します。",
+        "reading": "しけんにむけていっしょうけんめいべんきょうします。",
+        "translation_ko": "시험을 위해 열심히 공부합니다.",
+        "status": "authored_draft_editorial_review_pending"
+      },
       "example_translation_ko": null,
       "related_lesson_ids": [],
       "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
@@ -1558,7 +1738,12 @@
         "福",
         "福祉"
       ],
-      "example_sentence": null,
+      "example_sentence": {
+        "ja": "家族の幸福を願っています。",
+        "reading": "かぞくのこうふくをねがっています。",
+        "translation_ko": "가족의 행복을 바라고 있습니다.",
+        "status": "authored_draft_editorial_review_pending"
+      },
       "example_translation_ko": null,
       "related_lesson_ids": [],
       "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
@@ -1598,7 +1783,12 @@
         "失望",
         "望み"
       ],
-      "example_sentence": null,
+      "example_sentence": {
+        "ja": "窓側の席を希望します。",
+        "reading": "まどがわのせきをきぼうします。",
+        "translation_ko": "창가 좌석을 희망합니다.",
+        "status": "authored_draft_editorial_review_pending"
+      },
       "example_translation_ko": null,
       "related_lesson_ids": [],
       "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
@@ -1635,7 +1825,12 @@
         "非常",
         "非"
       ],
-      "example_sentence": null,
+      "example_sentence": {
+        "ja": "この問題は非常に難しいです。",
+        "reading": "このもんだいはひじょうにむずかしいです。",
+        "translation_ko": "이 문제는 매우 어렵습니다.",
+        "status": "authored_draft_editorial_review_pending"
+      },
       "example_translation_ko": null,
       "related_lesson_ids": [],
       "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
@@ -1674,7 +1869,12 @@
         "観光",
         "観察"
       ],
-      "example_sentence": null,
+      "example_sentence": {
+        "ja": "京都へ観光に行きます。",
+        "reading": "きょうとへかんこうにいきます。",
+        "translation_ko": "교토에 관광하러 갑니다.",
+        "status": "authored_draft_editorial_review_pending"
+      },
       "example_translation_ko": null,
       "related_lesson_ids": [],
       "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
@@ -1709,7 +1909,12 @@
         "観察",
         "診察"
       ],
-      "example_sentence": null,
+      "example_sentence": {
+        "ja": "困ったときは警察に相談します。",
+        "reading": "こまったときはけいさつにそうだんします。",
+        "translation_ko": "곤란할 때 경찰에 상담합니다.",
+        "status": "authored_draft_editorial_review_pending"
+      },
       "example_translation_ko": null,
       "related_lesson_ids": [],
       "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
@@ -1745,7 +1950,12 @@
         "段",
         "手段"
       ],
-      "example_sentence": null,
+      "example_sentence": {
+        "ja": "この階段を上がってください。",
+        "reading": "このかいだんをあがってください。",
+        "translation_ko": "이 계단으로 올라가 주세요.",
+        "status": "authored_draft_editorial_review_pending"
+      },
       "example_translation_ko": null,
       "related_lesson_ids": [],
       "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
@@ -1782,7 +1992,12 @@
         "横断",
         "横切る"
       ],
-      "example_sentence": null,
+      "example_sentence": {
+        "ja": "駅の横に店があります。",
+        "reading": "えきのよこにみせがあります。",
+        "translation_ko": "역 옆에 가게가 있습니다.",
+        "status": "authored_draft_editorial_review_pending"
+      },
       "example_translation_ko": null,
       "related_lesson_ids": [],
       "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
@@ -1823,7 +2038,12 @@
         "深刻",
         "深夜"
       ],
-      "example_sentence": null,
+      "example_sentence": {
+        "ja": "この川はとても深いです。",
+        "reading": "このかわはとてもふかいです。",
+        "translation_ko": "이 강은 매우 깊습니다.",
+        "status": "authored_draft_editorial_review_pending"
+      },
       "example_translation_ko": null,
       "related_lesson_ids": [],
       "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
@@ -1870,7 +2090,12 @@
         "申し上げる",
         "申し訳"
       ],
-      "example_sentence": null,
+      "example_sentence": {
+        "ja": "私は田中と申します。",
+        "reading": "わたしはたなかともうします。",
+        "translation_ko": "저는 다나카라고 합니다.",
+        "status": "authored_draft_editorial_review_pending"
+      },
       "example_translation_ko": null,
       "related_lesson_ids": [],
       "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
@@ -1910,7 +2135,12 @@
         "王様",
         "様々"
       ],
-      "example_sentence": null,
+      "example_sentence": {
+        "ja": "王様の物語を読みました。",
+        "reading": "おうさまのものがたりをよみました。",
+        "translation_ko": "왕의 이야기를 읽었습니다.",
+        "status": "authored_draft_editorial_review_pending"
+      },
       "example_translation_ko": null,
       "related_lesson_ids": [],
       "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
@@ -1949,7 +2179,12 @@
         "財産",
         "財"
       ],
-      "example_sentence": null,
+      "example_sentence": {
+        "ja": "財布をホテルに忘れました。",
+        "reading": "さいふをほてるにわすれました。",
+        "translation_ko": "지갑을 호텔에 두고 왔습니다.",
+        "status": "authored_draft_editorial_review_pending"
+      },
       "example_translation_ko": null,
       "related_lesson_ids": [],
       "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
@@ -1988,7 +2223,12 @@
         "常識",
         "知識"
       ],
-      "example_sentence": null,
+      "example_sentence": {
+        "ja": "新しい知識を身につけます。",
+        "reading": "あたらしいちしきをみにつけます。",
+        "translation_ko": "새로운 지식을 익힙니다.",
+        "status": "authored_draft_editorial_review_pending"
+      },
       "example_translation_ko": null,
       "related_lesson_ids": [],
       "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
@@ -2025,7 +2265,12 @@
         "呼吸",
         "呼び出す"
       ],
-      "example_sentence": null,
+      "example_sentence": {
+        "ja": "名前を呼んでください。",
+        "reading": "なまえをよんでください。",
+        "translation_ko": "이름을 불러 주세요.",
+        "status": "authored_draft_editorial_review_pending"
+      },
       "example_translation_ko": null,
       "related_lesson_ids": [],
       "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
@@ -2063,7 +2308,12 @@
         "上達",
         "配達"
       ],
-      "example_sentence": null,
+      "example_sentence": {
+        "ja": "週末に友達と会います。",
+        "reading": "しゅうまつにともだちとあいます。",
+        "translation_ko": "주말에 친구를 만납니다.",
+        "status": "authored_draft_editorial_review_pending"
+      },
       "example_translation_ko": null,
       "related_lesson_ids": [],
       "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
@@ -2104,7 +2354,12 @@
         "改良",
         "善良"
       ],
-      "example_sentence": null,
+      "example_sentence": {
+        "ja": "今日は天気が良いです。",
+        "reading": "きょうはてんきがよいです。",
+        "translation_ko": "오늘은 날씨가 좋습니다.",
+        "status": "authored_draft_editorial_review_pending"
+      },
       "example_translation_ko": null,
       "related_lesson_ids": [],
       "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
@@ -2142,7 +2397,12 @@
         "候補",
         "天候"
       ],
-      "example_sentence": null,
+      "example_sentence": {
+        "ja": "日本と韓国の気候を比べます。",
+        "reading": "にほんとかんこくのきこうをくらべます。",
+        "translation_ko": "일본과 한국의 기후를 비교합니다.",
+        "status": "authored_draft_editorial_review_pending"
+      },
       "example_translation_ko": null,
       "related_lesson_ids": [],
       "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
@@ -2181,7 +2441,12 @@
         "課程",
         "過程"
       ],
-      "example_sentence": null,
+      "example_sentence": {
+        "ja": "二時間程度かかります。",
+        "reading": "にじかんていどかかります。",
+        "translation_ko": "두 시간 정도 걸립니다.",
+        "status": "authored_draft_editorial_review_pending"
+      },
       "example_translation_ko": null,
       "related_lesson_ids": [],
       "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
@@ -2222,7 +2487,12 @@
         "満足",
         "満ちる"
       ],
-      "example_sentence": null,
+      "example_sentence": {
+        "ja": "この旅行には満足しています。",
+        "reading": "このりょこうにはまんぞくしています。",
+        "translation_ko": "이번 여행에 만족하고 있습니다.",
+        "status": "authored_draft_editorial_review_pending"
+      },
       "example_translation_ko": null,
       "related_lesson_ids": [],
       "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
@@ -2259,7 +2529,12 @@
         "勝敗",
         "一敗"
       ],
-      "example_sentence": null,
+      "example_sentence": {
+        "ja": "失敗しても、また挑戦します。",
+        "reading": "しっぱいしても、またちょうせんします。",
+        "translation_ko": "실패해도 다시 도전합니다.",
+        "status": "authored_draft_editorial_review_pending"
+      },
       "example_translation_ko": null,
       "related_lesson_ids": [],
       "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
@@ -2298,7 +2573,12 @@
         "値",
         "値する"
       ],
-      "example_sentence": null,
+      "example_sentence": {
+        "ja": "この商品の値段はいくらですか。",
+        "reading": "このしょうひんのねだんはいくらですか。",
+        "translation_ko": "이 상품의 가격은 얼마인가요?",
+        "status": "authored_draft_editorial_review_pending"
+      },
       "example_translation_ko": null,
       "related_lesson_ids": [],
       "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
@@ -2337,7 +2617,12 @@
         "突然",
         "煙突"
       ],
-      "example_sentence": null,
+      "example_sentence": {
+        "ja": "突然雨が降り始めました。",
+        "reading": "とつぜんあめがふりはじめました。",
+        "translation_ko": "갑자기 비가 내리기 시작했습니다.",
+        "status": "authored_draft_editorial_review_pending"
+      },
       "example_translation_ko": null,
       "related_lesson_ids": [],
       "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
@@ -2383,7 +2668,12 @@
         "光る",
         "観光"
       ],
-      "example_sentence": null,
+      "example_sentence": {
+        "ja": "朝の光がまぶしいです。",
+        "reading": "あさのひかりがまぶしいです。",
+        "translation_ko": "아침 햇빛이 눈부십니다.",
+        "status": "authored_draft_editorial_review_pending"
+      },
       "example_translation_ko": null,
       "related_lesson_ids": [],
       "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
@@ -2423,7 +2713,12 @@
         "針路",
         "線路"
       ],
-      "example_sentence": null,
+      "example_sentence": {
+        "ja": "この道路をまっすぐ進みます。",
+        "reading": "このどうろをまっすぐすすみます。",
+        "translation_ko": "이 도로를 곧장 갑니다.",
+        "status": "authored_draft_editorial_review_pending"
+      },
       "example_translation_ko": null,
       "related_lesson_ids": [],
       "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
@@ -2458,7 +2753,12 @@
         "科目",
         "教科書"
       ],
-      "example_sentence": null,
+      "example_sentence": {
+        "ja": "妹は科学が好きです。",
+        "reading": "いもうとはかがくがすきです。",
+        "translation_ko": "여동생은 과학을 좋아합니다.",
+        "status": "authored_draft_editorial_review_pending"
+      },
       "example_translation_ko": null,
       "related_lesson_ids": [],
       "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
@@ -2499,7 +2799,12 @@
         "積もる",
         "体積"
       ],
-      "example_sentence": null,
+      "example_sentence": {
+        "ja": "山に雪が積もっています。",
+        "reading": "やまにゆきがつもっています。",
+        "translation_ko": "산에 눈이 쌓여 있습니다.",
+        "status": "authored_draft_editorial_review_pending"
+      },
       "example_translation_ko": null,
       "related_lesson_ids": [],
       "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
@@ -2537,7 +2842,12 @@
         "他人",
         "他意"
       ],
-      "example_sentence": null,
+      "example_sentence": {
+        "ja": "他の方法もありますか。",
+        "reading": "ほかのほうほうもありますか。",
+        "translation_ko": "다른 방법도 있나요?",
+        "status": "authored_draft_editorial_review_pending"
+      },
       "example_translation_ko": null,
       "related_lesson_ids": [],
       "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
@@ -2577,7 +2887,12 @@
         "処置",
         "処罰"
       ],
-      "example_sentence": null,
+      "example_sentence": {
+        "ja": "古いデータを処理します。",
+        "reading": "ふるいでーたをしょりします。",
+        "translation_ko": "오래된 데이터를 처리합니다.",
+        "status": "authored_draft_editorial_review_pending"
+      },
       "example_translation_ko": null,
       "related_lesson_ids": [],
       "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
@@ -2624,7 +2939,12 @@
         "太る",
         "太陽"
       ],
-      "example_sentence": null,
+      "example_sentence": {
+        "ja": "この木はとても太いです。",
+        "reading": "このきはとてもふといです。",
+        "translation_ko": "이 나무는 아주 굵습니다.",
+        "status": "authored_draft_editorial_review_pending"
+      },
       "example_translation_ko": null,
       "related_lesson_ids": [],
       "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
@@ -2660,7 +2980,12 @@
         "観客",
         "乗客"
       ],
-      "example_sentence": null,
+      "example_sentence": {
+        "ja": "お客さんが店に入りました。",
+        "reading": "おきゃくさんがみせにはいりました。",
+        "translation_ko": "손님이 가게에 들어왔습니다.",
+        "status": "authored_draft_editorial_review_pending"
+      },
       "example_translation_ko": null,
       "related_lesson_ids": [],
       "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
@@ -2699,7 +3024,12 @@
         "否定",
         "拒否"
       ],
-      "example_sentence": null,
+      "example_sentence": {
+        "ja": "その考えを否定しません。",
+        "reading": "そのかんがえをひていしません。",
+        "translation_ko": "그 생각을 부정하지 않습니다.",
+        "status": "authored_draft_editorial_review_pending"
+      },
       "example_translation_ko": null,
       "related_lesson_ids": [],
       "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
@@ -2737,7 +3067,12 @@
         "技師",
         "教師"
       ],
-      "example_sentence": null,
+      "example_sentence": {
+        "ja": "兄は学校の教師です。",
+        "reading": "あにはがっこうのきょうしです。",
+        "translation_ko": "형은 학교 교사입니다.",
+        "status": "authored_draft_editorial_review_pending"
+      },
       "example_translation_ko": null,
       "related_lesson_ids": [],
       "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
@@ -2779,7 +3114,12 @@
         "登山",
         "登場"
       ],
-      "example_sentence": null,
+      "example_sentence": {
+        "ja": "明日は山に登ります。",
+        "reading": "あしたはやまにのぼります。",
+        "translation_ko": "내일은 산에 오릅니다.",
+        "status": "authored_draft_editorial_review_pending"
+      },
       "example_translation_ko": null,
       "related_lesson_ids": [],
       "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
@@ -2826,7 +3166,12 @@
         "貿易",
         "容易"
       ],
-      "example_sentence": null,
+      "example_sentence": {
+        "ja": "この問題は易しいです。",
+        "reading": "このもんだいはやさしいです。",
+        "translation_ko": "이 문제는 쉽습니다.",
+        "status": "authored_draft_editorial_review_pending"
+      },
       "example_translation_ko": null,
       "related_lesson_ids": [],
       "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
@@ -2866,7 +3211,12 @@
         "急速",
         "高速"
       ],
-      "example_sentence": null,
+      "example_sentence": {
+        "ja": "新しい電車は速いです。",
+        "reading": "あたらしいでんしゃははやいです。",
+        "translation_ko": "새 전철은 빠릅니다.",
+        "status": "authored_draft_editorial_review_pending"
+      },
       "example_translation_ko": null,
       "related_lesson_ids": [],
       "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
@@ -2907,7 +3257,12 @@
         "存在",
         "保存"
       ],
-      "example_sentence": null,
+      "example_sentence": {
+        "ja": "その店をご存じですか。",
+        "reading": "そのみせをごぞんじですか。",
+        "translation_ko": "그 가게를 알고 계신가요?",
+        "status": "authored_draft_editorial_review_pending"
+      },
       "example_translation_ko": null,
       "related_lesson_ids": [],
       "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
@@ -2954,7 +3309,12 @@
         "飛行機",
         "飛行場"
       ],
-      "example_sentence": null,
+      "example_sentence": {
+        "ja": "鳥が空を飛んでいます。",
+        "reading": "とりがそらをとんでいます。",
+        "translation_ko": "새가 하늘을 날고 있습니다.",
+        "status": "authored_draft_editorial_review_pending"
+      },
       "example_translation_ko": null,
       "related_lesson_ids": [],
       "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
@@ -2997,7 +3357,12 @@
         "自殺",
         "暗殺"
       ],
-      "example_sentence": null,
+      "example_sentence": {
+        "ja": "虫を殺さずに外へ逃がしました。",
+        "reading": "むしをころさずにそとへにがしました。",
+        "translation_ko": "벌레를 죽이지 않고 밖으로 내보냈습니다.",
+        "status": "authored_draft_editorial_review_pending"
+      },
       "example_translation_ko": null,
       "related_lesson_ids": [],
       "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
@@ -3035,7 +3400,12 @@
         "信号",
         "記号"
       ],
-      "example_sentence": null,
+      "example_sentence": {
+        "ja": "予約番号を教えてください。",
+        "reading": "よやくばんごうをおしえてください。",
+        "translation_ko": "예약 번호를 알려 주세요.",
+        "status": "authored_draft_editorial_review_pending"
+      },
       "example_translation_ko": null,
       "related_lesson_ids": [],
       "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
@@ -3072,7 +3442,12 @@
         "単位",
         "単語"
       ],
-      "example_sentence": null,
+      "example_sentence": {
+        "ja": "使い方はとても簡単です。",
+        "reading": "つかいかたはとてもかんたんです。",
+        "translation_ko": "사용법은 매우 간단합니다.",
+        "status": "authored_draft_editorial_review_pending"
+      },
       "example_translation_ko": null,
       "related_lesson_ids": [],
       "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
@@ -3109,7 +3484,12 @@
         "座席",
         "座敷"
       ],
-      "example_sentence": null,
+      "example_sentence": {
+        "ja": "こちらに座ってください。",
+        "reading": "こちらにすわってください。",
+        "translation_ko": "여기에 앉아 주세요.",
+        "status": "authored_draft_editorial_review_pending"
+      },
       "example_translation_ko": null,
       "related_lesson_ids": [],
       "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
@@ -3149,7 +3529,12 @@
         "破る",
         "破片"
       ],
-      "example_sentence": null,
+      "example_sentence": {
+        "ja": "古い紙を破りました。",
+        "reading": "ふるいかみをやぶりました。",
+        "translation_ko": "낡은 종이를 찢었습니다.",
+        "status": "authored_draft_editorial_review_pending"
+      },
       "example_translation_ko": null,
       "related_lesson_ids": [],
       "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
@@ -3188,7 +3573,12 @@
         "除く",
         "削除"
       ],
-      "example_sentence": null,
+      "example_sentence": {
+        "ja": "朝から部屋を掃除しています。",
+        "reading": "あさからへやをそうじしています。",
+        "translation_ko": "아침부터 방을 청소하고 있습니다.",
+        "status": "authored_draft_editorial_review_pending"
+      },
       "example_translation_ko": null,
       "related_lesson_ids": [],
       "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
@@ -3224,7 +3614,12 @@
         "完全",
         "完了"
       ],
-      "example_sentence": null,
+      "example_sentence": {
+        "ja": "新しい家が完成しました。",
+        "reading": "あたらしいいえがかんせいしました。",
+        "translation_ko": "새집이 완성됐습니다.",
+        "status": "authored_draft_editorial_review_pending"
+      },
       "example_translation_ko": null,
       "related_lesson_ids": [],
       "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
@@ -3275,7 +3670,12 @@
         "降りる",
         "降り出す"
       ],
-      "example_sentence": null,
+      "example_sentence": {
+        "ja": "駅で電車を降りました。",
+        "reading": "えきででんしゃをおりました。",
+        "translation_ko": "역에서 전철을 내렸습니다.",
+        "status": "authored_draft_editorial_review_pending"
+      },
       "example_translation_ko": null,
       "related_lesson_ids": [],
       "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
@@ -3313,7 +3713,12 @@
         "責める",
         "責務"
       ],
-      "example_sentence": null,
+      "example_sentence": {
+        "ja": "この仕事には責任があります。",
+        "reading": "このしごとにはせきにんがあります。",
+        "translation_ko": "이 일에는 책임이 있습니다.",
+        "status": "authored_draft_editorial_review_pending"
+      },
       "example_translation_ko": null,
       "related_lesson_ids": [],
       "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
@@ -3356,7 +3761,12 @@
         "逮捕",
         "捕まる"
       ],
-      "example_sentence": null,
+      "example_sentence": {
+        "ja": "猫を捕まえました。",
+        "reading": "ねこをつかまえました。",
+        "translation_ko": "고양이를 잡았습니다.",
+        "status": "authored_draft_editorial_review_pending"
+      },
       "example_translation_ko": null,
       "related_lesson_ids": [],
       "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
@@ -3403,7 +3813,12 @@
         "危険",
         "危うい"
       ],
-      "example_sentence": null,
+      "example_sentence": {
+        "ja": "夜の山道は危険です。",
+        "reading": "よるのやまみちはきけんです。",
+        "translation_ko": "밤의 산길은 위험합니다.",
+        "status": "authored_draft_editorial_review_pending"
+      },
       "example_translation_ko": null,
       "related_lesson_ids": [],
       "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
@@ -3443,7 +3858,12 @@
         "供給",
         "支給"
       ],
-      "example_sentence": null,
+      "example_sentence": {
+        "ja": "給料は毎月振り込まれます。",
+        "reading": "きゅうりょうはまいつきふりこまれます。",
+        "translation_ko": "급여는 매달 입금됩니다.",
+        "status": "authored_draft_editorial_review_pending"
+      },
       "example_translation_ko": null,
       "related_lesson_ids": [],
       "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
@@ -3485,7 +3905,12 @@
         "苦痛",
         "苦労"
       ],
-      "example_sentence": null,
+      "example_sentence": {
+        "ja": "この薬はとても苦いです。",
+        "reading": "このくすりはとてもにがいです。",
+        "translation_ko": "이 약은 매우 씁니다.",
+        "status": "authored_draft_editorial_review_pending"
+      },
       "example_translation_ko": null,
       "related_lesson_ids": [],
       "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
@@ -3522,7 +3947,12 @@
         "歓迎",
         "迎え"
       ],
-      "example_sentence": null,
+      "example_sentence": {
+        "ja": "駅まで友達を迎えに行きます。",
+        "reading": "えきまでともだちをむかえにいきます。",
+        "translation_ko": "역까지 친구를 마중 나갑니다.",
+        "status": "authored_draft_editorial_review_pending"
+      },
       "example_translation_ko": null,
       "related_lesson_ids": [],
       "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
@@ -3567,7 +3997,12 @@
         "動物園",
         "園芸"
       ],
-      "example_sentence": null,
+      "example_sentence": {
+        "ja": "午後は公園で遊びます。",
+        "reading": "ごごはこうえんであそびます。",
+        "translation_ko": "오후에는 공원에서 놉니다.",
+        "status": "authored_draft_editorial_review_pending"
+      },
       "example_translation_ko": null,
       "related_lesson_ids": [],
       "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
@@ -3613,7 +4048,12 @@
         "道具",
         "家具"
       ],
-      "example_sentence": null,
+      "example_sentence": {
+        "ja": "今日は体の具合がいいです。",
+        "reading": "きょうはからだのぐあいがいいです。",
+        "translation_ko": "오늘은 몸 상태가 좋습니다.",
+        "status": "authored_draft_editorial_review_pending"
+      },
       "example_translation_ko": null,
       "related_lesson_ids": [],
       "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
@@ -3659,7 +4099,12 @@
         "辞典",
         "辞める"
       ],
-      "example_sentence": null,
+      "example_sentence": {
+        "ja": "日本語の辞書を買いました。",
+        "reading": "にほんごのじしょをかいました。",
+        "translation_ko": "일본어 사전을 샀습니다.",
+        "status": "authored_draft_editorial_review_pending"
+      },
       "example_translation_ko": null,
       "related_lesson_ids": [],
       "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
@@ -3696,7 +4141,12 @@
         "原因",
         "要因"
       ],
-      "example_sentence": null,
+      "example_sentence": {
+        "ja": "失敗の原因を調べます。",
+        "reading": "しっぱいのげんいんをしらべます。",
+        "translation_ko": "실패 원인을 조사합니다.",
+        "status": "authored_draft_editorial_review_pending"
+      },
       "example_translation_ko": null,
       "related_lesson_ids": [],
       "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
@@ -3739,7 +4189,12 @@
         "馬鹿",
         "競馬"
       ],
-      "example_sentence": null,
+      "example_sentence": {
+        "ja": "牧場で馬を見ました。",
+        "reading": "ぼくじょうでうまをみました。",
+        "translation_ko": "목장에서 말을 봤습니다.",
+        "status": "authored_draft_editorial_review_pending"
+      },
       "example_translation_ko": null,
       "related_lesson_ids": [],
       "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
@@ -3781,7 +4236,12 @@
         "愛情",
         "愛する"
       ],
-      "example_sentence": null,
+      "example_sentence": {
+        "ja": "家族への愛を大切にします。",
+        "reading": "かぞくへのあいをたいせつにします。",
+        "translation_ko": "가족에 대한 사랑을 소중히 여깁니다.",
+        "status": "authored_draft_editorial_review_pending"
+      },
       "example_translation_ko": null,
       "related_lesson_ids": [],
       "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
@@ -3821,7 +4281,12 @@
         "富",
         "富む"
       ],
-      "example_sentence": null,
+      "example_sentence": {
+        "ja": "この国は自然が豊富です。",
+        "reading": "このくにはしぜんがほうふです。",
+        "translation_ko": "이 나라는 자연이 풍부합니다.",
+        "status": "authored_draft_editorial_review_pending"
+      },
       "example_translation_ko": null,
       "related_lesson_ids": [],
       "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
@@ -3868,7 +4333,12 @@
         "彼女",
         "彼ら"
       ],
-      "example_sentence": null,
+      "example_sentence": {
+        "ja": "彼は日本語を話します。",
+        "reading": "かれはにほんごをはなします。",
+        "translation_ko": "그는 일본어를 말합니다.",
+        "status": "authored_draft_editorial_review_pending"
+      },
       "example_translation_ko": null,
       "related_lesson_ids": [],
       "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
@@ -3909,7 +4379,12 @@
         "未満",
         "未"
       ],
-      "example_sentence": null,
+      "example_sentence": {
+        "ja": "未来の計画を立てます。",
+        "reading": "みらいのけいかくをたてます。",
+        "translation_ko": "미래 계획을 세웁니다.",
+        "status": "authored_draft_editorial_review_pending"
+      },
       "example_translation_ko": null,
       "related_lesson_ids": [],
       "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
@@ -3948,7 +4423,12 @@
         "舞台",
         "見舞い"
       ],
-      "example_sentence": null,
+      "example_sentence": {
+        "ja": "入院中の友達をお見舞いしました。",
+        "reading": "にゅういんちゅうのともだちをおみまいしました。",
+        "translation_ko": "입원 중인 친구를 문병했습니다.",
+        "status": "authored_draft_editorial_review_pending"
+      },
       "example_translation_ko": null,
       "related_lesson_ids": [],
       "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
@@ -3990,7 +4470,12 @@
         "死亡",
         "亡くす"
       ],
-      "example_sentence": null,
+      "example_sentence": {
+        "ja": "祖父は去年亡くなりました。",
+        "reading": "そふはきょねんなくなりました。",
+        "translation_ko": "할아버지는 작년에 돌아가셨습니다.",
+        "status": "authored_draft_editorial_review_pending"
+      },
       "example_translation_ko": null,
       "related_lesson_ids": [],
       "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
@@ -4042,7 +4527,12 @@
         "冷蔵庫",
         "冷房"
       ],
-      "example_sentence": null,
+      "example_sentence": {
+        "ja": "部屋の冷房をつけました。",
+        "reading": "へやのれいぼうをつけました。",
+        "translation_ko": "방의 냉방을 켰습니다.",
+        "status": "authored_draft_editorial_review_pending"
+      },
       "example_translation_ko": null,
       "related_lesson_ids": [],
       "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
@@ -4079,7 +4569,12 @@
         "快適",
         "適切"
       ],
-      "example_sentence": null,
+      "example_sentence": {
+        "ja": "自分に適した方法を選びます。",
+        "reading": "じぶんにてきしたほうほうをえらびます。",
+        "translation_ko": "자신에게 적합한 방법을 선택합니다.",
+        "status": "authored_draft_editorial_review_pending"
+      },
       "example_translation_ko": null,
       "related_lesson_ids": [],
       "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
@@ -4116,7 +4611,12 @@
         "主婦",
         "夫婦"
       ],
-      "example_sentence": null,
+      "example_sentence": {
+        "ja": "夫婦で旅行に行きました。",
+        "reading": "ふうふでりょこうにいきました。",
+        "translation_ko": "부부가 함께 여행을 갔습니다.",
+        "status": "authored_draft_editorial_review_pending"
+      },
       "example_translation_ko": null,
       "related_lesson_ids": [],
       "editorial_status": "kanji_gloss_and_selected_word_gloss_drafted;sentences_pending",
@@ -4127,6 +4627,7 @@
   "translation_progress": {
     "kanji_ko_gloss_drafted": 100,
     "word_ko_gloss_drafted": 125,
-    "words_need_editorial_validation": true
+    "words_need_editorial_validation": true,
+    "sentences_ko_drafted": 100
   }
 }
