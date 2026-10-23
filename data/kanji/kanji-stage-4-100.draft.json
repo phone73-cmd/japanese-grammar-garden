@@ -1,0 +1,3607 @@
+{
+  "schema_version": "draft-1",
+  "status": "source-data-draft—not-app-ready",
+  "stage": 4,
+  "description": "일본어 문법정원 추가 한자 400자 중 100자. 한국어 뜻·예문은 검수 후 채울 것.",
+  "source": {
+    "name": "OpenJLPT",
+    "url": "https://github.com/evanclan/OpenJLPT",
+    "license": "CC BY-SA 4.0; check upstream dictionary licences before public redistribution",
+    "retrieved_date": "2026-10-23"
+  },
+  "items": [
+    {
+      "id": "kanji-301",
+      "character": "続",
+      "stage": 4,
+      "order": 1,
+      "category": "추가 한자",
+      "meaning_ko": null,
+      "meaning_en": "continue",
+      "on_readings": [
+        "ゾク",
+        "ショク",
+        "コウ",
+        "キョウ"
+      ],
+      "kun_readings": [
+        "つづ.く",
+        "つづ.ける",
+        "つぐ.ない"
+      ],
+      "strokes": 13,
+      "example_words": [
+        {
+          "word": "続く",
+          "reading": "つづく",
+          "romaji": "tsuzuku",
+          "meaning_en": "to be continued",
+          "meaning_ko": null
+        },
+        {
+          "word": "続ける",
+          "reading": "つづける",
+          "romaji": "tsuzukeru",
+          "meaning_en": "to continue",
+          "meaning_ko": null
+        }
+      ],
+      "candidate_words": [
+        "続く",
+        "続ける",
+        "相続"
+      ],
+      "example_sentence": null,
+      "example_translation_ko": null,
+      "related_lesson_ids": [],
+      "editorial_status": "needs_ko_translation_and_examples",
+      "source_level": "N3"
+    },
+    {
+      "id": "kanji-302",
+      "character": "進",
+      "stage": 4,
+      "order": 2,
+      "category": "추가 한자",
+      "meaning_ko": null,
+      "meaning_en": "advance",
+      "on_readings": [
+        "シン"
+      ],
+      "kun_readings": [
+        "すす.む",
+        "すす.める"
+      ],
+      "strokes": 11,
+      "example_words": [
+        {
+          "word": "進む",
+          "reading": "すすむ",
+          "romaji": "susumu",
+          "meaning_en": "to make progress",
+          "meaning_ko": null
+        }
+      ],
+      "candidate_words": [
+        "進む",
+        "進学",
+        "進歩"
+      ],
+      "example_sentence": null,
+      "example_translation_ko": null,
+      "related_lesson_ids": [],
+      "editorial_status": "needs_ko_translation_and_examples",
+      "source_level": "N3"
+    },
+    {
+      "id": "kanji-303",
+      "character": "数",
+      "stage": 4,
+      "order": 3,
+      "category": "추가 한자",
+      "meaning_ko": null,
+      "meaning_en": "number",
+      "on_readings": [
+        "スウ",
+        "ス",
+        "サク",
+        "ソク",
+        "シュ"
+      ],
+      "kun_readings": [
+        "かず",
+        "かぞ.える",
+        "しばしば",
+        "せ.める",
+        "わずらわ.しい"
+      ],
+      "strokes": 13,
+      "example_words": [
+        {
+          "word": "数学",
+          "reading": "すうがく",
+          "romaji": "suugaku",
+          "meaning_en": "mathematics",
+          "meaning_ko": null
+        }
+      ],
+      "candidate_words": [
+        "数学",
+        "数",
+        "数字"
+      ],
+      "example_sentence": null,
+      "example_translation_ko": null,
+      "related_lesson_ids": [],
+      "editorial_status": "needs_ko_translation_and_examples",
+      "source_level": "N3"
+    },
+    {
+      "id": "kanji-304",
+      "character": "記",
+      "stage": 4,
+      "order": 4,
+      "category": "추가 한자",
+      "meaning_ko": null,
+      "meaning_en": "scribe",
+      "on_readings": [
+        "キ"
+      ],
+      "kun_readings": [
+        "しる.す"
+      ],
+      "strokes": 10,
+      "example_words": [
+        {
+          "word": "日記",
+          "reading": "にっき",
+          "romaji": "nikki",
+          "meaning_en": "journal",
+          "meaning_ko": null
+        }
+      ],
+      "candidate_words": [
+        "日記",
+        "暗記",
+        "記憶"
+      ],
+      "example_sentence": null,
+      "example_translation_ko": null,
+      "related_lesson_ids": [],
+      "editorial_status": "needs_ko_translation_and_examples",
+      "source_level": "N3"
+    },
+    {
+      "id": "kanji-305",
+      "character": "初",
+      "stage": 4,
+      "order": 5,
+      "category": "추가 한자",
+      "meaning_ko": null,
+      "meaning_en": "first time",
+      "on_readings": [
+        "ショ"
+      ],
+      "kun_readings": [
+        "はじ.め",
+        "はじ.めて",
+        "はつ",
+        "はつ-",
+        "うい-",
+        "-そ.める",
+        "-ぞ.め"
+      ],
+      "strokes": 7,
+      "example_words": [
+        {
+          "word": "初め",
+          "reading": "はじめ",
+          "romaji": "hajime",
+          "meaning_en": "beginning",
+          "meaning_ko": null
+        },
+        {
+          "word": "最初",
+          "reading": "さいしょ",
+          "romaji": "saisho",
+          "meaning_en": "beginning",
+          "meaning_ko": null
+        }
+      ],
+      "candidate_words": [
+        "初め",
+        "初めて",
+        "最初"
+      ],
+      "example_sentence": null,
+      "example_translation_ko": null,
+      "related_lesson_ids": [],
+      "editorial_status": "needs_ko_translation_and_examples",
+      "source_level": "N3"
+    },
+    {
+      "id": "kanji-306",
+      "character": "指",
+      "stage": 4,
+      "order": 6,
+      "category": "추가 한자",
+      "meaning_ko": null,
+      "meaning_en": "finger",
+      "on_readings": [
+        "シ"
+      ],
+      "kun_readings": [
+        "ゆび",
+        "さ.す",
+        "-さ.し"
+      ],
+      "strokes": 9,
+      "example_words": [
+        {
+          "word": "指",
+          "reading": "ゆび",
+          "romaji": "yubi",
+          "meaning_en": "finger",
+          "meaning_ko": null
+        },
+        {
+          "word": "指輪",
+          "reading": "ゆびわ",
+          "romaji": "yubiwa",
+          "meaning_en": "finger ring",
+          "meaning_ko": null
+        }
+      ],
+      "candidate_words": [
+        "指",
+        "指輪",
+        "指す"
+      ],
+      "example_sentence": null,
+      "example_translation_ko": null,
+      "related_lesson_ids": [],
+      "editorial_status": "needs_ko_translation_and_examples",
+      "source_level": "N3"
+    },
+    {
+      "id": "kanji-307",
+      "character": "権",
+      "stage": 4,
+      "order": 7,
+      "category": "추가 한자",
+      "meaning_ko": null,
+      "meaning_en": "authority",
+      "on_readings": [
+        "ケン",
+        "ゴン"
+      ],
+      "kun_readings": [
+        "おもり",
+        "かり",
+        "はか.る"
+      ],
+      "strokes": 15,
+      "example_words": [],
+      "candidate_words": [
+        "権利",
+        "権",
+        "棄権"
+      ],
+      "example_sentence": null,
+      "example_translation_ko": null,
+      "related_lesson_ids": [],
+      "editorial_status": "needs_ko_translation_and_examples",
+      "source_level": "N3"
+    },
+    {
+      "id": "kanji-308",
+      "character": "支",
+      "stage": 4,
+      "order": 8,
+      "category": "추가 한자",
+      "meaning_ko": null,
+      "meaning_en": "branch",
+      "on_readings": [
+        "シ"
+      ],
+      "kun_readings": [
+        "ささ.える",
+        "つか.える",
+        "か.う"
+      ],
+      "strokes": 4,
+      "example_words": [
+        {
+          "word": "支度",
+          "reading": "したく",
+          "romaji": "shitaku",
+          "meaning_en": "to prepare",
+          "meaning_ko": null
+        }
+      ],
+      "candidate_words": [
+        "支度",
+        "支給",
+        "支出"
+      ],
+      "example_sentence": null,
+      "example_translation_ko": null,
+      "related_lesson_ids": [],
+      "editorial_status": "needs_ko_translation_and_examples",
+      "source_level": "N3"
+    },
+    {
+      "id": "kanji-309",
+      "character": "産",
+      "stage": 4,
+      "order": 9,
+      "category": "추가 한자",
+      "meaning_ko": null,
+      "meaning_en": "products",
+      "on_readings": [
+        "サン"
+      ],
+      "kun_readings": [
+        "う.む",
+        "う.まれる",
+        "うぶ-",
+        "む.す"
+      ],
+      "strokes": 11,
+      "example_words": [
+        {
+          "word": "産業",
+          "reading": "さんぎょう",
+          "romaji": "sangyou",
+          "meaning_en": "industry",
+          "meaning_ko": null
+        },
+        {
+          "word": "生産",
+          "reading": "せいさん",
+          "romaji": "seisan",
+          "meaning_en": "to produce",
+          "meaning_ko": null
+        }
+      ],
+      "candidate_words": [
+        "産業",
+        "生産",
+        "お土産"
+      ],
+      "example_sentence": null,
+      "example_translation_ko": null,
+      "related_lesson_ids": [],
+      "editorial_status": "needs_ko_translation_and_examples",
+      "source_level": "N3"
+    },
+    {
+      "id": "kanji-310",
+      "character": "点",
+      "stage": 4,
+      "order": 10,
+      "category": "추가 한자",
+      "meaning_ko": null,
+      "meaning_en": "spot",
+      "on_readings": [
+        "テン"
+      ],
+      "kun_readings": [
+        "つ.ける",
+        "つ.く",
+        "た.てる",
+        "さ.す",
+        "とぼ.す",
+        "とも.す",
+        "ぼち"
+      ],
+      "strokes": 9,
+      "example_words": [
+        {
+          "word": "点",
+          "reading": "てん",
+          "romaji": "ten",
+          "meaning_en": "point",
+          "meaning_ko": null
+        },
+        {
+          "word": "交差点",
+          "reading": "こうさてん",
+          "romaji": "kousaten",
+          "meaning_en": "intersection",
+          "meaning_ko": null
+        }
+      ],
+      "candidate_words": [
+        "交差点",
+        "点",
+        "欠点"
+      ],
+      "example_sentence": null,
+      "example_translation_ko": null,
+      "related_lesson_ids": [],
+      "editorial_status": "needs_ko_translation_and_examples",
+      "source_level": "N3"
+    },
+    {
+      "id": "kanji-311",
+      "character": "報",
+      "stage": 4,
+      "order": 11,
+      "category": "추가 한자",
+      "meaning_ko": null,
+      "meaning_en": "report",
+      "on_readings": [
+        "ホウ"
+      ],
+      "kun_readings": [
+        "むく.いる"
+      ],
+      "strokes": 12,
+      "example_words": [
+        {
+          "word": "電報",
+          "reading": "でんぽう",
+          "romaji": "denpou",
+          "meaning_en": "telegram",
+          "meaning_ko": null
+        },
+        {
+          "word": "天気予報",
+          "reading": "てんきよほう",
+          "romaji": "tenkiyohou",
+          "meaning_en": "weather forecast",
+          "meaning_ko": null
+        }
+      ],
+      "candidate_words": [
+        "電報",
+        "天気予報",
+        "情報"
+      ],
+      "example_sentence": null,
+      "example_translation_ko": null,
+      "related_lesson_ids": [],
+      "editorial_status": "needs_ko_translation_and_examples",
+      "source_level": "N3"
+    },
+    {
+      "id": "kanji-312",
+      "character": "済",
+      "stage": 4,
+      "order": 12,
+      "category": "추가 한자",
+      "meaning_ko": null,
+      "meaning_en": "settle (debt, etc.)",
+      "on_readings": [
+        "サイ",
+        "セイ"
+      ],
+      "kun_readings": [
+        "す.む",
+        "-ず.み",
+        "-ずみ",
+        "す.まない",
+        "す.ます",
+        "-す.ます",
+        "すく.う",
+        "な.す",
+        "わたし",
+        "わた.る"
+      ],
+      "strokes": 11,
+      "example_words": [
+        {
+          "word": "経済",
+          "reading": "けいざい",
+          "romaji": "keizai",
+          "meaning_en": "finance",
+          "meaning_ko": null
+        },
+        {
+          "word": "済む",
+          "reading": "すむ",
+          "romaji": "sumu",
+          "meaning_en": "to finish",
+          "meaning_ko": null
+        }
+      ],
+      "candidate_words": [
+        "経済",
+        "済む",
+        "済ませる"
+      ],
+      "example_sentence": null,
+      "example_translation_ko": null,
+      "related_lesson_ids": [],
+      "editorial_status": "needs_ko_translation_and_examples",
+      "source_level": "N3"
+    },
+    {
+      "id": "kanji-313",
+      "character": "活",
+      "stage": 4,
+      "order": 13,
+      "category": "추가 한자",
+      "meaning_ko": null,
+      "meaning_en": "lively",
+      "on_readings": [
+        "カツ"
+      ],
+      "kun_readings": [
+        "い.きる",
+        "い.かす",
+        "い.ける"
+      ],
+      "strokes": 9,
+      "example_words": [
+        {
+          "word": "生活",
+          "reading": "せいかつ",
+          "romaji": "seikatsu",
+          "meaning_en": "to live",
+          "meaning_ko": null
+        }
+      ],
+      "candidate_words": [
+        "生活",
+        "活気",
+        "活動"
+      ],
+      "example_sentence": null,
+      "example_translation_ko": null,
+      "related_lesson_ids": [],
+      "editorial_status": "needs_ko_translation_and_examples",
+      "source_level": "N3"
+    },
+    {
+      "id": "kanji-314",
+      "character": "原",
+      "stage": 4,
+      "order": 14,
+      "category": "추가 한자",
+      "meaning_ko": null,
+      "meaning_en": "meadow",
+      "on_readings": [
+        "ゲン"
+      ],
+      "kun_readings": [
+        "はら"
+      ],
+      "strokes": 10,
+      "example_words": [
+        {
+          "word": "原因",
+          "reading": "げんいん",
+          "romaji": "gen'in",
+          "meaning_en": "cause",
+          "meaning_ko": null
+        }
+      ],
+      "candidate_words": [
+        "原因",
+        "原",
+        "原稿"
+      ],
+      "example_sentence": null,
+      "example_translation_ko": null,
+      "related_lesson_ids": [],
+      "editorial_status": "needs_ko_translation_and_examples",
+      "source_level": "N3"
+    },
+    {
+      "id": "kanji-315",
+      "character": "共",
+      "stage": 4,
+      "order": 15,
+      "category": "추가 한자",
+      "meaning_ko": null,
+      "meaning_en": "together",
+      "on_readings": [
+        "キョウ"
+      ],
+      "kun_readings": [
+        "とも",
+        "とも.に",
+        "-ども"
+      ],
+      "strokes": 6,
+      "example_words": [],
+      "candidate_words": [
+        "共通",
+        "共同",
+        "共に"
+      ],
+      "example_sentence": null,
+      "example_translation_ko": null,
+      "related_lesson_ids": [],
+      "editorial_status": "needs_ko_translation_and_examples",
+      "source_level": "N3"
+    },
+    {
+      "id": "kanji-316",
+      "character": "得",
+      "stage": 4,
+      "order": 16,
+      "category": "추가 한자",
+      "meaning_ko": null,
+      "meaning_en": "gain",
+      "on_readings": [
+        "トク"
+      ],
+      "kun_readings": [
+        "え.る",
+        "う.る"
+      ],
+      "strokes": 11,
+      "example_words": [],
+      "candidate_words": [
+        "得る",
+        "得意",
+        "納得"
+      ],
+      "example_sentence": null,
+      "example_translation_ko": null,
+      "related_lesson_ids": [],
+      "editorial_status": "needs_ko_translation_and_examples",
+      "source_level": "N3"
+    },
+    {
+      "id": "kanji-317",
+      "character": "解",
+      "stage": 4,
+      "order": 17,
+      "category": "추가 한자",
+      "meaning_ko": null,
+      "meaning_en": "unravel",
+      "on_readings": [
+        "カイ",
+        "ゲ"
+      ],
+      "kun_readings": [
+        "と.く",
+        "と.かす",
+        "と.ける",
+        "ほど.く",
+        "ほぐ.す",
+        "わか.る",
+        "さと.る"
+      ],
+      "strokes": 13,
+      "example_words": [],
+      "candidate_words": [
+        "解決",
+        "解釈",
+        "見解"
+      ],
+      "example_sentence": null,
+      "example_translation_ko": null,
+      "related_lesson_ids": [],
+      "editorial_status": "needs_ko_translation_and_examples",
+      "source_level": "N3"
+    },
+    {
+      "id": "kanji-318",
+      "character": "交",
+      "stage": 4,
+      "order": 18,
+      "category": "추가 한자",
+      "meaning_ko": null,
+      "meaning_en": "mingle",
+      "on_readings": [
+        "コウ"
+      ],
+      "kun_readings": [
+        "まじ.わる",
+        "まじ.える",
+        "ま.じる",
+        "まじ.る",
+        "ま.ざる",
+        "ま.ぜる",
+        "-か.う",
+        "か.わす",
+        "かわ.す",
+        "こもごも"
+      ],
+      "strokes": 6,
+      "example_words": [
+        {
+          "word": "交番",
+          "reading": "こうばん",
+          "romaji": "kouban",
+          "meaning_en": "police box",
+          "meaning_ko": null
+        },
+        {
+          "word": "交通",
+          "reading": "こうつう",
+          "romaji": "koutsuu",
+          "meaning_en": "traffic",
+          "meaning_ko": null
+        }
+      ],
+      "candidate_words": [
+        "交番",
+        "交差点",
+        "交通"
+      ],
+      "example_sentence": null,
+      "example_translation_ko": null,
+      "related_lesson_ids": [],
+      "editorial_status": "needs_ko_translation_and_examples",
+      "source_level": "N3"
+    },
+    {
+      "id": "kanji-319",
+      "character": "資",
+      "stage": 4,
+      "order": 19,
+      "category": "추가 한자",
+      "meaning_ko": null,
+      "meaning_en": "assets",
+      "on_readings": [
+        "シ"
+      ],
+      "kun_readings": [],
+      "strokes": 13,
+      "example_words": [],
+      "candidate_words": [
+        "資源",
+        "資本",
+        "資料"
+      ],
+      "example_sentence": null,
+      "example_translation_ko": null,
+      "related_lesson_ids": [],
+      "editorial_status": "needs_ko_translation_and_examples",
+      "source_level": "N3"
+    },
+    {
+      "id": "kanji-320",
+      "character": "予",
+      "stage": 4,
+      "order": 20,
+      "category": "추가 한자",
+      "meaning_ko": null,
+      "meaning_en": "beforehand",
+      "on_readings": [
+        "ヨ",
+        "シャ"
+      ],
+      "kun_readings": [
+        "あらかじ.め"
+      ],
+      "strokes": 4,
+      "example_words": [
+        {
+          "word": "予習",
+          "reading": "よしゅう",
+          "romaji": "yoshuu",
+          "meaning_en": "preparation for a lesson",
+          "meaning_ko": null
+        },
+        {
+          "word": "予定",
+          "reading": "よてい",
+          "romaji": "yotei",
+          "meaning_en": "arrangement",
+          "meaning_ko": null
+        }
+      ],
+      "candidate_words": [
+        "予習",
+        "予定",
+        "予約"
+      ],
+      "example_sentence": null,
+      "example_translation_ko": null,
+      "related_lesson_ids": [],
+      "editorial_status": "needs_ko_translation_and_examples",
+      "source_level": "N3"
+    },
+    {
+      "id": "kanji-321",
+      "character": "向",
+      "stage": 4,
+      "order": 21,
+      "category": "추가 한자",
+      "meaning_ko": null,
+      "meaning_en": "yonder",
+      "on_readings": [
+        "コウ"
+      ],
+      "kun_readings": [
+        "む.く",
+        "む.い",
+        "-む.き",
+        "む.ける",
+        "-む.け",
+        "む.かう",
+        "む.かい",
+        "む.こう",
+        "む.こう-",
+        "むこ",
+        "むか.い"
+      ],
+      "strokes": 6,
+      "example_words": [
+        {
+          "word": "向こう",
+          "reading": "むこう",
+          "romaji": "mukou",
+          "meaning_en": "over there",
+          "meaning_ko": null
+        },
+        {
+          "word": "向かう",
+          "reading": "むかう",
+          "romaji": "mukau",
+          "meaning_en": "to face",
+          "meaning_ko": null
+        }
+      ],
+      "candidate_words": [
+        "向こう",
+        "向かう",
+        "傾向"
+      ],
+      "example_sentence": null,
+      "example_translation_ko": null,
+      "related_lesson_ids": [],
+      "editorial_status": "needs_ko_translation_and_examples",
+      "source_level": "N3"
+    },
+    {
+      "id": "kanji-322",
+      "character": "際",
+      "stage": 4,
+      "order": 22,
+      "category": "추가 한자",
+      "meaning_ko": null,
+      "meaning_en": "occasion",
+      "on_readings": [
+        "サイ"
+      ],
+      "kun_readings": [
+        "きわ",
+        "-ぎわ"
+      ],
+      "strokes": 14,
+      "example_words": [
+        {
+          "word": "国際",
+          "reading": "こくさい",
+          "romaji": "kokusai",
+          "meaning_en": "international",
+          "meaning_ko": null
+        }
+      ],
+      "candidate_words": [
+        "国際",
+        "際",
+        "交際"
+      ],
+      "example_sentence": null,
+      "example_translation_ko": null,
+      "related_lesson_ids": [],
+      "editorial_status": "needs_ko_translation_and_examples",
+      "source_level": "N3"
+    },
+    {
+      "id": "kanji-323",
+      "character": "勝",
+      "stage": 4,
+      "order": 23,
+      "category": "추가 한자",
+      "meaning_ko": null,
+      "meaning_en": "victory",
+      "on_readings": [
+        "ショウ"
+      ],
+      "kun_readings": [
+        "か.つ",
+        "-が.ち",
+        "まさ.る",
+        "すぐ.れる",
+        "かつ"
+      ],
+      "strokes": 12,
+      "example_words": [
+        {
+          "word": "勝つ",
+          "reading": "かつ",
+          "romaji": "katsu",
+          "meaning_en": "to win",
+          "meaning_ko": null
+        }
+      ],
+      "candidate_words": [
+        "勝つ",
+        "勝ち",
+        "優勝"
+      ],
+      "example_sentence": null,
+      "example_translation_ko": null,
+      "related_lesson_ids": [],
+      "editorial_status": "needs_ko_translation_and_examples",
+      "source_level": "N3"
+    },
+    {
+      "id": "kanji-324",
+      "character": "面",
+      "stage": 4,
+      "order": 24,
+      "category": "추가 한자",
+      "meaning_ko": null,
+      "meaning_en": "mask",
+      "on_readings": [
+        "メン",
+        "ベン"
+      ],
+      "kun_readings": [
+        "おも",
+        "おもて",
+        "つら"
+      ],
+      "strokes": 9,
+      "example_words": [],
+      "candidate_words": [
+        "面",
+        "場面",
+        "表面"
+      ],
+      "example_sentence": null,
+      "example_translation_ko": null,
+      "related_lesson_ids": [],
+      "editorial_status": "needs_ko_translation_and_examples",
+      "source_level": "N3"
+    },
+    {
+      "id": "kanji-325",
+      "character": "告",
+      "stage": 4,
+      "order": 25,
+      "category": "추가 한자",
+      "meaning_ko": null,
+      "meaning_en": "revelation",
+      "on_readings": [
+        "コク"
+      ],
+      "kun_readings": [
+        "つ.げる"
+      ],
+      "strokes": 7,
+      "example_words": [],
+      "candidate_words": [
+        "警告",
+        "広告",
+        "報告"
+      ],
+      "example_sentence": null,
+      "example_translation_ko": null,
+      "related_lesson_ids": [],
+      "editorial_status": "needs_ko_translation_and_examples",
+      "source_level": "N3"
+    },
+    {
+      "id": "kanji-326",
+      "character": "反",
+      "stage": 4,
+      "order": 26,
+      "category": "추가 한자",
+      "meaning_ko": null,
+      "meaning_en": "anti-",
+      "on_readings": [
+        "ハン",
+        "ホン",
+        "タン",
+        "ホ"
+      ],
+      "kun_readings": [
+        "そ.る",
+        "そ.らす",
+        "かえ.す",
+        "かえ.る",
+        "-かえ.る"
+      ],
+      "strokes": 4,
+      "example_words": [
+        {
+          "word": "反対",
+          "reading": "はんたい",
+          "romaji": "hantai",
+          "meaning_en": "opposition",
+          "meaning_ko": null
+        }
+      ],
+      "candidate_words": [
+        "反対",
+        "違反",
+        "反抗"
+      ],
+      "example_sentence": null,
+      "example_translation_ko": null,
+      "related_lesson_ids": [],
+      "editorial_status": "needs_ko_translation_and_examples",
+      "source_level": "N3"
+    },
+    {
+      "id": "kanji-327",
+      "character": "判",
+      "stage": 4,
+      "order": 27,
+      "category": "추가 한자",
+      "meaning_ko": null,
+      "meaning_en": "judgement",
+      "on_readings": [
+        "ハン",
+        "バン"
+      ],
+      "kun_readings": [
+        "わか.る"
+      ],
+      "strokes": 7,
+      "example_words": [],
+      "candidate_words": [
+        "裁判",
+        "審判",
+        "判断"
+      ],
+      "example_sentence": null,
+      "example_translation_ko": null,
+      "related_lesson_ids": [],
+      "editorial_status": "needs_ko_translation_and_examples",
+      "source_level": "N3"
+    },
+    {
+      "id": "kanji-328",
+      "character": "認",
+      "stage": 4,
+      "order": 28,
+      "category": "추가 한자",
+      "meaning_ko": null,
+      "meaning_en": "acknowledge",
+      "on_readings": [
+        "ニン"
+      ],
+      "kun_readings": [
+        "みと.める",
+        "したた.める"
+      ],
+      "strokes": 14,
+      "example_words": [],
+      "candidate_words": [
+        "確認",
+        "承認",
+        "認める"
+      ],
+      "example_sentence": null,
+      "example_translation_ko": null,
+      "related_lesson_ids": [],
+      "editorial_status": "needs_ko_translation_and_examples",
+      "source_level": "N3"
+    },
+    {
+      "id": "kanji-329",
+      "character": "参",
+      "stage": 4,
+      "order": 29,
+      "category": "추가 한자",
+      "meaning_ko": null,
+      "meaning_en": "nonplussed",
+      "on_readings": [
+        "サン",
+        "シン"
+      ],
+      "kun_readings": [
+        "まい.る",
+        "まい-",
+        "まじわる",
+        "みつ"
+      ],
+      "strokes": 8,
+      "example_words": [
+        {
+          "word": "参る",
+          "reading": "まいる",
+          "romaji": "mairu",
+          "meaning_en": "(humble) to go",
+          "meaning_ko": null
+        }
+      ],
+      "candidate_words": [
+        "参る",
+        "参加",
+        "参考"
+      ],
+      "example_sentence": null,
+      "example_translation_ko": null,
+      "related_lesson_ids": [],
+      "editorial_status": "needs_ko_translation_and_examples",
+      "source_level": "N3"
+    },
+    {
+      "id": "kanji-330",
+      "character": "利",
+      "stage": 4,
+      "order": 30,
+      "category": "추가 한자",
+      "meaning_ko": null,
+      "meaning_en": "profit",
+      "on_readings": [
+        "リ"
+      ],
+      "kun_readings": [
+        "き.く"
+      ],
+      "strokes": 7,
+      "example_words": [
+        {
+          "word": "便利",
+          "reading": "べんり",
+          "romaji": "benri",
+          "meaning_en": "useful",
+          "meaning_ko": null
+        },
+        {
+          "word": "利用",
+          "reading": "りよう",
+          "romaji": "riyou",
+          "meaning_en": "utilization",
+          "meaning_ko": null
+        }
+      ],
+      "candidate_words": [
+        "便利",
+        "利用",
+        "権利"
+      ],
+      "example_sentence": null,
+      "example_translation_ko": null,
+      "related_lesson_ids": [],
+      "editorial_status": "needs_ko_translation_and_examples",
+      "source_level": "N3"
+    },
+    {
+      "id": "kanji-331",
+      "character": "組",
+      "stage": 4,
+      "order": 31,
+      "category": "추가 한자",
+      "meaning_ko": null,
+      "meaning_en": "association",
+      "on_readings": [
+        "ソ"
+      ],
+      "kun_readings": [
+        "く.む",
+        "くみ",
+        "-ぐみ"
+      ],
+      "strokes": 11,
+      "example_words": [
+        {
+          "word": "番組",
+          "reading": "ばんぐみ",
+          "romaji": "bangumi",
+          "meaning_en": "television or radio program",
+          "meaning_ko": null
+        }
+      ],
+      "candidate_words": [
+        "番組",
+        "組",
+        "組合"
+      ],
+      "example_sentence": null,
+      "example_translation_ko": null,
+      "related_lesson_ids": [],
+      "editorial_status": "needs_ko_translation_and_examples",
+      "source_level": "N3"
+    },
+    {
+      "id": "kanji-332",
+      "character": "信",
+      "stage": 4,
+      "order": 32,
+      "category": "추가 한자",
+      "meaning_ko": null,
+      "meaning_en": "faith",
+      "on_readings": [
+        "シン"
+      ],
+      "kun_readings": [],
+      "strokes": 9,
+      "example_words": [],
+      "candidate_words": [
+        "信仰",
+        "信号",
+        "信用"
+      ],
+      "example_sentence": null,
+      "example_translation_ko": null,
+      "related_lesson_ids": [],
+      "editorial_status": "needs_ko_translation_and_examples",
+      "source_level": "N3"
+    },
+    {
+      "id": "kanji-333",
+      "character": "在",
+      "stage": 4,
+      "order": 33,
+      "category": "추가 한자",
+      "meaning_ko": null,
+      "meaning_en": "exist",
+      "on_readings": [
+        "ザイ"
+      ],
+      "kun_readings": [
+        "あ.る"
+      ],
+      "strokes": 6,
+      "example_words": [],
+      "candidate_words": [
+        "現在",
+        "存在",
+        "滞在"
+      ],
+      "example_sentence": null,
+      "example_translation_ko": null,
+      "related_lesson_ids": [],
+      "editorial_status": "needs_ko_translation_and_examples",
+      "source_level": "N3"
+    },
+    {
+      "id": "kanji-334",
+      "character": "件",
+      "stage": 4,
+      "order": 34,
+      "category": "추가 한자",
+      "meaning_ko": null,
+      "meaning_en": "affair",
+      "on_readings": [
+        "ケン"
+      ],
+      "kun_readings": [
+        "くだん"
+      ],
+      "strokes": 6,
+      "example_words": [],
+      "candidate_words": [
+        "事件",
+        "条件",
+        "件"
+      ],
+      "example_sentence": null,
+      "example_translation_ko": null,
+      "related_lesson_ids": [],
+      "editorial_status": "needs_ko_translation_and_examples",
+      "source_level": "N3"
+    },
+    {
+      "id": "kanji-335",
+      "character": "側",
+      "stage": 4,
+      "order": 35,
+      "category": "추가 한자",
+      "meaning_ko": null,
+      "meaning_en": "side",
+      "on_readings": [
+        "ソク"
+      ],
+      "kun_readings": [
+        "かわ",
+        "がわ",
+        "そば"
+      ],
+      "strokes": 11,
+      "example_words": [],
+      "candidate_words": [
+        "両側",
+        "側",
+        "縁側"
+      ],
+      "example_sentence": null,
+      "example_translation_ko": null,
+      "related_lesson_ids": [],
+      "editorial_status": "needs_ko_translation_and_examples",
+      "source_level": "N3"
+    },
+    {
+      "id": "kanji-336",
+      "character": "任",
+      "stage": 4,
+      "order": 36,
+      "category": "추가 한자",
+      "meaning_ko": null,
+      "meaning_en": "responsibility",
+      "on_readings": [
+        "ニン"
+      ],
+      "kun_readings": [
+        "まか.せる",
+        "まか.す"
+      ],
+      "strokes": 6,
+      "example_words": [],
+      "candidate_words": [
+        "責任",
+        "任せる",
+        "就任"
+      ],
+      "example_sentence": null,
+      "example_translation_ko": null,
+      "related_lesson_ids": [],
+      "editorial_status": "needs_ko_translation_and_examples",
+      "source_level": "N3"
+    },
+    {
+      "id": "kanji-337",
+      "character": "引",
+      "stage": 4,
+      "order": 37,
+      "category": "추가 한자",
+      "meaning_ko": null,
+      "meaning_en": "pull",
+      "on_readings": [
+        "イン"
+      ],
+      "kun_readings": [
+        "ひ.く",
+        "ひ.ける"
+      ],
+      "strokes": 4,
+      "example_words": [
+        {
+          "word": "字引",
+          "reading": "じびき",
+          "romaji": "jibiki",
+          "meaning_en": "dictionary",
+          "meaning_ko": null
+        },
+        {
+          "word": "引く",
+          "reading": "ひく",
+          "romaji": "hiku",
+          "meaning_en": "to pull",
+          "meaning_ko": null
+        }
+      ],
+      "candidate_words": [
+        "字引",
+        "引く",
+        "引き出し"
+      ],
+      "example_sentence": null,
+      "example_translation_ko": null,
+      "related_lesson_ids": [],
+      "editorial_status": "needs_ko_translation_and_examples",
+      "source_level": "N3"
+    },
+    {
+      "id": "kanji-338",
+      "character": "求",
+      "stage": 4,
+      "order": 38,
+      "category": "추가 한자",
+      "meaning_ko": null,
+      "meaning_en": "request",
+      "on_readings": [
+        "キュウ",
+        "グ"
+      ],
+      "kun_readings": [
+        "もと.める"
+      ],
+      "strokes": 7,
+      "example_words": [],
+      "candidate_words": [
+        "請求",
+        "要求",
+        "求める"
+      ],
+      "example_sentence": null,
+      "example_translation_ko": null,
+      "related_lesson_ids": [],
+      "editorial_status": "needs_ko_translation_and_examples",
+      "source_level": "N3"
+    },
+    {
+      "id": "kanji-339",
+      "character": "所",
+      "stage": 4,
+      "order": 39,
+      "category": "추가 한자",
+      "meaning_ko": null,
+      "meaning_en": "place",
+      "on_readings": [
+        "ショ"
+      ],
+      "kun_readings": [
+        "ところ",
+        "-ところ",
+        "どころ",
+        "とこ"
+      ],
+      "strokes": 8,
+      "example_words": [
+        {
+          "word": "所",
+          "reading": "ところ",
+          "romaji": "tokoro",
+          "meaning_en": "place",
+          "meaning_ko": null
+        },
+        {
+          "word": "台所",
+          "reading": "だいどころ",
+          "romaji": "daidokoro",
+          "meaning_en": "kitchen",
+          "meaning_ko": null
+        }
+      ],
+      "candidate_words": [
+        "所",
+        "台所",
+        "近所"
+      ],
+      "example_sentence": null,
+      "example_translation_ko": null,
+      "related_lesson_ids": [],
+      "editorial_status": "needs_ko_translation_and_examples",
+      "source_level": "N3"
+    },
+    {
+      "id": "kanji-340",
+      "character": "次",
+      "stage": 4,
+      "order": 40,
+      "category": "추가 한자",
+      "meaning_ko": null,
+      "meaning_en": "next",
+      "on_readings": [
+        "ジ",
+        "シ"
+      ],
+      "kun_readings": [
+        "つ.ぐ",
+        "つぎ"
+      ],
+      "strokes": 6,
+      "example_words": [
+        {
+          "word": "次",
+          "reading": "つぎ",
+          "romaji": "tsugi",
+          "meaning_en": "next",
+          "meaning_ko": null
+        }
+      ],
+      "candidate_words": [
+        "次",
+        "次第",
+        "次々"
+      ],
+      "example_sentence": null,
+      "example_translation_ko": null,
+      "related_lesson_ids": [],
+      "editorial_status": "needs_ko_translation_and_examples",
+      "source_level": "N3"
+    },
+    {
+      "id": "kanji-341",
+      "character": "論",
+      "stage": 4,
+      "order": 41,
+      "category": "추가 한자",
+      "meaning_ko": null,
+      "meaning_en": "argument",
+      "on_readings": [
+        "ロン"
+      ],
+      "kun_readings": [
+        "あげつら.う"
+      ],
+      "strokes": 15,
+      "example_words": [],
+      "candidate_words": [
+        "議論",
+        "結論",
+        "論争"
+      ],
+      "example_sentence": null,
+      "example_translation_ko": null,
+      "related_lesson_ids": [],
+      "editorial_status": "needs_ko_translation_and_examples",
+      "source_level": "N3"
+    },
+    {
+      "id": "kanji-342",
+      "character": "官",
+      "stage": 4,
+      "order": 42,
+      "category": "추가 한자",
+      "meaning_ko": null,
+      "meaning_en": "bureaucrat",
+      "on_readings": [
+        "カン"
+      ],
+      "kun_readings": [],
+      "strokes": 8,
+      "example_words": [
+        {
+          "word": "警官",
+          "reading": "けいかん",
+          "romaji": "keikan",
+          "meaning_en": "policeman",
+          "meaning_ko": null
+        }
+      ],
+      "candidate_words": [
+        "警官",
+        "官庁",
+        "官僚"
+      ],
+      "example_sentence": null,
+      "example_translation_ko": null,
+      "related_lesson_ids": [],
+      "editorial_status": "needs_ko_translation_and_examples",
+      "source_level": "N3"
+    },
+    {
+      "id": "kanji-343",
+      "character": "増",
+      "stage": 4,
+      "order": 43,
+      "category": "추가 한자",
+      "meaning_ko": null,
+      "meaning_en": "increase",
+      "on_readings": [
+        "ゾウ"
+      ],
+      "kun_readings": [
+        "ま.す",
+        "ま.し",
+        "ふ.える",
+        "ふ.やす"
+      ],
+      "strokes": 14,
+      "example_words": [
+        {
+          "word": "増える",
+          "reading": "ふえる",
+          "romaji": "fueru",
+          "meaning_en": "to increase",
+          "meaning_ko": null
+        }
+      ],
+      "candidate_words": [
+        "増える",
+        "増加",
+        "増す"
+      ],
+      "example_sentence": null,
+      "example_translation_ko": null,
+      "related_lesson_ids": [],
+      "editorial_status": "needs_ko_translation_and_examples",
+      "source_level": "N3"
+    },
+    {
+      "id": "kanji-344",
+      "character": "係",
+      "stage": 4,
+      "order": 44,
+      "category": "추가 한자",
+      "meaning_ko": null,
+      "meaning_en": "person in charge",
+      "on_readings": [
+        "ケイ"
+      ],
+      "kun_readings": [
+        "かか.る",
+        "かかり",
+        "-がかり",
+        "かか.わる"
+      ],
+      "strokes": 9,
+      "example_words": [
+        {
+          "word": "関係",
+          "reading": "かんけい",
+          "romaji": "kankei",
+          "meaning_en": "relationship",
+          "meaning_ko": null
+        }
+      ],
+      "candidate_words": [
+        "関係",
+        "係",
+        "係わる"
+      ],
+      "example_sentence": null,
+      "example_translation_ko": null,
+      "related_lesson_ids": [],
+      "editorial_status": "needs_ko_translation_and_examples",
+      "source_level": "N3"
+    },
+    {
+      "id": "kanji-345",
+      "character": "感",
+      "stage": 4,
+      "order": 45,
+      "category": "추가 한자",
+      "meaning_ko": null,
+      "meaning_en": "emotion",
+      "on_readings": [
+        "カン"
+      ],
+      "kun_readings": [],
+      "strokes": 13,
+      "example_words": [],
+      "candidate_words": [
+        "感覚",
+        "感じ",
+        "感謝"
+      ],
+      "example_sentence": null,
+      "example_translation_ko": null,
+      "related_lesson_ids": [],
+      "editorial_status": "needs_ko_translation_and_examples",
+      "source_level": "N3"
+    },
+    {
+      "id": "kanji-346",
+      "character": "情",
+      "stage": 4,
+      "order": 46,
+      "category": "추가 한자",
+      "meaning_ko": null,
+      "meaning_en": "feelings",
+      "on_readings": [
+        "ジョウ",
+        "セイ"
+      ],
+      "kun_readings": [
+        "なさ.け"
+      ],
+      "strokes": 11,
+      "example_words": [],
+      "candidate_words": [
+        "愛情",
+        "感情",
+        "事情"
+      ],
+      "example_sentence": null,
+      "example_translation_ko": null,
+      "related_lesson_ids": [],
+      "editorial_status": "needs_ko_translation_and_examples",
+      "source_level": "N3"
+    },
+    {
+      "id": "kanji-347",
+      "character": "投",
+      "stage": 4,
+      "order": 47,
+      "category": "추가 한자",
+      "meaning_ko": null,
+      "meaning_en": "throw",
+      "on_readings": [
+        "トウ"
+      ],
+      "kun_readings": [
+        "な.げる",
+        "-な.げ"
+      ],
+      "strokes": 7,
+      "example_words": [
+        {
+          "word": "投げる",
+          "reading": "なげる",
+          "romaji": "nageru",
+          "meaning_en": "to throw or cast away",
+          "meaning_ko": null
+        }
+      ],
+      "candidate_words": [
+        "投げる",
+        "投票",
+        "投書"
+      ],
+      "example_sentence": null,
+      "example_translation_ko": null,
+      "related_lesson_ids": [],
+      "editorial_status": "needs_ko_translation_and_examples",
+      "source_level": "N3"
+    },
+    {
+      "id": "kanji-348",
+      "character": "示",
+      "stage": 4,
+      "order": 48,
+      "category": "추가 한자",
+      "meaning_ko": null,
+      "meaning_en": "show",
+      "on_readings": [
+        "ジ",
+        "シ"
+      ],
+      "kun_readings": [
+        "しめ.す"
+      ],
+      "strokes": 5,
+      "example_words": [],
+      "candidate_words": [
+        "掲示",
+        "示す",
+        "暗示"
+      ],
+      "example_sentence": null,
+      "example_translation_ko": null,
+      "related_lesson_ids": [],
+      "editorial_status": "needs_ko_translation_and_examples",
+      "source_level": "N3"
+    },
+    {
+      "id": "kanji-349",
+      "character": "変",
+      "stage": 4,
+      "order": 49,
+      "category": "추가 한자",
+      "meaning_ko": null,
+      "meaning_en": "unusual",
+      "on_readings": [
+        "ヘン"
+      ],
+      "kun_readings": [
+        "か.わる",
+        "か.わり",
+        "か.える"
+      ],
+      "strokes": 9,
+      "example_words": [
+        {
+          "word": "変",
+          "reading": "へん",
+          "romaji": "hen",
+          "meaning_en": "strange",
+          "meaning_ko": null
+        },
+        {
+          "word": "変える",
+          "reading": "かえる",
+          "romaji": "kaeru",
+          "meaning_en": "to change",
+          "meaning_ko": null
+        }
+      ],
+      "candidate_words": [
+        "変",
+        "変える",
+        "変わる"
+      ],
+      "example_sentence": null,
+      "example_translation_ko": null,
+      "related_lesson_ids": [],
+      "editorial_status": "needs_ko_translation_and_examples",
+      "source_level": "N3"
+    },
+    {
+      "id": "kanji-350",
+      "character": "打",
+      "stage": 4,
+      "order": 50,
+      "category": "추가 한자",
+      "meaning_ko": null,
+      "meaning_en": "strike",
+      "on_readings": [
+        "ダ",
+        "ダース"
+      ],
+      "kun_readings": [
+        "う.つ",
+        "う.ち-",
+        "ぶ.つ"
+      ],
+      "strokes": 5,
+      "example_words": [
+        {
+          "word": "打つ",
+          "reading": "うつ",
+          "romaji": "utsu",
+          "meaning_en": "to hit",
+          "meaning_ko": null
+        }
+      ],
+      "candidate_words": [
+        "打つ",
+        "打合せ",
+        "打ち消す"
+      ],
+      "example_sentence": null,
+      "example_translation_ko": null,
+      "related_lesson_ids": [],
+      "editorial_status": "needs_ko_translation_and_examples",
+      "source_level": "N3"
+    },
+    {
+      "id": "kanji-351",
+      "character": "直",
+      "stage": 4,
+      "order": 51,
+      "category": "추가 한자",
+      "meaning_ko": null,
+      "meaning_en": "straightaway",
+      "on_readings": [
+        "チョク",
+        "ジキ",
+        "ジカ"
+      ],
+      "kun_readings": [
+        "ただ.ちに",
+        "なお.す",
+        "-なお.す",
+        "なお.る",
+        "なお.き",
+        "す.ぐ"
+      ],
+      "strokes": 8,
+      "example_words": [
+        {
+          "word": "直す",
+          "reading": "なおす",
+          "romaji": "naosu",
+          "meaning_en": "to fix",
+          "meaning_ko": null
+        },
+        {
+          "word": "直る",
+          "reading": "なおる",
+          "romaji": "naoru",
+          "meaning_en": "to be fixed",
+          "meaning_ko": null
+        }
+      ],
+      "candidate_words": [
+        "直す",
+        "直る",
+        "直"
+      ],
+      "example_sentence": null,
+      "example_translation_ko": null,
+      "related_lesson_ids": [],
+      "editorial_status": "needs_ko_translation_and_examples",
+      "source_level": "N3"
+    },
+    {
+      "id": "kanji-352",
+      "character": "両",
+      "stage": 4,
+      "order": 52,
+      "category": "추가 한자",
+      "meaning_ko": null,
+      "meaning_en": "both",
+      "on_readings": [
+        "リョウ"
+      ],
+      "kun_readings": [
+        "てる",
+        "ふたつ"
+      ],
+      "strokes": 6,
+      "example_words": [
+        {
+          "word": "両親",
+          "reading": "りょうしん",
+          "romaji": "ryoushin",
+          "meaning_en": "both parents",
+          "meaning_ko": null
+        },
+        {
+          "word": "両方",
+          "reading": "りょうほう",
+          "romaji": "ryouhou",
+          "meaning_en": "both sides",
+          "meaning_ko": null
+        }
+      ],
+      "candidate_words": [
+        "両親",
+        "両方",
+        "両替"
+      ],
+      "example_sentence": null,
+      "example_translation_ko": null,
+      "related_lesson_ids": [],
+      "editorial_status": "needs_ko_translation_and_examples",
+      "source_level": "N3"
+    },
+    {
+      "id": "kanji-353",
+      "character": "式",
+      "stage": 4,
+      "order": 53,
+      "category": "추가 한자",
+      "meaning_ko": null,
+      "meaning_en": "style",
+      "on_readings": [
+        "シキ"
+      ],
+      "kun_readings": [],
+      "strokes": 6,
+      "example_words": [],
+      "candidate_words": [
+        "式",
+        "正式",
+        "儀式"
+      ],
+      "example_sentence": null,
+      "example_translation_ko": null,
+      "related_lesson_ids": [],
+      "editorial_status": "needs_ko_translation_and_examples",
+      "source_level": "N3"
+    },
+    {
+      "id": "kanji-354",
+      "character": "確",
+      "stage": 4,
+      "order": 54,
+      "category": "추가 한자",
+      "meaning_ko": null,
+      "meaning_en": "assurance",
+      "on_readings": [
+        "カク",
+        "コウ"
+      ],
+      "kun_readings": [
+        "たし.か",
+        "たし.かめる"
+      ],
+      "strokes": 15,
+      "example_words": [
+        {
+          "word": "確か",
+          "reading": "たしか",
+          "romaji": "tashika",
+          "meaning_en": "definite",
+          "meaning_ko": null
+        }
+      ],
+      "candidate_words": [
+        "確か",
+        "確実",
+        "確認"
+      ],
+      "example_sentence": null,
+      "example_translation_ko": null,
+      "related_lesson_ids": [],
+      "editorial_status": "needs_ko_translation_and_examples",
+      "source_level": "N3"
+    },
+    {
+      "id": "kanji-355",
+      "character": "果",
+      "stage": 4,
+      "order": 55,
+      "category": "추가 한자",
+      "meaning_ko": null,
+      "meaning_en": "fruit",
+      "on_readings": [
+        "カ"
+      ],
+      "kun_readings": [
+        "は.たす",
+        "はた.す",
+        "-は.たす",
+        "は.てる",
+        "-は.てる",
+        "は.て"
+      ],
+      "strokes": 8,
+      "example_words": [
+        {
+          "word": "果物",
+          "reading": "くだもの",
+          "romaji": "kudamono",
+          "meaning_en": "fruit",
+          "meaning_ko": null
+        }
+      ],
+      "candidate_words": [
+        "果物",
+        "結果",
+        "効果"
+      ],
+      "example_sentence": null,
+      "example_translation_ko": null,
+      "related_lesson_ids": [],
+      "editorial_status": "needs_ko_translation_and_examples",
+      "source_level": "N3"
+    },
+    {
+      "id": "kanji-356",
+      "character": "容",
+      "stage": 4,
+      "order": 56,
+      "category": "추가 한자",
+      "meaning_ko": null,
+      "meaning_en": "contain",
+      "on_readings": [
+        "ヨウ"
+      ],
+      "kun_readings": [
+        "い.れる"
+      ],
+      "strokes": 10,
+      "example_words": [],
+      "candidate_words": [
+        "内容",
+        "容易",
+        "美容"
+      ],
+      "example_sentence": null,
+      "example_translation_ko": null,
+      "related_lesson_ids": [],
+      "editorial_status": "needs_ko_translation_and_examples",
+      "source_level": "N3"
+    },
+    {
+      "id": "kanji-357",
+      "character": "必",
+      "stage": 4,
+      "order": 57,
+      "category": "추가 한자",
+      "meaning_ko": null,
+      "meaning_en": "invariably",
+      "on_readings": [
+        "ヒツ"
+      ],
+      "kun_readings": [
+        "かなら.ず"
+      ],
+      "strokes": 5,
+      "example_words": [
+        {
+          "word": "必ず",
+          "reading": "かならず",
+          "romaji": "kanarazu",
+          "meaning_en": "certainly",
+          "meaning_ko": null
+        },
+        {
+          "word": "必要",
+          "reading": "ひつよう",
+          "romaji": "hitsuyou",
+          "meaning_en": "necessary",
+          "meaning_ko": null
+        }
+      ],
+      "candidate_words": [
+        "必ず",
+        "必要",
+        "必死"
+      ],
+      "example_sentence": null,
+      "example_translation_ko": null,
+      "related_lesson_ids": [],
+      "editorial_status": "needs_ko_translation_and_examples",
+      "source_level": "N3"
+    },
+    {
+      "id": "kanji-358",
+      "character": "演",
+      "stage": 4,
+      "order": 58,
+      "category": "추가 한자",
+      "meaning_ko": null,
+      "meaning_en": "performance",
+      "on_readings": [
+        "エン"
+      ],
+      "kun_readings": [],
+      "strokes": 14,
+      "example_words": [],
+      "candidate_words": [
+        "演技",
+        "演説",
+        "演奏"
+      ],
+      "example_sentence": null,
+      "example_translation_ko": null,
+      "related_lesson_ids": [],
+      "editorial_status": "needs_ko_translation_and_examples",
+      "source_level": "N3"
+    },
+    {
+      "id": "kanji-359",
+      "character": "歳",
+      "stage": 4,
+      "order": 59,
+      "category": "추가 한자",
+      "meaning_ko": null,
+      "meaning_en": "year-end",
+      "on_readings": [
+        "サイ",
+        "セイ"
+      ],
+      "kun_readings": [
+        "とし",
+        "とせ",
+        "よわい"
+      ],
+      "strokes": 13,
+      "example_words": [
+        {
+          "word": "二十歳",
+          "reading": "はたち",
+          "romaji": "hatachi",
+          "meaning_en": "20 years old",
+          "meaning_ko": null
+        }
+      ],
+      "candidate_words": [
+        "二十歳",
+        "万歳",
+        "歳"
+      ],
+      "example_sentence": null,
+      "example_translation_ko": null,
+      "related_lesson_ids": [],
+      "editorial_status": "needs_ko_translation_and_examples",
+      "source_level": "N3"
+    },
+    {
+      "id": "kanji-360",
+      "character": "争",
+      "stage": 4,
+      "order": 60,
+      "category": "추가 한자",
+      "meaning_ko": null,
+      "meaning_en": "contend",
+      "on_readings": [
+        "ソウ"
+      ],
+      "kun_readings": [
+        "あらそ.う",
+        "いか.でか"
+      ],
+      "strokes": 6,
+      "example_words": [
+        {
+          "word": "競争",
+          "reading": "きょうそう",
+          "romaji": "kyousou",
+          "meaning_en": "competition",
+          "meaning_ko": null
+        },
+        {
+          "word": "戦争",
+          "reading": "せんそう",
+          "romaji": "sensou",
+          "meaning_en": "war",
+          "meaning_ko": null
+        }
+      ],
+      "candidate_words": [
+        "競争",
+        "戦争",
+        "論争"
+      ],
+      "example_sentence": null,
+      "example_translation_ko": null,
+      "related_lesson_ids": [],
+      "editorial_status": "needs_ko_translation_and_examples",
+      "source_level": "N3"
+    },
+    {
+      "id": "kanji-361",
+      "character": "談",
+      "stage": 4,
+      "order": 61,
+      "category": "추가 한자",
+      "meaning_ko": null,
+      "meaning_en": "discuss",
+      "on_readings": [
+        "ダン"
+      ],
+      "kun_readings": [],
+      "strokes": 15,
+      "example_words": [
+        {
+          "word": "相談",
+          "reading": "そうだん",
+          "romaji": "soudan",
+          "meaning_en": "to discuss",
+          "meaning_ko": null
+        }
+      ],
+      "candidate_words": [
+        "相談",
+        "冗談",
+        "縁談"
+      ],
+      "example_sentence": null,
+      "example_translation_ko": null,
+      "related_lesson_ids": [],
+      "editorial_status": "needs_ko_translation_and_examples",
+      "source_level": "N3"
+    },
+    {
+      "id": "kanji-362",
+      "character": "能",
+      "stage": 4,
+      "order": 62,
+      "category": "추가 한자",
+      "meaning_ko": null,
+      "meaning_en": "ability",
+      "on_readings": [
+        "ノウ"
+      ],
+      "kun_readings": [
+        "よ.く",
+        "あた.う"
+      ],
+      "strokes": 10,
+      "example_words": [],
+      "candidate_words": [
+        "能",
+        "可能",
+        "機能"
+      ],
+      "example_sentence": null,
+      "example_translation_ko": null,
+      "related_lesson_ids": [],
+      "editorial_status": "needs_ko_translation_and_examples",
+      "source_level": "N3"
+    },
+    {
+      "id": "kanji-363",
+      "character": "位",
+      "stage": 4,
+      "order": 63,
+      "category": "추가 한자",
+      "meaning_ko": null,
+      "meaning_en": "rank",
+      "on_readings": [
+        "イ"
+      ],
+      "kun_readings": [
+        "くらい",
+        "ぐらい"
+      ],
+      "strokes": 7,
+      "example_words": [],
+      "candidate_words": [
+        "位",
+        "位置",
+        "単位"
+      ],
+      "example_sentence": null,
+      "example_translation_ko": null,
+      "related_lesson_ids": [],
+      "editorial_status": "needs_ko_translation_and_examples",
+      "source_level": "N3"
+    },
+    {
+      "id": "kanji-364",
+      "character": "置",
+      "stage": 4,
+      "order": 64,
+      "category": "추가 한자",
+      "meaning_ko": null,
+      "meaning_en": "placement",
+      "on_readings": [
+        "チ"
+      ],
+      "kun_readings": [
+        "お.く",
+        "-お.き"
+      ],
+      "strokes": 13,
+      "example_words": [
+        {
+          "word": "置く",
+          "reading": "おく",
+          "romaji": "oku",
+          "meaning_en": "to put",
+          "meaning_ko": null
+        }
+      ],
+      "candidate_words": [
+        "置く",
+        "位置",
+        "装置"
+      ],
+      "example_sentence": null,
+      "example_translation_ko": null,
+      "related_lesson_ids": [],
+      "editorial_status": "needs_ko_translation_and_examples",
+      "source_level": "N3"
+    },
+    {
+      "id": "kanji-365",
+      "character": "流",
+      "stage": 4,
+      "order": 65,
+      "category": "추가 한자",
+      "meaning_ko": null,
+      "meaning_en": "current",
+      "on_readings": [
+        "リュウ",
+        "ル"
+      ],
+      "kun_readings": [
+        "なが.れる",
+        "なが.れ",
+        "なが.す",
+        "-なが.す"
+      ],
+      "strokes": 10,
+      "example_words": [],
+      "candidate_words": [
+        "流す",
+        "流れ",
+        "流行"
+      ],
+      "example_sentence": null,
+      "example_translation_ko": null,
+      "related_lesson_ids": [],
+      "editorial_status": "needs_ko_translation_and_examples",
+      "source_level": "N3"
+    },
+    {
+      "id": "kanji-366",
+      "character": "格",
+      "stage": 4,
+      "order": 66,
+      "category": "추가 한자",
+      "meaning_ko": null,
+      "meaning_en": "status",
+      "on_readings": [
+        "カク",
+        "コウ",
+        "キャク",
+        "ゴウ"
+      ],
+      "kun_readings": [],
+      "strokes": 10,
+      "example_words": [],
+      "candidate_words": [
+        "価格",
+        "合格",
+        "性格"
+      ],
+      "example_sentence": null,
+      "example_translation_ko": null,
+      "related_lesson_ids": [],
+      "editorial_status": "needs_ko_translation_and_examples",
+      "source_level": "N3"
+    },
+    {
+      "id": "kanji-367",
+      "character": "疑",
+      "stage": 4,
+      "order": 67,
+      "category": "추가 한자",
+      "meaning_ko": null,
+      "meaning_en": "doubt",
+      "on_readings": [
+        "ギ"
+      ],
+      "kun_readings": [
+        "うたが.う"
+      ],
+      "strokes": 14,
+      "example_words": [],
+      "candidate_words": [
+        "疑う",
+        "疑問",
+        "疑惑"
+      ],
+      "example_sentence": null,
+      "example_translation_ko": null,
+      "related_lesson_ids": [],
+      "editorial_status": "needs_ko_translation_and_examples",
+      "source_level": "N3"
+    },
+    {
+      "id": "kanji-368",
+      "character": "過",
+      "stage": 4,
+      "order": 68,
+      "category": "추가 한자",
+      "meaning_ko": null,
+      "meaning_en": "overdo",
+      "on_readings": [
+        "カ"
+      ],
+      "kun_readings": [
+        "す.ぎる",
+        "す.ごす",
+        "あやま.ち",
+        "あやま.つ",
+        "よぎ.る",
+        "よ.ぎる"
+      ],
+      "strokes": 12,
+      "example_words": [
+        {
+          "word": "過ぎる",
+          "reading": "すぎる",
+          "romaji": "sugiru",
+          "meaning_en": "to exceed",
+          "meaning_ko": null
+        }
+      ],
+      "candidate_words": [
+        "過ぎる",
+        "過去",
+        "通過"
+      ],
+      "example_sentence": null,
+      "example_translation_ko": null,
+      "related_lesson_ids": [],
+      "editorial_status": "needs_ko_translation_and_examples",
+      "source_level": "N3"
+    },
+    {
+      "id": "kanji-369",
+      "character": "局",
+      "stage": 4,
+      "order": 69,
+      "category": "추가 한자",
+      "meaning_ko": null,
+      "meaning_en": "bureau",
+      "on_readings": [
+        "キョク"
+      ],
+      "kun_readings": [
+        "つぼね"
+      ],
+      "strokes": 7,
+      "example_words": [
+        {
+          "word": "郵便局",
+          "reading": "ゆうびんきょく",
+          "romaji": "yuubinkyoku",
+          "meaning_en": "post office",
+          "meaning_ko": null
+        }
+      ],
+      "candidate_words": [
+        "郵便局",
+        "局",
+        "結局"
+      ],
+      "example_sentence": null,
+      "example_translation_ko": null,
+      "related_lesson_ids": [],
+      "editorial_status": "needs_ko_translation_and_examples",
+      "source_level": "N3"
+    },
+    {
+      "id": "kanji-370",
+      "character": "放",
+      "stage": 4,
+      "order": 70,
+      "category": "추가 한자",
+      "meaning_ko": null,
+      "meaning_en": "set free",
+      "on_readings": [
+        "ホウ"
+      ],
+      "kun_readings": [
+        "はな.す",
+        "-っぱな.し",
+        "はな.つ",
+        "はな.れる",
+        "こ.く",
+        "ほう.る"
+      ],
+      "strokes": 8,
+      "example_words": [
+        {
+          "word": "放送",
+          "reading": "ほうそう",
+          "romaji": "housou",
+          "meaning_en": "to broadcast",
+          "meaning_ko": null
+        }
+      ],
+      "candidate_words": [
+        "放送",
+        "放す",
+        "解放"
+      ],
+      "example_sentence": null,
+      "example_translation_ko": null,
+      "related_lesson_ids": [],
+      "editorial_status": "needs_ko_translation_and_examples",
+      "source_level": "N3"
+    },
+    {
+      "id": "kanji-371",
+      "character": "常",
+      "stage": 4,
+      "order": 71,
+      "category": "추가 한자",
+      "meaning_ko": null,
+      "meaning_en": "usual",
+      "on_readings": [
+        "ジョウ"
+      ],
+      "kun_readings": [
+        "つね",
+        "とこ-"
+      ],
+      "strokes": 11,
+      "example_words": [
+        {
+          "word": "非常に",
+          "reading": "ひじょうに",
+          "romaji": "hijouni",
+          "meaning_en": "extremely",
+          "meaning_ko": null
+        }
+      ],
+      "candidate_words": [
+        "非常に",
+        "異常",
+        "常識"
+      ],
+      "example_sentence": null,
+      "example_translation_ko": null,
+      "related_lesson_ids": [],
+      "editorial_status": "needs_ko_translation_and_examples",
+      "source_level": "N3"
+    },
+    {
+      "id": "kanji-372",
+      "character": "状",
+      "stage": 4,
+      "order": 72,
+      "category": "추가 한자",
+      "meaning_ko": null,
+      "meaning_en": "status quo",
+      "on_readings": [
+        "ジョウ"
+      ],
+      "kun_readings": [],
+      "strokes": 7,
+      "example_words": [],
+      "candidate_words": [
+        "現状",
+        "状況",
+        "症状"
+      ],
+      "example_sentence": null,
+      "example_translation_ko": null,
+      "related_lesson_ids": [],
+      "editorial_status": "needs_ko_translation_and_examples",
+      "source_level": "N3"
+    },
+    {
+      "id": "kanji-373",
+      "character": "球",
+      "stage": 4,
+      "order": 73,
+      "category": "추가 한자",
+      "meaning_ko": null,
+      "meaning_en": "ball",
+      "on_readings": [
+        "キュウ"
+      ],
+      "kun_readings": [
+        "たま"
+      ],
+      "strokes": 11,
+      "example_words": [],
+      "candidate_words": [
+        "球",
+        "地球",
+        "電球"
+      ],
+      "example_sentence": null,
+      "example_translation_ko": null,
+      "related_lesson_ids": [],
+      "editorial_status": "needs_ko_translation_and_examples",
+      "source_level": "N3"
+    },
+    {
+      "id": "kanji-374",
+      "character": "職",
+      "stage": 4,
+      "order": 74,
+      "category": "추가 한자",
+      "meaning_ko": null,
+      "meaning_en": "post",
+      "on_readings": [
+        "ショク",
+        "ソク"
+      ],
+      "kun_readings": [],
+      "strokes": 18,
+      "example_words": [],
+      "candidate_words": [
+        "職",
+        "就職",
+        "職業"
+      ],
+      "example_sentence": null,
+      "example_translation_ko": null,
+      "related_lesson_ids": [],
+      "editorial_status": "needs_ko_translation_and_examples",
+      "source_level": "N3"
+    },
+    {
+      "id": "kanji-375",
+      "character": "与",
+      "stage": 4,
+      "order": 75,
+      "category": "추가 한자",
+      "meaning_ko": null,
+      "meaning_en": "bestow",
+      "on_readings": [
+        "ヨ"
+      ],
+      "kun_readings": [
+        "あた.える",
+        "あずか.る",
+        "くみ.する",
+        "ともに"
+      ],
+      "strokes": 3,
+      "example_words": [],
+      "candidate_words": [
+        "与える",
+        "給与",
+        "関与"
+      ],
+      "example_sentence": null,
+      "example_translation_ko": null,
+      "related_lesson_ids": [],
+      "editorial_status": "needs_ko_translation_and_examples",
+      "source_level": "N3"
+    },
+    {
+      "id": "kanji-376",
+      "character": "供",
+      "stage": 4,
+      "order": 76,
+      "category": "추가 한자",
+      "meaning_ko": null,
+      "meaning_en": "submit",
+      "on_readings": [
+        "キョウ",
+        "ク",
+        "クウ",
+        "グ"
+      ],
+      "kun_readings": [
+        "そな.える",
+        "とも",
+        "-ども"
+      ],
+      "strokes": 8,
+      "example_words": [
+        {
+          "word": "子供",
+          "reading": "こども",
+          "romaji": "kodomo",
+          "meaning_en": "child",
+          "meaning_ko": null
+        }
+      ],
+      "candidate_words": [
+        "子供",
+        "供給",
+        "お供"
+      ],
+      "example_sentence": null,
+      "example_translation_ko": null,
+      "related_lesson_ids": [],
+      "editorial_status": "needs_ko_translation_and_examples",
+      "source_level": "N3"
+    },
+    {
+      "id": "kanji-377",
+      "character": "可",
+      "stage": 4,
+      "order": 77,
+      "category": "추가 한자",
+      "meaning_ko": null,
+      "meaning_en": "can",
+      "on_readings": [
+        "カ",
+        "コク"
+      ],
+      "kun_readings": [
+        "-べ.き",
+        "-べ.し"
+      ],
+      "strokes": 5,
+      "example_words": [],
+      "candidate_words": [
+        "可",
+        "可能",
+        "許可"
+      ],
+      "example_sentence": null,
+      "example_translation_ko": null,
+      "related_lesson_ids": [],
+      "editorial_status": "needs_ko_translation_and_examples",
+      "source_level": "N3"
+    },
+    {
+      "id": "kanji-378",
+      "character": "役",
+      "stage": 4,
+      "order": 78,
+      "category": "추가 한자",
+      "meaning_ko": null,
+      "meaning_en": "duty",
+      "on_readings": [
+        "ヤク",
+        "エキ"
+      ],
+      "kun_readings": [],
+      "strokes": 7,
+      "example_words": [
+        {
+          "word": "役に立つ",
+          "reading": "やくにたつ",
+          "romaji": "yakunitatsu",
+          "meaning_en": "to be helpful",
+          "meaning_ko": null
+        }
+      ],
+      "candidate_words": [
+        "役に立つ",
+        "役",
+        "役割"
+      ],
+      "example_sentence": null,
+      "example_translation_ko": null,
+      "related_lesson_ids": [],
+      "editorial_status": "needs_ko_translation_and_examples",
+      "source_level": "N3"
+    },
+    {
+      "id": "kanji-379",
+      "character": "構",
+      "stage": 4,
+      "order": 79,
+      "category": "추가 한자",
+      "meaning_ko": null,
+      "meaning_en": "posture",
+      "on_readings": [
+        "コウ"
+      ],
+      "kun_readings": [
+        "かま.える",
+        "かま.う"
+      ],
+      "strokes": 14,
+      "example_words": [
+        {
+          "word": "結構",
+          "reading": "けっこう",
+          "romaji": "kekkou",
+          "meaning_en": "splendid",
+          "meaning_ko": null
+        }
+      ],
+      "candidate_words": [
+        "結構",
+        "構成",
+        "構造"
+      ],
+      "example_sentence": null,
+      "example_translation_ko": null,
+      "related_lesson_ids": [],
+      "editorial_status": "needs_ko_translation_and_examples",
+      "source_level": "N3"
+    },
+    {
+      "id": "kanji-380",
+      "character": "割",
+      "stage": 4,
+      "order": 80,
+      "category": "추가 한자",
+      "meaning_ko": null,
+      "meaning_en": "proportion",
+      "on_readings": [
+        "カツ"
+      ],
+      "kun_readings": [
+        "わ.る",
+        "わり",
+        "わ.り",
+        "わ.れる",
+        "さ.く"
+      ],
+      "strokes": 12,
+      "example_words": [
+        {
+          "word": "割合",
+          "reading": "わりあい",
+          "romaji": "wariai",
+          "meaning_en": "rate",
+          "meaning_ko": null
+        },
+        {
+          "word": "割れる",
+          "reading": "われる",
+          "romaji": "wareru",
+          "meaning_en": "to break",
+          "meaning_ko": null
+        }
+      ],
+      "candidate_words": [
+        "割合",
+        "割れる",
+        "役割"
+      ],
+      "example_sentence": null,
+      "example_translation_ko": null,
+      "related_lesson_ids": [],
+      "editorial_status": "needs_ko_translation_and_examples",
+      "source_level": "N3"
+    },
+    {
+      "id": "kanji-381",
+      "character": "身",
+      "stage": 4,
+      "order": 81,
+      "category": "추가 한자",
+      "meaning_ko": null,
+      "meaning_en": "somebody",
+      "on_readings": [
+        "シン"
+      ],
+      "kun_readings": [
+        "み"
+      ],
+      "strokes": 7,
+      "example_words": [],
+      "candidate_words": [
+        "身",
+        "自身",
+        "出身"
+      ],
+      "example_sentence": null,
+      "example_translation_ko": null,
+      "related_lesson_ids": [],
+      "editorial_status": "needs_ko_translation_and_examples",
+      "source_level": "N3"
+    },
+    {
+      "id": "kanji-382",
+      "character": "費",
+      "stage": 4,
+      "order": 82,
+      "category": "추가 한자",
+      "meaning_ko": null,
+      "meaning_en": "expense",
+      "on_readings": [
+        "ヒ"
+      ],
+      "kun_readings": [
+        "つい.やす",
+        "つい.える"
+      ],
+      "strokes": 12,
+      "example_words": [],
+      "candidate_words": [
+        "消費",
+        "費用",
+        "費"
+      ],
+      "example_sentence": null,
+      "example_translation_ko": null,
+      "related_lesson_ids": [],
+      "editorial_status": "needs_ko_translation_and_examples",
+      "source_level": "N3"
+    },
+    {
+      "id": "kanji-383",
+      "character": "付",
+      "stage": 4,
+      "order": 83,
+      "category": "추가 한자",
+      "meaning_ko": null,
+      "meaning_en": "adhere",
+      "on_readings": [
+        "フ"
+      ],
+      "kun_readings": [
+        "つ.ける",
+        "-つ.ける",
+        "-づ.ける",
+        "つ.け",
+        "つ.け-",
+        "-つ.け",
+        "-づ.け",
+        "-づけ",
+        "つ.く",
+        "-づ.く",
+        "つ.き",
+        "-つ.き",
+        "-つき",
+        "-づ.き",
+        "-づき"
+      ],
+      "strokes": 5,
+      "example_words": [
+        {
+          "word": "受付",
+          "reading": "うけつけ",
+          "romaji": "uketsuke",
+          "meaning_en": "receipt",
+          "meaning_ko": null
+        },
+        {
+          "word": "付く",
+          "reading": "つく",
+          "romaji": "tsuku",
+          "meaning_en": "to be attached",
+          "meaning_ko": null
+        }
+      ],
+      "candidate_words": [
+        "受付",
+        "付く",
+        "片付ける"
+      ],
+      "example_sentence": null,
+      "example_translation_ko": null,
+      "related_lesson_ids": [],
+      "editorial_status": "needs_ko_translation_and_examples",
+      "source_level": "N3"
+    },
+    {
+      "id": "kanji-384",
+      "character": "由",
+      "stage": 4,
+      "order": 84,
+      "category": "추가 한자",
+      "meaning_ko": null,
+      "meaning_en": "wherefore",
+      "on_readings": [
+        "ユ",
+        "ユウ",
+        "ユイ"
+      ],
+      "kun_readings": [
+        "よし",
+        "よ.る"
+      ],
+      "strokes": 5,
+      "example_words": [
+        {
+          "word": "自由",
+          "reading": "じゆう",
+          "romaji": "jiyuu",
+          "meaning_en": "freedom",
+          "meaning_ko": null
+        },
+        {
+          "word": "理由",
+          "reading": "りゆう",
+          "romaji": "riyuu",
+          "meaning_en": "reason",
+          "meaning_ko": null
+        }
+      ],
+      "candidate_words": [
+        "自由",
+        "理由",
+        "経由"
+      ],
+      "example_sentence": null,
+      "example_translation_ko": null,
+      "related_lesson_ids": [],
+      "editorial_status": "needs_ko_translation_and_examples",
+      "source_level": "N3"
+    },
+    {
+      "id": "kanji-385",
+      "character": "説",
+      "stage": 4,
+      "order": 85,
+      "category": "추가 한자",
+      "meaning_ko": null,
+      "meaning_en": "opinion",
+      "on_readings": [
+        "セツ",
+        "ゼイ"
+      ],
+      "kun_readings": [
+        "と.く"
+      ],
+      "strokes": 14,
+      "example_words": [
+        {
+          "word": "小説",
+          "reading": "しょうせつ",
+          "romaji": "shousetsu",
+          "meaning_en": "novel",
+          "meaning_ko": null
+        },
+        {
+          "word": "説明",
+          "reading": "せつめい",
+          "romaji": "setsumei",
+          "meaning_en": "explanation",
+          "meaning_ko": null
+        }
+      ],
+      "candidate_words": [
+        "小説",
+        "説明",
+        "説"
+      ],
+      "example_sentence": null,
+      "example_translation_ko": null,
+      "related_lesson_ids": [],
+      "editorial_status": "needs_ko_translation_and_examples",
+      "source_level": "N3"
+    },
+    {
+      "id": "kanji-386",
+      "character": "難",
+      "stage": 4,
+      "order": 86,
+      "category": "추가 한자",
+      "meaning_ko": null,
+      "meaning_en": "difficult",
+      "on_readings": [
+        "ナン"
+      ],
+      "kun_readings": [
+        "かた.い",
+        "-がた.い",
+        "むずか.しい",
+        "むづか.しい",
+        "むつか.しい",
+        "-にく.い"
+      ],
+      "strokes": 18,
+      "example_words": [
+        {
+          "word": "難しい",
+          "reading": "むずかしい",
+          "romaji": "muzukashii",
+          "meaning_en": "difficult",
+          "meaning_ko": null
+        }
+      ],
+      "candidate_words": [
+        "難しい",
+        "困難",
+        "災難"
+      ],
+      "example_sentence": null,
+      "example_translation_ko": null,
+      "related_lesson_ids": [],
+      "editorial_status": "needs_ko_translation_and_examples",
+      "source_level": "N3"
+    },
+    {
+      "id": "kanji-387",
+      "character": "優",
+      "stage": 4,
+      "order": 87,
+      "category": "추가 한자",
+      "meaning_ko": null,
+      "meaning_en": "tenderness",
+      "on_readings": [
+        "ユウ",
+        "ウ"
+      ],
+      "kun_readings": [
+        "やさ.しい",
+        "すぐ.れる",
+        "まさ.る"
+      ],
+      "strokes": 17,
+      "example_words": [
+        {
+          "word": "優しい",
+          "reading": "やさしい",
+          "romaji": "yasashii",
+          "meaning_en": "kind",
+          "meaning_ko": null
+        }
+      ],
+      "candidate_words": [
+        "優しい",
+        "女優",
+        "俳優"
+      ],
+      "example_sentence": null,
+      "example_translation_ko": null,
+      "related_lesson_ids": [],
+      "editorial_status": "needs_ko_translation_and_examples",
+      "source_level": "N3"
+    },
+    {
+      "id": "kanji-388",
+      "character": "夫",
+      "stage": 4,
+      "order": 88,
+      "category": "추가 한자",
+      "meaning_ko": null,
+      "meaning_en": "husband",
+      "on_readings": [
+        "フ",
+        "フウ",
+        "ブ"
+      ],
+      "kun_readings": [
+        "おっと",
+        "それ"
+      ],
+      "strokes": 4,
+      "example_words": [
+        {
+          "word": "夫",
+          "reading": "おっと",
+          "romaji": "otto",
+          "meaning_en": "husband",
+          "meaning_ko": null
+        },
+        {
+          "word": "丈夫",
+          "reading": "じょうぶ",
+          "romaji": "joubu",
+          "meaning_en": "strong",
+          "meaning_ko": null
+        }
+      ],
+      "candidate_words": [
+        "丈夫",
+        "大丈夫",
+        "夫"
+      ],
+      "example_sentence": null,
+      "example_translation_ko": null,
+      "related_lesson_ids": [],
+      "editorial_status": "needs_ko_translation_and_examples",
+      "source_level": "N3"
+    },
+    {
+      "id": "kanji-389",
+      "character": "収",
+      "stage": 4,
+      "order": 89,
+      "category": "추가 한자",
+      "meaning_ko": null,
+      "meaning_en": "income",
+      "on_readings": [
+        "シュウ"
+      ],
+      "kun_readings": [
+        "おさ.める",
+        "おさ.まる"
+      ],
+      "strokes": 4,
+      "example_words": [],
+      "candidate_words": [
+        "吸収",
+        "収穫",
+        "収入"
+      ],
+      "example_sentence": null,
+      "example_translation_ko": null,
+      "related_lesson_ids": [],
+      "editorial_status": "needs_ko_translation_and_examples",
+      "source_level": "N3"
+    },
+    {
+      "id": "kanji-390",
+      "character": "断",
+      "stage": 4,
+      "order": 90,
+      "category": "추가 한자",
+      "meaning_ko": null,
+      "meaning_en": "severance",
+      "on_readings": [
+        "ダン"
+      ],
+      "kun_readings": [
+        "た.つ",
+        "ことわ.る",
+        "さだ.める"
+      ],
+      "strokes": 11,
+      "example_words": [],
+      "candidate_words": [
+        "横断",
+        "断る",
+        "判断"
+      ],
+      "example_sentence": null,
+      "example_translation_ko": null,
+      "related_lesson_ids": [],
+      "editorial_status": "needs_ko_translation_and_examples",
+      "source_level": "N3"
+    },
+    {
+      "id": "kanji-391",
+      "character": "石",
+      "stage": 4,
+      "order": 91,
+      "category": "추가 한자",
+      "meaning_ko": null,
+      "meaning_en": "stone",
+      "on_readings": [
+        "セキ",
+        "シャク",
+        "コク"
+      ],
+      "kun_readings": [
+        "いし"
+      ],
+      "strokes": 5,
+      "example_words": [
+        {
+          "word": "石",
+          "reading": "いし",
+          "romaji": "ishi",
+          "meaning_en": "stone",
+          "meaning_ko": null
+        }
+      ],
+      "candidate_words": [
+        "石",
+        "石炭",
+        "石油"
+      ],
+      "example_sentence": null,
+      "example_translation_ko": null,
+      "related_lesson_ids": [],
+      "editorial_status": "needs_ko_translation_and_examples",
+      "source_level": "N3"
+    },
+    {
+      "id": "kanji-392",
+      "character": "違",
+      "stage": 4,
+      "order": 92,
+      "category": "추가 한자",
+      "meaning_ko": null,
+      "meaning_en": "difference",
+      "on_readings": [
+        "イ"
+      ],
+      "kun_readings": [
+        "ちが.う",
+        "ちが.い",
+        "ちが.える",
+        "-ちが.える",
+        "たが.う",
+        "たが.える"
+      ],
+      "strokes": 13,
+      "example_words": [
+        {
+          "word": "違う",
+          "reading": "ちがう",
+          "romaji": "chigau",
+          "meaning_en": "to differ",
+          "meaning_ko": null
+        },
+        {
+          "word": "間違える",
+          "reading": "まちがえる",
+          "romaji": "machigaeru",
+          "meaning_en": "to make a mistake",
+          "meaning_ko": null
+        }
+      ],
+      "candidate_words": [
+        "違う",
+        "間違える",
+        "違反"
+      ],
+      "example_sentence": null,
+      "example_translation_ko": null,
+      "related_lesson_ids": [],
+      "editorial_status": "needs_ko_translation_and_examples",
+      "source_level": "N3"
+    },
+    {
+      "id": "kanji-393",
+      "character": "消",
+      "stage": 4,
+      "order": 93,
+      "category": "추가 한자",
+      "meaning_ko": null,
+      "meaning_en": "extinguish",
+      "on_readings": [
+        "ショウ"
+      ],
+      "kun_readings": [
+        "き.える",
+        "け.す"
+      ],
+      "strokes": 10,
+      "example_words": [
+        {
+          "word": "消す",
+          "reading": "けす",
+          "romaji": "kesu",
+          "meaning_en": "to erase",
+          "meaning_ko": null
+        },
+        {
+          "word": "消える",
+          "reading": "きえる",
+          "romaji": "kieru",
+          "meaning_en": "to disappear",
+          "meaning_ko": null
+        }
+      ],
+      "candidate_words": [
+        "消す",
+        "消える",
+        "消しゴム"
+      ],
+      "example_sentence": null,
+      "example_translation_ko": null,
+      "related_lesson_ids": [],
+      "editorial_status": "needs_ko_translation_and_examples",
+      "source_level": "N3"
+    },
+    {
+      "id": "kanji-394",
+      "character": "神",
+      "stage": 4,
+      "order": 94,
+      "category": "추가 한자",
+      "meaning_ko": null,
+      "meaning_en": "gods",
+      "on_readings": [
+        "シン",
+        "ジン"
+      ],
+      "kun_readings": [
+        "かみ",
+        "かん-",
+        "こう-"
+      ],
+      "strokes": 9,
+      "example_words": [
+        {
+          "word": "神社",
+          "reading": "じんじゃ",
+          "romaji": "jinja",
+          "meaning_en": "Shinto shrine",
+          "meaning_ko": null
+        }
+      ],
+      "candidate_words": [
+        "神社",
+        "神",
+        "神経"
+      ],
+      "example_sentence": null,
+      "example_translation_ko": null,
+      "related_lesson_ids": [],
+      "editorial_status": "needs_ko_translation_and_examples",
+      "source_level": "N3"
+    },
+    {
+      "id": "kanji-395",
+      "character": "番",
+      "stage": 4,
+      "order": 95,
+      "category": "추가 한자",
+      "meaning_ko": null,
+      "meaning_en": "turn",
+      "on_readings": [
+        "バン"
+      ],
+      "kun_readings": [
+        "つが.い"
+      ],
+      "strokes": 12,
+      "example_words": [
+        {
+          "word": "交番",
+          "reading": "こうばん",
+          "romaji": "kouban",
+          "meaning_en": "police box",
+          "meaning_ko": null
+        },
+        {
+          "word": "番号",
+          "reading": "ばんごう",
+          "romaji": "bangou",
+          "meaning_en": "number",
+          "meaning_ko": null
+        }
+      ],
+      "candidate_words": [
+        "交番",
+        "番号",
+        "番組"
+      ],
+      "example_sentence": null,
+      "example_translation_ko": null,
+      "related_lesson_ids": [],
+      "editorial_status": "needs_ko_translation_and_examples",
+      "source_level": "N3"
+    },
+    {
+      "id": "kanji-396",
+      "character": "規",
+      "stage": 4,
+      "order": 96,
+      "category": "추가 한자",
+      "meaning_ko": null,
+      "meaning_en": "standard",
+      "on_readings": [
+        "キ"
+      ],
+      "kun_readings": [],
+      "strokes": 11,
+      "example_words": [
+        {
+          "word": "規則",
+          "reading": "きそく",
+          "romaji": "kisoku",
+          "meaning_en": "regulations",
+          "meaning_ko": null
+        }
+      ],
+      "candidate_words": [
+        "規則",
+        "規準",
+        "規律"
+      ],
+      "example_sentence": null,
+      "example_translation_ko": null,
+      "related_lesson_ids": [],
+      "editorial_status": "needs_ko_translation_and_examples",
+      "source_level": "N3"
+    },
+    {
+      "id": "kanji-397",
+      "character": "術",
+      "stage": 4,
+      "order": 97,
+      "category": "추가 한자",
+      "meaning_ko": null,
+      "meaning_en": "art",
+      "on_readings": [
+        "ジュツ"
+      ],
+      "kun_readings": [
+        "すべ"
+      ],
+      "strokes": 11,
+      "example_words": [
+        {
+          "word": "技術",
+          "reading": "ぎじゅつ",
+          "romaji": "gijutsu",
+          "meaning_en": "art",
+          "meaning_ko": null
+        },
+        {
+          "word": "美術館",
+          "reading": "びじゅつかん",
+          "romaji": "bijutsukan",
+          "meaning_en": "art gallery",
+          "meaning_ko": null
+        }
+      ],
+      "candidate_words": [
+        "技術",
+        "美術館",
+        "芸術"
+      ],
+      "example_sentence": null,
+      "example_translation_ko": null,
+      "related_lesson_ids": [],
+      "editorial_status": "needs_ko_translation_and_examples",
+      "source_level": "N3"
+    },
+    {
+      "id": "kanji-398",
+      "character": "備",
+      "stage": 4,
+      "order": 98,
+      "category": "추가 한자",
+      "meaning_ko": null,
+      "meaning_en": "equip",
+      "on_readings": [
+        "ビ"
+      ],
+      "kun_readings": [
+        "そな.える",
+        "そな.わる",
+        "つぶさ.に"
+      ],
+      "strokes": 12,
+      "example_words": [
+        {
+          "word": "準備",
+          "reading": "じゅんび",
+          "romaji": "junbi",
+          "meaning_en": "to prepare",
+          "meaning_ko": null
+        }
+      ],
+      "candidate_words": [
+        "準備",
+        "設備",
+        "備える"
+      ],
+      "example_sentence": null,
+      "example_translation_ko": null,
+      "related_lesson_ids": [],
+      "editorial_status": "needs_ko_translation_and_examples",
+      "source_level": "N3"
+    },
+    {
+      "id": "kanji-399",
+      "character": "宅",
+      "stage": 4,
+      "order": 99,
+      "category": "추가 한자",
+      "meaning_ko": null,
+      "meaning_en": "home",
+      "on_readings": [
+        "タク"
+      ],
+      "kun_readings": [],
+      "strokes": 6,
+      "example_words": [
+        {
+          "word": "お宅",
+          "reading": "おたく",
+          "romaji": "otaku",
+          "meaning_en": "(polite) your house",
+          "meaning_ko": null
+        }
+      ],
+      "candidate_words": [
+        "お宅",
+        "宅",
+        "帰宅"
+      ],
+      "example_sentence": null,
+      "example_translation_ko": null,
+      "related_lesson_ids": [],
+      "editorial_status": "needs_ko_translation_and_examples",
+      "source_level": "N3"
+    },
+    {
+      "id": "kanji-400",
+      "character": "害",
+      "stage": 4,
+      "order": 100,
+      "category": "추가 한자",
+      "meaning_ko": null,
+      "meaning_en": "harm",
+      "on_readings": [
+        "ガイ"
+      ],
+      "kun_readings": [],
+      "strokes": 10,
+      "example_words": [],
+      "candidate_words": [
+        "害",
+        "障害",
+        "損害"
+      ],
+      "example_sentence": null,
+      "example_translation_ko": null,
+      "related_lesson_ids": [],
+      "editorial_status": "needs_ko_translation_and_examples",
+      "source_level": "N3"
+    }
+  ]
+}
