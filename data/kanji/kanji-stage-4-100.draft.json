@@ -3387,7 +3387,7 @@
       "example_sentence": {
         "ja": "地球は丸いです。",
         "reading": "ちきゅうはまるいです。",
-        "translation_ko": "지구는 둥급니다.",
+        "translation_ko": "지구는 둥글습니다.",
         "status": "authored_draft_editorial_review_pending"
       },
       "example_translation_ko": null,
