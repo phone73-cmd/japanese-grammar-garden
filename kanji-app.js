@@ -7,8 +7,8 @@ function leaveToGrammar(){const depth=history.state?.kanji?.depth||0;if(depth>0)
 
 let record={learned:{},errors:[],attempts:[]};
 try{let a=JSON.parse(localStorage.getItem(KEY)||"null");if(a&&a.learned&&Array.isArray(a.errors))record=a}catch(e){}
-try{let a=JSON.parse(sessionStorage.getItem(QS)||"null");if(a&&Array.isArray(a.questions)&&a.questions.length===10)quiz=a}catch(e){}
-function store(){try{localStorage.setItem(KEY,JSON.stringify(record));if(quiz)sessionStorage.setItem(QS,JSON.stringify(quiz));else sessionStorage.removeItem(QS)}catch(e){alert("저장 공간이 부족합니다.")}}
+try{let a=JSON.parse(sessionStorage.getItem(QS)||localStorage.getItem("jgg.kanji.quiz.backup.v1")||"null");if(a&&Array.isArray(a.questions)&&a.questions.length===10)quiz=a}catch(e){}
+function store(){try{localStorage.setItem(KEY,JSON.stringify(record));if(quiz){const payload=JSON.stringify(quiz);sessionStorage.setItem(QS,payload);localStorage.setItem("jgg.kanji.quiz.backup.v1",payload)}else{sessionStorage.removeItem(QS);localStorage.removeItem("jgg.kanji.quiz.backup.v1")}}catch(e){alert("저장 공간이 부족합니다.")}}
 function byId(id){return items.find(x=>x.id===id)}
 function pool(n){return items.filter(x=>x.stage===n)}
 function makeBtn(label,a){return '<button class="kj-btn" data-kj="'+esc(a)+'">'+esc(label)+'</button>'}
