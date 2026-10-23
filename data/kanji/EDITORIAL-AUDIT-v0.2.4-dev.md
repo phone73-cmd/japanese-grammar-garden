@@ -37,3 +37,9 @@ Date: 2026-10-23. This is a **triage report**, not a completed dictionary or nat
 - Independent evidence examples: 田んぼ (小学館 類語例解辞典 via goo), 東京 (小学館 デジタル大辞泉 via goo); links are attached to those individual entries as supporting evidence, without upgrading their full verification status.
 - Usage cautions: 何(なに/なん), 実(み, fruit), 良い(よい/いい). These are valid contextual or alternate readings, not detected errors.
 - Remaining release gate: exact-entry dictionary evidence for 87, contextual example and Korean-translation review for 500 sentences, and source license validation. Keep draft status and production untouched.
+
+## Sentence editorial pass — 500 examples (2026-10-23)
+- Examined the five 100-entry datasets for Japanese sentence, kana rendering, and Korean translation consistency; no missing sentences or Korean translations, and no mixed Korean script inside Japanese examples were found.
+- Made five targeted sentence/translation edits: kanji-233 旅行で着る服, kanji-254 電車に乗り遅れました, kanji-410 約束を守れなくて, kanji-429 道を間違えてしまいました, kanji-498 한국어 '에어컨을 켰습니다'.
+- Earlier kanji-373 Korean typo correction remains in place.
+- This is a preliminary editorial pass, **not a certified full native-speaker proofread**. All five source datasets retain their draft designation and the release gate remains closed.
