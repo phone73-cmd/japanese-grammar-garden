@@ -77,3 +77,10 @@
 .kj-modal-actions button{font:inherit;min-height:46px;border-radius:12px;background:var(--garden-soft,#f1edf8);border:1px solid var(--garden-line,#e1d8f0);color:inherit;font-weight:650}
 .kj-modal-actions .kj-modal-leave{background:var(--garden-accent,#cbb8ed);color:var(--garden-on,#25183a)}
 @media(max-width:390px){#kanji-panel .kj-card{padding:13px;margin:9px 0}#kanji-panel .kj-choices{gap:8px}#kanji-panel .kj-big{margin:8px 0 10px}.kj-modal{padding:18px 15px}}
+
+/* v0.2.4-dev align grammar/kanji card and quiz rhythm */
+#kanji-panel .kj-card{border-radius:20px;line-height:1.55}
+#kanji-panel .kj-choices{gap:9px}
+#kanji-panel .kj-choice{min-height:48px;line-height:1.5;overflow-wrap:anywhere}
+#kanji-panel .kj-example{line-height:1.6}
+#kanji-panel .kj-review-answer{overflow-wrap:anywhere}
