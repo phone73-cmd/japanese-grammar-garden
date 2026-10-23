@@ -1,5 +1,5 @@
-/* Japanese Grammar Garden v0.2.5-dev: versioned offline shell */
-const CACHE="jgg-v0.2.5-dev";
+/* Japanese Grammar Garden v0.2.6-dev: versioned offline shell */
+const CACHE="jgg-v0.2.6-dev";
 const ASSETS=["./","./index.html","./manifest.webmanifest","./icon.svg","./app-ui.js","./kanji-app.js","./kanji-app.css",
 "./data/kanji/kanji-stage-1-100.draft.json","./data/kanji/kanji-stage-2-100.draft.json","./data/kanji/kanji-stage-3-100.draft.json","./data/kanji/kanji-stage-4-100.draft.json","./data/kanji/kanji-stage-5-100.draft.json"];
 const assetURLs=new Set(ASSETS.map(path=>new URL(path,self.registration.scope).href));
