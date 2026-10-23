@@ -16,29 +16,29 @@
       "stage": 2,
       "path": "kanji-stage-2-100.draft.json",
       "count": 100,
-      "meaning_ko_status": "pending",
-      "word_example_status": "partial"
+      "meaning_ko_status": "100 base Korean glosses drafted; editorial review pending",
+      "word_example_status": "169 word-gloss records drafted; examples incomplete"
     },
     {
       "stage": 3,
       "path": "kanji-stage-3-100.draft.json",
       "count": 100,
-      "meaning_ko_status": "pending",
-      "word_example_status": "partial"
+      "meaning_ko_status": "100 base Korean glosses drafted; editorial review pending",
+      "word_example_status": "149 word-gloss records drafted; examples incomplete"
     },
     {
       "stage": 4,
       "path": "kanji-stage-4-100.draft.json",
       "count": 100,
-      "meaning_ko_status": "pending",
-      "word_example_status": "partial"
+      "meaning_ko_status": "100 base Korean glosses drafted; editorial review pending",
+      "word_example_status": "90 word-gloss records drafted; examples incomplete"
     },
     {
       "stage": 5,
       "path": "kanji-stage-5-100.draft.json",
       "count": 100,
-      "meaning_ko_status": "pending",
-      "word_example_status": "partial"
+      "meaning_ko_status": "100 base Korean glosses drafted; editorial review pending",
+      "word_example_status": "82 word-gloss records drafted; examples incomplete"
     }
   ],
   "required_to_publish": [
