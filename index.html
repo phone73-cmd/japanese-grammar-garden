@@ -64,7 +64,7 @@ style.setProperty("--garden-action-bg",shifted(dark?blend(p.card,"#ffffff",.13):
 style.setProperty("--garden-action-line",dark?blend(p.line,p.ink,.48):p.line);
 style.setProperty("--garden-action-ink",dark?p.ink:p.ink);
 document.querySelector('meta[name="theme-color"]')?.setAttribute("content",shifted(p.bg,1.2));
-};matchMedia("(prefers-color-scheme: dark)").addEventListener?.("change",()=>{if((state.settings.theme||"system")==="system")setTheme()});setTheme();const save=()=>{try{localStorage.setItem(KEY,JSON.stringify(state))}catch(e){alert("학습 기록 저장에 실패했습니다. 저장 공간을 확인하세요.")}};
+};matchMedia("(prefers-color-scheme: dark)").addEventListener?.("change",()=>{if((state.settings.theme||"system")==="system")setTheme()});setTheme();const save=()=>{try{localStorage.setItem(KEY,JSON.stringify(state));document.getElementById("grammar-storage-warning")?.remove();return true}catch(e){console.warn("문법 기록 저장 실패",e);if(!document.getElementById("grammar-storage-warning")){const warning=document.createElement("div");warning.id="grammar-storage-warning";warning.setAttribute("role","alert");warning.textContent="학습 기록을 저장하지 못했습니다. 저장 공간과 백업을 확인해 주세요.";warning.style.cssText="position:fixed;z-index:99999;left:12px;right:12px;bottom:85px;padding:13px 16px;border-radius:14px;background:#fff2dc;color:#503b21;box-shadow:0 4px 18px #0002;font-size:14px";document.body.append(warning)}return false}};
 const app=document.getElementById("app");let view="home",lessonId=1,stage=0,quiz=null,lastResult=null;
 const esc=s=>String(s).replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
 const btn=(label,action,kind="secondary")=>`<button class="${kind}" data-action="${action}">${label}</button>`;
