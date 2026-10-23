@@ -3689,7 +3689,7 @@
       "strokes": 11,
       "example_words": [
         {
-          "word": "終る",
+          "word": "終わる",
           "reading": "おわる",
           "romaji": "owaru",
           "meaning_en": "to finish",
@@ -3706,7 +3706,7 @@
         }
       ],
       "candidate_words": [
-        "終る",
+        "終わる",
         "終わり",
         "最終"
       ],
@@ -4733,7 +4733,7 @@
       "strokes": 10,
       "example_words": [
         {
-          "word": "起す",
+          "word": "起こす",
           "reading": "おこす",
           "romaji": "okosu",
           "meaning_en": "to wake",
@@ -4751,7 +4751,7 @@
       ],
       "candidate_words": [
         "起きる",
-        "起す",
+        "起こす",
         "起こる"
       ],
       "example_sentence": {
