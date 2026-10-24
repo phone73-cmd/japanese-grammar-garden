@@ -3,7 +3,7 @@ const fs=require('node:fs'),vm=require('node:vm'),crypto=require('node:crypto'),
 process.chdir(path.join(__dirname,'..'));
 const html=fs.readFileSync('index.html','utf8'),context={window:{}};vm.createContext(context);
 for(const f of ['grammar-lessons.js','course-data.js','course-runtime.js'])vm.runInContext(fs.readFileSync(f,'utf8'),context);
-vm.runInContext(html.slice(html.indexOf('const makeQ='),html.indexOf('\nlet state='))+';window.auditContent=content',context);
+vm.runInContext(html.slice(html.indexOf('const makeQ='),html.indexOf('\nlet state=')).replace('window.JGG_PRACTICE.extend(content);','')+';window.auditContent=content',context);
 const content=context.window.auditContent,data=context.window.JGG_COURSE_DATA;
 const expected=JSON.parse(fs.readFileSync('tests/fixtures/legacy-questions-v038.sha256.json','utf8'));
 const counts=[];let total=0,judgements=0;

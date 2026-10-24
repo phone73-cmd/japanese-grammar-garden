@@ -22,3 +22,8 @@
 ## v0.3.9-dev 학습 보강
 
 기존 600문제 인덱스 보존, 830문제 추가. 설명·활용표·9개 역할 대화는 자체 작성했습니다. TUFS 문법 모듈 https://www.coelang.tufs.ac.jp/mt/ja/gmod/steplist.html 및 이로도리 https://www.irodori.jpf.go.jp/resources.html 의 체계를 참고했으며 교재 문장·미디어를 복제하지 않았습니다. 구조 검사와 원어민 감수는 다르며 전체 원어민 감수는 미완료입니다. 세부 결과는 RELEASE-v0.3.9.md 및 data/grammar/COURSE-AUDIT-v0.3.9.json에 기록합니다.
+
+
+## v0.3.10-dev 예문·평가 자료
+
+practice-data.js는 scripts/build_practice.py의 자체 작성 문형·명시적인 읽기·한국어 활용 표에서 생성합니다. 문형 기능 대조와 어휘 변형을 포함합니다. 학습 예문과 평가 전용 문장을 구분하며, 전체 원어민 정밀 감수는 미완료입니다. 외부 교재 문장·음원은 복제하지 않았습니다. 수량·반복 회피·보존 결과는 RELEASE-v0.3.10.md와 PRACTICE-AUDIT-v0.3.10.json을 참조하세요.

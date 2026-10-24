@@ -1,5 +1,5 @@
 {
-  "version": "0.3.9-dev",
+  "version": "0.3.10-dev",
   "legacy_lessons_preserved": [
     1,
     6,
@@ -8,7 +8,7 @@
   "new_lessons": 57,
   "total_lessons": 60,
   "new_questions": 570,
-  "total_questions": 1430,
+  "total_questions": 6950,
   "example_fields": [
     "Japanese",
     "hiragana",
@@ -17,7 +17,11 @@
   ],
   "status": "authored_additions_structure_checked_not_independent_native_review",
   "sources_document": "docs/CONTENT-SOURCES.md",
-  "legacy_questions_preserved": 600,
-  "added_questions": 830,
-  "course_source": "course-data.js"
+  "legacy_questions_preserved": 1430,
+  "added_questions": 5520,
+  "course_source": "course-data.js",
+  "total_examples": 717,
+  "assessment_contexts": 1828,
+  "dialogues": 27,
+  "practice_source": "practice-data.js"
 }
