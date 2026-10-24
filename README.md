@@ -1,6 +1,6 @@
 # 🌸 일본어 문법정원 (Japanese Grammar Garden)
 
-**main 버전: v0.3.7-dev — 콘텐츠·복습 확장 개발본**
+**main 버전: v0.3.8-dev — 콘텐츠·복습 확장 개발본**
 
 웹앱: https://phone73-cmd.github.io/japanese-grammar-garden/
 
@@ -180,3 +180,18 @@
 - 오늘의 일본어 한마디: 뜻 보기 / 듣기 / 다른 문장, 같은 너비·높이 44px·간격 8px, 선 아이콘 3종과 테마 색상 적용.
 - 백업 두 버튼과 보호 사본 별도 행, 다음·결과 중앙 배치 유지. 학습 기록·세션 저장 키와 데이터 초기화 없음.
 - Node 회귀 검사와 Chrome 402px 화면 확인을 진행. 실제 iPhone Safari/PWA 검증은 미확인.
+
+## v0.3.8-dev 한자 625자 사전 연결 · 2026-10-24
+
+- `feature/kanji-korean-readings-audit`의 c35141e 검증 스크립트를 이어서 사용했습니다.
+- 공식 KANJIDIC2 2026-10-24: 625/625 수록, 기존 음독·훈독 불일치 0. 収의 한국음 누락 1건은 별도 사전으로 연결했습니다.
+- 한국 한자음 625자, 한국식 훈 출처 대조 625자, 대표 단어 2~3개 625자. 사전 대조는 전문가 인증이나 원어민 전체 감수 완료를 뜻하지 않습니다.
+- 음독 수록 624자(込은 없음), 훈독 수록 561자(64자 없음). 사전 미수록 읽기는 추측하지 않고 해당 출제에서 제외합니다.
+- Unicode 일본 구자체 관계 95자와 한국 사전 표기 비교 근거를 별도로 기록합니다. 사전 이체자 전체를 한국 표준자로 단정하지 않습니다.
+- 기존 한자 데이터 6개 파일은 원본 그대로 유지하며, `kanji-enrichment.json`을 ID로 연결합니다. 한국식 훈·음, 음독·훈독, 히라가나, 단어별 일본어 음성을 추가했습니다.
+- 단어 읽기·뜻 + 한국음·음독·훈독·빈칸 한자 연결의 6유형을 기존 10문제 시험에 통합했습니다. 읽기가 같은 대체 표기는 연결 문제 오답에서 제외합니다.
+- 기존 세션/백업 JSON 및 localStorage·IndexedDB 구조를 유지합니다. 새 오답은 유형과 문제 원본을 추가 필드로 저장해 다른 유형의 정답으로 잘못 지워지지 않습니다.
+- 회귀·데이터·퀴즈·백업·음성 자동 검사 35개 통과. Chrome 402px UI/복귀 확인과 실제 iPhone Safari·PWA 검증은 구분해 보고합니다.
+- [전수 대조 보고서](data/kanji/KANJI-ENRICHMENT-AUDIT.md), [예외 목록](data/kanji/KANJI-ENRICHMENT-EXCEPTIONS.json), [추가 번역 검수 목록](data/kanji/STUDY-WORDS-TRANSLATION-REVIEW.json).
+- 재현: `pip install -r scripts/requirements-kanji-audit.txt` → `python scripts/fetch_kanji_sources.py SOURCES` → `python scripts/audit_korean_kanji.py SOURCES/kanjidic2.xml.gz` → `python scripts/build_kanji_enrichment.py SOURCES`.
+- 전체 예문·번역 원어민 정밀 감수, 전체 훈의 공인 사전 추가 교차 감수 및 실제 iPhone Safari/PWA는 미확인입니다.

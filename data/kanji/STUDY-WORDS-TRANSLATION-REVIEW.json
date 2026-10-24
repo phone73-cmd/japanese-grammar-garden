@@ -1,0 +1,2006 @@
+{
+  "note": "Korean translations authored from the attached JMdict English glosses; native expert review pending. Exact Japanese spelling/reading verified including re_restr and sense restrictions.",
+  "words": [
+    {
+      "word": "六日",
+      "reading": "むいか",
+      "meaning_ko": "엿새·6일",
+      "korean_translation_status": "authored-from-JMdict-English; expert-review-pending",
+      "english_source_glosses": [
+        "6th day of the month",
+        "six days"
+      ],
+      "dictionary_entry_sequences": [
+        "1561470"
+      ]
+    },
+    {
+      "word": "八日",
+      "reading": "ようか",
+      "meaning_ko": "여드레·8일",
+      "korean_translation_status": "authored-from-JMdict-English; expert-review-pending",
+      "english_source_glosses": [
+        "8th day of the month",
+        "eight days"
+      ],
+      "dictionary_entry_sequences": [
+        "1476920"
+      ]
+    },
+    {
+      "word": "九日",
+      "reading": "ここのか",
+      "meaning_ko": "아흐레·9일",
+      "korean_translation_status": "authored-from-JMdict-English; expert-review-pending",
+      "english_source_glosses": [
+        "9th day of the month",
+        "nine days"
+      ],
+      "dictionary_entry_sequences": [
+        "1243850"
+      ]
+    },
+    {
+      "word": "木材",
+      "reading": "もくざい",
+      "meaning_ko": "목재",
+      "korean_translation_status": "authored-from-JMdict-English; expert-review-pending",
+      "english_source_glosses": [
+        "lumber",
+        "timber",
+        "wood"
+      ],
+      "dictionary_entry_sequences": [
+        "1534660"
+      ]
+    },
+    {
+      "word": "友情",
+      "reading": "ゆうじょう",
+      "meaning_ko": "우정",
+      "korean_translation_status": "authored-from-JMdict-English; expert-review-pending",
+      "english_source_glosses": [
+        "friendship",
+        "fellowship",
+        "camaraderie"
+      ],
+      "dictionary_entry_sequences": [
+        "1540130"
+      ]
+    },
+    {
+      "word": "読書",
+      "reading": "どくしょ",
+      "meaning_ko": "독서",
+      "korean_translation_status": "authored-from-JMdict-English; expert-review-pending",
+      "english_source_glosses": [
+        "reading (books)"
+      ],
+      "dictionary_entry_sequences": [
+        "1456420"
+      ]
+    },
+    {
+      "word": "回答",
+      "reading": "かいとう",
+      "meaning_ko": "답변",
+      "korean_translation_status": "authored-from-JMdict-English; expert-review-pending",
+      "english_source_glosses": [
+        "reply",
+        "answer"
+      ],
+      "dictionary_entry_sequences": [
+        "1199680"
+      ]
+    },
+    {
+      "word": "誰か",
+      "reading": "だれか",
+      "meaning_ko": "누군가",
+      "korean_translation_status": "authored-from-JMdict-English; expert-review-pending",
+      "english_source_glosses": [
+        "someone",
+        "somebody"
+      ],
+      "dictionary_entry_sequences": [
+        "1416840"
+      ]
+    },
+    {
+      "word": "貼紙",
+      "reading": "はりがみ",
+      "meaning_ko": "붙임 종이·스티커",
+      "korean_translation_status": "authored-from-JMdict-English; expert-review-pending",
+      "english_source_glosses": [
+        "paper patch attached to something",
+        "paper backing",
+        "sticker",
+        "label",
+        "notice",
+        "poster"
+      ],
+      "dictionary_entry_sequences": [
+        "1427820"
+      ]
+    },
+    {
+      "word": "町村",
+      "reading": "ちょうそん",
+      "meaning_ko": "읍과 마을",
+      "korean_translation_status": "authored-from-JMdict-English; expert-review-pending",
+      "english_source_glosses": [
+        "towns and villages"
+      ],
+      "dictionary_entry_sequences": [
+        "1428780"
+      ]
+    },
+    {
+      "word": "民族",
+      "reading": "みんぞく",
+      "meaning_ko": "민족",
+      "korean_translation_status": "authored-from-JMdict-English; expert-review-pending",
+      "english_source_glosses": [
+        "people",
+        "race",
+        "nation",
+        "ethnic group",
+        "ethnos"
+      ],
+      "dictionary_entry_sequences": [
+        "1604740"
+      ]
+    },
+    {
+      "word": "早朝",
+      "reading": "そうちょう",
+      "meaning_ko": "이른 아침",
+      "korean_translation_status": "authored-from-JMdict-English; expert-review-pending",
+      "english_source_glosses": [
+        "early morning"
+      ],
+      "dictionary_entry_sequences": [
+        "1400330"
+      ]
+    },
+    {
+      "word": "走行",
+      "reading": "そうこう",
+      "meaning_ko": "주행",
+      "korean_translation_status": "authored-from-JMdict-English; expert-review-pending",
+      "english_source_glosses": [
+        "running (of a car, bus, etc.)",
+        "traveling",
+        "travelling",
+        "running (of a program)"
+      ],
+      "dictionary_entry_sequences": [
+        "1402550"
+      ]
+    },
+    {
+      "word": "借金",
+      "reading": "しゃっきん",
+      "meaning_ko": "빚",
+      "korean_translation_status": "authored-from-JMdict-English; expert-review-pending",
+      "english_source_glosses": [
+        "debt",
+        "loan",
+        "liabilities",
+        "borrowing money",
+        "number of games under the .500 mark"
+      ],
+      "dictionary_entry_sequences": [
+        "1323940"
+      ]
+    },
+    {
+      "word": "貸出",
+      "reading": "かしだし",
+      "meaning_ko": "빌려줌·대출",
+      "korean_translation_status": "authored-from-JMdict-English; expert-review-pending",
+      "english_source_glosses": [
+        "lending",
+        "loaning"
+      ],
+      "dictionary_entry_sequences": [
+        "1590240"
+      ]
+    },
+    {
+      "word": "勉学",
+      "reading": "べんがく",
+      "meaning_ko": "학업",
+      "korean_translation_status": "authored-from-JMdict-English; expert-review-pending",
+      "english_source_glosses": [
+        "study",
+        "pursuit of knowledge"
+      ],
+      "dictionary_entry_sequences": [
+        "1512660"
+      ]
+    },
+    {
+      "word": "姉妹",
+      "reading": "しまい",
+      "meaning_ko": "자매",
+      "korean_translation_status": "authored-from-JMdict-English; expert-review-pending",
+      "english_source_glosses": [
+        "sisters"
+      ],
+      "dictionary_entry_sequences": [
+        "1579490"
+      ]
+    },
+    {
+      "word": "凄まじい",
+      "reading": "すさまじい",
+      "meaning_ko": "굉장하다·엄청나다",
+      "korean_translation_status": "authored-from-JMdict-English; expert-review-pending",
+      "english_source_glosses": [
+        "terrible",
+        "dreadful",
+        "awful",
+        "horrible",
+        "ghastly",
+        "tremendous",
+        "terrific",
+        "enormous",
+        "prodigious",
+        "stupendous",
+        "amazing",
+        "appalling",
+        "shocking",
+        "staggering",
+        "absurd"
+      ],
+      "dictionary_entry_sequences": [
+        "1595640"
+      ]
+    },
+    {
+      "word": "痩身",
+      "reading": "そうしん",
+      "meaning_ko": "마른 몸",
+      "korean_translation_status": "authored-from-JMdict-English; expert-review-pending",
+      "english_source_glosses": [
+        "slim figure",
+        "slender body",
+        "slimming",
+        "weight reduction"
+      ],
+      "dictionary_entry_sequences": [
+        "1835350"
+      ]
+    },
+    {
+      "word": "回数",
+      "reading": "かいすう",
+      "meaning_ko": "횟수",
+      "korean_translation_status": "authored-from-JMdict-English; expert-review-pending",
+      "english_source_glosses": [
+        "number of times",
+        "frequency",
+        "count"
+      ],
+      "dictionary_entry_sequences": [
+        "1199510"
+      ]
+    },
+    {
+      "word": "米国",
+      "reading": "べいこく",
+      "meaning_ko": "미국",
+      "korean_translation_status": "authored-from-JMdict-English; expert-review-pending",
+      "english_source_glosses": [
+        "(United States of) America",
+        "USA",
+        "US"
+      ],
+      "dictionary_entry_sequences": [
+        "1508900"
+      ]
+    },
+    {
+      "word": "科学的",
+      "reading": "かがくてき",
+      "meaning_ko": "과학적",
+      "korean_translation_status": "authored-from-JMdict-English; expert-review-pending",
+      "english_source_glosses": [
+        "scientific"
+      ],
+      "dictionary_entry_sequences": [
+        "1192760"
+      ]
+    },
+    {
+      "word": "活動",
+      "reading": "かつどう",
+      "meaning_ko": "활동",
+      "korean_translation_status": "authored-from-JMdict-English; expert-review-pending",
+      "english_source_glosses": [
+        "activity (of a person, organization, animal, volcano, etc.)",
+        "action",
+        "operation",
+        "moving picture"
+      ],
+      "dictionary_entry_sequences": [
+        "1208360"
+      ]
+    },
+    {
+      "word": "認定",
+      "reading": "にんてい",
+      "meaning_ko": "인정·인증",
+      "korean_translation_status": "authored-from-JMdict-English; expert-review-pending",
+      "english_source_glosses": [
+        "authorization",
+        "authorisation",
+        "acknowledgment",
+        "acknowledgement",
+        "certification",
+        "recognition"
+      ],
+      "dictionary_entry_sequences": [
+        "1467590"
+      ]
+    },
+    {
+      "word": "次回",
+      "reading": "じかい",
+      "meaning_ko": "다음 회",
+      "korean_translation_status": "authored-from-JMdict-English; expert-review-pending",
+      "english_source_glosses": [
+        "next time (occasion)"
+      ],
+      "dictionary_entry_sequences": [
+        "1316470"
+      ]
+    },
+    {
+      "word": "投票",
+      "reading": "とうひょう",
+      "meaning_ko": "투표",
+      "korean_translation_status": "authored-from-JMdict-English; expert-review-pending",
+      "english_source_glosses": [
+        "voting",
+        "ballot",
+        "poll",
+        "vote"
+      ],
+      "dictionary_entry_sequences": [
+        "1447320"
+      ]
+    },
+    {
+      "word": "容器",
+      "reading": "ようき",
+      "meaning_ko": "용기(그릇)",
+      "korean_translation_status": "authored-from-JMdict-English; expert-review-pending",
+      "english_source_glosses": [
+        "container",
+        "receptacle",
+        "vessel",
+        "packaging"
+      ],
+      "dictionary_entry_sequences": [
+        "1545370"
+      ]
+    },
+    {
+      "word": "歳月",
+      "reading": "さいげつ",
+      "meaning_ko": "세월",
+      "korean_translation_status": "authored-from-JMdict-English; expert-review-pending",
+      "english_source_glosses": [
+        "time",
+        "years"
+      ],
+      "dictionary_entry_sequences": [
+        "1294950"
+      ]
+    },
+    {
+      "word": "談話",
+      "reading": "だんわ",
+      "meaning_ko": "담화",
+      "korean_translation_status": "authored-from-JMdict-English; expert-review-pending",
+      "english_source_glosses": [
+        "talk",
+        "conversation",
+        "dialogue",
+        "informal expression of opinion",
+        "off-the-cuff remarks",
+        "comment",
+        "discourse"
+      ],
+      "dictionary_entry_sequences": [
+        "1420280"
+      ]
+    },
+    {
+      "word": "疑問",
+      "reading": "ぎもん",
+      "meaning_ko": "의문",
+      "korean_translation_status": "authored-from-JMdict-English; expert-review-pending",
+      "english_source_glosses": [
+        "doubt",
+        "question",
+        "suspicion",
+        "dubiousness"
+      ],
+      "dictionary_entry_sequences": [
+        "1225630"
+      ]
+    },
+    {
+      "word": "局長",
+      "reading": "きょくちょう",
+      "meaning_ko": "국장",
+      "korean_translation_status": "authored-from-JMdict-English; expert-review-pending",
+      "english_source_glosses": [
+        "bureau director",
+        "office chief"
+      ],
+      "dictionary_entry_sequences": [
+        "1239650"
+      ]
+    },
+    {
+      "word": "与える",
+      "reading": "あたえる",
+      "meaning_ko": "주다",
+      "korean_translation_status": "authored-from-JMdict-English; expert-review-pending",
+      "english_source_glosses": [
+        "to give (esp. to someone of lower status)",
+        "to bestow",
+        "to grant",
+        "to confer",
+        "to present",
+        "to award",
+        "to provide",
+        "to afford",
+        "to offer",
+        "to supply",
+        "to assign",
+        "to cause",
+        "to pass (a variable to a function)"
+      ],
+      "dictionary_entry_sequences": [
+        "1544730"
+      ]
+    },
+    {
+      "word": "供給",
+      "reading": "きょうきゅう",
+      "meaning_ko": "공급",
+      "korean_translation_status": "authored-from-JMdict-English; expert-review-pending",
+      "english_source_glosses": [
+        "supply",
+        "provision",
+        "service"
+      ],
+      "dictionary_entry_sequences": [
+        "1233630"
+      ]
+    },
+    {
+      "word": "役者",
+      "reading": "やくしゃ",
+      "meaning_ko": "배우",
+      "korean_translation_status": "authored-from-JMdict-English; expert-review-pending",
+      "english_source_glosses": [
+        "actor",
+        "actress",
+        "man of wits",
+        "clever person",
+        "cunning fellow"
+      ],
+      "dictionary_entry_sequences": [
+        "1538010"
+      ]
+    },
+    {
+      "word": "音声",
+      "reading": "おんせい",
+      "meaning_ko": "음성",
+      "korean_translation_status": "authored-from-JMdict-English; expert-review-pending",
+      "english_source_glosses": [
+        "voice",
+        "speech",
+        "phone (as opposed to a phoneme)",
+        "speech sound",
+        "audio",
+        "sound (as opposed to the picture)",
+        "sound recordist",
+        "audio engineer (in film, broadcasting, etc.)"
+      ],
+      "dictionary_entry_sequences": [
+        "1183880"
+      ]
+    },
+    {
+      "word": "労働",
+      "reading": "ろうどう",
+      "meaning_ko": "노동",
+      "korean_translation_status": "authored-from-JMdict-English; expert-review-pending",
+      "english_source_glosses": [
+        "labor",
+        "labour",
+        "work",
+        "Labour Party"
+      ],
+      "dictionary_entry_sequences": [
+        "1606450"
+      ]
+    },
+    {
+      "word": "頭痛",
+      "reading": "ずつう",
+      "meaning_ko": "두통",
+      "korean_translation_status": "authored-from-JMdict-English; expert-review-pending",
+      "english_source_glosses": [
+        "headache"
+      ],
+      "dictionary_entry_sequences": [
+        "1450890"
+      ]
+    },
+    {
+      "word": "負担",
+      "reading": "ふたん",
+      "meaning_ko": "부담",
+      "korean_translation_status": "authored-from-JMdict-English; expert-review-pending",
+      "english_source_glosses": [
+        "burden",
+        "load",
+        "responsibility",
+        "bearing (a cost, responsibility, etc.)",
+        "shouldering"
+      ],
+      "dictionary_entry_sequences": [
+        "1498130"
+      ]
+    },
+    {
+      "word": "守備",
+      "reading": "しゅび",
+      "meaning_ko": "수비",
+      "korean_translation_status": "authored-from-JMdict-English; expert-review-pending",
+      "english_source_glosses": [
+        "defense",
+        "defence",
+        "fielding"
+      ],
+      "dictionary_entry_sequences": [
+        "1327180"
+      ]
+    },
+    {
+      "word": "若者",
+      "reading": "わかもの",
+      "meaning_ko": "젊은이",
+      "korean_translation_status": "authored-from-JMdict-English; expert-review-pending",
+      "english_source_glosses": [
+        "young person",
+        "youngster",
+        "young people",
+        "(the) youth"
+      ],
+      "dictionary_entry_sequences": [
+        "1324350"
+      ]
+    },
+    {
+      "word": "種子",
+      "reading": "しゅし",
+      "meaning_ko": "씨앗",
+      "korean_translation_status": "authored-from-JMdict-English; expert-review-pending",
+      "english_source_glosses": [
+        "seed",
+        "pit"
+      ],
+      "dictionary_entry_sequences": [
+        "1328830"
+      ]
+    },
+    {
+      "word": "深夜",
+      "reading": "しんや",
+      "meaning_ko": "심야",
+      "korean_translation_status": "authored-from-JMdict-English; expert-review-pending",
+      "english_source_glosses": [
+        "late at night"
+      ],
+      "dictionary_entry_sequences": [
+        "1362810"
+      ]
+    },
+    {
+      "word": "財布",
+      "reading": "さいふ",
+      "meaning_ko": "지갑",
+      "korean_translation_status": "authored-from-JMdict-English; expert-review-pending",
+      "english_source_glosses": [
+        "wallet",
+        "purse",
+        "coin purse",
+        "billfold",
+        "pocketbook"
+      ],
+      "dictionary_entry_sequences": [
+        "1296970"
+      ]
+    },
+    {
+      "word": "呼吸",
+      "reading": "こきゅう",
+      "meaning_ko": "호흡",
+      "korean_translation_status": "authored-from-JMdict-English; expert-review-pending",
+      "english_source_glosses": [
+        "breathing",
+        "respiration",
+        "knack",
+        "trick",
+        "secret (of doing something)",
+        "harmony",
+        "balance",
+        "synchronization",
+        "accord",
+        "short interval",
+        "short pause"
+      ],
+      "dictionary_entry_sequences": [
+        "1266470"
+      ]
+    },
+    {
+      "word": "良好",
+      "reading": "りょうこう",
+      "meaning_ko": "양호함",
+      "korean_translation_status": "authored-from-JMdict-English; expert-review-pending",
+      "english_source_glosses": [
+        "good",
+        "fine",
+        "excellent",
+        "favorable",
+        "favourable",
+        "satisfactory"
+      ],
+      "dictionary_entry_sequences": [
+        "1554550"
+      ]
+    },
+    {
+      "word": "候補",
+      "reading": "こうほ",
+      "meaning_ko": "후보",
+      "korean_translation_status": "authored-from-JMdict-English; expert-review-pending",
+      "english_source_glosses": [
+        "candidate",
+        "contender",
+        "prospect",
+        "pick",
+        "choice",
+        "list",
+        "candidacy",
+        "candidature",
+        "nomination"
+      ],
+      "dictionary_entry_sequences": [
+        "1272730"
+      ]
+    },
+    {
+      "word": "程度",
+      "reading": "ていど",
+      "meaning_ko": "정도",
+      "korean_translation_status": "authored-from-JMdict-English; expert-review-pending",
+      "english_source_glosses": [
+        "degree",
+        "amount",
+        "grade",
+        "standard",
+        "of the order of (following a number)",
+        "about",
+        "approximately"
+      ],
+      "dictionary_entry_sequences": [
+        "1436540"
+      ]
+    },
+    {
+      "word": "価値",
+      "reading": "かち",
+      "meaning_ko": "가치",
+      "korean_translation_status": "authored-from-JMdict-English; expert-review-pending",
+      "english_source_glosses": [
+        "value",
+        "worth",
+        "merit"
+      ],
+      "dictionary_entry_sequences": [
+        "1189600"
+      ]
+    },
+    {
+      "word": "突然",
+      "reading": "とつぜん",
+      "meaning_ko": "갑자기",
+      "korean_translation_status": "authored-from-JMdict-English; expert-review-pending",
+      "english_source_glosses": [
+        "abrupt",
+        "sudden",
+        "unexpected"
+      ],
+      "dictionary_entry_sequences": [
+        "1457040"
+      ]
+    },
+    {
+      "word": "蓄積",
+      "reading": "ちくせき",
+      "meaning_ko": "축적",
+      "korean_translation_status": "authored-from-JMdict-English; expert-review-pending",
+      "english_source_glosses": [
+        "accumulation",
+        "accumulate",
+        "store"
+      ],
+      "dictionary_entry_sequences": [
+        "1422440"
+      ]
+    },
+    {
+      "word": "否定",
+      "reading": "ひてい",
+      "meaning_ko": "부정",
+      "korean_translation_status": "authored-from-JMdict-English; expert-review-pending",
+      "english_source_glosses": [
+        "denial",
+        "negation",
+        "repudiation",
+        "disavowal",
+        "NOT operation"
+      ],
+      "dictionary_entry_sequences": [
+        "1482990"
+      ]
+    },
+    {
+      "word": "医師",
+      "reading": "いし",
+      "meaning_ko": "의사",
+      "korean_translation_status": "authored-from-JMdict-English; expert-review-pending",
+      "english_source_glosses": [
+        "doctor",
+        "physician"
+      ],
+      "dictionary_entry_sequences": [
+        "1159930"
+      ]
+    },
+    {
+      "word": "殺人",
+      "reading": "さつじん",
+      "meaning_ko": "살인",
+      "korean_translation_status": "authored-from-JMdict-English; expert-review-pending",
+      "english_source_glosses": [
+        "murder",
+        "homicide",
+        "manslaughter"
+      ],
+      "dictionary_entry_sequences": [
+        "1299100"
+      ]
+    },
+    {
+      "word": "簡単",
+      "reading": "かんたん",
+      "meaning_ko": "간단함",
+      "korean_translation_status": "authored-from-JMdict-English; expert-review-pending",
+      "english_source_glosses": [
+        "simple",
+        "easy",
+        "uncomplicated",
+        "brief",
+        "quick",
+        "light"
+      ],
+      "dictionary_entry_sequences": [
+        "1214330"
+      ]
+    },
+    {
+      "word": "座席",
+      "reading": "ざせき",
+      "meaning_ko": "좌석",
+      "korean_translation_status": "authored-from-JMdict-English; expert-review-pending",
+      "english_source_glosses": [
+        "seat (esp. in public places or places with assigned seating)",
+        "seating"
+      ],
+      "dictionary_entry_sequences": [
+        "1291880"
+      ]
+    },
+    {
+      "word": "責務",
+      "reading": "せきむ",
+      "meaning_ko": "책무",
+      "korean_translation_status": "authored-from-JMdict-English; expert-review-pending",
+      "english_source_glosses": [
+        "duty",
+        "obligation"
+      ],
+      "dictionary_entry_sequences": [
+        "1383230"
+      ]
+    },
+    {
+      "word": "捕獲",
+      "reading": "ほかく",
+      "meaning_ko": "포획",
+      "korean_translation_status": "authored-from-JMdict-English; expert-review-pending",
+      "english_source_glosses": [
+        "capture",
+        "seizure"
+      ],
+      "dictionary_entry_sequences": [
+        "1514160"
+      ]
+    },
+    {
+      "word": "馬車",
+      "reading": "ばしゃ",
+      "meaning_ko": "마차",
+      "korean_translation_status": "authored-from-JMdict-English; expert-review-pending",
+      "english_source_glosses": [
+        "coach (horse-drawn)",
+        "carriage",
+        "wagon",
+        "cart"
+      ],
+      "dictionary_entry_sequences": [
+        "1471780"
+      ]
+    },
+    {
+      "word": "死亡",
+      "reading": "しぼう",
+      "meaning_ko": "사망",
+      "korean_translation_status": "authored-from-JMdict-English; expert-review-pending",
+      "english_source_glosses": [
+        "death",
+        "dying",
+        "mortality"
+      ],
+      "dictionary_entry_sequences": [
+        "1310950"
+      ]
+    },
+    {
+      "word": "連泊",
+      "reading": "れんぱく",
+      "meaning_ko": "연박",
+      "korean_translation_status": "authored-from-JMdict-English; expert-review-pending",
+      "english_source_glosses": [
+        "staying for two or more nights in a row (e.g. at a hotel)"
+      ],
+      "dictionary_entry_sequences": [
+        "2827506"
+      ]
+    },
+    {
+      "word": "預金",
+      "reading": "よきん",
+      "meaning_ko": "예금",
+      "korean_translation_status": "authored-from-JMdict-English; expert-review-pending",
+      "english_source_glosses": [
+        "deposit",
+        "bank account"
+      ],
+      "dictionary_entry_sequences": [
+        "1545020"
+      ]
+    },
+    {
+      "word": "支払",
+      "reading": "しはらい",
+      "meaning_ko": "지불",
+      "korean_translation_status": "authored-from-JMdict-English; expert-review-pending",
+      "english_source_glosses": [
+        "payment"
+      ],
+      "dictionary_entry_sequences": [
+        "1594480"
+      ]
+    },
+    {
+      "word": "交換",
+      "reading": "こうかん",
+      "meaning_ko": "교환",
+      "korean_translation_status": "authored-from-JMdict-English; expert-review-pending",
+      "english_source_glosses": [
+        "exchange",
+        "interchange",
+        "switching",
+        "reciprocity",
+        "barter",
+        "substitution",
+        "replacement",
+        "clearing (of checks, cheques)"
+      ],
+      "dictionary_entry_sequences": [
+        "1271750"
+      ]
+    },
+    {
+      "word": "撮影",
+      "reading": "さつえい",
+      "meaning_ko": "촬영",
+      "korean_translation_status": "authored-from-JMdict-English; expert-review-pending",
+      "english_source_glosses": [
+        "photography (still or motion)",
+        "photographing",
+        "filming",
+        "shooting",
+        "(video) recording"
+      ],
+      "dictionary_entry_sequences": [
+        "1298800"
+      ]
+    },
+    {
+      "word": "阪神",
+      "reading": "はんしん",
+      "meaning_ko": "오사카와 고베 지역",
+      "korean_translation_status": "authored-from-JMdict-English; expert-review-pending",
+      "english_source_glosses": [
+        "Osaka-Kobe",
+        "Hanshin (company name: railway, dept. store, baseball team, etc.)"
+      ],
+      "dictionary_entry_sequences": [
+        "1297130"
+      ]
+    },
+    {
+      "word": "波浪",
+      "reading": "はろう",
+      "meaning_ko": "파도",
+      "korean_translation_status": "authored-from-JMdict-English; expert-review-pending",
+      "english_source_glosses": [
+        "waves",
+        "billows",
+        "surge"
+      ],
+      "dictionary_entry_sequences": [
+        "1471100"
+      ]
+    },
+    {
+      "word": "音符",
+      "reading": "おんぷ",
+      "meaning_ko": "음표",
+      "korean_translation_status": "authored-from-JMdict-English; expert-review-pending",
+      "english_source_glosses": [
+        "musical note",
+        "note symbol",
+        "phonetic symbol (incl. the kanji and kana-doubling symbols, vowel-lengthening symbol, etc.)",
+        "part of a kanji for which the role is primarily to represent the pronunciation (as opposed to the meaning)"
+      ],
+      "dictionary_entry_sequences": [
+        "1184040"
+      ]
+    },
+    {
+      "word": "願望",
+      "reading": "がんぼう",
+      "meaning_ko": "소망",
+      "korean_translation_status": "authored-from-JMdict-English; expert-review-pending",
+      "english_source_glosses": [
+        "desire",
+        "wish",
+        "aspiration"
+      ],
+      "dictionary_entry_sequences": [
+        "1577710"
+      ]
+    },
+    {
+      "word": "車窓",
+      "reading": "しゃそう",
+      "meaning_ko": "차창",
+      "korean_translation_status": "authored-from-JMdict-English; expert-review-pending",
+      "english_source_glosses": [
+        "train window",
+        "car window"
+      ],
+      "dictionary_entry_sequences": [
+        "1323190"
+      ]
+    },
+    {
+      "word": "合鍵",
+      "reading": "あいかぎ",
+      "meaning_ko": "복제 열쇠",
+      "korean_translation_status": "authored-from-JMdict-English; expert-review-pending",
+      "english_source_glosses": [
+        "duplicate key",
+        "master key",
+        "passkey",
+        "skeleton key"
+      ],
+      "dictionary_entry_sequences": [
+        "1586030"
+      ]
+    },
+    {
+      "word": "隣人",
+      "reading": "りんじん",
+      "meaning_ko": "이웃 사람",
+      "korean_translation_status": "authored-from-JMdict-English; expert-review-pending",
+      "english_source_glosses": [
+        "neighbour",
+        "neighbor",
+        "(people in the) neighbourhood",
+        "neighborhood"
+      ],
+      "dictionary_entry_sequences": [
+        "1555850"
+      ]
+    },
+    {
+      "word": "診断",
+      "reading": "しんだん",
+      "meaning_ko": "진단",
+      "korean_translation_status": "authored-from-JMdict-English; expert-review-pending",
+      "english_source_glosses": [
+        "diagnosis",
+        "medical examination"
+      ],
+      "dictionary_entry_sequences": [
+        "1365480"
+      ]
+    },
+    {
+      "word": "薬局",
+      "reading": "やっきょく",
+      "meaning_ko": "약국",
+      "korean_translation_status": "authored-from-JMdict-English; expert-review-pending",
+      "english_source_glosses": [
+        "pharmacy",
+        "drugstore",
+        "chemist's (shop)",
+        "hospital pharmacy",
+        "dispensary"
+      ],
+      "dictionary_entry_sequences": [
+        "1538200"
+      ]
+    },
+    {
+      "word": "酷暑",
+      "reading": "こくしょ",
+      "meaning_ko": "혹서",
+      "korean_translation_status": "authored-from-JMdict-English; expert-review-pending",
+      "english_source_glosses": [
+        "intense heat",
+        "severe heat"
+      ],
+      "dictionary_entry_sequences": [
+        "1287370"
+      ]
+    },
+    {
+      "word": "晴天",
+      "reading": "せいてん",
+      "meaning_ko": "맑은 날씨",
+      "korean_translation_status": "authored-from-JMdict-English; expert-review-pending",
+      "english_source_glosses": [
+        "fine weather (i.e. little or no clouds)",
+        "fair weather",
+        "clear weather",
+        "clear sky",
+        "fair skies"
+      ],
+      "dictionary_entry_sequences": [
+        "1376550"
+      ]
+    },
+    {
+      "word": "雪国",
+      "reading": "ゆきぐに",
+      "meaning_ko": "눈이 많은 지역",
+      "korean_translation_status": "authored-from-JMdict-English; expert-review-pending",
+      "english_source_glosses": [
+        "snow country",
+        "snowy region",
+        "Snow Country (1937 novel by Yasunari Kawabata)",
+        "Yukiguni"
+      ],
+      "dictionary_entry_sequences": [
+        "1386590",
+        "5458517"
+      ]
+    },
+    {
+      "word": "机上",
+      "reading": "きじょう",
+      "meaning_ko": "책상 위",
+      "korean_translation_status": "authored-from-JMdict-English; expert-review-pending",
+      "english_source_glosses": [
+        "on the desk",
+        "theoretical",
+        "academic",
+        "armchair (e.g. plan)",
+        "desktop",
+        "paper",
+        "not yet implemented"
+      ],
+      "dictionary_entry_sequences": [
+        "1220220"
+      ]
+    },
+    {
+      "word": "角度",
+      "reading": "かくど",
+      "meaning_ko": "각도",
+      "korean_translation_status": "authored-from-JMdict-English; expert-review-pending",
+      "english_source_glosses": [
+        "angle"
+      ],
+      "dictionary_entry_sequences": [
+        "1206190"
+      ]
+    },
+    {
+      "word": "遠足",
+      "reading": "えんそく",
+      "meaning_ko": "소풍",
+      "korean_translation_status": "authored-from-JMdict-English; expert-review-pending",
+      "english_source_glosses": [
+        "school trip",
+        "field trip",
+        "excursion",
+        "outing",
+        "long walk",
+        "excursion (on foot)"
+      ],
+      "dictionary_entry_sequences": [
+        "1178260"
+      ]
+    },
+    {
+      "word": "遊園地",
+      "reading": "ゆうえんち",
+      "meaning_ko": "유원지",
+      "korean_translation_status": "authored-from-JMdict-English; expert-review-pending",
+      "english_source_glosses": [
+        "amusement park"
+      ],
+      "dictionary_entry_sequences": [
+        "1542170"
+      ]
+    },
+    {
+      "word": "水泳",
+      "reading": "すいえい",
+      "meaning_ko": "수영",
+      "korean_translation_status": "authored-from-JMdict-English; expert-review-pending",
+      "english_source_glosses": [
+        "swimming"
+      ],
+      "dictionary_entry_sequences": [
+        "1371320"
+      ]
+    },
+    {
+      "word": "長寿",
+      "reading": "ちょうじゅ",
+      "meaning_ko": "장수",
+      "korean_translation_status": "authored-from-JMdict-English; expert-review-pending",
+      "english_source_glosses": [
+        "long life",
+        "longevity",
+        "long-lived",
+        "long-running (e.g. TV program)"
+      ],
+      "dictionary_entry_sequences": [
+        "1430020"
+      ]
+    },
+    {
+      "word": "幹部",
+      "reading": "かんぶ",
+      "meaning_ko": "간부",
+      "korean_translation_status": "authored-from-JMdict-English; expert-review-pending",
+      "english_source_glosses": [
+        "management",
+        "(executive) staff",
+        "leaders",
+        "leadership",
+        "top brass",
+        "upper echelons"
+      ],
+      "dictionary_entry_sequences": [
+        "1212170"
+      ]
+    },
+    {
+      "word": "伺い",
+      "reading": "うかがい",
+      "meaning_ko": "여쭘·문의",
+      "korean_translation_status": "authored-from-JMdict-English; expert-review-pending",
+      "english_source_glosses": [
+        "call",
+        "visit",
+        "inquiry",
+        "enquiry",
+        "question"
+      ],
+      "dictionary_entry_sequences": [
+        "1859890"
+      ]
+    },
+    {
+      "word": "余暇",
+      "reading": "よか",
+      "meaning_ko": "여가",
+      "korean_translation_status": "authored-from-JMdict-English; expert-review-pending",
+      "english_source_glosses": [
+        "leisure",
+        "leisure time",
+        "spare time"
+      ],
+      "dictionary_entry_sequences": [
+        "1543980"
+      ]
+    },
+    {
+      "word": "丸太",
+      "reading": "まるた",
+      "meaning_ko": "통나무",
+      "korean_translation_status": "authored-from-JMdict-English; expert-review-pending",
+      "english_source_glosses": [
+        "log",
+        "dace (Tribolodon hakonensis)",
+        "test subject (of human experiments performed by Unit 731 during WWII)",
+        "prostitute dressed as a Buddhist nun"
+      ],
+      "dictionary_entry_sequences": [
+        "1216560"
+      ]
+    },
+    {
+      "word": "画像",
+      "reading": "がぞう",
+      "meaning_ko": "이미지",
+      "korean_translation_status": "authored-from-JMdict-English; expert-review-pending",
+      "english_source_glosses": [
+        "image",
+        "picture",
+        "portrait"
+      ],
+      "dictionary_entry_sequences": [
+        "1197390"
+      ]
+    },
+    {
+      "word": "史上",
+      "reading": "しじょう",
+      "meaning_ko": "역사상",
+      "korean_translation_status": "authored-from-JMdict-English; expert-review-pending",
+      "english_source_glosses": [
+        "in history",
+        "ever",
+        "historical"
+      ],
+      "dictionary_entry_sequences": [
+        "1306860"
+      ]
+    },
+    {
+      "word": "返り咲く",
+      "reading": "かえりざく",
+      "meaning_ko": "다시 꽃피다·재기하다",
+      "korean_translation_status": "authored-from-JMdict-English; expert-review-pending",
+      "english_source_glosses": [
+        "to come back",
+        "to bloom a second time"
+      ],
+      "dictionary_entry_sequences": [
+        "1512140"
+      ]
+    },
+    {
+      "word": "将軍",
+      "reading": "しょうぐん",
+      "meaning_ko": "장군",
+      "korean_translation_status": "authored-from-JMdict-English; expert-review-pending",
+      "english_source_glosses": [
+        "general",
+        "shogun"
+      ],
+      "dictionary_entry_sequences": [
+        "1347680"
+      ]
+    },
+    {
+      "word": "希少",
+      "reading": "きしょう",
+      "meaning_ko": "희소함",
+      "korean_translation_status": "authored-from-JMdict-English; expert-review-pending",
+      "english_source_glosses": [
+        "scarce",
+        "rare"
+      ],
+      "dictionary_entry_sequences": [
+        "1222880"
+      ]
+    },
+    {
+      "word": "幸福",
+      "reading": "こうふく",
+      "meaning_ko": "행복",
+      "korean_translation_status": "authored-from-JMdict-English; expert-review-pending",
+      "english_source_glosses": [
+        "happiness",
+        "well-being",
+        "joy",
+        "welfare",
+        "blessedness"
+      ],
+      "dictionary_entry_sequences": [
+        "1278400"
+      ]
+    },
+    {
+      "word": "多忙",
+      "reading": "たぼう",
+      "meaning_ko": "매우 바쁨",
+      "korean_translation_status": "authored-from-JMdict-English; expert-review-pending",
+      "english_source_glosses": [
+        "being very busy",
+        "busyness"
+      ],
+      "dictionary_entry_sequences": [
+        "1408040"
+      ]
+    },
+    {
+      "word": "習慣",
+      "reading": "しゅうかん",
+      "meaning_ko": "습관",
+      "korean_translation_status": "authored-from-JMdict-English; expert-review-pending",
+      "english_source_glosses": [
+        "habit",
+        "(social) custom",
+        "practice",
+        "convention",
+        "tradition"
+      ],
+      "dictionary_entry_sequences": [
+        "1333090"
+      ]
+    },
+    {
+      "word": "懸命",
+      "reading": "けんめい",
+      "meaning_ko": "열심임",
+      "korean_translation_status": "authored-from-JMdict-English; expert-review-pending",
+      "english_source_glosses": [
+        "eager",
+        "earnest",
+        "strenuous",
+        "fervent",
+        "assiduous",
+        "with utmost effort"
+      ],
+      "dictionary_entry_sequences": [
+        "1257730"
+      ]
+    },
+    {
+      "word": "戻す",
+      "reading": "もどす",
+      "meaning_ko": "되돌리다",
+      "korean_translation_status": "authored-from-JMdict-English; expert-review-pending",
+      "english_source_glosses": [
+        "to put back",
+        "to return",
+        "to give back",
+        "to restore (to a previous state, e.g. defrosting, reconstituting, reconciling)",
+        "to turn back (e.g. clock hand)",
+        "to vomit",
+        "to throw up",
+        "to recover (of a market price)"
+      ],
+      "dictionary_entry_sequences": [
+        "1535850"
+      ]
+    },
+    {
+      "word": "暖房",
+      "reading": "だんぼう",
+      "meaning_ko": "난방",
+      "korean_translation_status": "authored-from-JMdict-English; expert-review-pending",
+      "english_source_glosses": [
+        "(indoor) heating"
+      ],
+      "dictionary_entry_sequences": [
+        "1419860"
+      ]
+    },
+    {
+      "word": "押入れ",
+      "reading": "おしいれ",
+      "meaning_ko": "벽장",
+      "korean_translation_status": "authored-from-JMdict-English; expert-review-pending",
+      "english_source_glosses": [
+        "closet (built into the wall, usu. with sliding doors)",
+        "(built-in) wardrobe"
+      ],
+      "dictionary_entry_sequences": [
+        "1589110"
+      ]
+    },
+    {
+      "word": "乾拭き",
+      "reading": "からぶき",
+      "meaning_ko": "마른걸레질",
+      "korean_translation_status": "authored-from-JMdict-English; expert-review-pending",
+      "english_source_glosses": [
+        "polishing with a dry cloth",
+        "wiping with a dry cloth"
+      ],
+      "dictionary_entry_sequences": [
+        "1209860"
+      ]
+    },
+    {
+      "word": "拾得",
+      "reading": "しゅうとく",
+      "meaning_ko": "습득(주움)",
+      "korean_translation_status": "authored-from-JMdict-English; expert-review-pending",
+      "english_source_glosses": [
+        "finding (lost property)",
+        "picking up"
+      ],
+      "dictionary_entry_sequences": [
+        "1332580"
+      ]
+    },
+    {
+      "word": "挑む",
+      "reading": "いどむ",
+      "meaning_ko": "도전하다",
+      "korean_translation_status": "authored-from-JMdict-English; expert-review-pending",
+      "english_source_glosses": [
+        "to challenge to (a fight, game, etc.)",
+        "to throw down the gauntlet",
+        "to contend for",
+        "to tackle (e.g. a problem)",
+        "to attempt",
+        "to go after (a prize, record, etc.)",
+        "to pressure (someone) for sex",
+        "to make advances to"
+      ],
+      "dictionary_entry_sequences": [
+        "1428230"
+      ]
+    },
+    {
+      "word": "振動",
+      "reading": "しんどう",
+      "meaning_ko": "진동",
+      "korean_translation_status": "authored-from-JMdict-English; expert-review-pending",
+      "english_source_glosses": [
+        "oscillation",
+        "vibration",
+        "swing (e.g. of a pendulum)"
+      ],
+      "dictionary_entry_sequences": [
+        "1361420"
+      ]
+    },
+    {
+      "word": "清掃",
+      "reading": "せいそう",
+      "meaning_ko": "청소",
+      "korean_translation_status": "authored-from-JMdict-English; expert-review-pending",
+      "english_source_glosses": [
+        "cleaning",
+        "clean-up",
+        "garbage collection",
+        "scavenging"
+      ],
+      "dictionary_entry_sequences": [
+        "1378320"
+      ]
+    },
+    {
+      "word": "散る",
+      "reading": "ちる",
+      "meaning_ko": "흩어지다·지다",
+      "korean_translation_status": "authored-from-JMdict-English; expert-review-pending",
+      "english_source_glosses": [
+        "to fall (e.g. blossoms, leaves)",
+        "to scatter",
+        "to be dispersed",
+        "to disappear",
+        "to dissolve",
+        "to break up",
+        "to spread",
+        "to run",
+        "to blur",
+        "to die a noble death"
+      ],
+      "dictionary_entry_sequences": [
+        "1303490"
+      ]
+    },
+    {
+      "word": "枚数",
+      "reading": "まいすう",
+      "meaning_ko": "장수(개수)",
+      "korean_translation_status": "authored-from-JMdict-English; expert-review-pending",
+      "english_source_glosses": [
+        "the number of flat things",
+        "win-loss difference which influences the ranking of wrestlers"
+      ],
+      "dictionary_entry_sequences": [
+        "1524630"
+      ]
+    },
+    {
+      "word": "桜花",
+      "reading": "おうか",
+      "meaning_ko": "벚꽃",
+      "korean_translation_status": "authored-from-JMdict-English; expert-review-pending",
+      "english_source_glosses": [
+        "cherry blossom"
+      ],
+      "dictionary_entry_sequences": [
+        "1579290"
+      ]
+    },
+    {
+      "word": "本棚",
+      "reading": "ほんだな",
+      "meaning_ko": "책장",
+      "korean_translation_status": "authored-from-JMdict-English; expert-review-pending",
+      "english_source_glosses": [
+        "bookshelves",
+        "bookshelf",
+        "bookcase"
+      ],
+      "dictionary_entry_sequences": [
+        "1522980"
+      ]
+    },
+    {
+      "word": "長椅子",
+      "reading": "ながいす",
+      "meaning_ko": "긴 의자",
+      "korean_translation_status": "authored-from-JMdict-English; expert-review-pending",
+      "english_source_glosses": [
+        "couch",
+        "bench",
+        "ottoman",
+        "settee"
+      ],
+      "dictionary_entry_sequences": [
+        "1429780"
+      ]
+    },
+    {
+      "word": "履歴",
+      "reading": "りれき",
+      "meaning_ko": "이력",
+      "korean_translation_status": "authored-from-JMdict-English; expert-review-pending",
+      "english_source_glosses": [
+        "personal history",
+        "background",
+        "career",
+        "log",
+        "record",
+        "history",
+        "hysteresis"
+      ],
+      "dictionary_entry_sequences": [
+        "1549810"
+      ]
+    },
+    {
+      "word": "比例",
+      "reading": "ひれい",
+      "meaning_ko": "비례",
+      "korean_translation_status": "authored-from-JMdict-English; expert-review-pending",
+      "english_source_glosses": [
+        "proportion",
+        "proportional representation section (of an election)"
+      ],
+      "dictionary_entry_sequences": [
+        "1483700"
+      ]
+    },
+    {
+      "word": "状況",
+      "reading": "じょうきょう",
+      "meaning_ko": "상황",
+      "korean_translation_status": "authored-from-JMdict-English; expert-review-pending",
+      "english_source_glosses": [
+        "state of affairs",
+        "situation",
+        "conditions",
+        "circumstances"
+      ],
+      "dictionary_entry_sequences": [
+        "1356700"
+      ]
+    },
+    {
+      "word": "牧草",
+      "reading": "ぼくそう",
+      "meaning_ko": "목초",
+      "korean_translation_status": "authored-from-JMdict-English; expert-review-pending",
+      "english_source_glosses": [
+        "pasture",
+        "grass"
+      ],
+      "dictionary_entry_sequences": [
+        "1521800"
+      ]
+    },
+    {
+      "word": "玄米",
+      "reading": "げんまい",
+      "meaning_ko": "현미",
+      "korean_translation_status": "authored-from-JMdict-English; expert-review-pending",
+      "english_source_glosses": [
+        "unpolished rice",
+        "unmilled rice",
+        "brown rice"
+      ],
+      "dictionary_entry_sequences": [
+        "1263470"
+      ]
+    },
+    {
+      "word": "文章",
+      "reading": "ぶんしょう",
+      "meaning_ko": "글·문장",
+      "korean_translation_status": "authored-from-JMdict-English; expert-review-pending",
+      "english_source_glosses": [
+        "writing",
+        "composition",
+        "essay",
+        "article",
+        "passage",
+        "prose",
+        "(writing) style",
+        "sentence"
+      ],
+      "dictionary_entry_sequences": [
+        "1505470"
+      ]
+    },
+    {
+      "word": "競技",
+      "reading": "きょうぎ",
+      "meaning_ko": "경기",
+      "korean_translation_status": "authored-from-JMdict-English; expert-review-pending",
+      "english_source_glosses": [
+        "game",
+        "match",
+        "contest",
+        "competition",
+        "sport",
+        "(sporting) event"
+      ],
+      "dictionary_entry_sequences": [
+        "1234080"
+      ]
+    },
+    {
+      "word": "簡潔",
+      "reading": "かんけつ",
+      "meaning_ko": "간결함",
+      "korean_translation_status": "authored-from-JMdict-English; expert-review-pending",
+      "english_source_glosses": [
+        "concise",
+        "brief",
+        "succinct",
+        "compact (style)"
+      ],
+      "dictionary_entry_sequences": [
+        "1214290"
+      ]
+    },
+    {
+      "word": "紹興酒",
+      "reading": "しょうこうしゅ",
+      "meaning_ko": "사오싱주",
+      "korean_translation_status": "authored-from-JMdict-English; expert-review-pending",
+      "english_source_glosses": [
+        "Shaoxing wine"
+      ],
+      "dictionary_entry_sequences": [
+        "2142880"
+      ]
+    },
+    {
+      "word": "脱出",
+      "reading": "だっしゅつ",
+      "meaning_ko": "탈출",
+      "korean_translation_status": "authored-from-JMdict-English; expert-review-pending",
+      "english_source_glosses": [
+        "escape",
+        "getting away (from)",
+        "getting out (of)",
+        "prolapse",
+        "proptosis"
+      ],
+      "dictionary_entry_sequences": [
+        "1416520"
+      ]
+    },
+    {
+      "word": "白菜",
+      "reading": "はくさい",
+      "meaning_ko": "배추",
+      "korean_translation_status": "authored-from-JMdict-English; expert-review-pending",
+      "english_source_glosses": [
+        "napa cabbage (Brassica rapa subsp. pekinensis)",
+        "nappa cabbage",
+        "Chinese cabbage"
+      ],
+      "dictionary_entry_sequences": [
+        "1475170"
+      ]
+    },
+    {
+      "word": "豊富",
+      "reading": "ほうふ",
+      "meaning_ko": "풍부함",
+      "korean_translation_status": "authored-from-JMdict-English; expert-review-pending",
+      "english_source_glosses": [
+        "abundant",
+        "plentiful",
+        "rich",
+        "ample"
+      ],
+      "dictionary_entry_sequences": [
+        "1518180"
+      ]
+    },
+    {
+      "word": "趣旨",
+      "reading": "しゅし",
+      "meaning_ko": "취지",
+      "korean_translation_status": "authored-from-JMdict-English; expert-review-pending",
+      "english_source_glosses": [
+        "meaning",
+        "point (e.g. of a statement)",
+        "gist",
+        "effect",
+        "goal",
+        "intent",
+        "object",
+        "aim",
+        "point"
+      ],
+      "dictionary_entry_sequences": [
+        "1328990"
+      ]
+    },
+    {
+      "word": "逃亡",
+      "reading": "とうぼう",
+      "meaning_ko": "도망",
+      "korean_translation_status": "authored-from-JMdict-English; expert-review-pending",
+      "english_source_glosses": [
+        "escape",
+        "flight",
+        "running away",
+        "elopement",
+        "fleeing"
+      ],
+      "dictionary_entry_sequences": [
+        "1450470"
+      ]
+    },
+    {
+      "word": "釜飯",
+      "reading": "かまめし",
+      "meaning_ko": "가마솥밥",
+      "korean_translation_status": "authored-from-JMdict-English; expert-review-pending",
+      "english_source_glosses": [
+        "rice, meat and vegetable dish served in a small pot"
+      ],
+      "dictionary_entry_sequences": [
+        "1690800"
+      ]
+    },
+    {
+      "word": "疑惑",
+      "reading": "ぎわく",
+      "meaning_ko": "의혹",
+      "korean_translation_status": "authored-from-JMdict-English; expert-review-pending",
+      "english_source_glosses": [
+        "doubt",
+        "misgivings",
+        "distrust",
+        "suspicion"
+      ],
+      "dictionary_entry_sequences": [
+        "1225680"
+      ]
+    },
+    {
+      "word": "与党",
+      "reading": "よとう",
+      "meaning_ko": "여당",
+      "korean_translation_status": "authored-from-JMdict-English; expert-review-pending",
+      "english_source_glosses": [
+        "ruling party",
+        "government party",
+        "party in power",
+        "government"
+      ],
+      "dictionary_entry_sequences": [
+        "1544870"
+      ]
+    },
+    {
+      "word": "財政",
+      "reading": "ざいせい",
+      "meaning_ko": "재정",
+      "korean_translation_status": "authored-from-JMdict-English; expert-review-pending",
+      "english_source_glosses": [
+        "public finance",
+        "financial affairs",
+        "financial situation"
+      ],
+      "dictionary_entry_sequences": [
+        "1296830"
+      ]
+    },
+    {
+      "word": "工程",
+      "reading": "こうてい",
+      "meaning_ko": "작업 공정",
+      "korean_translation_status": "authored-from-JMdict-English; expert-review-pending",
+      "english_source_glosses": [
+        "process",
+        "operation",
+        "stage of a process",
+        "progress of work"
+      ],
+      "dictionary_entry_sequences": [
+        "1278200"
+      ]
+    },
+    {
+      "word": "突破",
+      "reading": "とっぱ",
+      "meaning_ko": "돌파",
+      "korean_translation_status": "authored-from-JMdict-English; expert-review-pending",
+      "english_source_glosses": [
+        "breaking through",
+        "breakthrough",
+        "penetration",
+        "surmounting (a difficulty)",
+        "overcoming",
+        "getting over",
+        "accomplishing (an aim)",
+        "reaching (a goal)",
+        "exceeding",
+        "passing",
+        "rising above"
+      ],
+      "dictionary_entry_sequences": [
+        "1457100"
+      ]
+    },
+    {
+      "word": "拒否",
+      "reading": "きょひ",
+      "meaning_ko": "거부",
+      "korean_translation_status": "authored-from-JMdict-English; expert-review-pending",
+      "english_source_glosses": [
+        "refusal",
+        "rejection",
+        "denial",
+        "veto"
+      ],
+      "dictionary_entry_sequences": [
+        "1232410"
+      ]
+    },
+    {
+      "word": "単語",
+      "reading": "たんご",
+      "meaning_ko": "단어",
+      "korean_translation_status": "authored-from-JMdict-English; expert-review-pending",
+      "english_source_glosses": [
+        "word",
+        "vocabulary"
+      ],
+      "dictionary_entry_sequences": [
+        "1417330"
+      ]
+    },
+    {
+      "word": "迷子",
+      "reading": "まいご",
+      "meaning_ko": "미아",
+      "korean_translation_status": "authored-from-JMdict-English; expert-review-pending",
+      "english_source_glosses": [
+        "lost child",
+        "lost person",
+        "stray child",
+        "missing child"
+      ],
+      "dictionary_entry_sequences": [
+        "1532750"
+      ]
+    },
+    {
+      "word": "幸運",
+      "reading": "こううん",
+      "meaning_ko": "행운",
+      "korean_translation_status": "authored-from-JMdict-English; expert-review-pending",
+      "english_source_glosses": [
+        "good luck",
+        "fortune"
+      ],
+      "dictionary_entry_sequences": [
+        "1592930"
+      ]
+    },
+    {
+      "word": "近況",
+      "reading": "きんきょう",
+      "meaning_ko": "근황",
+      "korean_translation_status": "authored-from-JMdict-English; expert-review-pending",
+      "english_source_glosses": [
+        "recent state",
+        "present state",
+        "present condition",
+        "current status",
+        "current circumstances"
+      ],
+      "dictionary_entry_sequences": [
+        "1242260"
+      ]
+    },
+    {
+      "word": "章節",
+      "reading": "しょうせつ",
+      "meaning_ko": "장과 절",
+      "korean_translation_status": "authored-from-JMdict-English; expert-review-pending",
+      "english_source_glosses": [
+        "chapters and sections",
+        "chapter and verse"
+      ],
+      "dictionary_entry_sequences": [
+        "1660450"
+      ]
+    },
+    {
+      "word": "豊作",
+      "reading": "ほうさく",
+      "meaning_ko": "풍작",
+      "korean_translation_status": "authored-from-JMdict-English; expert-review-pending",
+      "english_source_glosses": [
+        "abundant harvest",
+        "bumper crop"
+      ],
+      "dictionary_entry_sequences": [
+        "1518150"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3932 @@
+{
+  "stats": {
+    "dictionary_found": 625,
+    "korean_readings": 625,
+    "korean_gloss_source_matched": 625,
+    "two_or_more_words": 625,
+    "on_available": 624,
+    "kun_available": 561,
+    "kokuji": 2
+  },
+  "items": [
+    {
+      "id": "kanji-001",
+      "character": "一",
+      "flags": [
+        "불일치 한국 훈·음 원문 후보 제외"
+      ],
+      "dictionary_korean": [
+        "일"
+      ],
+      "gloss_candidates": [
+        {
+          "gloss": "한",
+          "reading": "일",
+          "source": {
+            "title": "一",
+            "url": "https://hanja.wordrow.kr/한자/一/",
+            "accessed": "2026-10-24",
+            "note": "Short factual hun/eum lookup only; extended definitions and media not reproduced."
+          }
+        },
+        {
+          "gloss": "하나",
+          "reading": "한",
+          "source": {
+            "title": "一",
+            "revision": 4480163,
+            "timestamp": "2025-10-18T12:52:05Z",
+            "url": "https://ko.wiktionary.org/w/index.php?title=一&oldid=4480163"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kanji-002",
+      "character": "二",
+      "flags": [
+        "불일치 한국 훈·음 원문 후보 제외"
+      ],
+      "dictionary_korean": [
+        "이"
+      ],
+      "gloss_candidates": [
+        {
+          "gloss": "두",
+          "reading": "이",
+          "source": {
+            "title": "二",
+            "url": "https://hanja.wordrow.kr/한자/二/",
+            "accessed": "2026-10-24",
+            "note": "Short factual hun/eum lookup only; extended definitions and media not reproduced."
+          }
+        },
+        {
+          "gloss": "둘",
+          "reading": "두",
+          "source": {
+            "title": "二",
+            "revision": 4426296,
+            "timestamp": "2025-08-05T13:38:29Z",
+            "url": "https://ko.wiktionary.org/w/index.php?title=二&oldid=4426296"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kanji-009",
+      "character": "九",
+      "flags": [
+        "한국 한자음 복수"
+      ],
+      "dictionary_korean": [
+        "구",
+        "규"
+      ],
+      "gloss_candidates": [
+        {
+          "gloss": "아홉",
+          "reading": "구",
+          "source": {
+            "title": "九",
+            "revision": 4180849,
+            "timestamp": "2024-07-10T05:04:52Z",
+            "url": "https://ko.wiktionary.org/w/index.php?title=九&oldid=4180849"
+          }
+        },
+        {
+          "gloss": "아홉",
+          "reading": "구",
+          "source": {
+            "title": "九",
+            "revision": 4180849,
+            "timestamp": "2024-07-10T05:04:52Z",
+            "url": "https://ko.wiktionary.org/w/index.php?title=九&oldid=4180849"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kanji-015",
+      "character": "木",
+      "flags": [
+        "한국 한자음 복수"
+      ],
+      "dictionary_korean": [
+        "목",
+        "모"
+      ],
+      "gloss_candidates": [
+        {
+          "gloss": "나무",
+          "reading": "목",
+          "source": {
+            "title": "木",
+            "revision": 4389854,
+            "timestamp": "2025-07-18T14:57:21Z",
+            "url": "https://ko.wiktionary.org/w/index.php?title=木&oldid=4389854"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kanji-016",
+      "character": "金",
+      "flags": [
+        "한국 한자음 복수"
+      ],
+      "dictionary_korean": [
+        "김",
+        "금"
+      ],
+      "gloss_candidates": [
+        {
+          "gloss": "쇠",
+          "reading": "금",
+          "source": {
+            "title": "金",
+            "revision": 4390168,
+            "timestamp": "2025-07-19T06:46:49Z",
+            "url": "https://ko.wiktionary.org/w/index.php?title=金&oldid=4390168"
+          }
+        },
+        {
+          "gloss": "쇠",
+          "reading": "금",
+          "source": {
+            "title": "金",
+            "revision": 4390168,
+            "timestamp": "2025-07-19T06:46:49Z",
+            "url": "https://ko.wiktionary.org/w/index.php?title=金&oldid=4390168"
+          }
+        },
+        {
+          "gloss": "성",
+          "reading": "김",
+          "source": {
+            "title": "金",
+            "revision": 4390168,
+            "timestamp": "2025-07-19T06:46:49Z",
+            "url": "https://ko.wiktionary.org/w/index.php?title=金&oldid=4390168"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kanji-017",
+      "character": "土",
+      "flags": [
+        "한국 한자음 복수"
+      ],
+      "dictionary_korean": [
+        "토",
+        "두"
+      ],
+      "gloss_candidates": [
+        {
+          "gloss": "흙",
+          "reading": "토",
+          "source": {
+            "title": "土",
+            "revision": 4390082,
+            "timestamp": "2025-07-19T03:27:10Z",
+            "url": "https://ko.wiktionary.org/w/index.php?title=土&oldid=4390082"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kanji-023",
+      "character": "女",
+      "flags": [
+        "한국 한자음 복수"
+      ],
+      "dictionary_korean": [
+        "녀",
+        "여"
+      ],
+      "gloss_candidates": [
+        {
+          "gloss": "계집, 딸",
+          "reading": "녀",
+          "source": {
+            "title": "女",
+            "revision": 4389922,
+            "timestamp": "2025-07-19T00:13:52Z",
+            "url": "https://ko.wiktionary.org/w/index.php?title=女&oldid=4389922"
+          }
+        },
+        {
+          "gloss": "계집",
+          "reading": "녀",
+          "source": {
+            "title": "女",
+            "revision": 4389922,
+            "timestamp": "2025-07-19T00:13:52Z",
+            "url": "https://ko.wiktionary.org/w/index.php?title=女&oldid=4389922"
+          }
+        },
+        {
+          "gloss": "너",
+          "reading": "여",
+          "source": {
+            "title": "女",
+            "revision": 4389922,
+            "timestamp": "2025-07-19T00:13:52Z",
+            "url": "https://ko.wiktionary.org/w/index.php?title=女&oldid=4389922"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kanji-025",
+      "character": "父",
+      "flags": [
+        "한국 한자음 복수"
+      ],
+      "dictionary_korean": [
+        "부",
+        "보"
+      ],
+      "gloss_candidates": [
+        {
+          "gloss": "아버지",
+          "reading": "부",
+          "source": {
+            "title": "父",
+            "revision": 4051155,
+            "timestamp": "2022-04-16T04:37:20Z",
+            "url": "https://ko.wiktionary.org/w/index.php?title=父&oldid=4051155"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kanji-031",
+      "character": "年",
+      "flags": [
+        "불일치 한국 훈·음 원문 후보 제외"
+      ],
+      "dictionary_korean": [
+        "년"
+      ],
+      "gloss_candidates": [
+        {
+          "gloss": "해",
+          "reading": "년",
+          "source": {
+            "title": "年",
+            "revision": 4389885,
+            "timestamp": "2025-07-18T15:17:38Z",
+            "url": "https://ko.wiktionary.org/w/index.php?title=年&oldid=4389885"
+          }
+        },
+        {
+          "gloss": "해",
+          "reading": "년",
+          "source": {
+            "title": "年",
+            "revision": 4389885,
+            "timestamp": "2025-07-18T15:17:38Z",
+            "url": "https://ko.wiktionary.org/w/index.php?title=年&oldid=4389885"
+          }
+        },
+        {
+          "gloss": "아첨하다",
+          "reading": "아첨할",
+          "source": {
+            "title": "年",
+            "revision": 4389885,
+            "timestamp": "2025-07-18T15:17:38Z",
+            "url": "https://ko.wiktionary.org/w/index.php?title=年&oldid=4389885"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kanji-040",
+      "character": "昨",
+      "flags": [
+        "훈독 사전 미수록 · 출제 제외"
+      ],
+      "dictionary_korean": [
+        "작"
+      ],
+      "gloss_candidates": [
+        {
+          "gloss": "어제",
+          "reading": "작",
+          "source": {
+            "title": "昨",
+            "revision": 3997447,
+            "timestamp": "2019-10-08T03:57:46Z",
+            "url": "https://ko.wiktionary.org/w/index.php?title=昨&oldid=3997447"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kanji-041",
+      "character": "上",
+      "flags": [
+        "불일치 한국 훈·음 원문 후보 제외"
+      ],
+      "dictionary_korean": [
+        "상"
+      ],
+      "gloss_candidates": [
+        {
+          "gloss": "윗",
+          "reading": "상",
+          "source": {
+            "title": "上",
+            "url": "https://hanja.wordrow.kr/한자/上/",
+            "accessed": "2026-10-24",
+            "note": "Short factual hun/eum lookup only; extended definitions and media not reproduced."
+          }
+        },
+        {
+          "gloss": "위",
+          "reading": "윗",
+          "source": {
+            "title": "上",
+            "revision": 4481280,
+            "timestamp": "2026-02-06T11:29:39Z",
+            "url": "https://ko.wiktionary.org/w/index.php?title=上&oldid=4481280"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kanji-049",
+      "character": "北",
+      "flags": [
+        "한국 한자음 복수"
+      ],
+      "dictionary_korean": [
+        "북",
+        "배"
+      ],
+      "gloss_candidates": [
+        {
+          "gloss": "북녘",
+          "reading": "북",
+          "source": {
+            "title": "北",
+            "revision": 4390038,
+            "timestamp": "2025-07-19T01:26:54Z",
+            "url": "https://ko.wiktionary.org/w/index.php?title=北&oldid=4390038"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kanji-050",
+      "character": "南",
+      "flags": [
+        "불일치 한국 훈·음 원문 후보 제외"
+      ],
+      "dictionary_korean": [
+        "남"
+      ],
+      "gloss_candidates": [
+        {
+          "gloss": "남녘",
+          "reading": "남",
+          "source": {
+            "title": "南",
+            "revision": 4243911,
+            "timestamp": "2024-07-12T03:23:50Z",
+            "url": "https://ko.wiktionary.org/w/index.php?title=南&oldid=4243911"
+          }
+        },
+        {
+          "gloss": "남녘",
+          "reading": "남",
+          "source": {
+            "title": "南",
+            "revision": 4243911,
+            "timestamp": "2024-07-12T03:23:50Z",
+            "url": "https://ko.wiktionary.org/w/index.php?title=南&oldid=4243911"
+          }
+        },
+        {
+          "gloss": "나무",
+          "reading": "나",
+          "source": {
+            "title": "南",
+            "revision": 4243911,
+            "timestamp": "2024-07-12T03:23:50Z",
+            "url": "https://ko.wiktionary.org/w/index.php?title=南&oldid=4243911"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kanji-051",
+      "character": "行",
+      "flags": [
+        "한국 한자음 복수"
+      ],
+      "dictionary_korean": [
+        "행",
+        "항"
+      ],
+      "gloss_candidates": [
+        {
+          "gloss": "다니다",
+          "reading": "행",
+          "source": {
+            "title": "行",
+            "revision": 4390108,
+            "timestamp": "2025-07-19T06:20:05Z",
+            "url": "https://ko.wiktionary.org/w/index.php?title=行&oldid=4390108"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kanji-053",
+      "character": "帰",
+      "flags": [
+        "한국 한자음 복수"
+      ],
+      "dictionary_korean": [
+        "귀",
+        "궤"
+      ],
+      "gloss_candidates": [
+        {
+          "gloss": "돌아가다, 돌아오다, 마치다",
+          "reading": "귀",
+          "source": {
+            "title": "歸",
+            "revision": 4061468,
+            "timestamp": "2024-02-13T16:53:36Z",
+            "url": "https://ko.wiktionary.org/w/index.php?title=歸&oldid=4061468"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kanji-054",
+      "character": "入",
+      "flags": [
+        "불일치 한국 훈·음 원문 후보 제외"
+      ],
+      "dictionary_korean": [
+        "입"
+      ],
+      "gloss_candidates": [
+        {
+          "gloss": "들",
+          "reading": "입",
+          "source": {
+            "title": "入",
+            "url": "https://hanja.wordrow.kr/한자/入/",
+            "accessed": "2026-10-24",
+            "note": "Short factual hun/eum lookup only; extended definitions and media not reproduced."
+          }
+        },
+        {
+          "gloss": "들어가다",
+          "reading": "들",
+          "source": {
+            "title": "入",
+            "revision": 4426300,
+            "timestamp": "2025-08-05T13:38:41Z",
+            "url": "https://ko.wiktionary.org/w/index.php?title=入&oldid=4426300"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kanji-055",
+      "character": "出",
+      "flags": [
+        "한국 한자음 복수"
+      ],
+      "dictionary_korean": [
+        "출",
+        "추"
+      ],
+      "gloss_candidates": [
+        {
+          "gloss": "나다",
+          "reading": "출",
+          "source": {
+            "title": "出",
+            "revision": 4389969,
+            "timestamp": "2025-07-19T00:38:07Z",
+            "url": "https://ko.wiktionary.org/w/index.php?title=出&oldid=4389969"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kanji-056",
+      "character": "見",
+      "flags": [
+        "한국 한자음 복수"
+      ],
+      "dictionary_korean": [
+        "견",
+        "현"
+      ],
+      "gloss_candidates": [
+        {
+          "gloss": "보다",
+          "reading": "견",
+          "source": {
+            "title": "見",
+            "revision": 4389992,
+            "timestamp": "2025-07-19T00:55:11Z",
+            "url": "https://ko.wiktionary.org/w/index.php?title=見&oldid=4389992"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kanji-058",
+      "character": "読",
+      "flags": [
+        "한국 한자음 복수"
+      ],
+      "dictionary_korean": [
+        "독",
+        "두"
+      ],
+      "gloss_candidates": [
+        {
+          "gloss": "읽다",
+          "reading": "독",
+          "source": {
+            "title": "讀",
+            "revision": 3410983,
+            "timestamp": "2017-09-02T14:33:22Z",
+            "url": "https://ko.wiktionary.org/w/index.php?title=讀&oldid=3410983"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kanji-061",
+      "character": "食",
+      "flags": [
+        "한국 한자음 복수"
+      ],
+      "dictionary_korean": [
+        "식",
+        "사"
+      ],
+      "gloss_candidates": [
+        {
+          "gloss": "밥, 먹다",
+          "reading": "식",
+          "source": {
+            "title": "食",
+            "revision": 4390086,
+            "timestamp": "2025-07-19T03:29:49Z",
+            "url": "https://ko.wiktionary.org/w/index.php?title=食&oldid=4390086"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kanji-066",
+      "character": "駅",
+      "flags": [
+        "훈독 사전 미수록 · 출제 제외"
+      ],
+      "dictionary_korean": [
+        "역"
+      ],
+      "gloss_candidates": [
+        {
+          "gloss": "역말",
+          "reading": "역",
+          "source": {
+            "title": "駅",
+            "revision": 4482039,
+            "timestamp": "2026-04-03T14:27:40Z",
+            "url": "https://ko.wiktionary.org/w/index.php?title=駅&oldid=4482039"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kanji-067",
+      "character": "車",
+      "flags": [
+        "한국 한자음 복수"
+      ],
+      "dictionary_korean": [
+        "차",
+        "거"
+      ],
+      "gloss_candidates": [
+        {
+          "gloss": "수레",
+          "reading": "차",
+          "source": {
+            "title": "車",
+            "revision": 4390022,
+            "timestamp": "2025-07-19T01:09:47Z",
+            "url": "https://ko.wiktionary.org/w/index.php?title=車&oldid=4390022"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kanji-068",
+      "character": "電",
+      "flags": [
+        "훈독 사전 미수록 · 출제 제외"
+      ],
+      "dictionary_korean": [
+        "전"
+      ],
+      "gloss_candidates": [
+        {
+          "gloss": "번개",
+          "reading": "전",
+          "source": {
+            "title": "電",
+            "revision": 4390202,
+            "timestamp": "2025-07-19T07:05:45Z",
+            "url": "https://ko.wiktionary.org/w/index.php?title=電&oldid=4390202"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kanji-072",
+      "character": "校",
+      "flags": [
+        "훈독 사전 미수록 · 출제 제외",
+        "한국 한자음 복수"
+      ],
+      "dictionary_korean": [
+        "교",
+        "효"
+      ],
+      "gloss_candidates": [
+        {
+          "gloss": "학교, 교정하다",
+          "reading": "교",
+          "source": {
+            "title": "校",
+            "revision": 4390546,
+            "timestamp": "2025-07-20T00:56:35Z",
+            "url": "https://ko.wiktionary.org/w/index.php?title=校&oldid=4390546"
+          }
+        },
+        {
+          "gloss": "학교",
+          "reading": "교",
+          "source": {
+            "title": "校",
+            "revision": 4390546,
+            "timestamp": "2025-07-20T00:56:35Z",
+            "url": "https://ko.wiktionary.org/w/index.php?title=校&oldid=4390546"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kanji-081",
+      "character": "大",
+      "flags": [
+        "불일치 한국 훈·음 원문 후보 제외",
+        "한국 한자음 복수"
+      ],
+      "dictionary_korean": [
+        "대",
+        "다",
+        "태"
+      ],
+      "gloss_candidates": [
+        {
+          "gloss": "큰",
+          "reading": "대",
+          "source": {
+            "title": "大",
+            "revision": 4389918,
+            "timestamp": "2025-07-18T15:35:18Z",
+            "url": "https://ko.wiktionary.org/w/index.php?title=大&oldid=4389918"
+          }
+        },
+        {
+          "gloss": "크다",
+          "reading": "큰",
+          "source": {
+            "title": "大",
+            "revision": 4389918,
+            "timestamp": "2025-07-18T15:35:18Z",
+            "url": "https://ko.wiktionary.org/w/index.php?title=大&oldid=4389918"
+          }
+        },
+        {
+          "gloss": "크다",
+          "reading": "클",
+          "source": {
+            "title": "大",
+            "revision": 4389918,
+            "timestamp": "2025-07-18T15:35:18Z",
+            "url": "https://ko.wiktionary.org/w/index.php?title=大&oldid=4389918"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kanji-088",
+      "character": "白",
+      "flags": [
+        "한국 한자음 복수"
+      ],
+      "dictionary_korean": [
+        "백",
+        "배"
+      ],
+      "gloss_candidates": [
+        {
+          "gloss": "희다, 아뢰다",
+          "reading": "백",
+          "source": {
+            "title": "白",
+            "revision": 4390006,
+            "timestamp": "2025-07-19T01:00:55Z",
+            "url": "https://ko.wiktionary.org/w/index.php?title=白&oldid=4390006"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kanji-093",
+      "character": "百",
+      "flags": [
+        "한국 한자음 복수"
+      ],
+      "dictionary_korean": [
+        "백",
+        "맥"
+      ],
+      "gloss_candidates": [
+        {
+          "gloss": "백",
+          "reading": "백",
+          "source": {
+            "title": "百",
+            "revision": 4390009,
+            "timestamp": "2025-07-19T01:01:53Z",
+            "url": "https://ko.wiktionary.org/w/index.php?title=百&oldid=4390009"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kanji-095",
+      "character": "万",
+      "flags": [
+        "한국 한자음 복수"
+      ],
+      "dictionary_korean": [
+        "만",
+        "묵"
+      ],
+      "gloss_candidates": [
+        {
+          "gloss": "일만",
+          "reading": "만",
+          "source": {
+            "title": "万",
+            "revision": 4390265,
+            "timestamp": "2025-07-19T09:48:52Z",
+            "url": "https://ko.wiktionary.org/w/index.php?title=万&oldid=4390265"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kanji-097",
+      "character": "港",
+      "flags": [
+        "한국 한자음 복수"
+      ],
+      "dictionary_korean": [
+        "항",
+        "강"
+      ],
+      "gloss_candidates": [
+        {
+          "gloss": "항구",
+          "reading": "항",
+          "source": {
+            "title": "港",
+            "revision": 3898517,
+            "timestamp": "2018-07-08T22:32:58Z",
+            "url": "https://ko.wiktionary.org/w/index.php?title=港&oldid=3898517"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kanji-109",
+      "character": "会",
+      "flags": [
+        "한국 한자음 복수"
+      ],
+      "dictionary_korean": [
+        "회",
+        "괴",
+        "괄"
+      ],
+      "gloss_candidates": [
+        {
+          "gloss": "모으다",
+          "reading": "회",
+          "source": {
+            "title": "会",
+            "revision": 4392826,
+            "timestamp": "2025-07-31T08:26:41Z",
+            "url": "https://ko.wiktionary.org/w/index.php?title=会&oldid=4392826"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kanji-116",
+      "character": "地",
+      "flags": [
+        "훈독 사전 미수록 · 출제 제외"
+      ],
+      "dictionary_korean": [
+        "지"
+      ],
+      "gloss_candidates": [
+        {
+          "gloss": "땅",
+          "reading": "지",
+          "source": {
+            "title": "地",
+            "revision": 4390562,
+            "timestamp": "2025-07-20T01:03:26Z",
+            "url": "https://ko.wiktionary.org/w/index.php?title=地&oldid=4390562"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kanji-120",
+      "character": "員",
+      "flags": [
+        "훈독 사전 미수록 · 출제 제외"
+      ],
+      "dictionary_korean": [
+        "원"
+      ],
+      "gloss_candidates": [
+        {
+          "gloss": "수효",
+          "reading": "원",
+          "source": {
+            "title": "員",
+            "revision": 4393540,
+            "timestamp": "2025-08-01T00:00:17Z",
+            "url": "https://ko.wiktionary.org/w/index.php?title=員&oldid=4393540"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kanji-135",
+      "character": "題",
+      "flags": [
+        "훈독 사전 미수록 · 출제 제외"
+      ],
+      "dictionary_korean": [
+        "제"
+      ],
+      "gloss_candidates": [
+        {
+          "gloss": "표제, 이마",
+          "reading": "제",
+          "source": {
+            "title": "題",
+            "revision": 4393645,
+            "timestamp": "2025-08-01T03:18:10Z",
+            "url": "https://ko.wiktionary.org/w/index.php?title=題&oldid=4393645"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kanji-136",
+      "character": "意",
+      "flags": [
+        "훈독 사전 미수록 · 출제 제외"
+      ],
+      "dictionary_korean": [
+        "의"
+      ],
+      "gloss_candidates": [
+        {
+          "gloss": "뜻",
+          "reading": "의",
+          "source": {
+            "title": "意",
+            "revision": 4389849,
+            "timestamp": "2025-07-18T14:53:47Z",
+            "url": "https://ko.wiktionary.org/w/index.php?title=意&oldid=4389849"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kanji-137",
+      "character": "不",
+      "flags": [
+        "훈독 사전 미수록 · 출제 제외",
+        "한국 한자음 복수"
+      ],
+      "dictionary_korean": [
+        "부",
+        "불"
+      ],
+      "gloss_candidates": [
+        {
+          "gloss": "아닐",
+          "reading": "불",
+          "source": {
+            "title": "不",
+            "url": "https://hanja.wordrow.kr/한자/不/",
+            "accessed": "2026-10-24",
+            "note": "Short factual hun/eum lookup only; extended definitions and media not reproduced."
+          }
+        }
+      ]
+    },
+    {
+      "id": "kanji-138",
+      "character": "作",
+      "flags": [
+        "한국 한자음 복수"
+      ],
+      "dictionary_korean": [
+        "작",
+        "자",
+        "주"
+      ],
+      "gloss_candidates": [
+        {
+          "gloss": "짓다",
+          "reading": "작",
+          "source": {
+            "title": "作",
+            "revision": 4005536,
+            "timestamp": "2020-01-08T13:54:29Z",
+            "url": "https://ko.wiktionary.org/w/index.php?title=作&oldid=4005536"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kanji-140",
+      "character": "度",
+      "flags": [
+        "한국 한자음 복수"
+      ],
+      "dictionary_korean": [
+        "도",
+        "탁"
+      ],
+      "gloss_candidates": [
+        {
+          "gloss": "법도",
+          "reading": "도",
+          "source": {
+            "title": "度",
+            "revision": 4392415,
+            "timestamp": "2025-07-30T14:34:42Z",
+            "url": "https://ko.wiktionary.org/w/index.php?title=度&oldid=4392415"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kanji-151",
+      "character": "院",
+      "flags": [
+        "훈독 사전 미수록 · 출제 제외"
+      ],
+      "dictionary_korean": [
+        "원"
+      ],
+      "gloss_candidates": [
+        {
+          "gloss": "집",
+          "reading": "원",
+          "source": {
+            "title": "院",
+            "revision": 4392805,
+            "timestamp": "2025-07-31T08:20:39Z",
+            "url": "https://ko.wiktionary.org/w/index.php?title=院&oldid=4392805"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kanji-153",
+      "character": "界",
+      "flags": [
+        "훈독 사전 미수록 · 출제 제외"
+      ],
+      "dictionary_korean": [
+        "계"
+      ],
+      "gloss_candidates": [
+        {
+          "gloss": "지경",
+          "reading": "계",
+          "source": {
+            "title": "界",
+            "revision": 4390178,
+            "timestamp": "2025-07-19T06:52:51Z",
+            "url": "https://ko.wiktionary.org/w/index.php?title=界&oldid=4390178"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kanji-159",
+      "character": "画",
+      "flags": [
+        "한국 한자음 복수"
+      ],
+      "dictionary_korean": [
+        "화",
+        "획"
+      ],
+      "gloss_candidates": [
+        {
+          "gloss": "그림",
+          "reading": "화",
+          "source": {
+            "title": "画",
+            "revision": 4390517,
+            "timestamp": "2025-07-19T14:33:56Z",
+            "url": "https://ko.wiktionary.org/w/index.php?title=画&oldid=4390517"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kanji-170",
+      "character": "特",
+      "flags": [
+        "훈독 사전 미수록 · 출제 제외"
+      ],
+      "dictionary_korean": [
+        "특"
+      ],
+      "gloss_candidates": [
+        {
+          "gloss": "남다르다, 숫소",
+          "reading": "특",
+          "source": {
+            "title": "特",
+            "revision": 4392430,
+            "timestamp": "2025-07-30T14:45:24Z",
+            "url": "https://ko.wiktionary.org/w/index.php?title=特&oldid=4392430"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kanji-175",
+      "character": "台",
+      "flags": [
+        "불일치 한국 훈·음 원문 후보 제외",
+        "한국 한자음 복수"
+      ],
+      "dictionary_korean": [
+        "태",
+        "이"
+      ],
+      "gloss_candidates": [
+        {
+          "gloss": "별",
+          "reading": "태",
+          "source": {
+            "title": "台",
+            "url": "https://hanja.wordrow.kr/한자/台/",
+            "accessed": "2026-10-24",
+            "note": "Short factual hun/eum lookup only; extended definitions and media not reproduced."
+          }
+        },
+        {
+          "gloss": "높은 곳",
+          "reading": "대",
+          "source": {
+            "title": "臺",
+            "revision": 4393157,
+            "timestamp": "2025-07-31T13:24:53Z",
+            "url": "https://ko.wiktionary.org/w/index.php?title=臺&oldid=4393157"
+          }
+        },
+        {
+          "gloss": "돈대",
+          "reading": "대",
+          "source": {
+            "title": "坮",
+            "revision": 3887885,
+            "timestamp": "2018-07-08T07:31:44Z",
+            "url": "https://ko.wiktionary.org/w/index.php?title=坮&oldid=3887885"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kanji-182",
+      "character": "料",
+      "flags": [
+        "훈독 사전 미수록 · 출제 제외"
+      ],
+      "dictionary_korean": [
+        "료"
+      ],
+      "gloss_candidates": [
+        {
+          "gloss": "헤아리다, 요금",
+          "reading": "료",
+          "source": {
+            "title": "料",
+            "revision": 4393640,
+            "timestamp": "2025-08-01T03:15:41Z",
+            "url": "https://ko.wiktionary.org/w/index.php?title=料&oldid=4393640"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kanji-183",
+      "character": "工",
+      "flags": [
+        "훈독 사전 미수록 · 출제 제외"
+      ],
+      "dictionary_korean": [
+        "공"
+      ],
+      "gloss_candidates": [
+        {
+          "gloss": "장인",
+          "reading": "공",
+          "source": {
+            "title": "工",
+            "revision": 4390472,
+            "timestamp": "2025-07-19T14:11:41Z",
+            "url": "https://ko.wiktionary.org/w/index.php?title=工&oldid=4390472"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kanji-184",
+      "character": "建",
+      "flags": [
+        "불일치 한국 훈·음 원문 후보 제외"
+      ],
+      "dictionary_korean": [
+        "건"
+      ],
+      "gloss_candidates": [
+        {
+          "gloss": "세우다",
+          "reading": "건",
+          "source": {
+            "title": "建",
+            "revision": 4133727,
+            "timestamp": "2024-07-08T07:39:43Z",
+            "url": "https://ko.wiktionary.org/w/index.php?title=建&oldid=4133727"
+          }
+        },
+        {
+          "gloss": "세우다",
+          "reading": "세울",
+          "source": {
+            "title": "建",
+            "revision": 4133727,
+            "timestamp": "2024-07-08T07:39:43Z",
+            "url": "https://ko.wiktionary.org/w/index.php?title=建&oldid=4133727"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kanji-188",
+      "character": "切",
+      "flags": [
+        "한국 한자음 복수"
+      ],
+      "dictionary_korean": [
+        "절",
+        "체"
+      ],
+      "gloss_candidates": [
+        {
+          "gloss": "끊다",
+          "reading": "절",
+          "source": {
+            "title": "切",
+            "revision": 4031991,
+            "timestamp": "2021-05-22T00:03:04Z",
+            "url": "https://ko.wiktionary.org/w/index.php?title=切&oldid=4031991"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kanji-191",
+      "character": "足",
+      "flags": [
+        "한국 한자음 복수"
+      ],
+      "dictionary_korean": [
+        "족",
+        "주"
+      ],
+      "gloss_candidates": [
+        {
+          "gloss": "발, 족하다",
+          "reading": "족",
+          "source": {
+            "title": "足",
+            "revision": 4390194,
+            "timestamp": "2025-07-19T07:00:07Z",
+            "url": "https://ko.wiktionary.org/w/index.php?title=足&oldid=4390194"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kanji-193",
+      "character": "楽",
+      "flags": [
+        "불일치 한국 훈·음 원문 후보 제외"
+      ],
+      "dictionary_korean": [
+        "악"
+      ],
+      "gloss_candidates": [
+        {
+          "gloss": "노래",
+          "reading": "악",
+          "source": {
+            "title": "樂",
+            "url": "https://hanja.wordrow.kr/한자/樂/",
+            "accessed": "2026-10-24",
+            "note": "Short factual hun/eum lookup only; extended definitions and media not reproduced."
+          }
+        },
+        {
+          "gloss": "~",
+          "reading": "락",
+          "source": {
+            "title": "樂",
+            "revision": 4390566,
+            "timestamp": "2025-07-20T01:05:01Z",
+            "url": "https://ko.wiktionary.org/w/index.php?title=樂&oldid=4390566"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kanji-197",
+      "character": "質",
+      "flags": [
+        "한국 한자음 복수"
+      ],
+      "dictionary_korean": [
+        "질",
+        "지"
+      ],
+      "gloss_candidates": [
+        {
+          "gloss": "바탕, 저당 잡다",
+          "reading": "질",
+          "source": {
+            "title": "質",
+            "revision": 3996962,
+            "timestamp": "2019-10-04T03:35:08Z",
+            "url": "https://ko.wiktionary.org/w/index.php?title=質&oldid=3996962"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kanji-200",
+      "character": "族",
+      "flags": [
+        "훈독 사전 미수록 · 출제 제외",
+        "한국 한자음 복수"
+      ],
+      "dictionary_korean": [
+        "족",
+        "주"
+      ],
+      "gloss_candidates": [
+        {
+          "gloss": "겨레",
+          "reading": "족",
+          "source": {
+            "title": "族",
+            "revision": 3894910,
+            "timestamp": "2018-07-08T17:28:34Z",
+            "url": "https://ko.wiktionary.org/w/index.php?title=族&oldid=3894910"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kanji-207",
+      "character": "医",
+      "flags": [
+        "한국 한자음 복수"
+      ],
+      "dictionary_korean": [
+        "예",
+        "의"
+      ],
+      "gloss_candidates": [
+        {
+          "gloss": "의원, 병을 고치다",
+          "reading": "의",
+          "source": {
+            "title": "醫",
+            "revision": 4392798,
+            "timestamp": "2025-07-31T08:17:31Z",
+            "url": "https://ko.wiktionary.org/w/index.php?title=醫&oldid=4392798"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kanji-216",
+      "character": "悪",
+      "flags": [
+        "한국 한자음 복수"
+      ],
+      "dictionary_korean": [
+        "악",
+        "오"
+      ],
+      "gloss_candidates": [
+        {
+          "gloss": "악하다",
+          "reading": "악",
+          "source": {
+            "title": "悪",
+            "revision": 4027234,
+            "timestamp": "2020-10-25T07:11:07Z",
+            "url": "https://ko.wiktionary.org/w/index.php?title=悪&oldid=4027234"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kanji-218",
+      "character": "週",
+      "flags": [
+        "훈독 사전 미수록 · 출제 제외"
+      ],
+      "dictionary_korean": [
+        "주"
+      ],
+      "gloss_candidates": [
+        {
+          "gloss": "돌다, 두르다, 둘레",
+          "reading": "주",
+          "source": {
+            "title": "週",
+            "revision": 4392406,
+            "timestamp": "2025-07-30T14:31:24Z",
+            "url": "https://ko.wiktionary.org/w/index.php?title=週&oldid=4392406"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kanji-232",
+      "character": "洋",
+      "flags": [
+        "훈독 사전 미수록 · 출제 제외"
+      ],
+      "dictionary_korean": [
+        "양"
+      ],
+      "gloss_candidates": [
+        {
+          "gloss": "큰 바다",
+          "reading": "양",
+          "source": {
+            "title": "洋",
+            "revision": 4392423,
+            "timestamp": "2025-07-30T14:40:43Z",
+            "url": "https://ko.wiktionary.org/w/index.php?title=洋&oldid=4392423"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kanji-233",
+      "character": "服",
+      "flags": [
+        "훈독 사전 미수록 · 출제 제외"
+      ],
+      "dictionary_korean": [
+        "복"
+      ],
+      "gloss_candidates": [
+        {
+          "gloss": "옷, 임무",
+          "reading": "복",
+          "source": {
+            "title": "服",
+            "revision": 4485859,
+            "timestamp": "2026-08-02T01:34:19Z",
+            "url": "https://ko.wiktionary.org/w/index.php?title=服&oldid=4485859"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kanji-234",
+      "character": "夕",
+      "flags": [
+        "한국 한자음 복수"
+      ],
+      "dictionary_korean": [
+        "석",
+        "사"
+      ],
+      "gloss_candidates": [
+        {
+          "gloss": "저녁",
+          "reading": "석",
+          "source": {
+            "title": "夕",
+            "revision": 4390173,
+            "timestamp": "2025-07-19T06:49:05Z",
+            "url": "https://ko.wiktionary.org/w/index.php?title=夕&oldid=4390173"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kanji-235",
+      "character": "借",
+      "flags": [
+        "한국 한자음 복수"
+      ],
+      "dictionary_korean": [
+        "차",
+        "적"
+      ],
+      "gloss_candidates": [
+        {
+          "gloss": "빌리다",
+          "reading": "차",
+          "source": {
+            "title": "借",
+            "revision": 3996649,
+            "timestamp": "2019-10-03T14:44:07Z",
+            "url": "https://ko.wiktionary.org/w/index.php?title=借&oldid=3996649"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kanji-236",
+      "character": "曜",
+      "flags": [
+        "훈독 사전 미수록 · 출제 제외"
+      ],
+      "dictionary_korean": [
+        "요"
+      ],
+      "gloss_candidates": [
+        {
+          "gloss": "빛나다",
+          "reading": "요",
+          "source": {
+            "title": "曜",
+            "revision": 4393173,
+            "timestamp": "2025-07-31T13:32:31Z",
+            "url": "https://ko.wiktionary.org/w/index.php?title=曜&oldid=4393173"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kanji-237",
+      "character": "肉",
+      "flags": [
+        "한국 한자음 복수"
+      ],
+      "dictionary_korean": [
+        "육",
+        "유"
+      ],
+      "gloss_candidates": [
+        {
+          "gloss": "고기",
+          "reading": "육",
+          "source": {
+            "title": "肉",
+            "revision": 4390351,
+            "timestamp": "2025-07-19T12:42:47Z",
+            "url": "https://ko.wiktionary.org/w/index.php?title=肉&oldid=4390351"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kanji-238",
+      "character": "貸",
+      "flags": [
+        "한국 한자음 복수"
+      ],
+      "dictionary_korean": [
+        "대",
+        "특"
+      ],
+      "gloss_candidates": [
+        {
+          "gloss": "빌리다",
+          "reading": "대",
+          "source": {
+            "title": "貸",
+            "revision": 4393658,
+            "timestamp": "2025-08-01T03:22:40Z",
+            "url": "https://ko.wiktionary.org/w/index.php?title=貸&oldid=4393658"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kanji-239",
+      "character": "堂",
+      "flags": [
+        "훈독 사전 미수록 · 출제 제외"
+      ],
+      "dictionary_korean": [
+        "당"
+      ],
+      "gloss_candidates": [
+        {
+          "gloss": "집",
+          "reading": "당",
+          "source": {
+            "title": "堂",
+            "revision": 4390081,
+            "timestamp": "2025-07-19T03:26:51Z",
+            "url": "https://ko.wiktionary.org/w/index.php?title=堂&oldid=4390081"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kanji-245",
+      "character": "茶",
+      "flags": [
+        "훈독 사전 미수록 · 출제 제외",
+        "한국 한자음 복수"
+      ],
+      "dictionary_korean": [
+        "다",
+        "차"
+      ],
+      "gloss_candidates": [
+        {
+          "gloss": "차",
+          "reading": "다",
+          "source": {
+            "title": "茶",
+            "url": "https://hanja.wordrow.kr/한자/茶/",
+            "accessed": "2026-10-24",
+            "note": "Short factual hun/eum lookup only; extended definitions and media not reproduced."
+          }
+        }
+      ]
+    },
+    {
+      "id": "kanji-253",
+      "character": "漢",
+      "flags": [
+        "훈독 사전 미수록 · 출제 제외"
+      ],
+      "dictionary_korean": [
+        "한"
+      ],
+      "gloss_candidates": [
+        {
+          "gloss": "나라 이름",
+          "reading": "한",
+          "source": {
+            "title": "漢",
+            "revision": 4390179,
+            "timestamp": "2025-07-19T06:53:45Z",
+            "url": "https://ko.wiktionary.org/w/index.php?title=漢&oldid=4390179"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kanji-254",
+      "character": "坊",
+      "flags": [
+        "훈독 사전 미수록 · 출제 제외"
+      ],
+      "dictionary_korean": [
+        "방"
+      ],
+      "gloss_candidates": [
+        {
+          "gloss": "동네",
+          "reading": "방",
+          "source": {
+            "title": "坊",
+            "url": "https://hanja.wordrow.kr/한자/坊/",
+            "accessed": "2026-10-24",
+            "note": "Short factual hun/eum lookup only; extended definitions and media not reproduced."
+          }
+        }
+      ]
+    },
+    {
+      "id": "kanji-258",
+      "character": "議",
+      "flags": [
+        "훈독 사전 미수록 · 출제 제외"
+      ],
+      "dictionary_korean": [
+        "의"
+      ],
+      "gloss_candidates": [
+        {
+          "gloss": "의논하다",
+          "reading": "의",
+          "source": {
+            "title": "議",
+            "revision": 4057185,
+            "timestamp": "2023-04-16T22:26:15Z",
+            "url": "https://ko.wiktionary.org/w/index.php?title=議&oldid=4057185"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kanji-265",
+      "character": "内",
+      "flags": [
+        "한국 한자음 복수"
+      ],
+      "dictionary_korean": [
+        "내",
+        "납"
+      ],
+      "gloss_candidates": [
+        {
+          "gloss": "안",
+          "reading": "내",
+          "source": {
+            "title": "內",
+            "url": "https://hanja.wordrow.kr/한자/內/",
+            "accessed": "2026-10-24",
+            "note": "Short factual hun/eum lookup only; extended definitions and media not reproduced."
+          }
+        }
+      ]
+    },
+    {
+      "id": "kanji-272",
+      "character": "関",
+      "flags": [
+        "한국 한자음 복수"
+      ],
+      "dictionary_korean": [
+        "관",
+        "완"
+      ],
+      "gloss_candidates": [
+        {
+          "gloss": "문빗장, 잠그다, 관계하다",
+          "reading": "관",
+          "source": {
+            "title": "關",
+            "revision": 4026777,
+            "timestamp": "2020-09-19T03:30:16Z",
+            "url": "https://ko.wiktionary.org/w/index.php?title=關&oldid=4026777"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kanji-280",
+      "character": "調",
+      "flags": [
+        "한국 한자음 복수"
+      ],
+      "dictionary_korean": [
+        "조",
+        "주"
+      ],
+      "gloss_candidates": [
+        {
+          "gloss": "고를",
+          "reading": "조",
+          "source": {
+            "title": "調",
+            "url": "https://hanja.wordrow.kr/한자/調/",
+            "accessed": "2026-10-24",
+            "note": "Short factual hun/eum lookup only; extended definitions and media not reproduced."
+          }
+        }
+      ]
+    },
+    {
+      "id": "kanji-283",
+      "character": "約",
+      "flags": [
+        "한국 한자음 복수"
+      ],
+      "dictionary_korean": [
+        "약",
+        "요"
+      ],
+      "gloss_candidates": [
+        {
+          "gloss": "맺다, 약속하다",
+          "reading": "약",
+          "source": {
+            "title": "約",
+            "revision": 3998444,
+            "timestamp": "2019-10-15T16:56:19Z",
+            "url": "https://ko.wiktionary.org/w/index.php?title=約&oldid=3998444"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kanji-289",
+      "character": "制",
+      "flags": [
+        "훈독 사전 미수록 · 출제 제외"
+      ],
+      "dictionary_korean": [
+        "제"
+      ],
+      "gloss_candidates": [
+        {
+          "gloss": "억제하다",
+          "reading": "제",
+          "source": {
+            "title": "制",
+            "revision": 4393612,
+            "timestamp": "2025-08-01T03:06:04Z",
+            "url": "https://ko.wiktionary.org/w/index.php?title=制&oldid=4393612"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kanji-293",
+      "character": "期",
+      "flags": [
+        "훈독 사전 미수록 · 출제 제외"
+      ],
+      "dictionary_korean": [
+        "기"
+      ],
+      "gloss_candidates": [
+        {
+          "gloss": "기약하다, 백 년 주기",
+          "reading": "기",
+          "source": {
+            "title": "期",
+            "revision": 4393621,
+            "timestamp": "2025-08-01T03:10:19Z",
+            "url": "https://ko.wiktionary.org/w/index.php?title=期&oldid=4393621"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kanji-298",
+      "character": "平",
+      "flags": [
+        "한국 한자음 복수"
+      ],
+      "dictionary_korean": [
+        "평",
+        "편"
+      ],
+      "gloss_candidates": [
+        {
+          "gloss": "평평하다, 성",
+          "reading": "평",
+          "source": {
+            "title": "平",
+            "revision": 4390296,
+            "timestamp": "2025-07-19T10:38:44Z",
+            "url": "https://ko.wiktionary.org/w/index.php?title=平&oldid=4390296"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kanji-303",
+      "character": "数",
+      "flags": [
+        "한국 한자음 복수"
+      ],
+      "dictionary_korean": [
+        "수",
+        "촉"
+      ],
+      "gloss_candidates": [
+        {
+          "gloss": "셈",
+          "reading": "수",
+          "source": {
+            "title": "数",
+            "revision": 4390143,
+            "timestamp": "2025-07-19T06:34:16Z",
+            "url": "https://ko.wiktionary.org/w/index.php?title=数&oldid=4390143"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kanji-311",
+      "character": "報",
+      "flags": [
+        "한국 한자음 복수"
+      ],
+      "dictionary_korean": [
+        "보",
+        "부"
+      ],
+      "gloss_candidates": [
+        {
+          "gloss": "갚을",
+          "reading": "보",
+          "source": {
+            "title": "報",
+            "revision": 4006557,
+            "timestamp": "2020-01-22T23:59:45Z",
+            "url": "https://ko.wiktionary.org/w/index.php?title=報&oldid=4006557"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kanji-313",
+      "character": "活",
+      "flags": [
+        "한국 한자음 복수"
+      ],
+      "dictionary_korean": [
+        "활",
+        "괄"
+      ],
+      "gloss_candidates": [
+        {
+          "gloss": "살다",
+          "reading": "활",
+          "source": {
+            "title": "活",
+            "revision": 3996443,
+            "timestamp": "2019-10-03T04:12:10Z",
+            "url": "https://ko.wiktionary.org/w/index.php?title=活&oldid=3996443"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kanji-317",
+      "character": "解",
+      "flags": [
+        "한국 한자음 복수"
+      ],
+      "dictionary_korean": [
+        "해",
+        "개"
+      ],
+      "gloss_candidates": [
+        {
+          "gloss": "풀다",
+          "reading": "해",
+          "source": {
+            "title": "解",
+            "revision": 4057227,
+            "timestamp": "2023-04-24T17:39:14Z",
+            "url": "https://ko.wiktionary.org/w/index.php?title=解&oldid=4057227"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kanji-319",
+      "character": "資",
+      "flags": [
+        "훈독 사전 미수록 · 출제 제외"
+      ],
+      "dictionary_korean": [
+        "자"
+      ],
+      "gloss_candidates": [
+        {
+          "gloss": "재물, 취하다, 쓰다",
+          "reading": "자",
+          "source": {
+            "title": "資",
+            "revision": 4005393,
+            "timestamp": "2020-01-06T13:54:15Z",
+            "url": "https://ko.wiktionary.org/w/index.php?title=資&oldid=4005393"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kanji-321",
+      "character": "向",
+      "flags": [
+        "한국 한자음 복수"
+      ],
+      "dictionary_korean": [
+        "향",
+        "상"
+      ],
+      "gloss_candidates": [
+        {
+          "gloss": "향하다",
+          "reading": "향",
+          "source": {
+            "title": "向",
+            "revision": 4389978,
+            "timestamp": "2025-07-19T00:41:40Z",
+            "url": "https://ko.wiktionary.org/w/index.php?title=向&oldid=4389978"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kanji-325",
+      "character": "告",
+      "flags": [
+        "한국 한자음 복수"
+      ],
+      "dictionary_korean": [
+        "고",
+        "곡"
+      ],
+      "gloss_candidates": [
+        {
+          "gloss": "알리다",
+          "reading": "고",
+          "source": {
+            "title": "告",
+            "revision": 4390232,
+            "timestamp": "2025-07-19T09:33:44Z",
+            "url": "https://ko.wiktionary.org/w/index.php?title=告&oldid=4390232"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kanji-326",
+      "character": "反",
+      "flags": [
+        "한국 한자음 복수"
+      ],
+      "dictionary_korean": [
+        "반",
+        "번"
+      ],
+      "gloss_candidates": [
+        {
+          "gloss": "돌이키다",
+          "reading": "반",
+          "source": {
+            "title": "反",
+            "revision": 4485866,
+            "timestamp": "2026-08-02T03:08:04Z",
+            "url": "https://ko.wiktionary.org/w/index.php?title=反&oldid=4485866"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kanji-329",
+      "character": "参",
+      "flags": [
+        "한국 한자음 복수"
+      ],
+      "dictionary_korean": [
+        "삼",
+        "참"
+      ],
+      "gloss_candidates": [
+        {
+          "gloss": "참여하다",
+          "reading": "참",
+          "source": {
+            "title": "參",
+            "revision": 4031988,
+            "timestamp": "2021-05-21T23:52:34Z",
+            "url": "https://ko.wiktionary.org/w/index.php?title=參&oldid=4031988"
+          }
+        },
+        {
+          "gloss": "참여하다",
+          "reading": "참",
+          "source": {
+            "title": "叅",
+            "revision": 3885914,
+            "timestamp": "2018-07-08T04:46:43Z",
+            "url": "https://ko.wiktionary.org/w/index.php?title=叅&oldid=3885914"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kanji-332",
+      "character": "信",
+      "flags": [
+        "훈독 사전 미수록 · 출제 제외"
+      ],
+      "dictionary_korean": [
+        "신"
+      ],
+      "gloss_candidates": [
+        {
+          "gloss": "믿다",
+          "reading": "신",
+          "source": {
+            "title": "信",
+            "revision": 4390244,
+            "timestamp": "2025-07-19T09:38:58Z",
+            "url": "https://ko.wiktionary.org/w/index.php?title=信&oldid=4390244"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kanji-341",
+      "character": "論",
+      "flags": [
+        "한국 한자음 복수"
+      ],
+      "dictionary_korean": [
+        "론",
+        "윤"
+      ],
+      "gloss_candidates": [
+        {
+          "gloss": "의논하다",
+          "reading": "론",
+          "source": {
+            "title": "論",
+            "revision": 4390503,
+            "timestamp": "2025-07-19T14:27:18Z",
+            "url": "https://ko.wiktionary.org/w/index.php?title=論&oldid=4390503"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kanji-342",
+      "character": "官",
+      "flags": [
+        "훈독 사전 미수록 · 출제 제외"
+      ],
+      "dictionary_korean": [
+        "관"
+      ],
+      "gloss_candidates": [
+        {
+          "gloss": "벼슬",
+          "reading": "관",
+          "source": {
+            "title": "官",
+            "url": "https://hanja.wordrow.kr/한자/官/",
+            "accessed": "2026-10-24",
+            "note": "Short factual hun/eum lookup only; extended definitions and media not reproduced."
+          }
+        }
+      ]
+    },
+    {
+      "id": "kanji-345",
+      "character": "感",
+      "flags": [
+        "훈독 사전 미수록 · 출제 제외"
+      ],
+      "dictionary_korean": [
+        "감"
+      ],
+      "gloss_candidates": [
+        {
+          "gloss": "느끼다",
+          "reading": "감",
+          "source": {
+            "title": "感",
+            "revision": 4389906,
+            "timestamp": "2025-07-18T15:30:09Z",
+            "url": "https://ko.wiktionary.org/w/index.php?title=感&oldid=4389906"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kanji-348",
+      "character": "示",
+      "flags": [
+        "한국 한자음 복수"
+      ],
+      "dictionary_korean": [
+        "시",
+        "기"
+      ],
+      "gloss_candidates": [
+        {
+          "gloss": "보이다",
+          "reading": "시",
+          "source": {
+            "title": "示",
+            "revision": 3837894,
+            "timestamp": "2018-07-05T14:54:41Z",
+            "url": "https://ko.wiktionary.org/w/index.php?title=示&oldid=3837894"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kanji-350",
+      "character": "打",
+      "flags": [
+        "한국 한자음 복수"
+      ],
+      "dictionary_korean": [
+        "타",
+        "정"
+      ],
+      "gloss_candidates": [
+        {
+          "gloss": "치다",
+          "reading": "타",
+          "source": {
+            "title": "打",
+            "revision": 3999915,
+            "timestamp": "2019-10-28T11:44:31Z",
+            "url": "https://ko.wiktionary.org/w/index.php?title=打&oldid=3999915"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kanji-353",
+      "character": "式",
+      "flags": [
+        "훈독 사전 미수록 · 출제 제외"
+      ],
+      "dictionary_korean": [
+        "식"
+      ],
+      "gloss_candidates": [
+        {
+          "gloss": "법, 제도",
+          "reading": "식",
+          "source": {
+            "title": "式",
+            "revision": 4010249,
+            "timestamp": "2020-03-04T03:21:19Z",
+            "url": "https://ko.wiktionary.org/w/index.php?title=式&oldid=4010249"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kanji-358",
+      "character": "演",
+      "flags": [
+        "훈독 사전 미수록 · 출제 제외"
+      ],
+      "dictionary_korean": [
+        "연"
+      ],
+      "gloss_candidates": [
+        {
+          "gloss": "펼",
+          "reading": "연",
+          "source": {
+            "title": "演",
+            "url": "https://hanja.wordrow.kr/한자/演/",
+            "accessed": "2026-10-24",
+            "note": "Short factual hun/eum lookup only; extended definitions and media not reproduced."
+          }
+        }
+      ]
+    },
+    {
+      "id": "kanji-361",
+      "character": "談",
+      "flags": [
+        "훈독 사전 미수록 · 출제 제외"
+      ],
+      "dictionary_korean": [
+        "담"
+      ],
+      "gloss_candidates": [
+        {
+          "gloss": "말씀",
+          "reading": "담",
+          "source": {
+            "title": "談",
+            "revision": 3996381,
+            "timestamp": "2019-10-02T23:30:41Z",
+            "url": "https://ko.wiktionary.org/w/index.php?title=談&oldid=3996381"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kanji-362",
+      "character": "能",
+      "flags": [
+        "한국 한자음 복수"
+      ],
+      "dictionary_korean": [
+        "능",
+        "내"
+      ],
+      "gloss_candidates": [
+        {
+          "gloss": "능하다",
+          "reading": "능",
+          "source": {
+            "title": "能",
+            "revision": 4390511,
+            "timestamp": "2025-07-19T14:31:07Z",
+            "url": "https://ko.wiktionary.org/w/index.php?title=能&oldid=4390511"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kanji-366",
+      "character": "格",
+      "flags": [
+        "훈독 사전 미수록 · 출제 제외",
+        "한국 한자음 복수"
+      ],
+      "dictionary_korean": [
+        "격",
+        "낙"
+      ],
+      "gloss_candidates": [
+        {
+          "gloss": "격식",
+          "reading": "격",
+          "source": {
+            "title": "格",
+            "revision": 4393690,
+            "timestamp": "2025-08-01T03:38:45Z",
+            "url": "https://ko.wiktionary.org/w/index.php?title=格&oldid=4393690"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kanji-367",
+      "character": "疑",
+      "flags": [
+        "한국 한자음 복수"
+      ],
+      "dictionary_korean": [
+        "의",
+        "웅"
+      ],
+      "gloss_candidates": [
+        {
+          "gloss": "의심하다",
+          "reading": "의",
+          "source": {
+            "title": "疑",
+            "revision": 4051723,
+            "timestamp": "2022-05-05T09:44:57Z",
+            "url": "https://ko.wiktionary.org/w/index.php?title=疑&oldid=4051723"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kanji-372",
+      "character": "状",
+      "flags": [
+        "훈독 사전 미수록 · 출제 제외",
+        "한국 한자음 복수"
+      ],
+      "dictionary_korean": [
+        "장",
+        "상"
+      ],
+      "gloss_candidates": [
+        {
+          "gloss": "모양, 상태",
+          "reading": "상",
+          "source": {
+            "title": "状",
+            "revision": 4032214,
+            "timestamp": "2021-05-27T03:09:26Z",
+            "url": "https://ko.wiktionary.org/w/index.php?title=状&oldid=4032214"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kanji-374",
+      "character": "職",
+      "flags": [
+        "훈독 사전 미수록 · 출제 제외"
+      ],
+      "dictionary_korean": [
+        "직"
+      ],
+      "gloss_candidates": [
+        {
+          "gloss": "구실, 벼슬",
+          "reading": "직",
+          "source": {
+            "title": "職",
+            "revision": 4393135,
+            "timestamp": "2025-07-31T13:17:06Z",
+            "url": "https://ko.wiktionary.org/w/index.php?title=職&oldid=4393135"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kanji-377",
+      "character": "可",
+      "flags": [
+        "한국 한자음 복수"
+      ],
+      "dictionary_korean": [
+        "가",
+        "극"
+      ],
+      "gloss_candidates": [
+        {
+          "gloss": "옳다",
+          "reading": "가",
+          "source": {
+            "title": "可",
+            "revision": 4392840,
+            "timestamp": "2025-07-31T08:32:06Z",
+            "url": "https://ko.wiktionary.org/w/index.php?title=可&oldid=4392840"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kanji-378",
+      "character": "役",
+      "flags": [
+        "훈독 사전 미수록 · 출제 제외"
+      ],
+      "dictionary_korean": [
+        "역"
+      ],
+      "gloss_candidates": [
+        {
+          "gloss": "부리다",
+          "reading": "역",
+          "source": {
+            "title": "役",
+            "revision": 4009159,
+            "timestamp": "2020-02-19T03:35:27Z",
+            "url": "https://ko.wiktionary.org/w/index.php?title=役&oldid=4009159"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kanji-385",
+      "character": "説",
+      "flags": [
+        "한국 한자음 복수"
+      ],
+      "dictionary_korean": [
+        "설",
+        "세",
+        "열"
+      ],
+      "gloss_candidates": [
+        {
+          "gloss": "말씀",
+          "reading": "설",
+          "source": {
+            "title": "説",
+            "revision": 4005889,
+            "timestamp": "2020-01-12T23:57:02Z",
+            "url": "https://ko.wiktionary.org/w/index.php?title=説&oldid=4005889"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kanji-386",
+      "character": "難",
+      "flags": [
+        "한국 한자음 복수"
+      ],
+      "dictionary_korean": [
+        "난",
+        "나"
+      ],
+      "gloss_candidates": [
+        {
+          "gloss": "어렵다",
+          "reading": "난",
+          "source": {
+            "title": "難",
+            "revision": 4226435,
+            "timestamp": "2024-07-11T16:26:00Z",
+            "url": "https://ko.wiktionary.org/w/index.php?title=難&oldid=4226435"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kanji-389",
+      "character": "収",
+      "flags": [
+        "KANJIDIC2 한국음 누락 · 별도 사전 연결"
+      ],
+      "dictionary_korean": [
+        "수"
+      ],
+      "gloss_candidates": [
+        {
+          "gloss": "거두다",
+          "reading": "수",
+          "source": {
+            "title": "収",
+            "revision": 4393261,
+            "timestamp": "2025-07-31T14:17:25Z",
+            "url": "https://ko.wiktionary.org/w/index.php?title=収&oldid=4393261"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kanji-395",
+      "character": "番",
+      "flags": [
+        "한국 한자음 복수"
+      ],
+      "dictionary_korean": [
+        "번",
+        "반"
+      ],
+      "gloss_candidates": [
+        {
+          "gloss": "차례",
+          "reading": "번",
+          "source": {
+            "title": "番",
+            "revision": 3997013,
+            "timestamp": "2019-10-04T05:28:06Z",
+            "url": "https://ko.wiktionary.org/w/index.php?title=番&oldid=3997013"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kanji-396",
+      "character": "規",
+      "flags": [
+        "훈독 사전 미수록 · 출제 제외"
+      ],
+      "dictionary_korean": [
+        "규"
+      ],
+      "gloss_candidates": [
+        {
+          "gloss": "그림쇠, 법",
+          "reading": "규",
+          "source": {
+            "title": "規",
+            "revision": 3995332,
+            "timestamp": "2019-09-22T04:20:53Z",
+            "url": "https://ko.wiktionary.org/w/index.php?title=規&oldid=3995332"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kanji-399",
+      "character": "宅",
+      "flags": [
+        "훈독 사전 미수록 · 출제 제외",
+        "한국 한자음 복수"
+      ],
+      "dictionary_korean": [
+        "택",
+        "댁"
+      ],
+      "gloss_candidates": [
+        {
+          "gloss": "집",
+          "reading": "택",
+          "source": {
+            "title": "宅",
+            "url": "https://hanja.wordrow.kr/한자/宅/",
+            "accessed": "2026-10-24",
+            "note": "Short factual hun/eum lookup only; extended definitions and media not reproduced."
+          }
+        }
+      ]
+    },
+    {
+      "id": "kanji-400",
+      "character": "害",
+      "flags": [
+        "훈독 사전 미수록 · 출제 제외",
+        "한국 한자음 복수"
+      ],
+      "dictionary_korean": [
+        "해",
+        "할"
+      ],
+      "gloss_candidates": [
+        {
+          "gloss": "해하다",
+          "reading": "해",
+          "source": {
+            "title": "害",
+            "revision": 3411586,
+            "timestamp": "2017-09-08T12:47:32Z",
+            "url": "https://ko.wiktionary.org/w/index.php?title=害&oldid=3411586"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kanji-410",
+      "character": "念",
+      "flags": [
+        "훈독 사전 미수록 · 출제 제외"
+      ],
+      "dictionary_korean": [
+        "념"
+      ],
+      "gloss_candidates": [
+        {
+          "gloss": "생각",
+          "reading": "념",
+          "source": {
+            "title": "念",
+            "revision": 4036640,
+            "timestamp": "2021-09-08T11:15:52Z",
+            "url": "https://ko.wiktionary.org/w/index.php?title=念&oldid=4036640"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kanji-416",
+      "character": "追",
+      "flags": [
+        "한국 한자음 복수"
+      ],
+      "dictionary_korean": [
+        "추",
+        "퇴"
+      ],
+      "gloss_candidates": [
+        {
+          "gloss": "따르다",
+          "reading": "추",
+          "source": {
+            "title": "追",
+            "revision": 3999456,
+            "timestamp": "2019-10-24T06:35:57Z",
+            "url": "https://ko.wiktionary.org/w/index.php?title=追&oldid=3999456"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kanji-418",
+      "character": "葉",
+      "flags": [
+        "한국 한자음 복수"
+      ],
+      "dictionary_korean": [
+        "엽",
+        "섭"
+      ],
+      "gloss_candidates": [
+        {
+          "gloss": "잎",
+          "reading": "엽",
+          "source": {
+            "title": "葉",
+            "revision": 4032339,
+            "timestamp": "2021-05-31T02:37:01Z",
+            "url": "https://ko.wiktionary.org/w/index.php?title=葉&oldid=4032339"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kanji-420",
+      "character": "働",
+      "flags": [
+        "일본 고유 한자 · 한국음은 한국어 상용 여부와 구분"
+      ],
+      "dictionary_korean": [
+        "동"
+      ],
+      "gloss_candidates": [
+        {
+          "gloss": "굽닐다",
+          "reading": "동",
+          "source": {
+            "title": "働",
+            "revision": 3997173,
+            "timestamp": "2019-10-05T06:32:42Z",
+            "url": "https://ko.wiktionary.org/w/index.php?title=働&oldid=3997173"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kanji-422",
+      "character": "景",
+      "flags": [
+        "훈독 사전 미수록 · 출제 제외",
+        "한국 한자음 복수"
+      ],
+      "dictionary_korean": [
+        "경",
+        "영"
+      ],
+      "gloss_candidates": [
+        {
+          "gloss": "볕",
+          "reading": "경",
+          "source": {
+            "title": "景",
+            "revision": 3466669,
+            "timestamp": "2017-11-22T07:43:38Z",
+            "url": "https://ko.wiktionary.org/w/index.php?title=景&oldid=3466669"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kanji-430",
+      "character": "差",
+      "flags": [
+        "한국 한자음 복수"
+      ],
+      "dictionary_korean": [
+        "차",
+        "치"
+      ],
+      "gloss_candidates": [
+        {
+          "gloss": "어그러지다, 다르다, 잘못",
+          "reading": "차",
+          "source": {
+            "title": "差",
+            "revision": 4393230,
+            "timestamp": "2025-07-31T14:02:29Z",
+            "url": "https://ko.wiktionary.org/w/index.php?title=差&oldid=4393230"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kanji-433",
+      "character": "若",
+      "flags": [
+        "한국 한자음 복수"
+      ],
+      "dictionary_korean": [
+        "약",
+        "야"
+      ],
+      "gloss_candidates": [
+        {
+          "gloss": "같다",
+          "reading": "약",
+          "source": {
+            "title": "若",
+            "revision": 3971352,
+            "timestamp": "2019-01-26T11:26:24Z",
+            "url": "https://ko.wiktionary.org/w/index.php?title=若&oldid=3971352"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kanji-437",
+      "character": "福",
+      "flags": [
+        "훈독 사전 미수록 · 출제 제외"
+      ],
+      "dictionary_korean": [
+        "복"
+      ],
+      "gloss_candidates": [
+        {
+          "gloss": "복",
+          "reading": "복",
+          "source": {
+            "title": "福",
+            "revision": 4393121,
+            "timestamp": "2025-07-31T13:08:39Z",
+            "url": "https://ko.wiktionary.org/w/index.php?title=福&oldid=4393121"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kanji-441",
+      "character": "察",
+      "flags": [
+        "훈독 사전 미수록 · 출제 제외"
+      ],
+      "dictionary_korean": [
+        "찰"
+      ],
+      "gloss_candidates": [
+        {
+          "gloss": "살피다",
+          "reading": "찰",
+          "source": {
+            "title": "察",
+            "revision": 3997074,
+            "timestamp": "2019-10-04T11:15:24Z",
+            "url": "https://ko.wiktionary.org/w/index.php?title=察&oldid=3997074"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kanji-442",
+      "character": "段",
+      "flags": [
+        "훈독 사전 미수록 · 출제 제외"
+      ],
+      "dictionary_korean": [
+        "단"
+      ],
+      "gloss_candidates": [
+        {
+          "gloss": "조각, 가지",
+          "reading": "단",
+          "source": {
+            "title": "段",
+            "revision": 4008274,
+            "timestamp": "2020-02-09T01:30:58Z",
+            "url": "https://ko.wiktionary.org/w/index.php?title=段&oldid=4008274"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kanji-448",
+      "character": "識",
+      "flags": [
+        "한국 한자음 복수"
+      ],
+      "dictionary_korean": [
+        "식",
+        "지"
+      ],
+      "gloss_candidates": [
+        {
+          "gloss": "알다",
+          "reading": "식",
+          "source": {
+            "title": "識",
+            "revision": 4393608,
+            "timestamp": "2025-08-01T03:04:50Z",
+            "url": "https://ko.wiktionary.org/w/index.php?title=識&oldid=4393608"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kanji-460",
+      "character": "科",
+      "flags": [
+        "훈독 사전 미수록 · 출제 제외"
+      ],
+      "dictionary_korean": [
+        "과"
+      ],
+      "gloss_candidates": [
+        {
+          "gloss": "과정",
+          "reading": "과",
+          "source": {
+            "title": "科",
+            "revision": 3997287,
+            "timestamp": "2019-10-06T11:49:24Z",
+            "url": "https://ko.wiktionary.org/w/index.php?title=科&oldid=3997287"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kanji-461",
+      "character": "積",
+      "flags": [
+        "한국 한자음 복수"
+      ],
+      "dictionary_korean": [
+        "적",
+        "자"
+      ],
+      "gloss_candidates": [
+        {
+          "gloss": "쌓다",
+          "reading": "적",
+          "source": {
+            "title": "積",
+            "revision": 3413252,
+            "timestamp": "2017-09-26T14:36:44Z",
+            "url": "https://ko.wiktionary.org/w/index.php?title=積&oldid=3413252"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kanji-465",
+      "character": "客",
+      "flags": [
+        "훈독 사전 미수록 · 출제 제외"
+      ],
+      "dictionary_korean": [
+        "객"
+      ],
+      "gloss_candidates": [
+        {
+          "gloss": "손",
+          "reading": "객",
+          "source": {
+            "title": "客",
+            "revision": 4032332,
+            "timestamp": "2021-05-31T02:12:29Z",
+            "url": "https://ko.wiktionary.org/w/index.php?title=客&oldid=4032332"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kanji-466",
+      "character": "否",
+      "flags": [
+        "한국 한자음 복수"
+      ],
+      "dictionary_korean": [
+        "부",
+        "비"
+      ],
+      "gloss_candidates": [
+        {
+          "gloss": "아니다",
+          "reading": "부",
+          "source": {
+            "title": "否",
+            "revision": 3886708,
+            "timestamp": "2018-07-08T05:51:44Z",
+            "url": "https://ko.wiktionary.org/w/index.php?title=否&oldid=3886708"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kanji-469",
+      "character": "易",
+      "flags": [
+        "한국 한자음 복수"
+      ],
+      "dictionary_korean": [
+        "역",
+        "이"
+      ],
+      "gloss_candidates": [
+        {
+          "gloss": "쉽다",
+          "reading": "이",
+          "source": {
+            "title": "易",
+            "revision": 4393241,
+            "timestamp": "2025-07-31T14:06:49Z",
+            "url": "https://ko.wiktionary.org/w/index.php?title=易&oldid=4393241"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kanji-470",
+      "character": "速",
+      "flags": [
+        "불일치 한국 훈·음 원문 후보 제외"
+      ],
+      "dictionary_korean": [
+        "속"
+      ],
+      "gloss_candidates": [
+        {
+          "gloss": "빠를",
+          "reading": "속",
+          "source": {
+            "title": "速",
+            "url": "https://hanja.wordrow.kr/한자/速/",
+            "accessed": "2026-10-24",
+            "note": "Short factual hun/eum lookup only; extended definitions and media not reproduced."
+          }
+        },
+        {
+          "gloss": "빠르다",
+          "reading": "빠를",
+          "source": {
+            "title": "速",
+            "revision": 4480260,
+            "timestamp": "2025-10-21T11:31:35Z",
+            "url": "https://ko.wiktionary.org/w/index.php?title=速&oldid=4480260"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kanji-473",
+      "character": "殺",
+      "flags": [
+        "한국 한자음 복수"
+      ],
+      "dictionary_korean": [
+        "살",
+        "쇠"
+      ],
+      "gloss_candidates": [
+        {
+          "gloss": "죽이다",
+          "reading": "살",
+          "source": {
+            "title": "殺",
+            "revision": 3972572,
+            "timestamp": "2019-02-07T20:57:28Z",
+            "url": "https://ko.wiktionary.org/w/index.php?title=殺&oldid=3972572"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kanji-475",
+      "character": "単",
+      "flags": [
+        "한국 한자음 복수"
+      ],
+      "dictionary_korean": [
+        "단",
+        "선"
+      ],
+      "gloss_candidates": [
+        {
+          "gloss": "홑",
+          "reading": "단",
+          "source": {
+            "title": "単",
+            "revision": 4390101,
+            "timestamp": "2025-07-19T03:37:20Z",
+            "url": "https://ko.wiktionary.org/w/index.php?title=単&oldid=4390101"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kanji-479",
+      "character": "完",
+      "flags": [
+        "훈독 사전 미수록 · 출제 제외"
+      ],
+      "dictionary_korean": [
+        "완"
+      ],
+      "gloss_candidates": [
+        {
+          "gloss": "완전하다",
+          "reading": "완",
+          "source": {
+            "title": "完",
+            "revision": 4392808,
+            "timestamp": "2025-07-31T08:21:08Z",
+            "url": "https://ko.wiktionary.org/w/index.php?title=完&oldid=4392808"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kanji-480",
+      "character": "降",
+      "flags": [
+        "한국 한자음 복수"
+      ],
+      "dictionary_korean": [
+        "항",
+        "강"
+      ],
+      "gloss_candidates": [
+        {
+          "gloss": "내리다",
+          "reading": "강",
+          "source": {
+            "title": "降",
+            "revision": 3971340,
+            "timestamp": "2019-01-26T03:32:05Z",
+            "url": "https://ko.wiktionary.org/w/index.php?title=降&oldid=3971340"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kanji-481",
+      "character": "責",
+      "flags": [
+        "한국 한자음 복수"
+      ],
+      "dictionary_korean": [
+        "책",
+        "채"
+      ],
+      "gloss_candidates": [
+        {
+          "gloss": "꾸짖다",
+          "reading": "책",
+          "source": {
+            "title": "責",
+            "revision": 4057742,
+            "timestamp": "2023-05-21T04:47:48Z",
+            "url": "https://ko.wiktionary.org/w/index.php?title=責&oldid=4057742"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kanji-497",
+      "character": "亡",
+      "flags": [
+        "한국 한자음 복수"
+      ],
+      "dictionary_korean": [
+        "망",
+        "무"
+      ],
+      "gloss_candidates": [
+        {
+          "gloss": "망하다, 죽다",
+          "reading": "망",
+          "source": {
+            "title": "亡",
+            "revision": 4482031,
+            "timestamp": "2026-04-03T14:16:11Z",
+            "url": "https://ko.wiktionary.org/w/index.php?title=亡&oldid=4482031"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kanji-499",
+      "character": "適",
+      "flags": [
+        "한국 한자음 복수"
+      ],
+      "dictionary_korean": [
+        "적",
+        "척"
+      ],
+      "gloss_candidates": [
+        {
+          "gloss": "알맞다",
+          "reading": "적",
+          "source": {
+            "title": "適",
+            "revision": 3998668,
+            "timestamp": "2019-10-16T07:24:54Z",
+            "url": "https://ko.wiktionary.org/w/index.php?title=適&oldid=3998668"
+          }
+        }
+      ]
+    },
+    {
+      "id": "extra-6255",
+      "character": "払",
+      "flags": [
+        "한국 한자음 복수"
+      ],
+      "dictionary_korean": [
+        "불",
+        "필"
+      ],
+      "gloss_candidates": [
+        {
+          "gloss": "떨치다",
+          "reading": "불",
+          "source": {
+            "title": "払",
+            "revision": 3893119,
+            "timestamp": "2018-07-08T14:57:40Z",
+            "url": "https://ko.wiktionary.org/w/index.php?title=払&oldid=3893119"
+          }
+        }
+      ]
+    },
+    {
+      "id": "extra-7b26",
+      "character": "符",
+      "flags": [
+        "훈독 사전 미수록 · 출제 제외"
+      ],
+      "dictionary_korean": [
+        "부"
+      ],
+      "gloss_candidates": [
+        {
+          "gloss": "증거, 징조, 부적",
+          "reading": "부",
+          "source": {
+            "title": "符",
+            "revision": 3450250,
+            "timestamp": "2017-10-23T15:13:01Z",
+            "url": "https://ko.wiktionary.org/w/index.php?title=符&oldid=3450250"
+          }
+        }
+      ]
+    },
+    {
+      "id": "extra-4fbf",
+      "character": "便",
+      "flags": [
+        "한국 한자음 복수"
+      ],
+      "dictionary_korean": [
+        "편",
+        "변"
+      ],
+      "gloss_candidates": [
+        {
+          "gloss": "편하다",
+          "reading": "편",
+          "source": {
+            "title": "便",
+            "revision": 4065327,
+            "timestamp": "2024-05-08T08:45:14Z",
+            "url": "https://ko.wiktionary.org/w/index.php?title=便&oldid=4065327"
+          }
+        }
+      ]
+    },
+    {
+      "id": "extra-5bbf",
+      "character": "宿",
+      "flags": [
+        "한국 한자음 복수"
+      ],
+      "dictionary_korean": [
+        "숙",
+        "수"
+      ],
+      "gloss_candidates": [
+        {
+          "gloss": "잘",
+          "reading": "숙",
+          "source": {
+            "title": "宿",
+            "url": "https://hanja.wordrow.kr/한자/宿/",
+            "accessed": "2026-10-24",
+            "note": "Short factual hun/eum lookup only; extended definitions and media not reproduced."
+          }
+        }
+      ]
+    },
+    {
+      "id": "extra-6d17",
+      "character": "洗",
+      "flags": [
+        "한국 한자음 복수"
+      ],
+      "dictionary_korean": [
+        "세",
+        "선"
+      ],
+      "gloss_candidates": [
+        {
+          "gloss": "씻다",
+          "reading": "세",
+          "source": {
+            "title": "洗",
+            "revision": 3991865,
+            "timestamp": "2019-07-16T03:51:28Z",
+            "url": "https://ko.wiktionary.org/w/index.php?title=洗&oldid=3991865"
+          }
+        }
+      ]
+    },
+    {
+      "id": "extra-5a5a",
+      "character": "婚",
+      "flags": [
+        "훈독 사전 미수록 · 출제 제외"
+      ],
+      "dictionary_korean": [
+        "혼"
+      ],
+      "gloss_candidates": [
+        {
+          "gloss": "혼인하다",
+          "reading": "혼",
+          "source": {
+            "title": "婚",
+            "revision": 3996339,
+            "timestamp": "2019-10-02T11:46:37Z",
+            "url": "https://ko.wiktionary.org/w/index.php?title=婚&oldid=3996339"
+          }
+        }
+      ]
+    },
+    {
+      "id": "extra-4ecb",
+      "character": "介",
+      "flags": [
+        "훈독 사전 미수록 · 출제 제외"
+      ],
+      "dictionary_korean": [
+        "개"
+      ],
+      "gloss_candidates": [
+        {
+          "gloss": "끼다",
+          "reading": "개",
+          "source": {
+            "title": "介",
+            "revision": 4393618,
+            "timestamp": "2025-08-01T03:08:07Z",
+            "url": "https://ko.wiktionary.org/w/index.php?title=介&oldid=4393618"
+          }
+        }
+      ]
+    },
+    {
+      "id": "extra-50cf",
+      "character": "像",
+      "flags": [
+        "훈독 사전 미수록 · 출제 제외"
+      ],
+      "dictionary_korean": [
+        "상"
+      ],
+      "gloss_candidates": [
+        {
+          "gloss": "형상",
+          "reading": "상",
+          "source": {
+            "title": "像",
+            "revision": 4392422,
+            "timestamp": "2025-07-30T14:39:43Z",
+            "url": "https://ko.wiktionary.org/w/index.php?title=像&oldid=4392422"
+          }
+        }
+      ]
+    },
+    {
+      "id": "extra-5247",
+      "character": "則",
+      "flags": [
+        "한국 한자음 복수"
+      ],
+      "dictionary_korean": [
+        "즉",
+        "칙",
+        "측"
+      ],
+      "gloss_candidates": [
+        {
+          "gloss": "법칙",
+          "reading": "칙",
+          "source": {
+            "title": "則",
+            "revision": 3995333,
+            "timestamp": "2019-09-22T04:24:29Z",
+            "url": "https://ko.wiktionary.org/w/index.php?title=則&oldid=3995333"
+          }
+        }
+      ]
+    },
+    {
+      "id": "extra-53f2",
+      "character": "史",
+      "flags": [
+        "훈독 사전 미수록 · 출제 제외"
+      ],
+      "dictionary_korean": [
+        "사"
+      ],
+      "gloss_candidates": [
+        {
+          "gloss": "역사",
+          "reading": "사",
+          "source": {
+            "title": "史",
+            "revision": 4390281,
+            "timestamp": "2025-07-19T10:32:32Z",
+            "url": "https://ko.wiktionary.org/w/index.php?title=史&oldid=4390281"
+          }
+        }
+      ]
+    },
+    {
+      "id": "extra-623b",
+      "character": "戻",
+      "flags": [
+        "한국 한자음 복수"
+      ],
+      "dictionary_korean": [
+        "려",
+        "렬"
+      ],
+      "gloss_candidates": [
+        {
+          "gloss": "어그러질",
+          "reading": "려",
+          "source": {
+            "title": "戾",
+            "url": "https://hanja.wordrow.kr/한자/戾/",
+            "accessed": "2026-10-24",
+            "note": "Short factual hun/eum lookup only; extended definitions and media not reproduced."
+          }
+        }
+      ]
+    },
+    {
+      "id": "extra-62bc",
+      "character": "押",
+      "flags": [
+        "한국 한자음 복수"
+      ],
+      "dictionary_korean": [
+        "압",
+        "갑"
+      ],
+      "gloss_candidates": [
+        {
+          "gloss": "누르다",
+          "reading": "압",
+          "source": {
+            "title": "押",
+            "revision": 4188455,
+            "timestamp": "2024-07-10T08:54:31Z",
+            "url": "https://ko.wiktionary.org/w/index.php?title=押&oldid=4188455"
+          }
+        }
+      ]
+    },
+    {
+      "id": "extra-62fe",
+      "character": "拾",
+      "flags": [
+        "한국 한자음 복수"
+      ],
+      "dictionary_korean": [
+        "습",
+        "십"
+      ],
+      "gloss_candidates": [
+        {
+          "gloss": "줍다",
+          "reading": "습",
+          "source": {
+            "title": "拾",
+            "revision": 3893522,
+            "timestamp": "2018-07-08T15:32:11Z",
+            "url": "https://ko.wiktionary.org/w/index.php?title=拾&oldid=3893522"
+          }
+        }
+      ]
+    },
+    {
+      "id": "extra-6311",
+      "character": "挑",
+      "flags": [
+        "한국 한자음 복수"
+      ],
+      "dictionary_korean": [
+        "도",
+        "조"
+      ],
+      "gloss_candidates": [
+        {
+          "gloss": "돋울",
+          "reading": "도",
+          "source": {
+            "title": "挑",
+            "url": "https://hanja.wordrow.kr/한자/挑/",
+            "accessed": "2026-10-24",
+            "note": "Short factual hun/eum lookup only; extended definitions and media not reproduced."
+          }
+        }
+      ]
+    },
+    {
+      "id": "extra-6614",
+      "character": "昔",
+      "flags": [
+        "한국 한자음 복수"
+      ],
+      "dictionary_korean": [
+        "석",
+        "착"
+      ],
+      "gloss_candidates": [
+        {
+          "gloss": "예",
+          "reading": "석",
+          "source": {
+            "title": "昔",
+            "revision": 4003249,
+            "timestamp": "2019-12-16T15:32:15Z",
+            "url": "https://ko.wiktionary.org/w/index.php?title=昔&oldid=4003249"
+          }
+        }
+      ]
+    },
+    {
+      "id": "extra-6669",
+      "character": "晩",
+      "flags": [
+        "훈독 사전 미수록 · 출제 제외"
+      ],
+      "dictionary_korean": [
+        "만"
+      ],
+      "gloss_candidates": [
+        {
+          "gloss": "늦다, 저물다",
+          "reading": "만",
+          "source": {
+            "title": "晩",
+            "revision": 4005348,
+            "timestamp": "2020-01-06T03:45:12Z",
+            "url": "https://ko.wiktionary.org/w/index.php?title=晩&oldid=4005348"
+          }
+        }
+      ]
+    },
+    {
+      "id": "extra-66f4",
+      "character": "更",
+      "flags": [
+        "한국 한자음 복수"
+      ],
+      "dictionary_korean": [
+        "경",
+        "갱"
+      ],
+      "gloss_candidates": [
+        {
+          "gloss": "다시",
+          "reading": "갱",
+          "source": {
+            "title": "更",
+            "revision": 4390283,
+            "timestamp": "2025-07-19T10:33:10Z",
+            "url": "https://ko.wiktionary.org/w/index.php?title=更&oldid=4390283"
+          }
+        }
+      ]
+    },
+    {
+      "id": "extra-679a",
+      "character": "枚",
+      "flags": [
+        "훈독 사전 미수록 · 출제 제외"
+      ],
+      "dictionary_korean": [
+        "매"
+      ],
+      "gloss_candidates": [
+        {
+          "gloss": "낱",
+          "reading": "매",
+          "source": {
+            "title": "枚",
+            "url": "https://hanja.wordrow.kr/한자/枚/",
+            "accessed": "2026-10-24",
+            "note": "Short factual hun/eum lookup only; extended definitions and media not reproduced."
+          }
+        }
+      ]
+    },
+    {
+      "id": "extra-68da",
+      "character": "棚",
+      "flags": [
+        "한국 한자음 복수"
+      ],
+      "dictionary_korean": [
+        "붕",
+        "팽"
+      ],
+      "gloss_candidates": [
+        {
+          "gloss": "사다리",
+          "reading": "붕",
+          "source": {
+            "title": "棚",
+            "url": "https://hanja.wordrow.kr/한자/棚/",
+            "accessed": "2026-10-24",
+            "note": "Short factual hun/eum lookup only; extended definitions and media not reproduced."
+          }
+        }
+      ]
+    },
+    {
+      "id": "extra-6905",
+      "character": "椅",
+      "flags": [
+        "훈독 사전 미수록 · 출제 제외"
+      ],
+      "dictionary_korean": [
+        "의"
+      ],
+      "gloss_candidates": [
+        {
+          "gloss": "의나무",
+          "reading": "의",
+          "source": {
+            "title": "椅",
+            "revision": 3896509,
+            "timestamp": "2018-07-08T19:44:17Z",
+            "url": "https://ko.wiktionary.org/w/index.php?title=椅&oldid=3896509"
+          }
+        }
+      ]
+    },
+    {
+      "id": "extra-6b74",
+      "character": "歴",
+      "flags": [
+        "훈독 사전 미수록 · 출제 제외"
+      ],
+      "dictionary_korean": [
+        "력"
+      ],
+      "gloss_candidates": [
+        {
+          "gloss": "지날",
+          "reading": "력",
+          "source": {
+            "title": "歷",
+            "url": "https://hanja.wordrow.kr/한자/歷/",
+            "accessed": "2026-10-24",
+            "note": "Short factual hun/eum lookup only; extended definitions and media not reproduced."
+          }
+        }
+      ]
+    },
+    {
+      "id": "extra-6e96",
+      "character": "準",
+      "flags": [
+        "한국 한자음 복수"
+      ],
+      "dictionary_korean": [
+        "준",
+        "절"
+      ],
+      "gloss_candidates": [
+        {
+          "gloss": "평평하다, 고르다, 법도",
+          "reading": "준",
+          "source": {
+            "title": "準",
+            "revision": 4000914,
+            "timestamp": "2019-11-07T23:48:05Z",
+            "url": "https://ko.wiktionary.org/w/index.php?title=準&oldid=4000914"
+          }
+        }
+      ]
+    },
+    {
+      "id": "extra-738b",
+      "character": "王",
+      "flags": [
+        "훈독 사전 미수록 · 출제 제외"
+      ],
+      "dictionary_korean": [
+        "왕"
+      ],
+      "gloss_candidates": [
+        {
+          "gloss": "임금, 성",
+          "reading": "왕",
+          "source": {
+            "title": "王",
+            "revision": 4389955,
+            "timestamp": "2025-07-19T00:30:16Z",
+            "url": "https://ko.wiktionary.org/w/index.php?title=王&oldid=4389955"
+          }
+        }
+      ]
+    },
+    {
+      "id": "extra-7956",
+      "character": "祖",
+      "flags": [
+        "훈독 사전 미수록 · 출제 제외"
+      ],
+      "dictionary_korean": [
+        "조"
+      ],
+      "gloss_candidates": [
+        {
+          "gloss": "할아버지, 선조",
+          "reading": "조",
+          "source": {
+            "title": "祖",
+            "revision": 4228666,
+            "timestamp": "2024-07-11T17:59:34Z",
+            "url": "https://ko.wiktionary.org/w/index.php?title=祖&oldid=4228666"
+          }
+        }
+      ]
+    },
+    {
+      "id": "extra-7ae0",
+      "character": "章",
+      "flags": [
+        "훈독 사전 미수록 · 출제 제외"
+      ],
+      "dictionary_korean": [
+        "장"
+      ],
+      "gloss_candidates": [
+        {
+          "gloss": "글, 단락",
+          "reading": "장",
+          "source": {
+            "title": "章",
+            "revision": 4051862,
+            "timestamp": "2022-05-15T13:08:39Z",
+            "url": "https://ko.wiktionary.org/w/index.php?title=章&oldid=4051862"
+          }
+        }
+      ]
+    },
+    {
+      "id": "extra-7d05",
+      "character": "紅",
+      "flags": [
+        "한국 한자음 복수"
+      ],
+      "dictionary_korean": [
+        "홍",
+        "공"
+      ],
+      "gloss_candidates": [
+        {
+          "gloss": "붉다",
+          "reading": "홍",
+          "source": {
+            "title": "紅",
+            "revision": 3902988,
+            "timestamp": "2018-07-09T04:38:10Z",
+            "url": "https://ko.wiktionary.org/w/index.php?title=紅&oldid=3902988"
+          }
+        }
+      ]
+    },
+    {
+      "id": "extra-7d39",
+      "character": "紹",
+      "flags": [
+        "훈독 사전 미수록 · 출제 제외"
+      ],
+      "dictionary_korean": [
+        "소"
+      ],
+      "gloss_candidates": [
+        {
+          "gloss": "잇다, 소개하다",
+          "reading": "소",
+          "source": {
+            "title": "紹",
+            "revision": 3996182,
+            "timestamp": "2019-10-01T11:50:20Z",
+            "url": "https://ko.wiktionary.org/w/index.php?title=紹&oldid=3996182"
+          }
+        }
+      ]
+    },
+    {
+      "id": "extra-8131",
+      "character": "脱",
+      "flags": [
+        "한국 한자음 복수"
+      ],
+      "dictionary_korean": [
+        "탈",
+        "태"
+      ],
+      "gloss_candidates": [
+        {
+          "gloss": "벗을",
+          "reading": "탈",
+          "source": {
+            "title": "脫",
+            "url": "https://hanja.wordrow.kr/한자/脫/",
+            "accessed": "2026-10-24",
+            "note": "Short factual hun/eum lookup only; extended definitions and media not reproduced."
+          }
+        }
+      ]
+    },
+    {
+      "id": "extra-83d3",
+      "character": "菓",
+      "flags": [
+        "훈독 사전 미수록 · 출제 제외"
+      ],
+      "dictionary_korean": [
+        "과"
+      ],
+      "gloss_candidates": [
+        {
+          "gloss": "과실, 과자",
+          "reading": "과",
+          "source": {
+            "title": "菓",
+            "revision": 3905181,
+            "timestamp": "2018-07-09T07:36:32Z",
+            "url": "https://ko.wiktionary.org/w/index.php?title=菓&oldid=3905181"
+          }
+        }
+      ]
+    },
+    {
+      "id": "extra-866b",
+      "character": "虫",
+      "flags": [
+        "한국 한자음 복수"
+      ],
+      "dictionary_korean": [
+        "훼",
+        "충"
+      ],
+      "gloss_candidates": [
+        {
+          "gloss": "벌레",
+          "reading": "훼",
+          "source": {
+            "title": "虫",
+            "revision": 4389963,
+            "timestamp": "2025-07-19T00:34:56Z",
+            "url": "https://ko.wiktionary.org/w/index.php?title=虫&oldid=4389963"
+          }
+        }
+      ]
+    },
+    {
+      "id": "extra-8c4a",
+      "character": "豊",
+      "flags": [
+        "한국 한자음 복수"
+      ],
+      "dictionary_korean": [
+        "풍",
+        "례"
+      ],
+      "gloss_candidates": [
+        {
+          "gloss": "풍년",
+          "reading": "풍",
+          "source": {
+            "title": "豊",
+            "revision": 4389947,
+            "timestamp": "2025-07-19T00:26:37Z",
+            "url": "https://ko.wiktionary.org/w/index.php?title=豊&oldid=4389947"
+          }
+        }
+      ]
+    },
+    {
+      "id": "extra-8da3",
+      "character": "趣",
+      "flags": [
+        "한국 한자음 복수"
+      ],
+      "dictionary_korean": [
+        "취",
+        "축"
+      ],
+      "gloss_candidates": [
+        {
+          "gloss": "향하다, 마음을 두다",
+          "reading": "취",
+          "source": {
+            "title": "趣",
+            "revision": 4001624,
+            "timestamp": "2019-11-18T03:37:55Z",
+            "url": "https://ko.wiktionary.org/w/index.php?title=趣&oldid=4001624"
+          }
+        }
+      ]
+    },
+    {
+      "id": "extra-8fb2",
+      "character": "農",
+      "flags": [
+        "훈독 사전 미수록 · 출제 제외"
+      ],
+      "dictionary_korean": [
+        "농"
+      ],
+      "gloss_candidates": [
+        {
+          "gloss": "농사",
+          "reading": "농",
+          "source": {
+            "title": "農",
+            "revision": 4049281,
+            "timestamp": "2022-03-10T06:40:03Z",
+            "url": "https://ko.wiktionary.org/w/index.php?title=農&oldid=4049281"
+          }
+        }
+      ]
+    },
+    {
+      "id": "extra-8fbc",
+      "character": "込",
+      "flags": [
+        "음독 사전 미수록 · 출제 제외",
+        "일본 고유 한자 · 한국음은 한국어 상용 여부와 구분"
+      ],
+      "dictionary_korean": [
+        "입"
+      ],
+      "gloss_candidates": [
+        {
+          "gloss": "담다",
+          "reading": "입",
+          "source": {
+            "title": "込",
+            "revision": 4039461,
+            "timestamp": "2021-09-23T05:46:02Z",
+            "url": "https://ko.wiktionary.org/w/index.php?title=込&oldid=4039461"
+          }
+        }
+      ]
+    },
+    {
+      "id": "extra-90f5",
+      "character": "郵",
+      "flags": [
+        "훈독 사전 미수록 · 출제 제외"
+      ],
+      "dictionary_korean": [
+        "우"
+      ],
+      "gloss_candidates": [
+        {
+          "gloss": "우편",
+          "reading": "우",
+          "source": {
+            "title": "郵",
+            "revision": 3407868,
+            "timestamp": "2017-07-27T03:41:52Z",
+            "url": "https://ko.wiktionary.org/w/index.php?title=郵&oldid=3407868"
+          }
+        }
+      ]
+    }
+  ]
+}

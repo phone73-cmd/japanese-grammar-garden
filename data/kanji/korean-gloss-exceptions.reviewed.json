@@ -1,0 +1,401 @@
+{
+  "note": "Manual source consultations after rejecting missing or malformed Wiktionary fields. Variant links validated against Unicode Unihan before use. Source match, not professional certification.",
+  "items": [
+    {
+      "character": "入",
+      "korean_form": "入",
+      "gloss": "들",
+      "reading": "입",
+      "source": {
+        "title": "入",
+        "url": "https://hanja.wordrow.kr/한자/入/",
+        "accessed": "2026-10-24",
+        "note": "Short factual hun/eum lookup only; extended definitions and media not reproduced."
+      }
+    },
+    {
+      "character": "貼",
+      "korean_form": "貼",
+      "gloss": "붙일",
+      "reading": "첩",
+      "source": {
+        "title": "貼",
+        "url": "https://hanja.wordrow.kr/한자/貼/",
+        "accessed": "2026-10-24",
+        "note": "Short factual hun/eum lookup only; extended definitions and media not reproduced."
+      }
+    },
+    {
+      "character": "言",
+      "korean_form": "言",
+      "gloss": "말씀",
+      "reading": "언",
+      "source": {
+        "title": "言",
+        "url": "https://hanja.wordrow.kr/한자/言/",
+        "accessed": "2026-10-24",
+        "note": "Short factual hun/eum lookup only; extended definitions and media not reproduced."
+      }
+    },
+    {
+      "character": "町",
+      "korean_form": "町",
+      "gloss": "밭두둑",
+      "reading": "정",
+      "source": {
+        "title": "町",
+        "url": "https://hanja.wordrow.kr/한자/町/",
+        "accessed": "2026-10-24",
+        "note": "Short factual hun/eum lookup only; extended definitions and media not reproduced."
+      }
+    },
+    {
+      "character": "楽",
+      "korean_form": "樂",
+      "gloss": "노래",
+      "reading": "악",
+      "source": {
+        "title": "樂",
+        "url": "https://hanja.wordrow.kr/한자/樂/",
+        "accessed": "2026-10-24",
+        "note": "Short factual hun/eum lookup only; extended definitions and media not reproduced."
+      }
+    },
+    {
+      "character": "坊",
+      "korean_form": "坊",
+      "gloss": "동네",
+      "reading": "방",
+      "source": {
+        "title": "坊",
+        "url": "https://hanja.wordrow.kr/한자/坊/",
+        "accessed": "2026-10-24",
+        "note": "Short factual hun/eum lookup only; extended definitions and media not reproduced."
+      }
+    },
+    {
+      "character": "内",
+      "korean_form": "內",
+      "gloss": "안",
+      "reading": "내",
+      "source": {
+        "title": "內",
+        "url": "https://hanja.wordrow.kr/한자/內/",
+        "accessed": "2026-10-24",
+        "note": "Short factual hun/eum lookup only; extended definitions and media not reproduced."
+      }
+    },
+    {
+      "character": "際",
+      "korean_form": "際",
+      "gloss": "즈음",
+      "reading": "제",
+      "source": {
+        "title": "際",
+        "url": "https://hanja.wordrow.kr/한자/際/",
+        "accessed": "2026-10-24",
+        "note": "Short factual hun/eum lookup only; extended definitions and media not reproduced."
+      }
+    },
+    {
+      "character": "官",
+      "korean_form": "官",
+      "gloss": "벼슬",
+      "reading": "관",
+      "source": {
+        "title": "官",
+        "url": "https://hanja.wordrow.kr/한자/官/",
+        "accessed": "2026-10-24",
+        "note": "Short factual hun/eum lookup only; extended definitions and media not reproduced."
+      }
+    },
+    {
+      "character": "演",
+      "korean_form": "演",
+      "gloss": "펼",
+      "reading": "연",
+      "source": {
+        "title": "演",
+        "url": "https://hanja.wordrow.kr/한자/演/",
+        "accessed": "2026-10-24",
+        "note": "Short factual hun/eum lookup only; extended definitions and media not reproduced."
+      }
+    },
+    {
+      "character": "歳",
+      "korean_form": "歲",
+      "gloss": "해",
+      "reading": "세",
+      "source": {
+        "title": "歲",
+        "url": "https://hanja.wordrow.kr/한자/歲/",
+        "accessed": "2026-10-24",
+        "note": "Short factual hun/eum lookup only; extended definitions and media not reproduced."
+      }
+    },
+    {
+      "character": "限",
+      "korean_form": "限",
+      "gloss": "한할",
+      "reading": "한",
+      "source": {
+        "title": "限",
+        "url": "https://hanja.wordrow.kr/한자/限/",
+        "accessed": "2026-10-24",
+        "note": "Short factual hun/eum lookup only; extended definitions and media not reproduced."
+      }
+    },
+    {
+      "character": "失",
+      "korean_form": "失",
+      "gloss": "잃을",
+      "reading": "실",
+      "source": {
+        "title": "失",
+        "url": "https://hanja.wordrow.kr/한자/失/",
+        "accessed": "2026-10-24",
+        "note": "Short factual hun/eum lookup only; extended definitions and media not reproduced."
+      }
+    },
+    {
+      "character": "横",
+      "korean_form": "橫",
+      "gloss": "가로",
+      "reading": "횡",
+      "source": {
+        "title": "橫",
+        "url": "https://hanja.wordrow.kr/한자/橫/",
+        "accessed": "2026-10-24",
+        "note": "Short factual hun/eum lookup only; extended definitions and media not reproduced."
+      }
+    },
+    {
+      "character": "速",
+      "korean_form": "速",
+      "gloss": "빠를",
+      "reading": "속",
+      "source": {
+        "title": "速",
+        "url": "https://hanja.wordrow.kr/한자/速/",
+        "accessed": "2026-10-24",
+        "note": "Short factual hun/eum lookup only; extended definitions and media not reproduced."
+      }
+    },
+    {
+      "character": "存",
+      "korean_form": "存",
+      "gloss": "있을",
+      "reading": "존",
+      "source": {
+        "title": "存",
+        "url": "https://hanja.wordrow.kr/한자/存/",
+        "accessed": "2026-10-24",
+        "note": "Short factual hun/eum lookup only; extended definitions and media not reproduced."
+      }
+    },
+    {
+      "character": "宿",
+      "korean_form": "宿",
+      "gloss": "잘",
+      "reading": "숙",
+      "source": {
+        "title": "宿",
+        "url": "https://hanja.wordrow.kr/한자/宿/",
+        "accessed": "2026-10-24",
+        "note": "Short factual hun/eum lookup only; extended definitions and media not reproduced."
+      }
+    },
+    {
+      "character": "咲",
+      "korean_form": "咲",
+      "gloss": "웃음",
+      "reading": "소",
+      "source": {
+        "title": "咲",
+        "url": "https://hanja.nameunse.com/hanjaview.php?h=咲&n=2475",
+        "accessed": "2026-10-24",
+        "note": "Short factual hun/eum lookup only; extended definitions and media not reproduced."
+      }
+    },
+    {
+      "character": "戻",
+      "korean_form": "戾",
+      "gloss": "어그러질",
+      "reading": "려",
+      "source": {
+        "title": "戾",
+        "url": "https://hanja.wordrow.kr/한자/戾/",
+        "accessed": "2026-10-24",
+        "note": "Short factual hun/eum lookup only; extended definitions and media not reproduced."
+      }
+    },
+    {
+      "character": "枚",
+      "korean_form": "枚",
+      "gloss": "낱",
+      "reading": "매",
+      "source": {
+        "title": "枚",
+        "url": "https://hanja.wordrow.kr/한자/枚/",
+        "accessed": "2026-10-24",
+        "note": "Short factual hun/eum lookup only; extended definitions and media not reproduced."
+      }
+    },
+    {
+      "character": "棚",
+      "korean_form": "棚",
+      "gloss": "사다리",
+      "reading": "붕",
+      "source": {
+        "title": "棚",
+        "url": "https://hanja.wordrow.kr/한자/棚/",
+        "accessed": "2026-10-24",
+        "note": "Short factual hun/eum lookup only; extended definitions and media not reproduced."
+      }
+    },
+    {
+      "character": "歴",
+      "korean_form": "歷",
+      "gloss": "지날",
+      "reading": "력",
+      "source": {
+        "title": "歷",
+        "url": "https://hanja.wordrow.kr/한자/歷/",
+        "accessed": "2026-10-24",
+        "note": "Short factual hun/eum lookup only; extended definitions and media not reproduced."
+      }
+    },
+    {
+      "character": "脱",
+      "korean_form": "脫",
+      "gloss": "벗을",
+      "reading": "탈",
+      "source": {
+        "title": "脫",
+        "url": "https://hanja.wordrow.kr/한자/脫/",
+        "accessed": "2026-10-24",
+        "note": "Short factual hun/eum lookup only; extended definitions and media not reproduced."
+      }
+    },
+    {
+      "character": "一",
+      "korean_form": "一",
+      "gloss": "한",
+      "reading": "일",
+      "source": {
+        "title": "一",
+        "url": "https://hanja.wordrow.kr/한자/一/",
+        "accessed": "2026-10-24",
+        "note": "Short factual hun/eum lookup only; extended definitions and media not reproduced."
+      }
+    },
+    {
+      "character": "二",
+      "korean_form": "二",
+      "gloss": "두",
+      "reading": "이",
+      "source": {
+        "title": "二",
+        "url": "https://hanja.wordrow.kr/한자/二/",
+        "accessed": "2026-10-24",
+        "note": "Short factual hun/eum lookup only; extended definitions and media not reproduced."
+      }
+    },
+    {
+      "character": "上",
+      "korean_form": "上",
+      "gloss": "윗",
+      "reading": "상",
+      "source": {
+        "title": "上",
+        "url": "https://hanja.wordrow.kr/한자/上/",
+        "accessed": "2026-10-24",
+        "note": "Short factual hun/eum lookup only; extended definitions and media not reproduced."
+      }
+    },
+    {
+      "character": "不",
+      "korean_form": "不",
+      "gloss": "아닐",
+      "reading": "불",
+      "source": {
+        "title": "不",
+        "url": "https://hanja.wordrow.kr/한자/不/",
+        "accessed": "2026-10-24",
+        "note": "Short factual hun/eum lookup only; extended definitions and media not reproduced."
+      }
+    },
+    {
+      "character": "台",
+      "korean_form": "台",
+      "gloss": "별",
+      "reading": "태",
+      "source": {
+        "title": "台",
+        "url": "https://hanja.wordrow.kr/한자/台/",
+        "accessed": "2026-10-24",
+        "note": "Short factual hun/eum lookup only; extended definitions and media not reproduced."
+      }
+    },
+    {
+      "character": "茶",
+      "korean_form": "茶",
+      "gloss": "차",
+      "reading": "다",
+      "source": {
+        "title": "茶",
+        "url": "https://hanja.wordrow.kr/한자/茶/",
+        "accessed": "2026-10-24",
+        "note": "Short factual hun/eum lookup only; extended definitions and media not reproduced."
+      }
+    },
+    {
+      "character": "調",
+      "korean_form": "調",
+      "gloss": "고를",
+      "reading": "조",
+      "source": {
+        "title": "調",
+        "url": "https://hanja.wordrow.kr/한자/調/",
+        "accessed": "2026-10-24",
+        "note": "Short factual hun/eum lookup only; extended definitions and media not reproduced."
+      }
+    },
+    {
+      "character": "宅",
+      "korean_form": "宅",
+      "gloss": "집",
+      "reading": "택",
+      "source": {
+        "title": "宅",
+        "url": "https://hanja.wordrow.kr/한자/宅/",
+        "accessed": "2026-10-24",
+        "note": "Short factual hun/eum lookup only; extended definitions and media not reproduced."
+      }
+    },
+    {
+      "character": "冷",
+      "korean_form": "冷",
+      "gloss": "찰",
+      "reading": "랭",
+      "source": {
+        "title": "冷",
+        "url": "https://hanja.wordrow.kr/한자/冷/",
+        "accessed": "2026-10-24",
+        "note": "Short factual hun/eum lookup only; extended definitions and media not reproduced."
+      }
+    },
+    {
+      "character": "挑",
+      "korean_form": "挑",
+      "gloss": "돋울",
+      "reading": "도",
+      "source": {
+        "title": "挑",
+        "url": "https://hanja.wordrow.kr/한자/挑/",
+        "accessed": "2026-10-24",
+        "note": "Short factual hun/eum lookup only; extended definitions and media not reproduced."
+      }
+    }
+  ]
+}
