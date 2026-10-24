@@ -62,5 +62,5 @@ for n,d in lessons.items():
   assert len(q['choices'])==4 and len(set(q['choices']))==4,(n,q)
   assert 0<=q['correct']<4 and q['reason']
 (root/'grammar-lessons.js').write_text('/* Japanese Grammar Garden: 57 independently authored lesson drafts. See docs/CONTENT-SOURCES.md. */\nwindow.JGG_LESSONS='+json.dumps(lessons,ensure_ascii=False,separators=(',',':'))+';\n')
-(root/'data/grammar/CONTENT-STATUS.json').write_text(json.dumps({'version':'0.3.0-dev','legacy_lessons_preserved':[1,6,7],'new_lessons':57,'total_lessons':60,'new_questions':570,'total_questions':600,'example_fields':['Japanese','hiragana','romaji','Korean'],'status':'authored_draft_structure_checked_not_independent_native_review','sources_document':'docs/CONTENT-SOURCES.md'},ensure_ascii=False,indent=2)+'\n')
+(root/'data/grammar/CONTENT-STATUS.json').write_text(json.dumps({'version':'0.3.4-dev','legacy_lessons_preserved':[1,6,7],'new_lessons':57,'total_lessons':60,'new_questions':570,'total_questions':600,'example_fields':['Japanese','hiragana','romaji','Korean'],'status':'authored_draft_structure_checked_not_independent_native_review','sources_document':'docs/CONTENT-SOURCES.md'},ensure_ascii=False,indent=2)+'\n')
 print('57 additional lessons, 570 new questions; original 30 questions unchanged.')
