@@ -1,0 +1,3599 @@
+{
+  "schema_version": "kanji-v1",
+  "version": "0.3.5-dev",
+  "status": "supplemental-draft",
+  "count": 125,
+  "dictionary": {
+    "url": "https://www.edrdg.org/pub/Nihongo/JMdict_e.gz",
+    "sha256": "b45f780bd76b56099fe36f1a6d12c7900db687592f3782280bd924dd7f3b2127",
+    "matched": 125,
+    "total": 125
+  },
+  "items": [
+    {
+      "id": "extra-6cca",
+      "character": "泊",
+      "stage": 6,
+      "order": 1,
+      "group_name": "문장 속 추가 한자",
+      "meaning_ko": "묵다",
+      "example_words": [
+        {
+          "word": "宿泊",
+          "reading": "しゅくはく",
+          "meaning_ko": "숙박",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1337300"
+          ],
+          "reading_editorial_review_required": false
+        }
+      ],
+      "example_sentence": {
+        "ja": "三泊します。",
+        "reading": "さんぱくします。",
+        "translation_ko": "3박 합니다.",
+        "source": "grammar-lesson-51"
+      },
+      "editorial_status": "authored_draft",
+      "source": "existing-app-sentence-and-authored-korean-gloss"
+    },
+    {
+      "id": "extra-8377",
+      "character": "荷",
+      "stage": 6,
+      "order": 2,
+      "group_name": "문장 속 추가 한자",
+      "meaning_ko": "짐",
+      "example_words": [
+        {
+          "word": "荷物",
+          "reading": "にもつ",
+          "meaning_ko": "짐",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1195430"
+          ],
+          "reading_editorial_review_required": false
+        }
+      ],
+      "example_sentence": {
+        "ja": "荷物はどこで受け取りますか。",
+        "reading": "にもつはどこでうけとりますか。",
+        "translation_ko": "짐은 어디에서 받습니까?",
+        "source": "grammar-lesson-51"
+      },
+      "editorial_status": "authored_draft",
+      "source": "existing-app-sentence-and-authored-korean-gloss"
+    },
+    {
+      "id": "extra-9810",
+      "character": "預",
+      "stage": 6,
+      "order": 3,
+      "group_name": "문장 속 추가 한자",
+      "meaning_ko": "맡기다",
+      "example_words": [
+        {
+          "word": "預ける",
+          "reading": "あずける",
+          "meaning_ko": "맡기다",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1544990"
+          ],
+          "reading_editorial_review_required": false
+        }
+      ],
+      "example_sentence": {
+        "ja": "荷物を預けてもいいですか。",
+        "reading": "にもつをあずけてもいいですか。",
+        "translation_ko": "짐을 맡겨도 됩니까?",
+        "source": "grammar-lesson-54"
+      },
+      "editorial_status": "authored_draft",
+      "source": "existing-app-sentence-and-authored-korean-gloss"
+    },
+    {
+      "id": "extra-6255",
+      "character": "払",
+      "stage": 6,
+      "order": 4,
+      "group_name": "문장 속 추가 한자",
+      "meaning_ko": "지불하다",
+      "example_words": [
+        {
+          "word": "払う",
+          "reading": "はらう",
+          "meaning_ko": "지불하다",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1501620"
+          ],
+          "reading_editorial_review_required": false
+        }
+      ],
+      "example_sentence": {
+        "ja": "この店ではカードで払うことができます。",
+        "reading": "このみせではかーどではらうことができます。",
+        "translation_ko": "이 가게에서는 카드로 결제할 수 있습니다.",
+        "source": "grammar-lesson-35"
+      },
+      "editorial_status": "authored_draft",
+      "source": "existing-app-sentence-and-authored-korean-gloss"
+    },
+    {
+      "id": "extra-63db",
+      "character": "換",
+      "stage": 6,
+      "order": 5,
+      "group_name": "문장 속 추가 한자",
+      "meaning_ko": "바꾸다",
+      "example_words": [
+        {
+          "word": "乗り換える",
+          "reading": "のりかえる",
+          "meaning_ko": "갈아타다",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1600470"
+          ],
+          "reading_editorial_review_required": false
+        }
+      ],
+      "example_sentence": {
+        "ja": "どこで乗り換えますか。",
+        "reading": "どこでのりかえますか。",
+        "translation_ko": "어디에서 갈아탑니까?",
+        "source": "grammar-lesson-52"
+      },
+      "editorial_status": "authored_draft",
+      "source": "existing-app-sentence-and-authored-korean-gloss"
+    },
+    {
+      "id": "extra-64ae",
+      "character": "撮",
+      "stage": 6,
+      "order": 6,
+      "group_name": "문장 속 추가 한자",
+      "meaning_ko": "촬영하다",
+      "example_words": [
+        {
+          "word": "撮る",
+          "reading": "とる",
+          "meaning_ko": "찍다",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1298790"
+          ],
+          "reading_editorial_review_required": false
+        }
+      ],
+      "example_sentence": {
+        "ja": "ここでは写真を撮らない。",
+        "reading": "ここではしゃしんをとらない。",
+        "translation_ko": "여기서는 사진을 찍지 않는다.",
+        "source": "grammar-lesson-29"
+      },
+      "editorial_status": "authored_draft",
+      "source": "existing-app-sentence-and-authored-korean-gloss"
+    },
+    {
+      "id": "extra-5098",
+      "character": "傘",
+      "stage": 6,
+      "order": 7,
+      "group_name": "문장 속 추가 한자",
+      "meaning_ko": "우산",
+      "example_words": [
+        {
+          "word": "傘",
+          "reading": "かさ",
+          "meaning_ko": "우산",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1301940"
+          ],
+          "reading_editorial_review_required": false
+        }
+      ],
+      "example_sentence": {
+        "ja": "これはだれの傘ですか。",
+        "reading": "これはだれのかさですか。",
+        "translation_ko": "이것은 누구의 우산입니까?",
+        "source": "grammar-lesson-11"
+      },
+      "editorial_status": "authored_draft",
+      "source": "existing-app-sentence-and-authored-korean-gloss"
+    },
+    {
+      "id": "extra-962a",
+      "character": "阪",
+      "stage": 6,
+      "order": 8,
+      "group_name": "문장 속 추가 한자",
+      "meaning_ko": "언덕·지명에 쓰임",
+      "example_words": [
+        {
+          "word": "大阪",
+          "reading": "おおさか",
+          "meaning_ko": "오사카",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "2078800"
+          ],
+          "reading_editorial_review_required": false
+        }
+      ],
+      "example_sentence": {
+        "ja": "大阪へ行きます。",
+        "reading": "おおさかへいきます。",
+        "translation_ko": "오사카에 갑니다.",
+        "source": "grammar-lesson-25"
+      },
+      "editorial_status": "authored_draft",
+      "source": "existing-app-sentence-and-authored-korean-gloss"
+    },
+    {
+      "id": "extra-6ce2",
+      "character": "波",
+      "stage": 6,
+      "order": 9,
+      "group_name": "문장 속 추가 한자",
+      "meaning_ko": "물결",
+      "example_words": [
+        {
+          "word": "波",
+          "reading": "なみ",
+          "meaning_ko": "물결",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1470970"
+          ],
+          "reading_editorial_review_required": false
+        }
+      ],
+      "example_sentence": {
+        "ja": "この電車は難波に行きますか。",
+        "reading": "このでんしゃはなんばにいきますか。",
+        "translation_ko": "이 전철은 난바에 갑니까?",
+        "source": "grammar-lesson-52"
+      },
+      "editorial_status": "authored_draft",
+      "source": "existing-app-sentence-and-authored-korean-gloss"
+    },
+    {
+      "id": "extra-7b26",
+      "character": "符",
+      "stage": 6,
+      "order": 10,
+      "group_name": "문장 속 추가 한자",
+      "meaning_ko": "부호·표",
+      "example_words": [
+        {
+          "word": "切符",
+          "reading": "きっぷ",
+          "meaning_ko": "승차권",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1385170"
+          ],
+          "reading_editorial_review_required": false
+        }
+      ],
+      "example_sentence": {
+        "ja": "ここで切符を買うことができます。",
+        "reading": "ここできっぷをかうことができます。",
+        "translation_ko": "여기서 표를 살 수 있습니다.",
+        "source": "grammar-lesson-35"
+      },
+      "editorial_status": "authored_draft",
+      "source": "existing-app-sentence-and-authored-korean-gloss"
+    },
+    {
+      "id": "extra-9858",
+      "character": "願",
+      "stage": 6,
+      "order": 11,
+      "group_name": "문장 속 추가 한자",
+      "meaning_ko": "바라다",
+      "example_words": [
+        {
+          "word": "お願い",
+          "reading": "おねがい",
+          "meaning_ko": "부탁",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "2036870"
+          ],
+          "reading_editorial_review_required": false
+        }
+      ],
+      "example_sentence": {
+        "ja": "チェックインをお願いします。",
+        "reading": "ちぇっくいんをおねがいします。",
+        "translation_ko": "체크인 부탁드립니다.",
+        "source": "grammar-lesson-54"
+      },
+      "editorial_status": "authored_draft",
+      "source": "existing-app-sentence-and-authored-korean-gloss"
+    },
+    {
+      "id": "extra-7a93",
+      "character": "窓",
+      "stage": 6,
+      "order": 12,
+      "group_name": "문장 속 추가 한자",
+      "meaning_ko": "창문",
+      "example_words": [
+        {
+          "word": "窓",
+          "reading": "まど",
+          "meaning_ko": "창문",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1401400"
+          ],
+          "reading_editorial_review_required": false
+        }
+      ],
+      "example_sentence": {
+        "ja": "窓を開けてもいいですか。",
+        "reading": "まどをあけてもいいですか。",
+        "translation_ko": "창문을 열어도 됩니까?",
+        "source": "grammar-lesson-33"
+      },
+      "editorial_status": "authored_draft",
+      "source": "existing-app-sentence-and-authored-korean-gloss"
+    },
+    {
+      "id": "extra-9589",
+      "character": "閉",
+      "stage": 6,
+      "order": 13,
+      "group_name": "문장 속 추가 한자",
+      "meaning_ko": "닫다",
+      "example_words": [
+        {
+          "word": "閉める",
+          "reading": "しめる",
+          "meaning_ko": "닫다",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1508590"
+          ],
+          "reading_editorial_review_required": false
+        }
+      ],
+      "example_sentence": {
+        "ja": "寒いので、窓を閉めます。",
+        "reading": "さむいのでまどをしめます。",
+        "translation_ko": "추워서 창문을 닫습니다.",
+        "source": "grammar-lesson-41"
+      },
+      "editorial_status": "authored_draft",
+      "source": "existing-app-sentence-and-authored-korean-gloss"
+    },
+    {
+      "id": "extra-5375",
+      "character": "卵",
+      "stage": 6,
+      "order": 14,
+      "group_name": "문장 속 추가 한자",
+      "meaning_ko": "알",
+      "example_words": [
+        {
+          "word": "卵",
+          "reading": "たまご",
+          "meaning_ko": "달걀",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1549140"
+          ],
+          "reading_editorial_review_required": false
+        }
+      ],
+      "example_sentence": {
+        "ja": "卵アレルギーがあります。",
+        "reading": "たまごあれるぎーがあります。",
+        "translation_ko": "달걀 알레르기가 있습니다.",
+        "source": "grammar-lesson-56"
+      },
+      "editorial_status": "authored_draft",
+      "source": "existing-app-sentence-and-authored-korean-gloss"
+    },
+    {
+      "id": "extra-9774",
+      "character": "靴",
+      "stage": 6,
+      "order": 15,
+      "group_name": "문장 속 추가 한자",
+      "meaning_ko": "신발",
+      "example_words": [
+        {
+          "word": "靴",
+          "reading": "くつ",
+          "meaning_ko": "신발",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1246700"
+          ],
+          "reading_editorial_review_required": false
+        }
+      ],
+      "example_sentence": {
+        "ja": "この靴は足に合います。",
+        "reading": "このくつはあしにあいます。",
+        "translation_ko": "이 신발은 발에 맞습니다.",
+        "status": "authored_draft_editorial_review_pending",
+        "source": "kanji-263"
+      },
+      "editorial_status": "authored_draft",
+      "source": "existing-app-sentence-and-authored-korean-gloss"
+    },
+    {
+      "id": "extra-9375",
+      "character": "鍵",
+      "stage": 6,
+      "order": 16,
+      "group_name": "문장 속 추가 한자",
+      "meaning_ko": "열쇠",
+      "example_words": [
+        {
+          "word": "鍵",
+          "reading": "かぎ",
+          "meaning_ko": "열쇠",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1260490"
+          ],
+          "reading_editorial_review_required": false
+        }
+      ],
+      "example_sentence": {
+        "ja": "部屋の鍵をください。",
+        "reading": "へやのかぎをください。",
+        "translation_ko": "방 열쇠를 주세요.",
+        "status": "authored_draft_editorial_review_pending",
+        "source": "kanji-226"
+      },
+      "editorial_status": "authored_draft",
+      "source": "existing-app-sentence-and-authored-korean-gloss"
+    },
+    {
+      "id": "extra-968e",
+      "character": "階",
+      "stage": 6,
+      "order": 17,
+      "group_name": "문장 속 추가 한자",
+      "meaning_ko": "층·계단",
+      "example_words": [
+        {
+          "word": "階段",
+          "reading": "かいだん",
+          "meaning_ko": "계단",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1203090"
+          ],
+          "reading_editorial_review_required": false
+        }
+      ],
+      "example_sentence": {
+        "ja": "受付は一階にあります。",
+        "reading": "うけつけはいっかいにあります。",
+        "translation_ko": "접수처는 1층에 있습니다.",
+        "status": "authored_draft_editorial_review_pending",
+        "source": "kanji-300"
+      },
+      "editorial_status": "authored_draft",
+      "source": "existing-app-sentence-and-authored-korean-gloss"
+    },
+    {
+      "id": "extra-96a3",
+      "character": "隣",
+      "stage": 6,
+      "order": 18,
+      "group_name": "문장 속 추가 한자",
+      "meaning_ko": "이웃·옆",
+      "example_words": [
+        {
+          "word": "隣",
+          "reading": "となり",
+          "meaning_ko": "옆·이웃",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1555830"
+          ],
+          "reading_editorial_review_required": false
+        }
+      ],
+      "example_sentence": {
+        "ja": "交番は駅の隣です。",
+        "reading": "こうばんはえきのとなりです。",
+        "translation_ko": "파출소는 역 옆입니다.",
+        "status": "authored_draft_editorial_review_pending",
+        "source": "kanji-395"
+      },
+      "editorial_status": "authored_draft",
+      "source": "existing-app-sentence-and-authored-korean-gloss"
+    },
+    {
+      "id": "extra-8ff7",
+      "character": "迷",
+      "stage": 6,
+      "order": 19,
+      "group_name": "문장 속 추가 한자",
+      "meaning_ko": "헤매다",
+      "example_words": [
+        {
+          "word": "迷う",
+          "reading": "まよう",
+          "meaning_ko": "헤매다",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1532710"
+          ],
+          "reading_editorial_review_required": false
+        }
+      ],
+      "example_sentence": {
+        "ja": "道に迷って警官に聞きました。",
+        "reading": "みちにまよってけいかんにききました。",
+        "translation_ko": "길을 잃어 경찰관에게 물었습니다.",
+        "status": "authored_draft_editorial_review_pending",
+        "source": "kanji-342"
+      },
+      "editorial_status": "authored_draft",
+      "source": "existing-app-sentence-and-authored-korean-gloss"
+    },
+    {
+      "id": "extra-9045",
+      "character": "遅",
+      "stage": 6,
+      "order": 20,
+      "group_name": "문장 속 추가 한자",
+      "meaning_ko": "늦다",
+      "example_words": [
+        {
+          "word": "遅れる",
+          "reading": "おくれる",
+          "meaning_ko": "늦다",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1589040"
+          ],
+          "reading_editorial_review_required": false
+        }
+      ],
+      "example_sentence": {
+        "ja": "寝坊して電車に乗り遅れました。",
+        "reading": "ねぼうしてでんしゃにのりおくれました。",
+        "translation_ko": "늦잠을 자서 전철을 놓쳤습니다.",
+        "status": "authored_draft_editorial_review_pending",
+        "source": "kanji-254"
+      },
+      "editorial_status": "authored_draft",
+      "source": "existing-app-sentence-and-authored-korean-gloss"
+    },
+    {
+      "id": "extra-967a",
+      "character": "険",
+      "stage": 6,
+      "order": 21,
+      "group_name": "문장 속 추가 한자",
+      "meaning_ko": "험하다",
+      "example_words": [
+        {
+          "word": "危険",
+          "reading": "きけん",
+          "meaning_ko": "위험",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1218560"
+          ],
+          "reading_editorial_review_required": false
+        }
+      ],
+      "example_sentence": {
+        "ja": "夜の山道は危険です。",
+        "reading": "よるのやまみちはきけんです。",
+        "translation_ko": "밤의 산길은 위험합니다.",
+        "status": "authored_draft_editorial_review_pending",
+        "source": "kanji-483"
+      },
+      "editorial_status": "authored_draft",
+      "source": "existing-app-sentence-and-authored-korean-gloss"
+    },
+    {
+      "id": "extra-8a3a",
+      "character": "診",
+      "stage": 6,
+      "order": 22,
+      "group_name": "문장 속 추가 한자",
+      "meaning_ko": "진찰하다",
+      "example_words": [
+        {
+          "word": "診察",
+          "reading": "しんさつ",
+          "meaning_ko": "진찰",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1365460"
+          ],
+          "reading_editorial_review_required": false
+        }
+      ],
+      "example_sentence": {
+        "ja": "医者に診てもらいました。",
+        "reading": "いしゃにみてもらいました。",
+        "translation_ko": "의사에게 진찰받았습니다.",
+        "status": "authored_draft_editorial_review_pending",
+        "source": "kanji-207"
+      },
+      "editorial_status": "authored_draft",
+      "source": "existing-app-sentence-and-authored-korean-gloss"
+    },
+    {
+      "id": "extra-85ac",
+      "character": "薬",
+      "stage": 6,
+      "order": 23,
+      "group_name": "문장 속 추가 한자",
+      "meaning_ko": "약",
+      "example_words": [
+        {
+          "word": "薬",
+          "reading": "くすり",
+          "meaning_ko": "약",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1538160"
+          ],
+          "reading_editorial_review_required": false
+        }
+      ],
+      "example_sentence": {
+        "ja": "この薬はとても苦いです。",
+        "reading": "このくすりはとてもにがいです。",
+        "translation_ko": "이 약은 매우 씁니다.",
+        "status": "authored_draft_editorial_review_pending",
+        "source": "kanji-485"
+      },
+      "editorial_status": "authored_draft",
+      "source": "existing-app-sentence-and-authored-korean-gloss"
+    },
+    {
+      "id": "extra-75db",
+      "character": "痛",
+      "stage": 6,
+      "order": 24,
+      "group_name": "문장 속 추가 한자",
+      "meaning_ko": "아프다",
+      "example_words": [
+        {
+          "word": "痛い",
+          "reading": "いたい",
+          "meaning_ko": "아프다",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1432680"
+          ],
+          "reading_editorial_review_required": false
+        }
+      ],
+      "example_sentence": {
+        "ja": "目が少し痛いです。",
+        "reading": "めがすこしいたいです。",
+        "translation_ko": "눈이 조금 아픕니다.",
+        "status": "authored_draft_editorial_review_pending",
+        "source": "kanji-129"
+      },
+      "editorial_status": "authored_draft",
+      "source": "existing-app-sentence-and-authored-korean-gloss"
+    },
+    {
+      "id": "extra-97d3",
+      "character": "韓",
+      "stage": 6,
+      "order": 25,
+      "group_name": "문장 속 추가 한자",
+      "meaning_ko": "한국",
+      "example_words": [
+        {
+          "word": "韓国",
+          "reading": "かんこく",
+          "meaning_ko": "한국",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1216170"
+          ],
+          "reading_editorial_review_required": false
+        }
+      ],
+      "example_sentence": {
+        "ja": "韓国から来ました。",
+        "reading": "かんこくからきました。",
+        "translation_ko": "한국에서 왔습니다.",
+        "source": "grammar-lesson-25"
+      },
+      "editorial_status": "authored_draft",
+      "source": "existing-app-sentence-and-authored-korean-gloss"
+    },
+    {
+      "id": "extra-4fbf",
+      "character": "便",
+      "stage": 6,
+      "order": 26,
+      "group_name": "문장 속 추가 한자",
+      "meaning_ko": "편리하다·소식",
+      "example_words": [
+        {
+          "word": "便利",
+          "reading": "べんり",
+          "meaning_ko": "편리함",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1512610"
+          ],
+          "reading_editorial_review_required": false
+        }
+      ],
+      "example_sentence": {
+        "ja": "便利な店です。",
+        "reading": "べんりなみせです。",
+        "translation_ko": "편리한 가게입니다.",
+        "source": "grammar-lesson-16"
+      },
+      "editorial_status": "authored_draft",
+      "source": "existing-app-sentence-and-authored-korean-gloss"
+    },
+    {
+      "id": "extra-9759",
+      "character": "静",
+      "stage": 6,
+      "order": 27,
+      "group_name": "문장 속 추가 한자",
+      "meaning_ko": "조용하다",
+      "example_words": [
+        {
+          "word": "静か",
+          "reading": "しずか",
+          "meaning_ko": "조용함",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1381820"
+          ],
+          "reading_editorial_review_required": false
+        }
+      ],
+      "example_sentence": {
+        "ja": "この町は静かです。",
+        "reading": "このまちはしずかです。",
+        "translation_ko": "이 마을은 조용합니다.",
+        "source": "grammar-lesson-16"
+      },
+      "editorial_status": "authored_draft",
+      "source": "existing-app-sentence-and-authored-korean-gloss"
+    },
+    {
+      "id": "extra-6691",
+      "character": "暑",
+      "stage": 6,
+      "order": 28,
+      "group_name": "문장 속 추가 한자",
+      "meaning_ko": "덥다",
+      "example_words": [
+        {
+          "word": "暑い",
+          "reading": "あつい",
+          "meaning_ko": "덥다",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1343460"
+          ],
+          "reading_editorial_review_required": false
+        }
+      ],
+      "example_sentence": {
+        "ja": "今日は暑いです。",
+        "reading": "きょうはあついです。",
+        "translation_ko": "오늘은 덥습니다.",
+        "source": "grammar-lesson-14"
+      },
+      "editorial_status": "authored_draft",
+      "source": "existing-app-sentence-and-authored-korean-gloss"
+    },
+    {
+      "id": "extra-5bd2",
+      "character": "寒",
+      "stage": 6,
+      "order": 29,
+      "group_name": "문장 속 추가 한자",
+      "meaning_ko": "춥다",
+      "example_words": [
+        {
+          "word": "寒い",
+          "reading": "さむい",
+          "meaning_ko": "춥다",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1210360"
+          ],
+          "reading_editorial_review_required": false
+        }
+      ],
+      "example_sentence": {
+        "ja": "今日は寒くないです。",
+        "reading": "きょうはさむくないです。",
+        "translation_ko": "오늘은 춥지 않습니다.",
+        "source": "grammar-lesson-15"
+      },
+      "editorial_status": "authored_draft",
+      "source": "existing-app-sentence-and-authored-korean-gloss"
+    },
+    {
+      "id": "extra-6674",
+      "character": "晴",
+      "stage": 6,
+      "order": 30,
+      "group_name": "문장 속 추가 한자",
+      "meaning_ko": "개다",
+      "example_words": [
+        {
+          "word": "晴れる",
+          "reading": "はれる",
+          "meaning_ko": "날씨가 개다",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1376470"
+          ],
+          "reading_editorial_review_required": false
+        }
+      ],
+      "example_sentence": {
+        "ja": "明日は晴れると思います。",
+        "reading": "あしたははれるとおもいます。",
+        "translation_ko": "내일은 맑을 것이라고 생각합니다.",
+        "source": "grammar-lesson-47"
+      },
+      "editorial_status": "authored_draft",
+      "source": "existing-app-sentence-and-authored-korean-gloss"
+    },
+    {
+      "id": "extra-96ea",
+      "character": "雪",
+      "stage": 6,
+      "order": 31,
+      "group_name": "문장 속 추가 한자",
+      "meaning_ko": "눈",
+      "example_words": [
+        {
+          "word": "雪",
+          "reading": "ゆき",
+          "meaning_ko": "눈",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1386500"
+          ],
+          "reading_editorial_review_required": false
+        }
+      ],
+      "example_sentence": {
+        "ja": "山に雪が積もっています。",
+        "reading": "やまにゆきがつもっています。",
+        "translation_ko": "산에 눈이 쌓여 있습니다.",
+        "status": "authored_draft_editorial_review_pending",
+        "source": "kanji-461"
+      },
+      "editorial_status": "authored_draft",
+      "source": "existing-app-sentence-and-authored-korean-gloss"
+    },
+    {
+      "id": "extra-5bdd",
+      "character": "寝",
+      "stage": 6,
+      "order": 32,
+      "group_name": "문장 속 추가 한자",
+      "meaning_ko": "자다",
+      "example_words": [
+        {
+          "word": "寝る",
+          "reading": "ねる",
+          "meaning_ko": "자다",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1360010"
+          ],
+          "reading_editorial_review_required": false
+        }
+      ],
+      "example_sentence": {
+        "ja": "本を読んで、寝ます。",
+        "reading": "ほんをよんでねます。",
+        "translation_ko": "책을 읽고 잡니다.",
+        "source": "grammar-lesson-26"
+      },
+      "editorial_status": "authored_draft",
+      "source": "existing-app-sentence-and-authored-korean-gloss"
+    },
+    {
+      "id": "extra-5bbf",
+      "character": "宿",
+      "stage": 6,
+      "order": 33,
+      "group_name": "문장 속 추가 한자",
+      "meaning_ko": "숙소·묵다",
+      "example_words": [
+        {
+          "word": "宿題",
+          "reading": "しゅくだい",
+          "meaning_ko": "숙제",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1337270"
+          ],
+          "reading_editorial_review_required": false
+        }
+      ],
+      "example_sentence": {
+        "ja": "宿題をする。",
+        "reading": "しゅくだいをする。",
+        "translation_ko": "숙제를 한다.",
+        "source": "grammar-lesson-21"
+      },
+      "editorial_status": "authored_draft",
+      "source": "existing-app-sentence-and-authored-korean-gloss"
+    },
+    {
+      "id": "extra-5e03",
+      "character": "布",
+      "stage": 6,
+      "order": 34,
+      "group_name": "문장 속 추가 한자",
+      "meaning_ko": "천",
+      "example_words": [
+        {
+          "word": "財布",
+          "reading": "さいふ",
+          "meaning_ko": "지갑",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1296970"
+          ],
+          "reading_editorial_review_required": false
+        }
+      ],
+      "example_sentence": {
+        "ja": "財布をなくしました。",
+        "reading": "さいふをなくしました。",
+        "translation_ko": "지갑을 잃어버렸습니다.",
+        "source": "grammar-lesson-59"
+      },
+      "editorial_status": "authored_draft",
+      "source": "existing-app-sentence-and-authored-korean-gloss"
+    },
+    {
+      "id": "extra-673a",
+      "character": "机",
+      "stage": 6,
+      "order": 35,
+      "group_name": "문장 속 추가 한자",
+      "meaning_ko": "책상",
+      "example_words": [
+        {
+          "word": "机",
+          "reading": "つくえ",
+          "meaning_ko": "책상",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1220210"
+          ],
+          "reading_editorial_review_required": false
+        }
+      ],
+      "example_sentence": {
+        "ja": "机の上に本があります。",
+        "reading": "つくえのうえにほんがあります。",
+        "translation_ko": "책상 위에 책이 있습니다.",
+        "source": "grammar-lesson-18"
+      },
+      "editorial_status": "authored_draft",
+      "source": "existing-app-sentence-and-authored-korean-gloss"
+    },
+    {
+      "id": "extra-66f2",
+      "character": "曲",
+      "stage": 6,
+      "order": 36,
+      "group_name": "문장 속 추가 한자",
+      "meaning_ko": "굽다·곡",
+      "example_words": [
+        {
+          "word": "曲がる",
+          "reading": "まがる",
+          "meaning_ko": "돌다·굽다",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1239730"
+          ],
+          "reading_editorial_review_required": false
+        }
+      ],
+      "example_sentence": {
+        "ja": "次の角を右に曲がってください。",
+        "reading": "つぎのかどをみぎにまがってください。",
+        "translation_ko": "다음 모퉁이에서 오른쪽으로 도세요.",
+        "source": "grammar-lesson-53"
+      },
+      "editorial_status": "authored_draft",
+      "source": "existing-app-sentence-and-authored-korean-gloss"
+    },
+    {
+      "id": "extra-89d2",
+      "character": "角",
+      "stage": 6,
+      "order": 37,
+      "group_name": "문장 속 추가 한자",
+      "meaning_ko": "모퉁이·뿔",
+      "example_words": [
+        {
+          "word": "角",
+          "reading": "かど",
+          "meaning_ko": "모퉁이",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1206110"
+          ],
+          "reading_editorial_review_required": false
+        }
+      ],
+      "example_sentence": {
+        "ja": "次の角を右に曲がってください。",
+        "reading": "つぎのかどをみぎにまがってください。",
+        "translation_ko": "다음 모퉁이에서 오른쪽으로 도세요.",
+        "source": "grammar-lesson-53"
+      },
+      "editorial_status": "authored_draft",
+      "source": "existing-app-sentence-and-authored-korean-gloss"
+    },
+    {
+      "id": "extra-9060",
+      "character": "遠",
+      "stage": 6,
+      "order": 38,
+      "group_name": "문장 속 추가 한자",
+      "meaning_ko": "멀다",
+      "example_words": [
+        {
+          "word": "遠い",
+          "reading": "とおい",
+          "meaning_ko": "멀다",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1177800"
+          ],
+          "reading_editorial_review_required": false
+        }
+      ],
+      "example_sentence": {
+        "ja": "この店は安いです。でも、少し遠いです。",
+        "reading": "このみせはやすいです。でもすこしとおいです。",
+        "translation_ko": "이 가게는 쌉니다. 하지만 조금 멉니다.",
+        "source": "grammar-lesson-43"
+      },
+      "editorial_status": "authored_draft",
+      "source": "existing-app-sentence-and-authored-korean-gloss"
+    },
+    {
+      "id": "extra-904a",
+      "character": "遊",
+      "stage": 6,
+      "order": 39,
+      "group_name": "문장 속 추가 한자",
+      "meaning_ko": "놀다",
+      "example_words": [
+        {
+          "word": "遊ぶ",
+          "reading": "あそぶ",
+          "meaning_ko": "놀다",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1542160"
+          ],
+          "reading_editorial_review_required": false
+        }
+      ],
+      "example_sentence": {
+        "ja": "宿題をしてから、遊びます。",
+        "reading": "しゅくだいをしてからあそびます。",
+        "translation_ko": "숙제를 한 다음에 놉니다.",
+        "source": "grammar-lesson-44"
+      },
+      "editorial_status": "authored_draft",
+      "source": "existing-app-sentence-and-authored-korean-gloss"
+    },
+    {
+      "id": "extra-6d17",
+      "character": "洗",
+      "stage": 6,
+      "order": 40,
+      "group_name": "문장 속 추가 한자",
+      "meaning_ko": "씻다",
+      "example_words": [
+        {
+          "word": "洗う",
+          "reading": "あらう",
+          "meaning_ko": "씻다",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1390930"
+          ],
+          "reading_editorial_review_required": false
+        }
+      ],
+      "example_sentence": {
+        "ja": "手を洗ってから、食べます。",
+        "reading": "てをあらってからたべます。",
+        "translation_ko": "손을 씻은 다음에 먹습니다.",
+        "source": "grammar-lesson-44"
+      },
+      "editorial_status": "authored_draft",
+      "source": "existing-app-sentence-and-authored-korean-gloss"
+    },
+    {
+      "id": "extra-6cf3",
+      "character": "泳",
+      "stage": 6,
+      "order": 41,
+      "group_name": "문장 속 추가 한자",
+      "meaning_ko": "헤엄치다",
+      "example_words": [
+        {
+          "word": "泳ぐ",
+          "reading": "およぐ",
+          "meaning_ko": "수영하다",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1174340"
+          ],
+          "reading_editorial_review_required": false
+        }
+      ],
+      "example_sentence": {
+        "ja": "今日は泳ぐことができません。",
+        "reading": "きょうはおよぐことができません。",
+        "translation_ko": "오늘은 수영할 수 없습니다.",
+        "source": "grammar-lesson-35"
+      },
+      "editorial_status": "authored_draft",
+      "source": "existing-app-sentence-and-authored-korean-gloss"
+    },
+    {
+      "id": "extra-7dd2",
+      "character": "緒",
+      "stage": 6,
+      "order": 42,
+      "group_name": "문장 속 추가 한자",
+      "meaning_ko": "실마리·함께",
+      "example_words": [
+        {
+          "word": "一緒",
+          "reading": "いっしょ",
+          "meaning_ko": "함께",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1163400"
+          ],
+          "reading_editorial_review_required": false
+        }
+      ],
+      "example_sentence": {
+        "ja": "一緒に行きましょう。",
+        "reading": "いっしょにいきましょう。",
+        "translation_ko": "함께 갑시다.",
+        "source": "grammar-lesson-36"
+      },
+      "editorial_status": "authored_draft",
+      "source": "existing-app-sentence-and-authored-korean-gloss"
+    },
+    {
+      "id": "extra-7d50",
+      "character": "結",
+      "stage": 6,
+      "order": 43,
+      "group_name": "문장 속 추가 한자",
+      "meaning_ko": "맺다",
+      "example_words": [
+        {
+          "word": "結婚",
+          "reading": "けっこん",
+          "meaning_ko": "결혼",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1254790"
+          ],
+          "reading_editorial_review_required": false
+        }
+      ],
+      "example_sentence": {
+        "ja": "姉は結婚しています。",
+        "reading": "あねはけっこんしています。",
+        "translation_ko": "언니/누나는 결혼한 상태입니다.",
+        "source": "grammar-lesson-28"
+      },
+      "editorial_status": "authored_draft",
+      "source": "existing-app-sentence-and-authored-korean-gloss"
+    },
+    {
+      "id": "extra-5a5a",
+      "character": "婚",
+      "stage": 6,
+      "order": 44,
+      "group_name": "문장 속 추가 한자",
+      "meaning_ko": "혼인",
+      "example_words": [
+        {
+          "word": "結婚",
+          "reading": "けっこん",
+          "meaning_ko": "결혼",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1254790"
+          ],
+          "reading_editorial_review_required": false
+        }
+      ],
+      "example_sentence": {
+        "ja": "姉は結婚しています。",
+        "reading": "あねはけっこんしています。",
+        "translation_ko": "언니/누나는 결혼한 상태입니다.",
+        "source": "grammar-lesson-28"
+      },
+      "editorial_status": "authored_draft",
+      "source": "existing-app-sentence-and-authored-korean-gloss"
+    },
+    {
+      "id": "extra-5bff",
+      "character": "寿",
+      "stage": 6,
+      "order": 45,
+      "group_name": "문장 속 추가 한자",
+      "meaning_ko": "장수·축하",
+      "example_words": [
+        {
+          "word": "寿司",
+          "reading": "すし",
+          "meaning_ko": "초밥",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1595650"
+          ],
+          "reading_editorial_review_required": false
+        }
+      ],
+      "example_sentence": {
+        "ja": "寿司を作ったことがあります。",
+        "reading": "すしをつくったことがあります。",
+        "translation_ko": "초밥을 만들어 본 적이 있습니다.",
+        "source": "grammar-lesson-45"
+      },
+      "editorial_status": "authored_draft",
+      "source": "existing-app-sentence-and-authored-korean-gloss"
+    },
+    {
+      "id": "extra-53f8",
+      "character": "司",
+      "stage": 6,
+      "order": 46,
+      "group_name": "문장 속 추가 한자",
+      "meaning_ko": "맡아 다스리다",
+      "example_words": [
+        {
+          "word": "寿司",
+          "reading": "すし",
+          "meaning_ko": "초밥",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1595650"
+          ],
+          "reading_editorial_review_required": false
+        }
+      ],
+      "example_sentence": {
+        "ja": "寿司を作ったことがあります。",
+        "reading": "すしをつくったことがあります。",
+        "translation_ko": "초밥을 만들어 본 적이 있습니다.",
+        "source": "grammar-lesson-45"
+      },
+      "editorial_status": "authored_draft",
+      "source": "existing-app-sentence-and-authored-korean-gloss"
+    },
+    {
+      "id": "extra-58eb",
+      "character": "士",
+      "stage": 6,
+      "order": 47,
+      "group_name": "문장 속 추가 한자",
+      "meaning_ko": "선비·전문인",
+      "example_words": [
+        {
+          "word": "富士山",
+          "reading": "ふじさん",
+          "meaning_ko": "후지산",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1496800"
+          ],
+          "reading_editorial_review_required": false
+        }
+      ],
+      "example_sentence": {
+        "ja": "富士山を見たことがあります。",
+        "reading": "ふじさんをみたことがあります。",
+        "translation_ko": "후지산을 본 적이 있습니다.",
+        "source": "grammar-lesson-45"
+      },
+      "editorial_status": "authored_draft",
+      "source": "existing-app-sentence-and-authored-korean-gloss"
+    },
+    {
+      "id": "extra-5e79",
+      "character": "幹",
+      "stage": 6,
+      "order": 48,
+      "group_name": "문장 속 추가 한자",
+      "meaning_ko": "줄기·중심",
+      "example_words": [
+        {
+          "word": "新幹線",
+          "reading": "しんかんせん",
+          "meaning_ko": "신칸센",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1361590"
+          ],
+          "reading_editorial_review_required": false
+        }
+      ],
+      "example_sentence": {
+        "ja": "新幹線に乗ったことがありません。",
+        "reading": "しんかんせんにのったことがありません。",
+        "translation_ko": "신칸센을 타 본 적이 없습니다.",
+        "source": "grammar-lesson-45"
+      },
+      "editorial_status": "authored_draft",
+      "source": "existing-app-sentence-and-authored-korean-gloss"
+    },
+    {
+      "id": "extra-7dda",
+      "character": "線",
+      "stage": 6,
+      "order": 49,
+      "group_name": "문장 속 추가 한자",
+      "meaning_ko": "선",
+      "example_words": [
+        {
+          "word": "線",
+          "reading": "せん",
+          "meaning_ko": "선",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1391780"
+          ],
+          "reading_editorial_review_required": false
+        }
+      ],
+      "example_sentence": {
+        "ja": "新幹線に乗ったことがありません。",
+        "reading": "しんかんせんにのったことがありません。",
+        "translation_ko": "신칸센을 타 본 적이 없습니다.",
+        "source": "grammar-lesson-45"
+      },
+      "editorial_status": "authored_draft",
+      "source": "existing-app-sentence-and-authored-korean-gloss"
+    },
+    {
+      "id": "extra-4f3a",
+      "character": "伺",
+      "stage": 6,
+      "order": 50,
+      "group_name": "문장 속 추가 한자",
+      "meaning_ko": "여쭙다·찾아뵙다",
+      "example_words": [
+        {
+          "word": "伺う",
+          "reading": "うかがう",
+          "meaning_ko": "여쭙다·찾아뵙다",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1305700"
+          ],
+          "reading_editorial_review_required": false
+        }
+      ],
+      "example_sentence": {
+        "ja": "明日、伺います。",
+        "reading": "あしたうかがいます。",
+        "translation_ko": "내일 찾아뵙겠습니다.",
+        "source": "grammar-lesson-49"
+      },
+      "editorial_status": "authored_draft",
+      "source": "existing-app-sentence-and-authored-korean-gloss"
+    },
+    {
+      "id": "extra-6687",
+      "character": "暇",
+      "stage": 6,
+      "order": 51,
+      "group_name": "문장 속 추가 한자",
+      "meaning_ko": "한가하다",
+      "example_words": [
+        {
+          "word": "暇",
+          "reading": "ひま",
+          "meaning_ko": "여유 시간",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1577280"
+          ],
+          "reading_editorial_review_required": false
+        }
+      ],
+      "example_sentence": {
+        "ja": "昨日は暇でした。",
+        "reading": "きのうはひまでした。",
+        "translation_ko": "어제는 한가했습니다.",
+        "source": "grammar-lesson-17"
+      },
+      "editorial_status": "authored_draft",
+      "source": "existing-app-sentence-and-authored-korean-gloss"
+    },
+    {
+      "id": "extra-4e38",
+      "character": "丸",
+      "stage": 6,
+      "order": 52,
+      "group_name": "문장 속 추가 한자",
+      "meaning_ko": "둥글다",
+      "example_words": [
+        {
+          "word": "丸い",
+          "reading": "まるい",
+          "meaning_ko": "둥글다",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1604230"
+          ],
+          "reading_editorial_review_required": false
+        }
+      ],
+      "example_sentence": {
+        "ja": "地球は丸いです。",
+        "reading": "ちきゅうはまるいです。",
+        "translation_ko": "지구는 둥글습니다.",
+        "status": "authored_draft_editorial_review_pending",
+        "source": "kanji-373"
+      },
+      "editorial_status": "authored_draft",
+      "source": "existing-app-sentence-and-authored-korean-gloss"
+    },
+    {
+      "id": "extra-4ecb",
+      "character": "介",
+      "stage": 6,
+      "order": 53,
+      "group_name": "문장 속 추가 한자",
+      "meaning_ko": "끼다·중개하다",
+      "example_words": [
+        {
+          "word": "紹介",
+          "reading": "しょうかい",
+          "meaning_ko": "소개",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1351430"
+          ],
+          "reading_editorial_review_required": false
+        }
+      ],
+      "example_sentence": {
+        "ja": "公務員の仕事を紹介します。",
+        "reading": "こうむいんのしごとをしょうかいします。",
+        "translation_ko": "공무원의 일을 소개합니다.",
+        "status": "authored_draft_editorial_review_pending",
+        "source": "kanji-291"
+      },
+      "editorial_status": "authored_draft",
+      "source": "existing-app-sentence-and-authored-korean-gloss"
+    },
+    {
+      "id": "extra-50cf",
+      "character": "像",
+      "stage": 6,
+      "order": 54,
+      "group_name": "문장 속 추가 한자",
+      "meaning_ko": "형상",
+      "example_words": [
+        {
+          "word": "想像",
+          "reading": "そうぞう",
+          "meaning_ko": "상상",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1399610"
+          ],
+          "reading_editorial_review_required": false
+        }
+      ],
+      "example_sentence": {
+        "ja": "未来の生活を想像します。",
+        "reading": "みらいのせいかつをそうぞうします。",
+        "translation_ko": "미래의 생활을 상상합니다.",
+        "status": "authored_draft_editorial_review_pending",
+        "source": "kanji-408"
+      },
+      "editorial_status": "authored_draft",
+      "source": "existing-app-sentence-and-authored-korean-gloss"
+    },
+    {
+      "id": "extra-523b",
+      "character": "刻",
+      "stage": 6,
+      "order": 55,
+      "group_name": "문장 속 추가 한자",
+      "meaning_ko": "새기다·시각",
+      "example_words": [
+        {
+          "word": "時刻",
+          "reading": "じこく",
+          "meaning_ko": "시각",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1316220"
+          ],
+          "reading_editorial_review_required": false
+        }
+      ],
+      "example_sentence": {
+        "ja": "現在の時刻を確認します。",
+        "reading": "げんざいのじこくをかくにんします。",
+        "translation_ko": "현재 시각을 확인합니다.",
+        "status": "authored_draft_editorial_review_pending",
+        "source": "kanji-333"
+      },
+      "editorial_status": "authored_draft",
+      "source": "existing-app-sentence-and-authored-korean-gloss"
+    },
+    {
+      "id": "extra-5247",
+      "character": "則",
+      "stage": 6,
+      "order": 56,
+      "group_name": "문장 속 추가 한자",
+      "meaning_ko": "규칙",
+      "example_words": [
+        {
+          "word": "規則",
+          "reading": "きそく",
+          "meaning_ko": "규칙",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1223021"
+          ],
+          "reading_editorial_review_required": false
+        }
+      ],
+      "example_sentence": {
+        "ja": "学校の規則を守ります。",
+        "reading": "がっこうのきそくをまもります。",
+        "translation_ko": "학교 규칙을 지킵니다.",
+        "status": "authored_draft_editorial_review_pending",
+        "source": "kanji-396"
+      },
+      "editorial_status": "authored_draft",
+      "source": "existing-app-sentence-and-authored-korean-gloss"
+    },
+    {
+      "id": "extra-53f2",
+      "character": "史",
+      "stage": 6,
+      "order": 57,
+      "group_name": "문장 속 추가 한자",
+      "meaning_ko": "역사",
+      "example_words": [
+        {
+          "word": "歴史",
+          "reading": "れきし",
+          "meaning_ko": "역사",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1558050"
+          ],
+          "reading_editorial_review_required": false
+        }
+      ],
+      "example_sentence": {
+        "ja": "戦争の歴史を学びます。",
+        "reading": "せんそうのれきしをまなびます。",
+        "translation_ko": "전쟁의 역사를 배웁니다.",
+        "status": "authored_draft_editorial_review_pending",
+        "source": "kanji-276"
+      },
+      "editorial_status": "authored_draft",
+      "source": "existing-app-sentence-and-authored-korean-gloss"
+    },
+    {
+      "id": "extra-5468",
+      "character": "周",
+      "stage": 6,
+      "order": 58,
+      "group_name": "문장 속 추가 한자",
+      "meaning_ko": "둘레",
+      "example_words": [
+        {
+          "word": "周り",
+          "reading": "まわり",
+          "meaning_ko": "주변",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1604290"
+          ],
+          "reading_editorial_review_required": false
+        }
+      ],
+      "example_sentence": {
+        "ja": "駅の周りを一回回りました。",
+        "reading": "えきのまわりをいっかいまわりました。",
+        "translation_ko": "역 주변을 한 바퀴 돌았습니다.",
+        "status": "authored_draft_editorial_review_pending",
+        "source": "kanji-268"
+      },
+      "editorial_status": "authored_draft",
+      "source": "existing-app-sentence-and-authored-korean-gloss"
+    },
+    {
+      "id": "extra-54b2",
+      "character": "咲",
+      "stage": 6,
+      "order": 59,
+      "group_name": "문장 속 추가 한자",
+      "meaning_ko": "피다",
+      "example_words": [
+        {
+          "word": "咲く",
+          "reading": "さく",
+          "meaning_ko": "꽃이 피다",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1297210"
+          ],
+          "reading_editorial_review_required": false
+        }
+      ],
+      "example_sentence": {
+        "ja": "春には桜が咲きます。",
+        "reading": "はるにはさくらがさきます。",
+        "translation_ko": "봄에는 벚꽃이 핍니다.",
+        "status": "authored_draft_editorial_review_pending",
+        "source": "kanji-223"
+      },
+      "editorial_status": "authored_draft",
+      "source": "existing-app-sentence-and-authored-korean-gloss"
+    },
+    {
+      "id": "extra-56f0",
+      "character": "困",
+      "stage": 6,
+      "order": 60,
+      "group_name": "문장 속 추가 한자",
+      "meaning_ko": "곤란하다",
+      "example_words": [
+        {
+          "word": "困る",
+          "reading": "こまる",
+          "meaning_ko": "곤란하다",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1289590"
+          ],
+          "reading_editorial_review_required": false
+        }
+      ],
+      "example_sentence": {
+        "ja": "困ったときは警察に相談します。",
+        "reading": "こまったときはけいさつにそうだんします。",
+        "translation_ko": "곤란할 때 경찰에 상담합니다.",
+        "status": "authored_draft_editorial_review_pending",
+        "source": "kanji-441"
+      },
+      "editorial_status": "authored_draft",
+      "source": "existing-app-sentence-and-authored-korean-gloss"
+    },
+    {
+      "id": "extra-594f",
+      "character": "奏",
+      "stage": 6,
+      "order": 61,
+      "group_name": "문장 속 추가 한자",
+      "meaning_ko": "연주하다",
+      "example_words": [
+        {
+          "word": "演奏",
+          "reading": "えんそう",
+          "meaning_ko": "연주",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1607520"
+          ],
+          "reading_editorial_review_required": false
+        }
+      ],
+      "example_sentence": {
+        "ja": "ピアノを演奏します。",
+        "reading": "ぴあのをえんそうします。",
+        "translation_ko": "피아노를 연주합니다.",
+        "status": "authored_draft_editorial_review_pending",
+        "source": "kanji-358"
+      },
+      "editorial_status": "authored_draft",
+      "source": "existing-app-sentence-and-authored-korean-gloss"
+    },
+    {
+      "id": "extra-5c06",
+      "character": "将",
+      "stage": 6,
+      "order": 62,
+      "group_name": "문장 속 추가 한자",
+      "meaning_ko": "장수·장차",
+      "example_words": [
+        {
+          "word": "将来",
+          "reading": "しょうらい",
+          "meaning_ko": "장래",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1347710"
+          ],
+          "reading_editorial_review_required": false
+        }
+      ],
+      "example_sentence": {
+        "ja": "将来の職業を考えます。",
+        "reading": "しょうらいのしょくぎょうをかんがえます。",
+        "translation_ko": "장래 직업을 생각합니다.",
+        "status": "authored_draft_editorial_review_pending",
+        "source": "kanji-374"
+      },
+      "editorial_status": "authored_draft",
+      "source": "existing-app-sentence-and-authored-korean-gloss"
+    },
+    {
+      "id": "extra-5cf6",
+      "character": "島",
+      "stage": 6,
+      "order": 63,
+      "group_name": "문장 속 추가 한자",
+      "meaning_ko": "섬",
+      "example_words": [
+        {
+          "word": "島",
+          "reading": "しま",
+          "meaning_ko": "섬",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1446760"
+          ],
+          "reading_editorial_review_required": false
+        }
+      ],
+      "example_sentence": {
+        "ja": "南の島に行きたいです。",
+        "reading": "みなみのしまにいきたいです。",
+        "translation_ko": "남쪽 섬에 가고 싶습니다.",
+        "status": "authored_draft_editorial_review_pending",
+        "source": "kanji-050"
+      },
+      "editorial_status": "authored_draft",
+      "source": "existing-app-sentence-and-authored-korean-gloss"
+    },
+    {
+      "id": "extra-5e0c",
+      "character": "希",
+      "stage": 6,
+      "order": 64,
+      "group_name": "문장 속 추가 한자",
+      "meaning_ko": "바라다·드물다",
+      "example_words": [
+        {
+          "word": "希望",
+          "reading": "きぼう",
+          "meaning_ko": "희망",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1219910"
+          ],
+          "reading_editorial_review_required": false
+        }
+      ],
+      "example_sentence": {
+        "ja": "窓側の席を希望します。",
+        "reading": "まどがわのせきをきぼうします。",
+        "translation_ko": "창가 좌석을 희망합니다.",
+        "status": "authored_draft_editorial_review_pending",
+        "source": "kanji-438"
+      },
+      "editorial_status": "authored_draft",
+      "source": "existing-app-sentence-and-authored-korean-gloss"
+    },
+    {
+      "id": "extra-5e78",
+      "character": "幸",
+      "stage": 6,
+      "order": 65,
+      "group_name": "문장 속 추가 한자",
+      "meaning_ko": "행복",
+      "example_words": [
+        {
+          "word": "幸福",
+          "reading": "こうふく",
+          "meaning_ko": "행복",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1278400"
+          ],
+          "reading_editorial_review_required": false
+        }
+      ],
+      "example_sentence": {
+        "ja": "家族の幸福を願っています。",
+        "reading": "かぞくのこうふくをねがっています。",
+        "translation_ko": "가족의 행복을 바라고 있습니다.",
+        "status": "authored_draft_editorial_review_pending",
+        "source": "kanji-437"
+      },
+      "editorial_status": "authored_draft",
+      "source": "existing-app-sentence-and-authored-korean-gloss"
+    },
+    {
+      "id": "extra-5fd8",
+      "character": "忘",
+      "stage": 6,
+      "order": 66,
+      "group_name": "문장 속 추가 한자",
+      "meaning_ko": "잊다",
+      "example_words": [
+        {
+          "word": "忘れる",
+          "reading": "わすれる",
+          "meaning_ko": "잊다",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1519210"
+          ],
+          "reading_editorial_review_required": false
+        }
+      ],
+      "example_sentence": {
+        "ja": "宿題を忘れました。",
+        "reading": "しゅくだいをわすれました。",
+        "translation_ko": "숙제를 잊었습니다.",
+        "status": "authored_draft_editorial_review_pending",
+        "source": "kanji-135"
+      },
+      "editorial_status": "authored_draft",
+      "source": "existing-app-sentence-and-authored-korean-gloss"
+    },
+    {
+      "id": "extra-5fd9",
+      "character": "忙",
+      "stage": 6,
+      "order": 67,
+      "group_name": "문장 속 추가 한자",
+      "meaning_ko": "바쁘다",
+      "example_words": [
+        {
+          "word": "忙しい",
+          "reading": "いそがしい",
+          "meaning_ko": "바쁘다",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1519290"
+          ],
+          "reading_editorial_review_required": false
+        }
+      ],
+      "example_sentence": {
+        "ja": "火曜日は忙しいです。",
+        "reading": "かようびはいそがしいです。",
+        "translation_ko": "화요일은 바쁩니다.",
+        "status": "authored_draft_editorial_review_pending",
+        "source": "kanji-013"
+      },
+      "editorial_status": "authored_draft",
+      "source": "existing-app-sentence-and-authored-korean-gloss"
+    },
+    {
+      "id": "extra-6163",
+      "character": "慣",
+      "stage": 6,
+      "order": 68,
+      "group_name": "문장 속 추가 한자",
+      "meaning_ko": "익숙하다",
+      "example_words": [
+        {
+          "word": "慣れる",
+          "reading": "なれる",
+          "meaning_ko": "익숙해지다",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1212670"
+          ],
+          "reading_editorial_review_required": false
+        }
+      ],
+      "example_sentence": {
+        "ja": "日本での生活に慣れました。",
+        "reading": "にほんでのせいかつになれました。",
+        "translation_ko": "일본 생활에 익숙해졌습니다.",
+        "status": "authored_draft_editorial_review_pending",
+        "source": "kanji-313"
+      },
+      "editorial_status": "authored_draft",
+      "source": "existing-app-sentence-and-authored-korean-gloss"
+    },
+    {
+      "id": "extra-61f8",
+      "character": "懸",
+      "stage": 6,
+      "order": 69,
+      "group_name": "문장 속 추가 한자",
+      "meaning_ko": "매달다·걸다",
+      "example_words": [
+        {
+          "word": "一生懸命",
+          "reading": "いっしょうけんめい",
+          "meaning_ko": "열심히",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1164010"
+          ],
+          "reading_editorial_review_required": false
+        }
+      ],
+      "example_sentence": {
+        "ja": "試験に向けて一生懸命勉強します。",
+        "reading": "しけんにむけていっしょうけんめいべんきょうします。",
+        "translation_ko": "시험을 위해 열심히 공부합니다.",
+        "status": "authored_draft_editorial_review_pending",
+        "source": "kanji-436"
+      },
+      "editorial_status": "authored_draft",
+      "source": "existing-app-sentence-and-authored-korean-gloss"
+    },
+    {
+      "id": "extra-623b",
+      "character": "戻",
+      "stage": 6,
+      "order": 70,
+      "group_name": "문장 속 추가 한자",
+      "meaning_ko": "되돌아가다",
+      "example_words": [
+        {
+          "word": "戻る",
+          "reading": "もどる",
+          "meaning_ko": "돌아가다",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1535880"
+          ],
+          "reading_editorial_review_required": false
+        }
+      ],
+      "example_sentence": {
+        "ja": "夕方にホテルへ戻ります。",
+        "reading": "ゆうがたにほてるへもどります。",
+        "translation_ko": "저녁 무렵에 호텔로 돌아갑니다.",
+        "status": "authored_draft_editorial_review_pending",
+        "source": "kanji-234"
+      },
+      "editorial_status": "authored_draft",
+      "source": "existing-app-sentence-and-authored-korean-gloss"
+    },
+    {
+      "id": "extra-623f",
+      "character": "房",
+      "stage": 6,
+      "order": 71,
+      "group_name": "문장 속 추가 한자",
+      "meaning_ko": "방",
+      "example_words": [
+        {
+          "word": "冷房",
+          "reading": "れいぼう",
+          "meaning_ko": "냉방",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1557290"
+          ],
+          "reading_editorial_review_required": false
+        }
+      ],
+      "example_sentence": {
+        "ja": "部屋の冷房をつけました。",
+        "reading": "へやのれいぼうをつけました。",
+        "translation_ko": "방의 에어컨을 켰습니다.",
+        "status": "authored_draft_editorial_review_pending",
+        "source": "kanji-498"
+      },
+      "editorial_status": "authored_draft",
+      "source": "existing-app-sentence-and-authored-korean-gloss"
+    },
+    {
+      "id": "extra-6280",
+      "character": "技",
+      "stage": 6,
+      "order": 72,
+      "group_name": "문장 속 추가 한자",
+      "meaning_ko": "기술",
+      "example_words": [
+        {
+          "word": "技術",
+          "reading": "ぎじゅつ",
+          "meaning_ko": "기술",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1225130"
+          ],
+          "reading_editorial_review_required": false
+        }
+      ],
+      "example_sentence": {
+        "ja": "新しい技術を学んでいます。",
+        "reading": "あたらしいぎじゅつをまなんでいます。",
+        "translation_ko": "새 기술을 배우고 있습니다.",
+        "status": "authored_draft_editorial_review_pending",
+        "source": "kanji-397"
+      },
+      "editorial_status": "authored_draft",
+      "source": "existing-app-sentence-and-authored-korean-gloss"
+    },
+    {
+      "id": "extra-62bc",
+      "character": "押",
+      "stage": 6,
+      "order": 73,
+      "group_name": "문장 속 추가 한자",
+      "meaning_ko": "누르다",
+      "example_words": [
+        {
+          "word": "押す",
+          "reading": "おす",
+          "meaning_ko": "누르다",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1180470"
+          ],
+          "reading_editorial_review_required": false
+        }
+      ],
+      "example_sentence": {
+        "ja": "指でこのボタンを押します。",
+        "reading": "ゆびでこのぼたんをおします。",
+        "translation_ko": "손가락으로 이 버튼을 누릅니다.",
+        "status": "authored_draft_editorial_review_pending",
+        "source": "kanji-306"
+      },
+      "editorial_status": "authored_draft",
+      "source": "existing-app-sentence-and-authored-korean-gloss"
+    },
+    {
+      "id": "extra-62ed",
+      "character": "拭",
+      "stage": 6,
+      "order": 74,
+      "group_name": "문장 속 추가 한자",
+      "meaning_ko": "닦다",
+      "example_words": [
+        {
+          "word": "拭く",
+          "reading": "ふく",
+          "meaning_ko": "닦다",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1357240"
+          ],
+          "reading_editorial_review_required": false
+        }
+      ],
+      "example_sentence": {
+        "ja": "机の表面を拭きます。",
+        "reading": "つくえのひょうめんをふきます。",
+        "translation_ko": "책상 표면을 닦습니다.",
+        "status": "authored_draft_editorial_review_pending",
+        "source": "kanji-324"
+      },
+      "editorial_status": "authored_draft",
+      "source": "existing-app-sentence-and-authored-korean-gloss"
+    },
+    {
+      "id": "extra-62fe",
+      "character": "拾",
+      "stage": 6,
+      "order": 75,
+      "group_name": "문장 속 추가 한자",
+      "meaning_ko": "줍다",
+      "example_words": [
+        {
+          "word": "拾う",
+          "reading": "ひろう",
+          "meaning_ko": "줍다",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1332570"
+          ],
+          "reading_editorial_review_required": false
+        }
+      ],
+      "example_sentence": {
+        "ja": "川で小さな石を拾いました。",
+        "reading": "かわでちいさないしをひろいました。",
+        "translation_ko": "강에서 작은 돌을 주웠습니다.",
+        "status": "authored_draft_editorial_review_pending",
+        "source": "kanji-391"
+      },
+      "editorial_status": "authored_draft",
+      "source": "existing-app-sentence-and-authored-korean-gloss"
+    },
+    {
+      "id": "extra-6311",
+      "character": "挑",
+      "stage": 6,
+      "order": 76,
+      "group_name": "문장 속 추가 한자",
+      "meaning_ko": "도전하다",
+      "example_words": [
+        {
+          "word": "挑戦",
+          "reading": "ちょうせん",
+          "meaning_ko": "도전",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1428240"
+          ],
+          "reading_editorial_review_required": false
+        }
+      ],
+      "example_sentence": {
+        "ja": "失敗しても、また挑戦します。",
+        "reading": "しっぱいしても、またちょうせんします。",
+        "translation_ko": "실패해도 다시 도전합니다.",
+        "status": "authored_draft_editorial_review_pending",
+        "source": "kanji-455"
+      },
+      "editorial_status": "authored_draft",
+      "source": "existing-app-sentence-and-authored-korean-gloss"
+    },
+    {
+      "id": "extra-632f",
+      "character": "振",
+      "stage": 6,
+      "order": 77,
+      "group_name": "문장 속 추가 한자",
+      "meaning_ko": "흔들다",
+      "example_words": [
+        {
+          "word": "振る",
+          "reading": "ふる",
+          "meaning_ko": "흔들다",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1361330"
+          ],
+          "reading_editorial_review_required": false
+        }
+      ],
+      "example_sentence": {
+        "ja": "給料は毎月振り込まれます。",
+        "reading": "きゅうりょうはまいつきふりこまれます。",
+        "translation_ko": "급여는 매달 입금됩니다.",
+        "status": "authored_draft_editorial_review_pending",
+        "source": "kanji-484"
+      },
+      "editorial_status": "authored_draft",
+      "source": "existing-app-sentence-and-authored-korean-gloss"
+    },
+    {
+      "id": "extra-6383",
+      "character": "掃",
+      "stage": 6,
+      "order": 78,
+      "group_name": "문장 속 추가 한자",
+      "meaning_ko": "쓸다",
+      "example_words": [
+        {
+          "word": "掃除",
+          "reading": "そうじ",
+          "meaning_ko": "청소",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1399790"
+          ],
+          "reading_editorial_review_required": false
+        }
+      ],
+      "example_sentence": {
+        "ja": "朝から部屋を掃除しています。",
+        "reading": "あさからへやをそうじしています。",
+        "translation_ko": "아침부터 방을 청소하고 있습니다.",
+        "status": "authored_draft_editorial_review_pending",
+        "source": "kanji-478"
+      },
+      "editorial_status": "authored_draft",
+      "source": "existing-app-sentence-and-authored-korean-gloss"
+    },
+    {
+      "id": "extra-6388",
+      "character": "授",
+      "stage": 6,
+      "order": 79,
+      "group_name": "문장 속 추가 한자",
+      "meaning_ko": "주다·가르치다",
+      "example_words": [
+        {
+          "word": "授業",
+          "reading": "じゅぎょう",
+          "meaning_ko": "수업",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1330290"
+          ],
+          "reading_editorial_review_required": false
+        }
+      ],
+      "example_sentence": {
+        "ja": "授業は何時からですか。",
+        "reading": "じゅぎょうはなんじからですか。",
+        "translation_ko": "수업은 몇 시부터인가요?",
+        "status": "authored_draft_editorial_review_pending",
+        "source": "kanji-117"
+      },
+      "editorial_status": "authored_draft",
+      "source": "existing-app-sentence-and-authored-korean-gloss"
+    },
+    {
+      "id": "extra-6563",
+      "character": "散",
+      "stage": 6,
+      "order": 80,
+      "group_name": "문장 속 추가 한자",
+      "meaning_ko": "흩어지다",
+      "example_words": [
+        {
+          "word": "散歩",
+          "reading": "さんぽ",
+          "meaning_ko": "산책",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1303620"
+          ],
+          "reading_editorial_review_required": false
+        }
+      ],
+      "example_sentence": {
+        "ja": "公園で散歩します。",
+        "reading": "こうえんでさんぽします。",
+        "translation_ko": "공원에서 산책합니다.",
+        "status": "authored_draft_editorial_review_pending",
+        "source": "kanji-142"
+      },
+      "editorial_status": "authored_draft",
+      "source": "existing-app-sentence-and-authored-korean-gloss"
+    },
+    {
+      "id": "extra-6614",
+      "character": "昔",
+      "stage": 6,
+      "order": 81,
+      "group_name": "문장 속 추가 한자",
+      "meaning_ko": "옛날",
+      "example_words": [
+        {
+          "word": "昔",
+          "reading": "むかし",
+          "meaning_ko": "옛날",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1382370"
+          ],
+          "reading_editorial_review_required": false
+        }
+      ],
+      "example_sentence": {
+        "ja": "昔は電報で知らせました。",
+        "reading": "むかしはでんぽうでしらせました。",
+        "translation_ko": "옛날에는 전보로 소식을 알렸습니다.",
+        "status": "authored_draft_editorial_review_pending",
+        "source": "kanji-311"
+      },
+      "editorial_status": "authored_draft",
+      "source": "existing-app-sentence-and-authored-korean-gloss"
+    },
+    {
+      "id": "extra-6669",
+      "character": "晩",
+      "stage": 6,
+      "order": 82,
+      "group_name": "문장 속 추가 한자",
+      "meaning_ko": "저녁",
+      "example_words": [
+        {
+          "word": "今晩",
+          "reading": "こんばん",
+          "meaning_ko": "오늘 저녁",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1289470"
+          ],
+          "reading_editorial_review_required": false
+        }
+      ],
+      "example_sentence": {
+        "ja": "毎晩日記を書きます。",
+        "reading": "まいばんにっきをかきます。",
+        "translation_ko": "매일 밤 일기를 씁니다.",
+        "status": "authored_draft_editorial_review_pending",
+        "source": "kanji-304"
+      },
+      "editorial_status": "authored_draft",
+      "source": "existing-app-sentence-and-authored-korean-gloss"
+    },
+    {
+      "id": "extra-66f4",
+      "character": "更",
+      "stage": 6,
+      "order": 83,
+      "group_name": "문장 속 추가 한자",
+      "meaning_ko": "다시·바꾸다",
+      "example_words": [
+        {
+          "word": "変更",
+          "reading": "へんこう",
+          "meaning_ko": "변경",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1511040"
+          ],
+          "reading_editorial_review_required": false
+        }
+      ],
+      "example_sentence": {
+        "ja": "この変更は可能です。",
+        "reading": "このへんこうはかのうです。",
+        "translation_ko": "이 변경은 가능합니다.",
+        "status": "authored_draft_editorial_review_pending",
+        "source": "kanji-377"
+      },
+      "editorial_status": "authored_draft",
+      "source": "existing-app-sentence-and-authored-korean-gloss"
+    },
+    {
+      "id": "extra-675f",
+      "character": "束",
+      "stage": 6,
+      "order": 84,
+      "group_name": "문장 속 추가 한자",
+      "meaning_ko": "묶음",
+      "example_words": [
+        {
+          "word": "約束",
+          "reading": "やくそく",
+          "meaning_ko": "약속",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1538130"
+          ],
+          "reading_editorial_review_required": false
+        }
+      ],
+      "example_sentence": {
+        "ja": "三時に会う約束をしました。",
+        "reading": "さんじにあうやくそくをしました。",
+        "translation_ko": "세 시에 만나기로 약속했습니다.",
+        "status": "authored_draft_editorial_review_pending",
+        "source": "kanji-283"
+      },
+      "editorial_status": "authored_draft",
+      "source": "existing-app-sentence-and-authored-korean-gloss"
+    },
+    {
+      "id": "extra-679a",
+      "character": "枚",
+      "stage": 6,
+      "order": 85,
+      "group_name": "문장 속 추가 한자",
+      "meaning_ko": "평평한 것을 세는 단위",
+      "example_words": [
+        {
+          "word": "一枚",
+          "reading": "いちまい",
+          "meaning_ko": "한 장",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1166710"
+          ],
+          "reading_editorial_review_required": false
+        }
+      ],
+      "example_sentence": {
+        "ja": "写真を一枚撮りました。",
+        "reading": "しゃしんをいちまいとりました。",
+        "translation_ko": "사진을 한 장 찍었습니다.",
+        "status": "authored_draft_editorial_review_pending",
+        "source": "kanji-211"
+      },
+      "editorial_status": "authored_draft",
+      "source": "existing-app-sentence-and-authored-korean-gloss"
+    },
+    {
+      "id": "extra-67d4",
+      "character": "柔",
+      "stage": 6,
+      "order": 86,
+      "group_name": "문장 속 추가 한자",
+      "meaning_ko": "부드럽다",
+      "example_words": [
+        {
+          "word": "柔らかい",
+          "reading": "やわらかい",
+          "meaning_ko": "부드럽다",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1605630"
+          ],
+          "reading_editorial_review_required": false
+        }
+      ],
+      "example_sentence": {
+        "ja": "この肉は柔らかいです。",
+        "reading": "このにくはやわらかいです。",
+        "translation_ko": "이 고기는 부드럽습니다.",
+        "status": "authored_draft_editorial_review_pending",
+        "source": "kanji-237"
+      },
+      "editorial_status": "authored_draft",
+      "source": "existing-app-sentence-and-authored-korean-gloss"
+    },
+    {
+      "id": "extra-6848",
+      "character": "案",
+      "stage": 6,
+      "order": 87,
+      "group_name": "문장 속 추가 한자",
+      "meaning_ko": "생각·안내",
+      "example_words": [
+        {
+          "word": "案内",
+          "reading": "あんない",
+          "meaning_ko": "안내",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1154860"
+          ],
+          "reading_editorial_review_required": false
+        }
+      ],
+      "example_sentence": {
+        "ja": "駅まで案内してください。",
+        "reading": "えきまであんないしてください。",
+        "translation_ko": "역까지 안내해 주세요.",
+        "status": "authored_draft_editorial_review_pending",
+        "source": "kanji-265"
+      },
+      "editorial_status": "authored_draft",
+      "source": "existing-app-sentence-and-authored-korean-gloss"
+    },
+    {
+      "id": "extra-685c",
+      "character": "桜",
+      "stage": 6,
+      "order": 88,
+      "group_name": "문장 속 추가 한자",
+      "meaning_ko": "벚나무",
+      "example_words": [
+        {
+          "word": "桜",
+          "reading": "さくら",
+          "meaning_ko": "벚꽃·벚나무",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1593710"
+          ],
+          "reading_editorial_review_required": false
+        }
+      ],
+      "example_sentence": {
+        "ja": "春には桜が咲きます。",
+        "reading": "はるにはさくらがさきます。",
+        "translation_ko": "봄에는 벚꽃이 핍니다.",
+        "status": "authored_draft_editorial_review_pending",
+        "source": "kanji-223"
+      },
+      "editorial_status": "authored_draft",
+      "source": "existing-app-sentence-and-authored-korean-gloss"
+    },
+    {
+      "id": "extra-68da",
+      "character": "棚",
+      "stage": 6,
+      "order": 89,
+      "group_name": "문장 속 추가 한자",
+      "meaning_ko": "선반",
+      "example_words": [
+        {
+          "word": "棚",
+          "reading": "たな",
+          "meaning_ko": "선반",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1416700"
+          ],
+          "reading_editorial_review_required": false
+        }
+      ],
+      "example_sentence": {
+        "ja": "棚から本を取ってください。",
+        "reading": "たなからほんをとってください。",
+        "translation_ko": "선반에서 책을 꺼내 주세요.",
+        "status": "authored_draft_editorial_review_pending",
+        "source": "kanji-294"
+      },
+      "editorial_status": "authored_draft",
+      "source": "existing-app-sentence-and-authored-korean-gloss"
+    },
+    {
+      "id": "extra-6905",
+      "character": "椅",
+      "stage": 6,
+      "order": 90,
+      "group_name": "문장 속 추가 한자",
+      "meaning_ko": "의자",
+      "example_words": [
+        {
+          "word": "椅子",
+          "reading": "いす",
+          "meaning_ko": "의자",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1157070"
+          ],
+          "reading_editorial_review_required": false
+        }
+      ],
+      "example_sentence": {
+        "ja": "椅子の下に猫がいます。",
+        "reading": "いすのしたにねこがいます。",
+        "translation_ko": "의자 아래에 고양이가 있습니다.",
+        "status": "authored_draft_editorial_review_pending",
+        "source": "kanji-042"
+      },
+      "editorial_status": "authored_draft",
+      "source": "existing-app-sentence-and-authored-korean-gloss"
+    },
+    {
+      "id": "extra-6b74",
+      "character": "歴",
+      "stage": 6,
+      "order": 91,
+      "group_name": "문장 속 추가 한자",
+      "meaning_ko": "지나다·역사",
+      "example_words": [
+        {
+          "word": "歴史",
+          "reading": "れきし",
+          "meaning_ko": "역사",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1558050"
+          ],
+          "reading_editorial_review_required": false
+        }
+      ],
+      "example_sentence": {
+        "ja": "戦争の歴史を学びます。",
+        "reading": "せんそうのれきしをまなびます。",
+        "translation_ko": "전쟁의 역사를 배웁니다.",
+        "status": "authored_draft_editorial_review_pending",
+        "source": "kanji-276"
+      },
+      "editorial_status": "authored_draft",
+      "source": "existing-app-sentence-and-authored-korean-gloss"
+    },
+    {
+      "id": "extra-6bd4",
+      "character": "比",
+      "stage": 6,
+      "order": 92,
+      "group_name": "문장 속 추가 한자",
+      "meaning_ko": "비교하다",
+      "example_words": [
+        {
+          "word": "比べる",
+          "reading": "くらべる",
+          "meaning_ko": "비교하다",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1483540"
+          ],
+          "reading_editorial_review_required": false
+        }
+      ],
+      "example_sentence": {
+        "ja": "日本と韓国の気候を比べます。",
+        "reading": "にほんとかんこくのきこうをくらべます。",
+        "translation_ko": "일본과 한국의 기후를 비교합니다.",
+        "status": "authored_draft_editorial_review_pending",
+        "source": "kanji-452"
+      },
+      "editorial_status": "authored_draft",
+      "source": "existing-app-sentence-and-authored-korean-gloss"
+    },
+    {
+      "id": "extra-6cc1",
+      "character": "況",
+      "stage": 6,
+      "order": 93,
+      "group_name": "문장 속 추가 한자",
+      "meaning_ko": "상황",
+      "example_words": [
+        {
+          "word": "状況",
+          "reading": "じょうきょう",
+          "meaning_ko": "상황",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1356700"
+          ],
+          "reading_editorial_review_required": false
+        }
+      ],
+      "example_sentence": {
+        "ja": "今の状況を教えてください。",
+        "reading": "いまのじょうきょうをおしえてください。",
+        "translation_ko": "현재 상황을 알려 주세요.",
+        "status": "authored_draft_editorial_review_pending",
+        "source": "kanji-372"
+      },
+      "editorial_status": "authored_draft",
+      "source": "existing-app-sentence-and-authored-korean-gloss"
+    },
+    {
+      "id": "extra-6e29",
+      "character": "温",
+      "stage": 6,
+      "order": 94,
+      "group_name": "문장 속 추가 한자",
+      "meaning_ko": "따뜻하다",
+      "example_words": [
+        {
+          "word": "温かい",
+          "reading": "あたたかい",
+          "meaning_ko": "따뜻하다",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1586420"
+          ],
+          "reading_editorial_review_required": false
+        }
+      ],
+      "example_sentence": {
+        "ja": "温かいお茶をください。",
+        "reading": "あたたかいおちゃをください。",
+        "translation_ko": "따뜻한 차를 주세요.",
+        "status": "authored_draft_editorial_review_pending",
+        "source": "kanji-245"
+      },
+      "editorial_status": "authored_draft",
+      "source": "existing-app-sentence-and-authored-korean-gloss"
+    },
+    {
+      "id": "extra-6e96",
+      "character": "準",
+      "stage": 6,
+      "order": 95,
+      "group_name": "문장 속 추가 한자",
+      "meaning_ko": "기준·준비",
+      "example_words": [
+        {
+          "word": "準備",
+          "reading": "じゅんび",
+          "meaning_ko": "준비",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1341670"
+          ],
+          "reading_editorial_review_required": false
+        }
+      ],
+      "example_sentence": {
+        "ja": "出発の準備ができました。",
+        "reading": "しゅっぱつのじゅんびができました。",
+        "translation_ko": "출발 준비가 됐습니다.",
+        "status": "authored_draft_editorial_review_pending",
+        "source": "kanji-398"
+      },
+      "editorial_status": "authored_draft",
+      "source": "existing-app-sentence-and-authored-korean-gloss"
+    },
+    {
+      "id": "extra-6fc3",
+      "character": "濃",
+      "stage": 6,
+      "order": 96,
+      "group_name": "문장 속 추가 한자",
+      "meaning_ko": "짙다",
+      "example_words": [
+        {
+          "word": "濃い",
+          "reading": "こい",
+          "meaning_ko": "진하다·짙다",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1469890"
+          ],
+          "reading_editorial_review_required": false
+        }
+      ],
+      "example_sentence": {
+        "ja": "この料理は味が濃いです。",
+        "reading": "このりょうりはあじがこいです。",
+        "translation_ko": "이 요리는 맛이 진합니다.",
+        "status": "authored_draft_editorial_review_pending",
+        "source": "kanji-210"
+      },
+      "editorial_status": "authored_draft",
+      "source": "existing-app-sentence-and-authored-korean-gloss"
+    },
+    {
+      "id": "extra-713c",
+      "character": "焼",
+      "stage": 6,
+      "order": 97,
+      "group_name": "문장 속 추가 한자",
+      "meaning_ko": "굽다·타다",
+      "example_words": [
+        {
+          "word": "焼く",
+          "reading": "やく",
+          "meaning_ko": "굽다",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1350600"
+          ],
+          "reading_editorial_review_required": false
+        }
+      ],
+      "example_sentence": {
+        "ja": "魚を焼いて食べます。",
+        "reading": "さかなをやいてたべます。",
+        "translation_ko": "생선을 구워 먹습니다.",
+        "status": "authored_draft_editorial_review_pending",
+        "source": "kanji-248"
+      },
+      "editorial_status": "authored_draft",
+      "source": "existing-app-sentence-and-authored-korean-gloss"
+    },
+    {
+      "id": "extra-7267",
+      "character": "牧",
+      "stage": 6,
+      "order": 98,
+      "group_name": "문장 속 추가 한자",
+      "meaning_ko": "가축을 기르다",
+      "example_words": [
+        {
+          "word": "牧場",
+          "reading": "ぼくじょう",
+          "meaning_ko": "목장",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1584250"
+          ],
+          "reading_editorial_review_required": false
+        }
+      ],
+      "example_sentence": {
+        "ja": "牧場で馬を見ました。",
+        "reading": "ぼくじょうでうまをみました。",
+        "translation_ko": "목장에서 말을 봤습니다.",
+        "status": "authored_draft_editorial_review_pending",
+        "source": "kanji-491"
+      },
+      "editorial_status": "authored_draft",
+      "source": "existing-app-sentence-and-authored-korean-gloss"
+    },
+    {
+      "id": "extra-7384",
+      "character": "玄",
+      "stage": 6,
+      "order": 99,
+      "group_name": "문장 속 추가 한자",
+      "meaning_ko": "검다·깊다",
+      "example_words": [
+        {
+          "word": "玄関",
+          "reading": "げんかん",
+          "meaning_ko": "현관",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1263400"
+          ],
+          "reading_editorial_review_required": false
+        }
+      ],
+      "example_sentence": {
+        "ja": "玄関で靴を脱ぎます。",
+        "reading": "げんかんでくつをぬぎます。",
+        "translation_ko": "현관에서 신발을 벗습니다.",
+        "status": "authored_draft_editorial_review_pending",
+        "source": "kanji-272"
+      },
+      "editorial_status": "authored_draft",
+      "source": "existing-app-sentence-and-authored-korean-gloss"
+    },
+    {
+      "id": "extra-738b",
+      "character": "王",
+      "stage": 6,
+      "order": 100,
+      "group_name": "문장 속 추가 한자",
+      "meaning_ko": "왕",
+      "example_words": [
+        {
+          "word": "王様",
+          "reading": "おうさま",
+          "meaning_ko": "왕",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1181700"
+          ],
+          "reading_editorial_review_required": false
+        }
+      ],
+      "example_sentence": {
+        "ja": "王様の物語を読みました。",
+        "reading": "おうさまのものがたりをよみました。",
+        "translation_ko": "왕의 이야기를 읽었습니다.",
+        "status": "authored_draft_editorial_review_pending",
+        "source": "kanji-446"
+      },
+      "editorial_status": "authored_draft",
+      "source": "existing-app-sentence-and-authored-korean-gloss"
+    },
+    {
+      "id": "extra-7559",
+      "character": "留",
+      "stage": 6,
+      "order": 101,
+      "group_name": "문장 속 추가 한자",
+      "meaning_ko": "머무르다",
+      "example_words": [
+        {
+          "word": "留守",
+          "reading": "るす",
+          "meaning_ko": "집을 비움",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1552760"
+          ],
+          "reading_editorial_review_required": false
+        }
+      ],
+      "example_sentence": {
+        "ja": "今日は父が留守です。",
+        "reading": "きょうはちちがるすです。",
+        "translation_ko": "오늘은 아버지가 집에 안 계십니다.",
+        "status": "authored_draft_editorial_review_pending",
+        "source": "kanji-432"
+      },
+      "editorial_status": "authored_draft",
+      "source": "existing-app-sentence-and-authored-korean-gloss"
+    },
+    {
+      "id": "extra-77ed",
+      "character": "短",
+      "stage": 6,
+      "order": 102,
+      "group_name": "문장 속 추가 한자",
+      "meaning_ko": "짧다",
+      "example_words": [
+        {
+          "word": "短い",
+          "reading": "みじかい",
+          "meaning_ko": "짧다",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1418620"
+          ],
+          "reading_editorial_review_required": false
+        }
+      ],
+      "example_sentence": {
+        "ja": "短い文章を書きます。",
+        "reading": "みじかいぶんしょうをかきます。",
+        "translation_ko": "짧은 글을 씁니다.",
+        "status": "authored_draft_editorial_review_pending",
+        "source": "kanji-075"
+      },
+      "editorial_status": "authored_draft",
+      "source": "existing-app-sentence-and-authored-korean-gloss"
+    },
+    {
+      "id": "extra-7956",
+      "character": "祖",
+      "stage": 6,
+      "order": 103,
+      "group_name": "문장 속 추가 한자",
+      "meaning_ko": "조상",
+      "example_words": [
+        {
+          "word": "祖父",
+          "reading": "そふ",
+          "meaning_ko": "할아버지",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1396840"
+          ],
+          "reading_editorial_review_required": false
+        }
+      ],
+      "example_sentence": {
+        "ja": "祖父は去年亡くなりました。",
+        "reading": "そふはきょねんなくなりました。",
+        "translation_ko": "할아버지는 작년에 돌아가셨습니다.",
+        "status": "authored_draft_editorial_review_pending",
+        "source": "kanji-497"
+      },
+      "editorial_status": "authored_draft",
+      "source": "existing-app-sentence-and-authored-korean-gloss"
+    },
+    {
+      "id": "extra-7ae0",
+      "character": "章",
+      "stage": 6,
+      "order": 104,
+      "group_name": "문장 속 추가 한자",
+      "meaning_ko": "글·장",
+      "example_words": [
+        {
+          "word": "文章",
+          "reading": "ぶんしょう",
+          "meaning_ko": "문장",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1505470"
+          ],
+          "reading_editorial_review_required": false
+        }
+      ],
+      "example_sentence": {
+        "ja": "短い文章を書きます。",
+        "reading": "みじかいぶんしょうをかきます。",
+        "translation_ko": "짧은 글을 씁니다.",
+        "status": "authored_draft_editorial_review_pending",
+        "source": "kanji-075"
+      },
+      "editorial_status": "authored_draft",
+      "source": "existing-app-sentence-and-authored-korean-gloss"
+    },
+    {
+      "id": "extra-7af6",
+      "character": "競",
+      "stage": 6,
+      "order": 105,
+      "group_name": "문장 속 추가 한자",
+      "meaning_ko": "겨루다",
+      "example_words": [
+        {
+          "word": "競争",
+          "reading": "きょうそう",
+          "meaning_ko": "경쟁",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1234140"
+          ],
+          "reading_editorial_review_required": false
+        }
+      ],
+      "example_sentence": {
+        "ja": "二人で競争しました。",
+        "reading": "ふたりできょうそうしました。",
+        "translation_ko": "두 사람이 경쟁했습니다.",
+        "status": "authored_draft_editorial_review_pending",
+        "source": "kanji-360"
+      },
+      "editorial_status": "authored_draft",
+      "source": "existing-app-sentence-and-authored-korean-gloss"
+    },
+    {
+      "id": "extra-7b97",
+      "character": "算",
+      "stage": 6,
+      "order": 106,
+      "group_name": "문장 속 추가 한자",
+      "meaning_ko": "계산하다",
+      "example_words": [
+        {
+          "word": "計算",
+          "reading": "けいさん",
+          "meaning_ko": "계산",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1252140"
+          ],
+          "reading_editorial_review_required": false
+        }
+      ],
+      "example_sentence": {
+        "ja": "旅行の費用を計算します。",
+        "reading": "りょこうのひようをけいさんします。",
+        "translation_ko": "여행 비용을 계산합니다.",
+        "status": "authored_draft_editorial_review_pending",
+        "source": "kanji-382"
+      },
+      "editorial_status": "authored_draft",
+      "source": "existing-app-sentence-and-authored-korean-gloss"
+    },
+    {
+      "id": "extra-7bb1",
+      "character": "箱",
+      "stage": 6,
+      "order": 107,
+      "group_name": "문장 속 추가 한자",
+      "meaning_ko": "상자",
+      "example_words": [
+        {
+          "word": "箱",
+          "reading": "はこ",
+          "meaning_ko": "상자",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1585650"
+          ],
+          "reading_editorial_review_required": false
+        }
+      ],
+      "example_sentence": {
+        "ja": "八つの箱があります。",
+        "reading": "やっつのはこがあります。",
+        "translation_ko": "상자가 여덟 개 있습니다.",
+        "status": "authored_draft_editorial_review_pending",
+        "source": "kanji-008"
+      },
+      "editorial_status": "authored_draft",
+      "source": "existing-app-sentence-and-authored-korean-gloss"
+    },
+    {
+      "id": "extra-7c21",
+      "character": "簡",
+      "stage": 6,
+      "order": 108,
+      "group_name": "문장 속 추가 한자",
+      "meaning_ko": "간단하다",
+      "example_words": [
+        {
+          "word": "簡単",
+          "reading": "かんたん",
+          "meaning_ko": "간단함",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1214330"
+          ],
+          "reading_editorial_review_required": false
+        }
+      ],
+      "example_sentence": {
+        "ja": "使い方はとても簡単です。",
+        "reading": "つかいかたはとてもかんたんです。",
+        "translation_ko": "사용법은 매우 간단합니다.",
+        "status": "authored_draft_editorial_review_pending",
+        "source": "kanji-475"
+      },
+      "editorial_status": "authored_draft",
+      "source": "existing-app-sentence-and-authored-korean-gloss"
+    },
+    {
+      "id": "extra-7d05",
+      "character": "紅",
+      "stage": 6,
+      "order": 109,
+      "group_name": "문장 속 추가 한자",
+      "meaning_ko": "붉다",
+      "example_words": [
+        {
+          "word": "紅茶",
+          "reading": "こうちゃ",
+          "meaning_ko": "홍차",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1280770"
+          ],
+          "reading_editorial_review_required": false
+        }
+      ],
+      "example_sentence": {
+        "ja": "秋は紅葉がきれいです。",
+        "reading": "あきはこうようがきれいです。",
+        "translation_ko": "가을에는 단풍이 아름답습니다.",
+        "status": "authored_draft_editorial_review_pending",
+        "source": "kanji-229"
+      },
+      "editorial_status": "authored_draft",
+      "source": "existing-app-sentence-and-authored-korean-gloss"
+    },
+    {
+      "id": "extra-7d39",
+      "character": "紹",
+      "stage": 6,
+      "order": 110,
+      "group_name": "문장 속 추가 한자",
+      "meaning_ko": "잇다·소개하다",
+      "example_words": [
+        {
+          "word": "紹介",
+          "reading": "しょうかい",
+          "meaning_ko": "소개",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1351430"
+          ],
+          "reading_editorial_review_required": false
+        }
+      ],
+      "example_sentence": {
+        "ja": "公務員の仕事を紹介します。",
+        "reading": "こうむいんのしごとをしょうかいします。",
+        "translation_ko": "공무원의 일을 소개합니다.",
+        "status": "authored_draft_editorial_review_pending",
+        "source": "kanji-291"
+      },
+      "editorial_status": "authored_draft",
+      "source": "existing-app-sentence-and-authored-korean-gloss"
+    },
+    {
+      "id": "extra-7d61",
+      "character": "絡",
+      "stage": 6,
+      "order": 111,
+      "group_name": "문장 속 추가 한자",
+      "meaning_ko": "얽히다·연락",
+      "example_words": [
+        {
+          "word": "連絡",
+          "reading": "れんらく",
+          "meaning_ko": "연락",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1559900"
+          ],
+          "reading_editorial_review_required": false
+        }
+      ],
+      "example_sentence": {
+        "ja": "着いたら連絡してください。",
+        "reading": "ついたられんらくしてください。",
+        "translation_ko": "도착하면 연락해 주세요.",
+        "status": "authored_draft_editorial_review_pending",
+        "source": "kanji-260"
+      },
+      "editorial_status": "authored_draft",
+      "source": "existing-app-sentence-and-authored-korean-gloss"
+    },
+    {
+      "id": "extra-8131",
+      "character": "脱",
+      "stage": 6,
+      "order": 112,
+      "group_name": "문장 속 추가 한자",
+      "meaning_ko": "벗다",
+      "example_words": [
+        {
+          "word": "脱ぐ",
+          "reading": "ぬぐ",
+          "meaning_ko": "벗다",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1416400"
+          ],
+          "reading_editorial_review_required": false
+        }
+      ],
+      "example_sentence": {
+        "ja": "玄関で靴を脱ぎます。",
+        "reading": "げんかんでくつをぬぎます。",
+        "translation_ko": "현관에서 신발을 벗습니다.",
+        "status": "authored_draft_editorial_review_pending",
+        "source": "kanji-272"
+      },
+      "editorial_status": "authored_draft",
+      "source": "existing-app-sentence-and-authored-korean-gloss"
+    },
+    {
+      "id": "extra-83d3",
+      "character": "菓",
+      "stage": 6,
+      "order": 113,
+      "group_name": "문장 속 추가 한자",
+      "meaning_ko": "과자",
+      "example_words": [
+        {
+          "word": "お菓子",
+          "reading": "おかし",
+          "meaning_ko": "과자",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1001710"
+          ],
+          "reading_editorial_review_required": false
+        }
+      ],
+      "example_sentence": {
+        "ja": "九つのお菓子があります。",
+        "reading": "ここのつのおかしがあります。",
+        "translation_ko": "과자가 아홉 개 있습니다.",
+        "status": "authored_draft_editorial_review_pending",
+        "source": "kanji-009"
+      },
+      "editorial_status": "authored_draft",
+      "source": "existing-app-sentence-and-authored-korean-gloss"
+    },
+    {
+      "id": "extra-83dc",
+      "character": "菜",
+      "stage": 6,
+      "order": 114,
+      "group_name": "문장 속 추가 한자",
+      "meaning_ko": "채소",
+      "example_words": [
+        {
+          "word": "野菜",
+          "reading": "やさい",
+          "meaning_ko": "채소",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1537370"
+          ],
+          "reading_editorial_review_required": false
+        }
+      ],
+      "example_sentence": {
+        "ja": "野菜をたくさん食べます。",
+        "reading": "やさいをたくさんたべます。",
+        "translation_ko": "채소를 많이 먹습니다.",
+        "status": "authored_draft_editorial_review_pending",
+        "source": "kanji-144"
+      },
+      "editorial_status": "authored_draft",
+      "source": "existing-app-sentence-and-authored-korean-gloss"
+    },
+    {
+      "id": "extra-866b",
+      "character": "虫",
+      "stage": 6,
+      "order": 115,
+      "group_name": "문장 속 추가 한자",
+      "meaning_ko": "벌레",
+      "example_words": [
+        {
+          "word": "虫",
+          "reading": "むし",
+          "meaning_ko": "벌레",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1426680"
+          ],
+          "reading_editorial_review_required": false
+        }
+      ],
+      "example_sentence": {
+        "ja": "虫を殺さずに外へ逃がしました。",
+        "reading": "むしをころさずにそとへにがしました。",
+        "translation_ko": "벌레를 죽이지 않고 밖으로 내보냈습니다.",
+        "status": "authored_draft_editorial_review_pending",
+        "source": "kanji-473"
+      },
+      "editorial_status": "authored_draft",
+      "source": "existing-app-sentence-and-authored-korean-gloss"
+    },
+    {
+      "id": "extra-88ab",
+      "character": "被",
+      "stage": 6,
+      "order": 116,
+      "group_name": "문장 속 추가 한자",
+      "meaning_ko": "덮다·입다·당하다",
+      "example_words": [
+        {
+          "word": "被害",
+          "reading": "ひがい",
+          "meaning_ko": "피해",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1484350"
+          ],
+          "reading_editorial_review_required": false
+        }
+      ],
+      "example_sentence": {
+        "ja": "台風で大きな被害が出ました。",
+        "reading": "たいふうでおおきなひがいがでました。",
+        "translation_ko": "태풍으로 큰 피해가 발생했습니다.",
+        "status": "authored_draft_editorial_review_pending",
+        "source": "kanji-400"
+      },
+      "editorial_status": "authored_draft",
+      "source": "existing-app-sentence-and-authored-korean-gloss"
+    },
+    {
+      "id": "extra-8b1d",
+      "character": "謝",
+      "stage": 6,
+      "order": 117,
+      "group_name": "문장 속 추가 한자",
+      "meaning_ko": "감사하다·사과하다",
+      "example_words": [
+        {
+          "word": "感謝",
+          "reading": "かんしゃ",
+          "meaning_ko": "감사",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1212380"
+          ],
+          "reading_editorial_review_required": false
+        }
+      ],
+      "example_sentence": {
+        "ja": "心から感謝します。",
+        "reading": "こころからかんしゃします。",
+        "translation_ko": "진심으로 감사드립니다.",
+        "status": "authored_draft_editorial_review_pending",
+        "source": "kanji-152"
+      },
+      "editorial_status": "authored_draft",
+      "source": "existing-app-sentence-and-authored-korean-gloss"
+    },
+    {
+      "id": "extra-8c4a",
+      "character": "豊",
+      "stage": 6,
+      "order": 118,
+      "group_name": "문장 속 추가 한자",
+      "meaning_ko": "풍부하다",
+      "example_words": [
+        {
+          "word": "豊富",
+          "reading": "ほうふ",
+          "meaning_ko": "풍부함",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1518180"
+          ],
+          "reading_editorial_review_required": false
+        }
+      ],
+      "example_sentence": {
+        "ja": "この店は商品の種類が豊富です。",
+        "reading": "このみせはしょうひんのしゅるいがほうふです。",
+        "translation_ko": "이 가게는 상품의 종류가 다양합니다.",
+        "status": "authored_draft_editorial_review_pending",
+        "source": "kanji-493"
+      },
+      "editorial_status": "authored_draft",
+      "source": "existing-app-sentence-and-authored-korean-gloss"
+    },
+    {
+      "id": "extra-8da3",
+      "character": "趣",
+      "stage": 6,
+      "order": 119,
+      "group_name": "문장 속 추가 한자",
+      "meaning_ko": "취지·취미",
+      "example_words": [
+        {
+          "word": "趣味",
+          "reading": "しゅみ",
+          "meaning_ko": "취미",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1329000"
+          ],
+          "reading_editorial_review_required": false
+        }
+      ],
+      "example_sentence": {
+        "ja": "二人には共通の趣味があります。",
+        "reading": "ふたりにはきょうつうのしゅみがあります。",
+        "translation_ko": "두 사람에게는 공통 취미가 있습니다.",
+        "status": "authored_draft_editorial_review_pending",
+        "source": "kanji-315"
+      },
+      "editorial_status": "authored_draft",
+      "source": "existing-app-sentence-and-authored-korean-gloss"
+    },
+    {
+      "id": "extra-8fb2",
+      "character": "農",
+      "stage": 6,
+      "order": 120,
+      "group_name": "문장 속 추가 한자",
+      "meaning_ko": "농사",
+      "example_words": [
+        {
+          "word": "農業",
+          "reading": "のうぎょう",
+          "meaning_ko": "농업",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1470660"
+          ],
+          "reading_editorial_review_required": false
+        }
+      ],
+      "example_sentence": {
+        "ja": "この町では農業が大切な産業です。",
+        "reading": "このまちではのうぎょうがたいせつなさんぎょうです。",
+        "translation_ko": "이 마을에서는 농업이 중요한 산업입니다.",
+        "status": "authored_draft_editorial_review_pending",
+        "source": "kanji-309"
+      },
+      "editorial_status": "authored_draft",
+      "source": "existing-app-sentence-and-authored-korean-gloss"
+    },
+    {
+      "id": "extra-8fbc",
+      "character": "込",
+      "stage": 6,
+      "order": 121,
+      "group_name": "문장 속 추가 한자",
+      "meaning_ko": "붐비다·들어가다",
+      "example_words": [
+        {
+          "word": "込む",
+          "reading": "こむ",
+          "meaning_ko": "붐비다",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1593410"
+          ],
+          "reading_editorial_review_required": false
+        }
+      ],
+      "example_sentence": {
+        "ja": "給料は毎月振り込まれます。",
+        "reading": "きゅうりょうはまいつきふりこまれます。",
+        "translation_ko": "급여는 매달 입금됩니다.",
+        "status": "authored_draft_editorial_review_pending",
+        "source": "kanji-484"
+      },
+      "editorial_status": "authored_draft",
+      "source": "existing-app-sentence-and-authored-korean-gloss"
+    },
+    {
+      "id": "extra-9003",
+      "character": "逃",
+      "stage": 6,
+      "order": 122,
+      "group_name": "문장 속 추가 한자",
+      "meaning_ko": "도망치다",
+      "example_words": [
+        {
+          "word": "逃げる",
+          "reading": "にげる",
+          "meaning_ko": "도망치다",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1450330"
+          ],
+          "reading_editorial_review_required": false
+        }
+      ],
+      "example_sentence": {
+        "ja": "虫を殺さずに外へ逃がしました。",
+        "reading": "むしをころさずにそとへにがしました。",
+        "translation_ko": "벌레를 죽이지 않고 밖으로 내보냈습니다.",
+        "status": "authored_draft_editorial_review_pending",
+        "source": "kanji-473"
+      },
+      "editorial_status": "authored_draft",
+      "source": "existing-app-sentence-and-authored-korean-gloss"
+    },
+    {
+      "id": "extra-90f5",
+      "character": "郵",
+      "stage": 6,
+      "order": 123,
+      "group_name": "문장 속 추가 한자",
+      "meaning_ko": "우편",
+      "example_words": [
+        {
+          "word": "郵便局",
+          "reading": "ゆうびんきょく",
+          "meaning_ko": "우체국",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1542430"
+          ],
+          "reading_editorial_review_required": false
+        }
+      ],
+      "example_sentence": {
+        "ja": "郵便局で切手を買います。",
+        "reading": "ゆうびんきょくできってをかいます。",
+        "translation_ko": "우체국에서 우표를 삽니다.",
+        "status": "authored_draft_editorial_review_pending",
+        "source": "kanji-369"
+      },
+      "editorial_status": "authored_draft",
+      "source": "existing-app-sentence-and-authored-korean-gloss"
+    },
+    {
+      "id": "extra-91dc",
+      "character": "釜",
+      "stage": 6,
+      "order": 124,
+      "group_name": "문장 속 추가 한자",
+      "meaning_ko": "솥",
+      "example_words": [
+        {
+          "word": "釜",
+          "reading": "かま",
+          "meaning_ko": "솥",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1209080"
+          ],
+          "reading_editorial_review_required": false
+        }
+      ],
+      "example_sentence": {
+        "ja": "私は釜山の出身です。",
+        "reading": "わたしはぷさんのしゅっしんです。",
+        "translation_ko": "저는 부산 출신입니다.",
+        "status": "authored_draft_editorial_review_pending",
+        "source": "kanji-381"
+      },
+      "editorial_status": "authored_draft",
+      "source": "existing-app-sentence-and-authored-korean-gloss"
+    },
+    {
+      "id": "extra-985e",
+      "character": "類",
+      "stage": 6,
+      "order": 125,
+      "group_name": "문장 속 추가 한자",
+      "meaning_ko": "종류",
+      "example_words": [
+        {
+          "word": "種類",
+          "reading": "しゅるい",
+          "meaning_ko": "종류",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1328890"
+          ],
+          "reading_editorial_review_required": false
+        }
+      ],
+      "example_sentence": {
+        "ja": "この書類を先生に渡してください。",
+        "reading": "このしょるいをせんせいにわたしてください。",
+        "translation_ko": "이 서류를 선생님께 건네주세요.",
+        "status": "authored_draft_editorial_review_pending",
+        "source": "kanji-428"
+      },
+      "editorial_status": "authored_draft",
+      "source": "existing-app-sentence-and-authored-korean-gloss"
+    }
+  ]
+}

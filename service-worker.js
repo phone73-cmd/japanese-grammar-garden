@@ -1,6 +1,6 @@
-/* Japanese Grammar Garden v0.3.4-dev: versioned offline shell */
-const CACHE="jgg-v0.3.4-dev";
-const ASSETS=["./","./index.html","./manifest.webmanifest","./icon.svg","./app-ui.js","./grammar-lessons.js","./sentence-parts.js","./record-backup.js","./sources.html","./icons/apple-touch-icon.png","./icons/icon-192.png","./icons/icon-512.png","./kanji-app.js","./kanji-app.css",
+/* Japanese Grammar Garden v0.3.5-dev: versioned offline shell */
+const CACHE="jgg-v0.3.5-dev";
+const ASSETS=["./data/kanji/kanji-extra-125.draft.json","./","./index.html","./manifest.webmanifest","./icon.svg","./app-ui.js","./grammar-lessons.js","./sentence-parts.js","./record-backup.js","./sources.html","./icons/apple-touch-icon.png","./icons/icon-192.png","./icons/icon-512.png","./kanji-app.js","./kanji-app.css",
 "./data/kanji/kanji-stage-1-100.draft.json","./data/kanji/kanji-stage-2-100.draft.json","./data/kanji/kanji-stage-3-100.draft.json","./data/kanji/kanji-stage-4-100.draft.json","./data/kanji/kanji-stage-5-100.draft.json"];
 const assetURLs=new Set(ASSETS.map(path=>new URL(path,self.registration.scope).href));
 self.addEventListener("install",event=>event.waitUntil(caches.open(CACHE).then(cache=>cache.addAll(ASSETS.map(path=>new Request(new URL(path,self.registration.scope),{cache:"reload"}))))));
