@@ -7,7 +7,7 @@ window.JGG_PRACTICE=(()=>{
   const d=content[id],add=data.lessons[id];d.v039Count=d.questions.length;d.v039ExampleCount=d.examples.length;
   // Map old directions/gaps to one source example without mutating old question objects.
   d.questions.forEach((q,i)=>{const correct=q.choices[q.correct],ex=d.examples.find(e=>correct===e[0]||correct===e[3]||q.question.includes(e[0])||q.reason.startsWith(e[0]+' →'));
-   const source=q.kanaKey?'kana:'+q.kanaKey:ex?'text:'+canon(ex[0]):'rule:'+canon(q.reason);
+   const kana=(window.JGG_COURSE.data.kana[id]||[]).find(row=>q.kanaKey===row.key||q.question.includes('‘'+row.glyph+'’')||q.question.includes('「'+row.glyph+'」'));const source=kana?'kana:'+kana.key:ex?'text:'+canon(ex[0]):'rule:'+canon(q.reason);
    families.set(id+':'+i,id+':'+source);
   });
   for(const e of add.examples)if(!d.examples.some(old=>old[0]===e[0]))d.examples.push(e.slice());
@@ -23,7 +23,7 @@ window.JGG_PRACTICE=(()=>{
    if(add.mora){const count=Array.from(e[1]).filter(c=>!('ゃゅょぁぃぅぇぉ'.includes(c))&&/[ぁ-ゖー]/.test(c)).length,others=[count+1,count+2,count===1?4:count-1];const index=d.questions.length;d.questions.push({question:`「${e[0]}」는 몇 박자인가요?`,choices:[count,...others].map(n=>n+'박자'),correct:0,reason:`${e[1]}는 ${count}박자입니다. 작은 요음은 앞 글자와 한 박자, っ·ん·장음은 각각 한 박자로 셉니다.`,skill:'박자'});families.set(id+':'+index,id+':text:'+canon(e[0]));}
   });
  }}
- function clean(raw,content){const out={round:0,shown:{},families:{}};if(!raw||typeof raw!=='object')return out;out.round=Number.isSafeInteger(raw.round)&&raw.round>=0?Math.min(raw.round,10000000):0;const allowed=new Set(families.values());for(const [key,value] of Object.entries(raw.shown||{})){const [id,index]=key.split(':').map(Number);if(/^\d+:\d+$/.test(key)&&content[id]?.questions[index]&&Number.isSafeInteger(value)&&value>=0&&value<=out.round)out.shown[key]=value}for(const [key,value] of Object.entries(raw.families||{}))if(allowed.has(key)&&Number.isSafeInteger(value)&&value>=0&&value<=out.round)out.families[key]=value;return out}
+ function clean(raw,content){const out={round:0,shown:{},families:{}};if(!raw||typeof raw!=='object')return out;out.round=Number.isSafeInteger(raw.round)&&raw.round>=0?Math.min(raw.round,10000000):0;const allowed=new Set(families.values());for(const [key,value] of Object.entries(raw.shown||{})){const [id,index]=key.split(':').map(Number);if(/^\d+:\d+$/.test(key)&&content[id]?.questions[index]&&Number.isSafeInteger(value)&&value>=0&&value<=out.round)out.shown[key]=value}for(const [key,value] of Object.entries(raw.families||{}))if(allowed.has(key)&&Number.isSafeInteger(value)&&value>=0&&value<=out.round)out.families[key]=value;for(const [key,value] of Object.entries(out.shown)){const [id,index]=key.split(':').map(Number),f=family(id,index,content);out.families[f]=Math.max(out.families[f]||0,value)}return out}
  function select(content,record,id,format,shuffle,due){
   const history=clean(record.practiceHistory,content),ids=id%10===0?Array.from({length:9},(_,i)=>id-9+i):[id],pool=[];
   for(const n of ids)content[n].questions.forEach((q,index)=>{if(format==='ox'||!q.judgement)pool.push({lessonId:n,questionIndex:index})});
