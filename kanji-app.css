@@ -115,3 +115,11 @@
 #kanji-panel .kj-card>.kj-btn[data-kj^="sentence:"]{display:block;min-height:44px;margin:12px auto 0}
 #app .kj-inline,#kanji-panel .kj-inline{display:inline;min-height:0;min-width:0;width:auto;height:auto;border:0;border-bottom:1px dotted var(--garden-accent-ink,#9675bd);border-radius:0;background:transparent;color:inherit;font:inherit;line-height:inherit;padding:0 1px;vertical-align:baseline;cursor:pointer}
 #app .kj-inline:focus-visible,#kanji-panel .kj-inline:focus-visible{outline:2px solid var(--garden-accent-ink,#9675bd);outline-offset:1px}
+
+/* v0.3.7 shared icon alignment */
+#kanji-panel .kj-btn.icon-button,#kanji-panel .kj-backup-actions>.kj-btn{display:inline-flex;align-items:center;justify-content:center;gap:6px}
+#kanji-panel .kj-nav>.kj-btn{display:flex;flex-direction:column;gap:3px;min-height:52px;padding:5px 2px}
+#kanji-panel .kj-backup-actions .garden-icon{width:20px;height:20px;flex-basis:20px}
+#kanji-panel .kj-backup-actions>.kj-btn{font-size:12px;gap:4px}
+#kanji-panel .kj-card>.kj-btn[data-kj="advance"]{display:flex;margin:18px auto 0;justify-content:center;align-items:center;gap:6px}
+#kanji-panel .kj-card>.kj-btn[data-kj^="sentence:"]{display:flex;align-items:center;justify-content:center;gap:6px}
