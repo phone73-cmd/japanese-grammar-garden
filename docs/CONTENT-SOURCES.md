@@ -17,3 +17,8 @@
 ## v0.3.5-dev 추가 한자
 
 기존 문법·한자 예문에 있는 미수록 125자를 별도 카드로 추가했다. 예문은 기존 자체 편집 자료를 재사용하고 한국어 단일 글자 뜻·대표 단어 뜻은 별도로 편집했다. 대표 단어 125항목(중복 단어 포함)의 표기·읽기는 공식 JMdict XML의 re_restr를 고려해 정확 대조했으며 각 항목에 entry_sequence를 기록했다. 데이터는 기존 한자 파생 데이터와 동일한 CC BY-SA 4.0 고지를 따른다. 사전의 뜻풀이를 복제하지 않았으며 읽기 대조를 뜻·예문 전체 검수로 간주하지 않는다. 상세 해시 및 재생성 명령은 data/kanji/EXTRA-KANJI-STATUS.md 참조.
+
+
+## v0.3.9-dev 학습 보강
+
+기존 600문제 인덱스 보존, 830문제 추가. 설명·활용표·9개 역할 대화는 자체 작성했습니다. TUFS 문법 모듈 https://www.coelang.tufs.ac.jp/mt/ja/gmod/steplist.html 및 이로도리 https://www.irodori.jpf.go.jp/resources.html 의 체계를 참고했으며 교재 문장·미디어를 복제하지 않았습니다. 구조 검사와 원어민 감수는 다르며 전체 원어민 감수는 미완료입니다. 세부 결과는 RELEASE-v0.3.9.md 및 data/grammar/COURSE-AUDIT-v0.3.9.json에 기록합니다.

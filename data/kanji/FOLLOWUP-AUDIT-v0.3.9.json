@@ -1,0 +1,24 @@
+{
+  "version": "0.3.9-dev",
+  "date": "2026-10-24",
+  "checked": 625,
+  "official_source_sha256": "42db060b56231dec632f8b9f8805738559fab9724f347a16db7299deac2e6414",
+  "on_kun_mismatches": 0,
+  "korean_reading_mismatches": 0,
+  "korean_fallbacks": [
+    {
+      "id": "kanji-389",
+      "character": "収",
+      "source": "Wiktionary"
+    }
+  ],
+  "gloss_reading_difference_candidates": [],
+  "translation_variant_candidates": [],
+  "original_data_modified": false,
+  "verified": "dictionary_field_recomparison_and_evidence_presence",
+  "unverified": [
+    "Whole-set authoritative Korean dictionary cross-certification",
+    "Native-level Japanese sentence and Korean translation review",
+    "Real iPhone Safari/PWA and voice quality"
+  ]
+}
