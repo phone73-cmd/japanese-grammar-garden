@@ -195,3 +195,5 @@
 - [전수 대조 보고서](data/kanji/KANJI-ENRICHMENT-AUDIT.md), [예외 목록](data/kanji/KANJI-ENRICHMENT-EXCEPTIONS.json), [추가 번역 검수 목록](data/kanji/STUDY-WORDS-TRANSLATION-REVIEW.json).
 - 재현: `pip install -r scripts/requirements-kanji-audit.txt` → `python scripts/fetch_kanji_sources.py SOURCES` → `python scripts/audit_korean_kanji.py SOURCES/kanjidic2.xml.gz` → `python scripts/build_kanji_enrichment.py SOURCES`.
 - 전체 예문·번역 원어민 정밀 감수, 전체 훈의 공인 사전 추가 교차 감수 및 실제 iPhone Safari/PWA는 미확인입니다.
+
+- 402px 실화면 점검 후 한자 연결 문제의 빈칸 단어·히라가나·한국어 뜻을 서로 다른 줄과 크기로 표시하도록 보완했습니다. 저장된 문제 원본과 답안은 유지합니다.
