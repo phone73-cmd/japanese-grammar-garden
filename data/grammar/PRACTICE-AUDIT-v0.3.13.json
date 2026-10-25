@@ -1,0 +1,495 @@
+{
+  "version": "0.3.13-dev",
+  "existing_question_indices_preserved": 1430,
+  "raw_baseline_questions_verified": 1430,
+  "baseline_questions_editorially_revised": 3,
+  "existing_examples_preserved": 237,
+  "total_examples": 717,
+  "total_questions": 6950,
+  "new_assessment_contexts": 1828,
+  "dialogues": 27,
+  "dialogue_turns": 108,
+  "lessons": [
+    {
+      "lesson": 1,
+      "examples": 11,
+      "new_examples": 8,
+      "questions": 102,
+      "held_out_contexts": 0,
+      "dialogues": 0
+    },
+    {
+      "lesson": 2,
+      "examples": 12,
+      "new_examples": 8,
+      "questions": 126,
+      "held_out_contexts": 0,
+      "dialogues": 0
+    },
+    {
+      "lesson": 3,
+      "examples": 12,
+      "new_examples": 8,
+      "questions": 162,
+      "held_out_contexts": 36,
+      "dialogues": 0
+    },
+    {
+      "lesson": 4,
+      "examples": 12,
+      "new_examples": 8,
+      "questions": 102,
+      "held_out_contexts": 0,
+      "dialogues": 0
+    },
+    {
+      "lesson": 5,
+      "examples": 12,
+      "new_examples": 8,
+      "questions": 172,
+      "held_out_contexts": 0,
+      "dialogues": 0
+    },
+    {
+      "lesson": 6,
+      "examples": 11,
+      "new_examples": 8,
+      "questions": 134,
+      "held_out_contexts": 40,
+      "dialogues": 0
+    },
+    {
+      "lesson": 7,
+      "examples": 11,
+      "new_examples": 8,
+      "questions": 137,
+      "held_out_contexts": 40,
+      "dialogues": 0
+    },
+    {
+      "lesson": 8,
+      "examples": 12,
+      "new_examples": 8,
+      "questions": 110,
+      "held_out_contexts": 32,
+      "dialogues": 0
+    },
+    {
+      "lesson": 9,
+      "examples": 12,
+      "new_examples": 8,
+      "questions": 135,
+      "held_out_contexts": 39,
+      "dialogues": 0
+    },
+    {
+      "lesson": 10,
+      "examples": 12,
+      "new_examples": 8,
+      "questions": 10,
+      "held_out_contexts": 0,
+      "dialogues": 0
+    },
+    {
+      "lesson": 11,
+      "examples": 12,
+      "new_examples": 8,
+      "questions": 138,
+      "held_out_contexts": 40,
+      "dialogues": 0
+    },
+    {
+      "lesson": 12,
+      "examples": 12,
+      "new_examples": 8,
+      "questions": 134,
+      "held_out_contexts": 39,
+      "dialogues": 0
+    },
+    {
+      "lesson": 13,
+      "examples": 12,
+      "new_examples": 8,
+      "questions": 138,
+      "held_out_contexts": 40,
+      "dialogues": 0
+    },
+    {
+      "lesson": 14,
+      "examples": 12,
+      "new_examples": 8,
+      "questions": 133,
+      "held_out_contexts": 39,
+      "dialogues": 0
+    },
+    {
+      "lesson": 15,
+      "examples": 12,
+      "new_examples": 8,
+      "questions": 138,
+      "held_out_contexts": 40,
+      "dialogues": 0
+    },
+    {
+      "lesson": 16,
+      "examples": 12,
+      "new_examples": 8,
+      "questions": 138,
+      "held_out_contexts": 40,
+      "dialogues": 0
+    },
+    {
+      "lesson": 17,
+      "examples": 12,
+      "new_examples": 8,
+      "questions": 137,
+      "held_out_contexts": 40,
+      "dialogues": 0
+    },
+    {
+      "lesson": 18,
+      "examples": 12,
+      "new_examples": 8,
+      "questions": 138,
+      "held_out_contexts": 40,
+      "dialogues": 0
+    },
+    {
+      "lesson": 19,
+      "examples": 12,
+      "new_examples": 8,
+      "questions": 114,
+      "held_out_contexts": 32,
+      "dialogues": 0
+    },
+    {
+      "lesson": 20,
+      "examples": 12,
+      "new_examples": 8,
+      "questions": 10,
+      "held_out_contexts": 0,
+      "dialogues": 0
+    },
+    {
+      "lesson": 21,
+      "examples": 12,
+      "new_examples": 8,
+      "questions": 111,
+      "held_out_contexts": 31,
+      "dialogues": 0
+    },
+    {
+      "lesson": 22,
+      "examples": 12,
+      "new_examples": 8,
+      "questions": 114,
+      "held_out_contexts": 32,
+      "dialogues": 0
+    },
+    {
+      "lesson": 23,
+      "examples": 12,
+      "new_examples": 8,
+      "questions": 114,
+      "held_out_contexts": 32,
+      "dialogues": 0
+    },
+    {
+      "lesson": 24,
+      "examples": 12,
+      "new_examples": 8,
+      "questions": 138,
+      "held_out_contexts": 40,
+      "dialogues": 0
+    },
+    {
+      "lesson": 25,
+      "examples": 12,
+      "new_examples": 8,
+      "questions": 135,
+      "held_out_contexts": 39,
+      "dialogues": 0
+    },
+    {
+      "lesson": 26,
+      "examples": 12,
+      "new_examples": 8,
+      "questions": 114,
+      "held_out_contexts": 32,
+      "dialogues": 0
+    },
+    {
+      "lesson": 27,
+      "examples": 12,
+      "new_examples": 8,
+      "questions": 114,
+      "held_out_contexts": 32,
+      "dialogues": 0
+    },
+    {
+      "lesson": 28,
+      "examples": 12,
+      "new_examples": 8,
+      "questions": 113,
+      "held_out_contexts": 32,
+      "dialogues": 0
+    },
+    {
+      "lesson": 29,
+      "examples": 12,
+      "new_examples": 8,
+      "questions": 114,
+      "held_out_contexts": 32,
+      "dialogues": 0
+    },
+    {
+      "lesson": 30,
+      "examples": 12,
+      "new_examples": 8,
+      "questions": 10,
+      "held_out_contexts": 0,
+      "dialogues": 0
+    },
+    {
+      "lesson": 31,
+      "examples": 12,
+      "new_examples": 8,
+      "questions": 109,
+      "held_out_contexts": 31,
+      "dialogues": 0
+    },
+    {
+      "lesson": 32,
+      "examples": 12,
+      "new_examples": 8,
+      "questions": 133,
+      "held_out_contexts": 39,
+      "dialogues": 0
+    },
+    {
+      "lesson": 33,
+      "examples": 12,
+      "new_examples": 8,
+      "questions": 114,
+      "held_out_contexts": 32,
+      "dialogues": 0
+    },
+    {
+      "lesson": 34,
+      "examples": 12,
+      "new_examples": 8,
+      "questions": 114,
+      "held_out_contexts": 32,
+      "dialogues": 0
+    },
+    {
+      "lesson": 35,
+      "examples": 12,
+      "new_examples": 8,
+      "questions": 113,
+      "held_out_contexts": 32,
+      "dialogues": 0
+    },
+    {
+      "lesson": 36,
+      "examples": 12,
+      "new_examples": 8,
+      "questions": 114,
+      "held_out_contexts": 32,
+      "dialogues": 0
+    },
+    {
+      "lesson": 37,
+      "examples": 12,
+      "new_examples": 8,
+      "questions": 114,
+      "held_out_contexts": 32,
+      "dialogues": 0
+    },
+    {
+      "lesson": 38,
+      "examples": 12,
+      "new_examples": 8,
+      "questions": 137,
+      "held_out_contexts": 40,
+      "dialogues": 0
+    },
+    {
+      "lesson": 39,
+      "examples": 12,
+      "new_examples": 8,
+      "questions": 114,
+      "held_out_contexts": 32,
+      "dialogues": 0
+    },
+    {
+      "lesson": 40,
+      "examples": 12,
+      "new_examples": 8,
+      "questions": 10,
+      "held_out_contexts": 0,
+      "dialogues": 0
+    },
+    {
+      "lesson": 41,
+      "examples": 12,
+      "new_examples": 8,
+      "questions": 134,
+      "held_out_contexts": 40,
+      "dialogues": 0
+    },
+    {
+      "lesson": 42,
+      "examples": 12,
+      "new_examples": 8,
+      "questions": 134,
+      "held_out_contexts": 40,
+      "dialogues": 0
+    },
+    {
+      "lesson": 43,
+      "examples": 12,
+      "new_examples": 8,
+      "questions": 134,
+      "held_out_contexts": 40,
+      "dialogues": 0
+    },
+    {
+      "lesson": 44,
+      "examples": 12,
+      "new_examples": 8,
+      "questions": 114,
+      "held_out_contexts": 32,
+      "dialogues": 0
+    },
+    {
+      "lesson": 45,
+      "examples": 12,
+      "new_examples": 8,
+      "questions": 114,
+      "held_out_contexts": 32,
+      "dialogues": 0
+    },
+    {
+      "lesson": 46,
+      "examples": 12,
+      "new_examples": 8,
+      "questions": 114,
+      "held_out_contexts": 32,
+      "dialogues": 0
+    },
+    {
+      "lesson": 47,
+      "examples": 12,
+      "new_examples": 8,
+      "questions": 114,
+      "held_out_contexts": 32,
+      "dialogues": 0
+    },
+    {
+      "lesson": 48,
+      "examples": 12,
+      "new_examples": 8,
+      "questions": 138,
+      "held_out_contexts": 40,
+      "dialogues": 0
+    },
+    {
+      "lesson": 49,
+      "examples": 12,
+      "new_examples": 8,
+      "questions": 138,
+      "held_out_contexts": 40,
+      "dialogues": 0
+    },
+    {
+      "lesson": 50,
+      "examples": 12,
+      "new_examples": 8,
+      "questions": 10,
+      "held_out_contexts": 0,
+      "dialogues": 0
+    },
+    {
+      "lesson": 51,
+      "examples": 12,
+      "new_examples": 8,
+      "questions": 138,
+      "held_out_contexts": 40,
+      "dialogues": 3
+    },
+    {
+      "lesson": 52,
+      "examples": 12,
+      "new_examples": 8,
+      "questions": 138,
+      "held_out_contexts": 40,
+      "dialogues": 3
+    },
+    {
+      "lesson": 53,
+      "examples": 12,
+      "new_examples": 8,
+      "questions": 138,
+      "held_out_contexts": 40,
+      "dialogues": 3
+    },
+    {
+      "lesson": 54,
+      "examples": 12,
+      "new_examples": 8,
+      "questions": 138,
+      "held_out_contexts": 40,
+      "dialogues": 3
+    },
+    {
+      "lesson": 55,
+      "examples": 12,
+      "new_examples": 8,
+      "questions": 138,
+      "held_out_contexts": 40,
+      "dialogues": 3
+    },
+    {
+      "lesson": 56,
+      "examples": 12,
+      "new_examples": 8,
+      "questions": 138,
+      "held_out_contexts": 40,
+      "dialogues": 3
+    },
+    {
+      "lesson": 57,
+      "examples": 12,
+      "new_examples": 8,
+      "questions": 138,
+      "held_out_contexts": 40,
+      "dialogues": 3
+    },
+    {
+      "lesson": 58,
+      "examples": 12,
+      "new_examples": 8,
+      "questions": 138,
+      "held_out_contexts": 40,
+      "dialogues": 3
+    },
+    {
+      "lesson": 59,
+      "examples": 12,
+      "new_examples": 8,
+      "questions": 135,
+      "held_out_contexts": 39,
+      "dialogues": 3
+    },
+    {
+      "lesson": 60,
+      "examples": 12,
+      "new_examples": 8,
+      "questions": 10,
+      "held_out_contexts": 0,
+      "dialogues": 0
+    }
+  ],
+  "status": "structural_and_rotation_tests_passed_not_native_review"
+}

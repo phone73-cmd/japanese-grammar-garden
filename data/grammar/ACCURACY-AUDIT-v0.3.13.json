@@ -1,0 +1,49 @@
+{
+  "base_version": "0.3.12-dev",
+  "tested_version": "0.3.13-dev",
+  "base_commit": "acb545a7578f6ce9340988c780b456c5ff4ca580",
+  "date": "2026-10-25",
+  "hashes": {
+    "index.html": "e5ba6fb6f417a5d247bc02ab9fe43516f7e8cde9fd422dc140037dbcb4e6cf4d",
+    "grammar-lessons.js": "6912c79843c7f750c8dc0f08322741e209f9d738bf5db91d0f01cb697e94a034",
+    "course-data.js": "cc6efbaf1b213c6fdb225e0a8d92c4fbd5bc3804c10f4d546cc65633aa5a2daa",
+    "course-runtime.js": "1529be9f3fbfb05bf4815be56db34c6cadaf5eeae67f215db79bdab2b6cb02b9",
+    "practice-data.js": "b983981054188deb53d89aaf896a42b8a16074e8f362bb657fc7383bdbfe590f",
+    "editorial-data.js": "0025df751b3847363971779e2c49343d18b40908286747f8e25cad705094bacb",
+    "editorial-runtime.js": "784cadf7e7c5fe76d4484bd44636f2003fe88fa0fb989e92807f3e7e598653d6",
+    "practice-runtime.js": "4d6060bc857673ba83efe1b0eb796d5b0fc01bf0f73b6aac2dd7b75bae86db38"
+  },
+  "scope": {
+    "lessons": 60,
+    "examples": 717,
+    "questions": 6950,
+    "assessmentContexts": 1828,
+    "dialogueTurns": 108,
+    "judgements": 120,
+    "gaps": 136
+  },
+  "editorialStats": {
+    "version": "0.3.13-dev",
+    "mappings": 105,
+    "examples": 21,
+    "questions": 348,
+    "practiceRows": 107,
+    "correctedGaps": 3
+  },
+  "structuralIssues": [],
+  "oxConstructionConflicts": [],
+  "confirmedAmbiguousQuestions": [],
+  "status": "editorial_corrections_applied_not_native_certification",
+  "limitations": [
+    "Structural checks do not prove semantic correctness or unique answers.",
+    "717 learning examples and 108 dialogue turns received a first-pass model editorial review, not native certification.",
+    "1828 assessment contexts reviewed through generator rules, inflection/slot tables and targeted high-risk rows; full independent sentence-by-sentence semantic certification incomplete.",
+    "Kanji 639 complete source re-audit and accent/audio verification are outside this grammar-focused pass."
+  ],
+  "deviceValidation": {
+    "status": "user_reported_complete",
+    "date": "2026-10-25",
+    "independent_retest": false,
+    "device_browser_cases_not_individually_recorded": true
+  }
+}

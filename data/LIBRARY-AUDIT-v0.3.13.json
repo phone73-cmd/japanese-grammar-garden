@@ -1,0 +1,30 @@
+{
+  "version": "0.3.13-dev",
+  "date": "2026-10-25",
+  "kanji": 639,
+  "added_kanji": 14,
+  "new_word_associations": 29,
+  "search_entries": 2886,
+  "indexed_learning_examples": 717,
+  "indexed_dialogue_turns": 108,
+  "unlinked_kanji_in_indexed_study_texts": 0,
+  "categories": {
+    "grammar": 72,
+    "kana": 59,
+    "phrase": 774,
+    "kanji": 639,
+    "adverb": 99,
+    "counter": 31,
+    "noun": 1047,
+    "na_adj": 85,
+    "verb": 433,
+    "pronoun": 20,
+    "i_adj": 51,
+    "conjunction": 6,
+    "particle": 12,
+    "rentaishi": 1,
+    "interrogative": 8,
+    "greeting": 4
+  },
+  "status": "source_fields_and_targets_checked_not_native_review"
+}

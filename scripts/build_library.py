@@ -6,8 +6,8 @@ import sys,json,gzip,subprocess,re,hashlib,xml.etree.ElementTree as ET
 ROOT=Path(__file__).resolve().parents[1];D=Path(sys.argv[1])
 loadjs=lambda f,n:json.loads((ROOT/f).read_text().split(n+'=')[1].strip().rstrip(';'))
 html=(ROOT/'index.html').read_text();prefix=html[html.index('const titles='):html.index('\nlet state=')]
-code='global.window={};'+''.join((ROOT/f).read_text() for f in ['grammar-lessons.js','course-data.js','course-runtime.js','practice-data.js','practice-runtime.js'])+prefix+';console.log(JSON.stringify({content,titles}))'
-raw=json.loads(subprocess.run(['node'],input=code,text=True,capture_output=True,check=True).stdout);content=raw['content'];titles=raw['titles'];c=loadjs('course-data.js','window.JGG_COURSE_DATA');p=loadjs('practice-data.js','window.JGG_PRACTICE_DATA')
+code='global.window={};'+''.join((ROOT/f).read_text() for f in ['grammar-lessons.js','course-data.js','course-runtime.js','practice-data.js','editorial-data.js','editorial-runtime.js','practice-runtime.js'])+prefix+';console.log(JSON.stringify({content,titles,course:window.JGG_COURSE.data,practice:window.JGG_PRACTICE.data}))'
+raw=json.loads(subprocess.run(['node'],input=code,text=True,capture_output=True,check=True).stdout);content=raw['content'];titles=raw['titles'];c=raw['course'];p=raw['practice']
 base=ROOT/'data/kanji';original=[x for f in [*(sorted(base.glob('kanji-stage-*-100.draft.json'))),base/'kanji-extra-125.draft.json',base/'kanji-additions-14.draft.json'] for x in json.loads(f.read_text())['items']]
 overlay={x['id']:x for f in [base/'kanji-enrichment.json',base/'kanji-additions-14.enrichment.json'] for x in json.loads(f.read_text())['items']}
 assert len(original)==len(overlay)==639
@@ -82,6 +82,6 @@ for cat,rows in functions.items():
   if cat=='particle':reading={'は':'わ','へ':'え','を':'お'}.get(ja,reading)
   entries.append(dict(id=f'function-{cat}-{i}',kind='expression',japanese=ja,reading=reading,meaning=ko,keywords=[],categories=[cat],lessonId=n,classification_source='explicit-editorial-study-category'))
 assert len({e['id'] for e in entries})==len(entries)
-result=dict(license='Derived EDRDG and Wiktionary dictionary data: CC BY-SA 4.0; original app text: see sources.html',schema='jgg-library-v1',version='0.3.12-dev',kanji_count=639,entries=entries,sources={'JMdict_url':'https://www.edrdg.org/pub/Nihongo/JMdict_e.gz','JMdict_sha256':hashlib.sha256((D/'JMdict_e.gz').read_bytes()).hexdigest(),'category_policy':'Restricted Japanese form/reading sense POS; explicit pedagogical tags for function words; unclassified kept visible'})
+result=dict(license='Derived EDRDG and Wiktionary dictionary data: CC BY-SA 4.0; original app text: see sources.html',schema='jgg-library-v1',version='0.3.13-dev',kanji_count=639,entries=entries,sources={'JMdict_url':'https://www.edrdg.org/pub/Nihongo/JMdict_e.gz','JMdict_sha256':hashlib.sha256((D/'JMdict_e.gz').read_bytes()).hexdigest(),'category_policy':'Restricted Japanese form/reading sense POS; explicit pedagogical tags for function words; unclassified kept visible'})
 (ROOT/'data/library-index.json').write_text(json.dumps(result,ensure_ascii=False,separators=(',',':'))+'\n')
 print('Index entries',len(entries),'words',len(words),'POS unclassified',sum(e['categories']==['unclassified'] for e in entries))
