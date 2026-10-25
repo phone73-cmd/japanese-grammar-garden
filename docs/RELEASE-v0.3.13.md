@@ -25,7 +25,7 @@
 - `node scripts/audit_practice.cjs`: 원본 기준 문항·예문 인덱스와 승인 전 원문 해시, 출제 회전·평가 맥락 검사 통과. 원본 1,430문항 중 교정 연결로 표시가 바뀐 것은 3개이며 나머지 변경 문항은 뒤에 추가된 평가 문항입니다.
 - `node scripts/audit_library.cjs`: 고유 한자 639자, 교정된 학습 예문 717개·대화 108발화에서 한자 연결 누락 0. 새 한자를 추가할 필요가 없었습니다.
 - 서비스워커 `jgg-v0.3.13-dev`, 필수 캐시 49개. 두 교정 파일을 캐시하고 사용자 확인 후 적용하는 방식을 유지합니다.
-- 실제 Pages 갱신과 Chrome 402×874 UI·업데이트 복구 확인은 배포 후 기록합니다.
+- GitHub Pages 작업 40203438130 성공, 앱 화면 v0.3.13-dev 확인. 실제 응답의 index.html·editorial-data.js·editorial-runtime.js·practice-runtime.js·검색 색인·서비스워커 바이트가 로컬과 일치했습니다.
 
 ## 출처·검수 수준
 
@@ -40,3 +40,12 @@
 - practice-runtime.js, scripts/build_library.py, data/library-index.json: 학습·평가·검색 연결.
 - tests/stabilization.cjs, scripts/audit_grammar_accuracy.cjs, scripts/audit_practice.cjs, scripts/audit_library.cjs: 검증 및 재현.
 - service-worker.js, kanji-app.js, README.md, sources.html 및 docs/data의 검수·상태 보고서: 캐시·버전·현황 갱신.
+
+## 배포 후 브라우저 확인
+
+- 기능 커밋: `8b74badf8204f0023a7991d7df9c6d0b7e51fce4`. main 변경 파일 26개, 계획 외 변경·삭제 0개.
+- Chrome 402×874 CSS px에서 v0.3.12의 45과 2/10 ‘パンを食べたことがあります’ 읽기 문제에 D(ぱんをたべたことがあります)를 선택했습니다. 업데이트 확인창을 통해 v0.3.13을 적용한 뒤 문제·보기·선택·정답 표시가 동일하게 유지됐습니다. 다시 새로고침한 뒤에도 유지됐습니다.
+- 뒤로가기 앱 내부 확인창의 계속 풀기·나가기를 확인했습니다. 새 학습 화면은 日本語の本を読んだことがあります 등 교정된 예문을 표시했습니다.
+- 교정된 호텔 체크인 시간 질문과 습득자 문장을 검색하고 해당 단원으로 이동한 뒤 검색으로 복귀했습니다. 긴 습득자 학습 카드도 가로 넘침 없이 표시됐습니다(client/scroll 387px 동일, 데스크톱 스크롤바 제외).
+- 다크모드에서 山の水를 검색해 교정된 일본어·히라가나·뜻·관련 단원이 표시됨을 확인했습니다(client/scroll 402px 동일). 검증 후 화면 설정은 기기 설정으로 복원했습니다.
+- 실제 iPhone Safari/PWA의 새 교정본을 직접 재검증한 결과는 아닙니다. 이전 앱 실사용 완료는 사용자 보고로 별도 기록했습니다.
