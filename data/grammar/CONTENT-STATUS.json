@@ -1,5 +1,5 @@
 {
-  "version": "0.3.10-dev",
+  "version": "0.3.11-dev",
   "legacy_lessons_preserved": [
     1,
     6,
@@ -23,5 +23,9 @@
   "total_examples": 717,
   "assessment_contexts": 1828,
   "dialogues": 27,
-  "practice_source": "practice-data.js"
+  "practice_source": "practice-data.js",
+  "previous_release_questions_preserved": 6950,
+  "grammar_content_changed": false,
+  "library_entries": 2886,
+  "kanji": 639
 }

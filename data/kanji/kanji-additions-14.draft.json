@@ -1,0 +1,936 @@
+{
+  "schema_version": "kanji-v1",
+  "version": "0.3.11-dev",
+  "count": 14,
+  "status": "source_matched_native_review_pending",
+  "sources": {
+    "kanjidic2.xml.gz": "42db060b56231dec632f8b9f8805738559fab9724f347a16db7299deac2e6414",
+    "JMdict_e.gz": "2106e8754205f8e4e0c6fdf90a48fbd25c88f9dbbc667631dd83a58e56f11deb",
+    "wikt-new14.json": "79dc464f463bb5b543156dc48d8aa08f8d44bfd01570dcfa9ca15e63966f9e41",
+    "Unihan_Variants.txt": "4ccfd34b08ac7b9c14353f6668ba43e3796d85c4cdce7952b635be16015aafa2"
+  },
+  "items": [
+    {
+      "id": "extra-4e26",
+      "character": "並",
+      "stage": 6,
+      "order": 126,
+      "group_name": "문장 속 추가 한자",
+      "meaning_ko": "아우르다",
+      "on_readings": [
+        "ヘイ",
+        "ホウ"
+      ],
+      "kun_readings": [
+        "な.み",
+        "なみ",
+        "なら.べる",
+        "なら.ぶ",
+        "なら.びに"
+      ],
+      "example_words": [
+        {
+          "word": "並ぶ",
+          "reading": "ならぶ",
+          "meaning_ko": "줄을 서다",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1508380"
+          ],
+          "source_reading_match": true,
+          "meaning_en_evidence": [
+            "to line up",
+            "to stand in a line",
+            "to rival",
+            "to match",
+            "to equal"
+          ],
+          "gloss_status": "authored_translation_source_matched_native_review_pending",
+          "connect_distractors_excluded": [
+            "列",
+            "双"
+          ]
+        },
+        {
+          "word": "並列",
+          "reading": "へいれつ",
+          "meaning_ko": "병렬",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1508530"
+          ],
+          "source_reading_match": true,
+          "meaning_en_evidence": [
+            "arranging in a line",
+            "standing in a row",
+            "parallel (electronics, computing, etc.)"
+          ],
+          "gloss_status": "authored_translation_source_matched_native_review_pending",
+          "connect_distractors_excluded": []
+        }
+      ],
+      "example_sentence": {
+        "ja": "ここに並べばいいですか。",
+        "reading": "ここにならべばいいですか。",
+        "translation_ko": "여기에 줄을 서면 됩니까?",
+        "source": "dialogue-58"
+      },
+      "editorial_status": "draft_source_matched",
+      "source": "existing-study-texts-and-dictionary-evidence"
+    },
+    {
+      "id": "extra-5238",
+      "character": "券",
+      "stage": 6,
+      "order": 127,
+      "group_name": "문장 속 추가 한자",
+      "meaning_ko": "문서",
+      "on_readings": [
+        "ケン"
+      ],
+      "kun_readings": [],
+      "example_words": [
+        {
+          "word": "航空券",
+          "reading": "こうくうけん",
+          "meaning_ko": "항공권",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1281330"
+          ],
+          "source_reading_match": true,
+          "meaning_en_evidence": [
+            "airline ticket",
+            "plane ticket",
+            "air ticket"
+          ],
+          "gloss_status": "authored_translation_source_matched_native_review_pending",
+          "connect_distractors_excluded": []
+        },
+        {
+          "word": "入場券",
+          "reading": "にゅうじょうけん",
+          "meaning_ko": "입장권",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1466380"
+          ],
+          "source_reading_match": true,
+          "meaning_en_evidence": [
+            "admission ticket",
+            "entrance ticket",
+            "platform ticket",
+            "ticket allowing a non-traveller access to a railway station platform"
+          ],
+          "gloss_status": "authored_translation_source_matched_native_review_pending",
+          "connect_distractors_excluded": [
+            "権"
+          ]
+        }
+      ],
+      "example_sentence": {
+        "ja": "帰りの航空券はありますか。",
+        "reading": "かえりのこうくうけんはありますか。",
+        "translation_ko": "돌아가는 항공권이 있습니까?",
+        "source": "dialogue-51"
+      },
+      "editorial_status": "draft_source_matched",
+      "source": "existing-study-texts-and-dictionary-evidence"
+    },
+    {
+      "id": "extra-53ec",
+      "character": "召",
+      "stage": 6,
+      "order": 128,
+      "group_name": "문장 속 추가 한자",
+      "meaning_ko": "부르다, 청하다",
+      "on_readings": [
+        "ショウ"
+      ],
+      "kun_readings": [
+        "め.す"
+      ],
+      "example_words": [
+        {
+          "word": "召す",
+          "reading": "めす",
+          "meaning_ko": "드시다",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1346450"
+          ],
+          "source_reading_match": true,
+          "meaning_en_evidence": [
+            "to call",
+            "to summon",
+            "to send for",
+            "to invite",
+            "to eat",
+            "to drink",
+            "to put on",
+            "to wear"
+          ],
+          "gloss_status": "authored_translation_source_matched_native_review_pending",
+          "connect_distractors_excluded": [
+            "看",
+            "見"
+          ]
+        },
+        {
+          "word": "召集",
+          "reading": "しょうしゅう",
+          "meaning_ko": "소집",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1346500"
+          ],
+          "source_reading_match": true,
+          "meaning_en_evidence": [
+            "convening",
+            "calling together (e.g. parliament)",
+            "call-up (for military service)"
+          ],
+          "gloss_status": "authored_translation_source_matched_native_review_pending",
+          "connect_distractors_excluded": [
+            "招"
+          ]
+        }
+      ],
+      "example_sentence": {
+        "ja": "店内でお召し上がりですか。",
+        "reading": "てんないでおめしあがりですか。",
+        "translation_ko": "매장에서 드시겠습니까?",
+        "source": "dialogue-55"
+      },
+      "editorial_status": "draft_source_matched",
+      "source": "existing-study-texts-and-dictionary-evidence"
+    },
+    {
+      "id": "extra-5c4a",
+      "character": "届",
+      "stage": 6,
+      "order": 129,
+      "group_name": "문장 속 추가 한자",
+      "meaning_ko": "이르다",
+      "on_readings": [
+        "カイ"
+      ],
+      "kun_readings": [
+        "とど.ける",
+        "-とど.け",
+        "とど.く"
+      ],
+      "example_words": [
+        {
+          "word": "届ける",
+          "reading": "とどける",
+          "meaning_ko": "배달하다",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1457210"
+          ],
+          "source_reading_match": true,
+          "meaning_en_evidence": [
+            "to deliver",
+            "to forward",
+            "to send",
+            "to report",
+            "to notify",
+            "to file notice (to the authorities)",
+            "to give notice",
+            "to register"
+          ],
+          "gloss_status": "authored_translation_source_matched_native_review_pending",
+          "connect_distractors_excluded": [
+            "屆"
+          ]
+        },
+        {
+          "word": "届く",
+          "reading": "とどく",
+          "meaning_ko": "도착하다",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1457200"
+          ],
+          "source_reading_match": true,
+          "meaning_en_evidence": [
+            "to reach",
+            "to touch",
+            "to get to",
+            "to carry (of sound)",
+            "to be delivered",
+            "to arrive",
+            "to be attentive",
+            "to be scrupulous"
+          ],
+          "gloss_status": "authored_translation_source_matched_native_review_pending",
+          "connect_distractors_excluded": []
+        }
+      ],
+      "example_sentence": {
+        "ja": "財布はどこに届ければいいですか。",
+        "reading": "さいふはどこにとどければいいですか。",
+        "translation_ko": "지갑은 어디에 가져다주면 됩니까?",
+        "source": "practice-59"
+      },
+      "editorial_status": "draft_source_matched",
+      "source": "existing-study-texts-and-dictionary-evidence"
+    },
+    {
+      "id": "extra-63a2",
+      "character": "探",
+      "stage": 6,
+      "order": 130,
+      "group_name": "문장 속 추가 한자",
+      "meaning_ko": "찾다",
+      "on_readings": [
+        "タン"
+      ],
+      "kun_readings": [
+        "さぐ.る",
+        "さが.す"
+      ],
+      "example_words": [
+        {
+          "word": "探す",
+          "reading": "さがす",
+          "meaning_ko": "찾다",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1593670"
+          ],
+          "source_reading_match": true,
+          "meaning_en_evidence": [
+            "to search for",
+            "to look for",
+            "to hunt for",
+            "to seek",
+            "to search (a house, pocket, etc.)",
+            "to search through",
+            "to rummage in (e.g. a drawer)",
+            "to fish around"
+          ],
+          "gloss_status": "authored_translation_source_matched_native_review_pending",
+          "connect_distractors_excluded": [
+            "捜"
+          ]
+        },
+        {
+          "word": "探検",
+          "reading": "たんけん",
+          "meaning_ko": "탐험",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1597250"
+          ],
+          "source_reading_match": true,
+          "meaning_en_evidence": [
+            "exploration",
+            "expedition"
+          ],
+          "gloss_status": "authored_translation_source_matched_native_review_pending",
+          "connect_distractors_excluded": []
+        }
+      ],
+      "example_sentence": {
+        "ja": "切符を探しているんですが。",
+        "reading": "きっぷをさがしているんですが。",
+        "translation_ko": "표를 찾고 있는데요.",
+        "source": "practice-42"
+      },
+      "editorial_status": "draft_source_matched",
+      "source": "existing-study-texts-and-dictionary-evidence"
+    },
+    {
+      "id": "extra-6ede",
+      "character": "滞",
+      "stage": 6,
+      "order": 131,
+      "group_name": "문장 속 추가 한자",
+      "meaning_ko": "막히다",
+      "on_readings": [
+        "タイ",
+        "テイ"
+      ],
+      "kun_readings": [
+        "とどこお.る"
+      ],
+      "example_words": [
+        {
+          "word": "滞在",
+          "reading": "たいざい",
+          "meaning_ko": "체류",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1410930"
+          ],
+          "source_reading_match": true,
+          "meaning_en_evidence": [
+            "stay",
+            "sojourn"
+          ],
+          "gloss_status": "authored_translation_source_matched_native_review_pending",
+          "connect_distractors_excluded": []
+        },
+        {
+          "word": "渋滞",
+          "reading": "じゅうたい",
+          "meaning_ko": "교통 정체",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1335570"
+          ],
+          "source_reading_match": true,
+          "meaning_en_evidence": [
+            "(traffic) congestion",
+            "traffic jam",
+            "gridlock",
+            "delay",
+            "stagnation"
+          ],
+          "gloss_status": "authored_translation_source_matched_native_review_pending",
+          "connect_distractors_excluded": []
+        }
+      ],
+      "example_sentence": {
+        "ja": "滞在期間はどのくらいですか。",
+        "reading": "たいざいきかんはどのくらいですか。",
+        "translation_ko": "체류 기간은 얼마나 됩니까?",
+        "source": "dialogue-51"
+      },
+      "editorial_status": "draft_source_matched",
+      "source": "existing-study-texts-and-dictionary-evidence"
+    },
+    {
+      "id": "extra-770b",
+      "character": "看",
+      "stage": 6,
+      "order": 132,
+      "group_name": "문장 속 추가 한자",
+      "meaning_ko": "보다",
+      "on_readings": [
+        "カン"
+      ],
+      "kun_readings": [
+        "み.る"
+      ],
+      "example_words": [
+        {
+          "word": "看護",
+          "reading": "かんご",
+          "meaning_ko": "간호",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1213810"
+          ],
+          "source_reading_match": true,
+          "meaning_en_evidence": [
+            "nursing",
+            "(army) nurse"
+          ],
+          "gloss_status": "authored_translation_source_matched_native_review_pending",
+          "connect_distractors_excluded": [
+            "監",
+            "観"
+          ]
+        },
+        {
+          "word": "看板",
+          "reading": "かんばん",
+          "meaning_ko": "간판",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1213990"
+          ],
+          "source_reading_match": true,
+          "meaning_en_evidence": [
+            "signboard",
+            "sign",
+            "billboard",
+            "hoarding",
+            "doorplate",
+            "draw",
+            "attraction",
+            "feature"
+          ],
+          "gloss_status": "authored_translation_source_matched_native_review_pending",
+          "connect_distractors_excluded": []
+        }
+      ],
+      "example_sentence": {
+        "ja": "父は看護師でした。",
+        "reading": "ちちはかんごしでした。",
+        "translation_ko": "아버지는 간호사였습니다.",
+        "source": "practice-7"
+      },
+      "editorial_status": "draft_source_matched",
+      "source": "existing-study-texts-and-dictionary-evidence"
+    },
+    {
+      "id": "extra-822a",
+      "character": "航",
+      "stage": 6,
+      "order": 133,
+      "group_name": "문장 속 추가 한자",
+      "meaning_ko": "배",
+      "on_readings": [
+        "コウ"
+      ],
+      "kun_readings": [],
+      "example_words": [
+        {
+          "word": "航空",
+          "reading": "こうくう",
+          "meaning_ko": "항공",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1281270"
+          ],
+          "source_reading_match": true,
+          "meaning_en_evidence": [
+            "aviation",
+            "flying"
+          ],
+          "gloss_status": "authored_translation_source_matched_native_review_pending",
+          "connect_distractors_excluded": [
+            "公",
+            "高"
+          ]
+        },
+        {
+          "word": "航海",
+          "reading": "こうかい",
+          "meaning_ko": "항해",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1281250"
+          ],
+          "source_reading_match": true,
+          "meaning_en_evidence": [
+            "(sea) voyage",
+            "navigation",
+            "sailing",
+            "passage",
+            "cruise"
+          ],
+          "gloss_status": "authored_translation_source_matched_native_review_pending",
+          "connect_distractors_excluded": [
+            "公",
+            "紅",
+            "降",
+            "黄"
+          ]
+        }
+      ],
+      "example_sentence": {
+        "ja": "帰りの航空券はありますか。",
+        "reading": "かえりのこうくうけんはありますか。",
+        "translation_ko": "돌아가는 항공권이 있습니까?",
+        "source": "dialogue-51"
+      },
+      "editorial_status": "draft_source_matched",
+      "source": "existing-study-texts-and-dictionary-evidence"
+    },
+    {
+      "id": "extra-888b",
+      "character": "袋",
+      "stage": 6,
+      "order": 134,
+      "group_name": "문장 속 추가 한자",
+      "meaning_ko": "자루",
+      "on_readings": [
+        "タイ",
+        "ダイ"
+      ],
+      "kun_readings": [
+        "ふくろ"
+      ],
+      "example_words": [
+        {
+          "word": "袋",
+          "reading": "ふくろ",
+          "meaning_ko": "봉지",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1411070"
+          ],
+          "source_reading_match": true,
+          "meaning_en_evidence": [
+            "bag",
+            "sack",
+            "pouch",
+            "skin of an orange (and other like fruits)",
+            "dead end",
+            "plot of land surrounded by water"
+          ],
+          "gloss_status": "authored_translation_source_matched_native_review_pending",
+          "connect_distractors_excluded": [
+            "嚢"
+          ]
+        },
+        {
+          "word": "手袋",
+          "reading": "てぶくろ",
+          "meaning_ko": "장갑",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1328090"
+          ],
+          "source_reading_match": true,
+          "meaning_en_evidence": [
+            "glove",
+            "mitten",
+            "mitt"
+          ],
+          "gloss_status": "authored_translation_source_matched_native_review_pending",
+          "connect_distractors_excluded": []
+        }
+      ],
+      "example_sentence": {
+        "ja": "袋は必要ですか。",
+        "reading": "ふくろはひつようですか。",
+        "translation_ko": "봉투가 필요합니까?",
+        "source": "dialogue-57"
+      },
+      "editorial_status": "draft_source_matched",
+      "source": "existing-study-texts-and-dictionary-evidence"
+    },
+    {
+      "id": "extra-8a31",
+      "character": "許",
+      "stage": 6,
+      "order": 135,
+      "group_name": "문장 속 추가 한자",
+      "meaning_ko": "허락하다",
+      "on_readings": [
+        "キョ"
+      ],
+      "kun_readings": [
+        "ゆる.す",
+        "もと"
+      ],
+      "example_words": [
+        {
+          "word": "許可",
+          "reading": "きょか",
+          "meaning_ko": "허가",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1232880"
+          ],
+          "source_reading_match": true,
+          "meaning_en_evidence": [
+            "permission",
+            "approval",
+            "authorization",
+            "license"
+          ],
+          "gloss_status": "authored_translation_source_matched_native_review_pending",
+          "connect_distractors_excluded": []
+        },
+        {
+          "word": "免許",
+          "reading": "めんきょ",
+          "meaning_ko": "면허",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1533130"
+          ],
+          "source_reading_match": true,
+          "meaning_en_evidence": [
+            "license",
+            "licence",
+            "permission",
+            "permit",
+            "certificate",
+            "driver's license"
+          ],
+          "gloss_status": "authored_translation_source_matched_native_review_pending",
+          "connect_distractors_excluded": []
+        }
+      ],
+      "example_sentence": {
+        "ja": "許可なく手紙を書いてはいけません。",
+        "reading": "きょかなくてがみをかいてはいけません。",
+        "translation_ko": "허가 없이 편지를 쓰면 안 됩니다.",
+        "source": "practice-34"
+      },
+      "editorial_status": "draft_source_matched",
+      "source": "existing-study-texts-and-dictionary-evidence"
+    },
+    {
+      "id": "extra-8b77",
+      "character": "護",
+      "stage": 6,
+      "order": 136,
+      "group_name": "문장 속 추가 한자",
+      "meaning_ko": "돕다, 지키다",
+      "on_readings": [
+        "ゴ"
+      ],
+      "kun_readings": [
+        "まも.る"
+      ],
+      "example_words": [
+        {
+          "word": "保護",
+          "reading": "ほご",
+          "meaning_ko": "보호",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1513530"
+          ],
+          "source_reading_match": true,
+          "meaning_en_evidence": [
+            "protection",
+            "safeguard",
+            "guardianship",
+            "custody",
+            "patronage",
+            "preservation",
+            "conservation"
+          ],
+          "gloss_status": "authored_translation_source_matched_native_review_pending",
+          "connect_distractors_excluded": []
+        },
+        {
+          "word": "看護",
+          "reading": "かんご",
+          "meaning_ko": "간호",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1213810"
+          ],
+          "source_reading_match": true,
+          "meaning_en_evidence": [
+            "nursing",
+            "(army) nurse"
+          ],
+          "gloss_status": "authored_translation_source_matched_native_review_pending",
+          "connect_distractors_excluded": []
+        }
+      ],
+      "example_sentence": {
+        "ja": "父は看護師でした。",
+        "reading": "ちちはかんごしでした。",
+        "translation_ko": "아버지는 간호사였습니다.",
+        "source": "practice-7"
+      },
+      "editorial_status": "draft_source_matched",
+      "source": "existing-study-texts-and-dictionary-evidence"
+    },
+    {
+      "id": "extra-8ca9",
+      "character": "販",
+      "stage": 6,
+      "order": 137,
+      "group_name": "문장 속 추가 한자",
+      "meaning_ko": "팔다, 사다, 장사",
+      "on_readings": [
+        "ハン"
+      ],
+      "kun_readings": [],
+      "example_words": [
+        {
+          "word": "販売",
+          "reading": "はんばい",
+          "meaning_ko": "판매",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1481800"
+          ],
+          "source_reading_match": true,
+          "meaning_en_evidence": [
+            "sale",
+            "sales",
+            "selling",
+            "marketing"
+          ],
+          "gloss_status": "authored_translation_source_matched_native_review_pending",
+          "connect_distractors_excluded": []
+        },
+        {
+          "word": "自動販売機",
+          "reading": "じどうはんばいき",
+          "meaning_ko": "자동판매기",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1318480"
+          ],
+          "source_reading_match": true,
+          "meaning_en_evidence": [
+            "vending machine"
+          ],
+          "gloss_status": "authored_translation_source_matched_native_review_pending",
+          "connect_distractors_excluded": []
+        }
+      ],
+      "example_sentence": {
+        "ja": "病院に自動販売機がありますか。",
+        "reading": "びょういんにじどうはんばいきがありますか。",
+        "translation_ko": "병원에 자동판매기가 있습니까?",
+        "source": "practice-18"
+      },
+      "editorial_status": "draft_source_matched",
+      "source": "existing-study-texts-and-dictionary-evidence"
+    },
+    {
+      "id": "extra-8efd",
+      "character": "軽",
+      "stage": 6,
+      "order": 138,
+      "group_name": "문장 속 추가 한자",
+      "meaning_ko": "가볍다",
+      "on_readings": [
+        "ケイ",
+        "キョウ",
+        "キン"
+      ],
+      "kun_readings": [
+        "かる.い",
+        "かろ.やか",
+        "かろ.んじる"
+      ],
+      "example_words": [
+        {
+          "word": "軽い",
+          "reading": "かるい",
+          "meaning_ko": "가볍다",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1252560"
+          ],
+          "source_reading_match": true,
+          "meaning_en_evidence": [
+            "light (i.e. not heavy)",
+            "feeling light (i.e. offering little resistance, moving easily)",
+            "light (i.e. of foot)",
+            "effortless",
+            "nimble",
+            "agile",
+            "non-serious",
+            "minor"
+          ],
+          "gloss_status": "authored_translation_source_matched_native_review_pending",
+          "connect_distractors_excluded": []
+        },
+        {
+          "word": "軽食",
+          "reading": "けいしょく",
+          "meaning_ko": "가벼운 식사",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1252760"
+          ],
+          "source_reading_match": true,
+          "meaning_en_evidence": [
+            "light meal",
+            "snack",
+            "refreshments"
+          ],
+          "gloss_status": "authored_translation_source_matched_native_review_pending",
+          "connect_distractors_excluded": []
+        }
+      ],
+      "example_sentence": {
+        "ja": "その時計のほうが軽いです。",
+        "reading": "そのとけいのほうがかるいです。",
+        "translation_ko": "그 시계가 더 가볍습니다.",
+        "source": "practice-38"
+      },
+      "editorial_status": "draft_source_matched",
+      "source": "existing-study-texts-and-dictionary-evidence"
+    },
+    {
+      "id": "extra-8f9b",
+      "character": "辛",
+      "stage": 6,
+      "order": 139,
+      "group_name": "문장 속 추가 한자",
+      "meaning_ko": "맵다, 여덟째 천간, 성",
+      "on_readings": [
+        "シン"
+      ],
+      "kun_readings": [
+        "から.い",
+        "つら.い",
+        "-づら.い",
+        "かのと"
+      ],
+      "example_words": [
+        {
+          "word": "辛い",
+          "reading": "からい",
+          "meaning_ko": "맵다",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1365850"
+          ],
+          "source_reading_match": true,
+          "meaning_en_evidence": [
+            "spicy",
+            "hot",
+            "salty",
+            "harsh (criticism)",
+            "severe (punishment)",
+            "strict",
+            "painful",
+            "bitter"
+          ],
+          "gloss_status": "authored_translation_source_matched_native_review_pending",
+          "connect_distractors_excluded": [
+            "鹹"
+          ]
+        },
+        {
+          "word": "辛い",
+          "reading": "つらい",
+          "meaning_ko": "괴롭다",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1365860"
+          ],
+          "source_reading_match": true,
+          "meaning_en_evidence": [
+            "painful",
+            "bitter",
+            "heart-breaking",
+            "difficult (emotionally)",
+            "tough",
+            "difficult",
+            "hard (usu. of situations)",
+            "cruel"
+          ],
+          "gloss_status": "authored_translation_source_matched_native_review_pending",
+          "connect_distractors_excluded": []
+        },
+        {
+          "word": "香辛料",
+          "reading": "こうしんりょう",
+          "meaning_ko": "향신료",
+          "dictionary_reading_match": true,
+          "dictionary_entry_sequences": [
+            "1283050"
+          ],
+          "source_reading_match": true,
+          "meaning_en_evidence": [
+            "spice",
+            "spices",
+            "condiment"
+          ],
+          "gloss_status": "authored_translation_source_matched_native_review_pending",
+          "connect_distractors_excluded": []
+        }
+      ],
+      "example_sentence": {
+        "ja": "これは辛いですか。",
+        "reading": "これはからいですか。",
+        "translation_ko": "이것은 맵습니까?",
+        "source": "dialogue-56"
+      },
+      "editorial_status": "draft_source_matched",
+      "source": "existing-study-texts-and-dictionary-evidence"
+    }
+  ]
+}
