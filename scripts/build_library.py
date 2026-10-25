@@ -61,7 +61,8 @@ def classify(pos):
   if 'pronoun' in s:out.add('pronoun')
   if s=='particle':out.add('particle')
   if 'conjunction' in s:out.add('conjunction')
-  if 'counter' in s:out.add('counter')
+  if 'counter' in s or s=='numeric':out.add('counter')
+  if 'rentaishi' in s:out.add('rentaishi')
   if 'expressions' in s:out.add('phrase')
  return sorted(out) or ['unclassified']
 for i,w in enumerate(words.values()):
@@ -81,6 +82,6 @@ for cat,rows in functions.items():
   if cat=='particle':reading={'は':'わ','へ':'え','を':'お'}.get(ja,reading)
   entries.append(dict(id=f'function-{cat}-{i}',kind='expression',japanese=ja,reading=reading,meaning=ko,keywords=[],categories=[cat],lessonId=n,classification_source='explicit-editorial-study-category'))
 assert len({e['id'] for e in entries})==len(entries)
-result=dict(license='Derived EDRDG and Wiktionary dictionary data: CC BY-SA 4.0; original app text: see sources.html',schema='jgg-library-v1',version='0.3.11-dev',kanji_count=639,entries=entries,sources={'JMdict_url':'https://www.edrdg.org/pub/Nihongo/JMdict_e.gz','JMdict_sha256':hashlib.sha256((D/'JMdict_e.gz').read_bytes()).hexdigest(),'category_policy':'Restricted Japanese form/reading sense POS; explicit pedagogical tags for function words; unclassified kept visible'})
+result=dict(license='Derived EDRDG and Wiktionary dictionary data: CC BY-SA 4.0; original app text: see sources.html',schema='jgg-library-v1',version='0.3.12-dev',kanji_count=639,entries=entries,sources={'JMdict_url':'https://www.edrdg.org/pub/Nihongo/JMdict_e.gz','JMdict_sha256':hashlib.sha256((D/'JMdict_e.gz').read_bytes()).hexdigest(),'category_policy':'Restricted Japanese form/reading sense POS; explicit pedagogical tags for function words; unclassified kept visible'})
 (ROOT/'data/library-index.json').write_text(json.dumps(result,ensure_ascii=False,separators=(',',':'))+'\n')
 print('Index entries',len(entries),'words',len(words),'POS unclassified',sum(e['categories']==['unclassified'] for e in entries))

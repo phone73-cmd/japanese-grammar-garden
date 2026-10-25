@@ -1,6 +1,6 @@
 /* Offline search and evidence-based recommendations. No learning records are mutated here. */
 window.JGG_LIBRARY=(()=>{
- const categories={all:'전체',noun:'명사',verb:'동사',i_adj:'い형용사',na_adj:'な형용사',pronoun:'대명사·지시어',particle:'조사',adverb:'부사',interrogative:'의문사',conjunction:'접속 표현',grammar:'문법·문형',counter:'수량·조수사',greeting:'인사·관용',phrase:'회화·문장',kana:'문자',kanji:'한자',unclassified:'분류 확인 중'};
+ const categories={all:'전체',noun:'명사',verb:'동사',i_adj:'い형용사',na_adj:'な형용사',pronoun:'대명사·지시어',particle:'조사',adverb:'부사',interrogative:'의문사',conjunction:'접속 표현',grammar:'문법·문형',counter:'수량·조수사',rentaishi:'연체사',greeting:'인사·관용',phrase:'회화·문장',kana:'문자',kanji:'한자',unclassified:'분류 확인 중'};
  const norm=s=>String(s||'').normalize('NFKC').toLowerCase().replace(/[ァ-ヶ]/g,c=>String.fromCharCode(c.charCodeAt(0)-96)).replace(/[\s.\-〜～·、。「」『』!?！？]/g,'');
  let cached=null,pending=null;
  async function load(){if(cached)return cached;if(pending)return pending;pending=fetch('./data/library-index.json').then(r=>{if(!r.ok)throw Error('검색 자료를 불러오지 못했습니다.');return r.json()}).then(d=>{if(d.schema!=='jgg-library-v1'||d.kanji_count!==639||!Array.isArray(d.entries)||new Set(d.entries.map(e=>e.id)).size!==d.entries.length)throw Error('검색 자료를 확인하지 못했습니다.');for(const e of d.entries){if(!e.id||!e.japanese||!e.meaning||!Array.isArray(e.categories)||!Array.isArray(e.keywords))throw Error('검색 항목 오류');e._fields=[e.japanese,e.reading,e.meaning,...e.keywords,...e.categories.map(c=>categories[c]||'')].map(norm);e._text=e._fields.join(' ')}cached=d;return d}).catch(e=>{pending=null;throw e});return pending}
@@ -8,6 +8,7 @@ window.JGG_LIBRARY=(()=>{
   for(const e of d.entries){if(category!=='all'&&!e.categories.includes(category))continue;const fields=e._fields||[e.japanese,e.reading,e.meaning,...e.keywords,...e.categories.map(c=>categories[c]||'')].map(norm),text=e._text||fields.join(' ');if(parts.some(p=>!text.includes(p)))continue;const score=full?(fields.slice(0,3).some(f=>f===full)?100:fields.slice(0,3).some(f=>f.startsWith(full))?60:fields.some(f=>f===full)?50:10):0;matches.push({entry:e,score})}
   matches.sort((a,b)=>b.score-a.score||a.entry.japanese.localeCompare(b.entry.japanese,'ja')||a.entry.id.localeCompare(b.entry.id));return {total:matches.length,entries:matches.slice(0,Math.max(1,Math.min(limit,10000))).map(x=>x.entry)};
  }
+ function visibleCategories(d){return Object.fromEntries(Object.entries(categories).filter(([id])=>id!=='unclassified'||Boolean(d?.entries.some(e=>e.categories.includes(id)))))}
  function cleanView(raw){return {query:typeof raw?.query==='string'?raw.query.slice(0,100):'',category:categories[raw?.category]?raw.category:'all',limit:Number.isInteger(raw?.limit)?Math.max(40,Math.min(raw.limit,10000)):40,scroll:Number.isFinite(raw?.scroll)?Math.max(0,Math.min(raw.scroll,100000)):0}}
  function recommendations(content,record,kanji,now=Date.now()){
   const result={grammar:[],kana:[],kanji:[],sampledAttempts:0};const end=new Date(now);end.setHours(23,59,59,999);const due=x=>Number.isFinite(Date.parse(x))&&Date.parse(x)<=end.getTime();
@@ -29,5 +30,5 @@ window.JGG_LIBRARY=(()=>{
   const unitAttempts=(record.attempts||[]).filter(a=>content[a.lessonId]&&(!a.kind||a.kind==='lesson')),passed=new Set(unitAttempts.filter(a=>Number.isFinite(a.score)&&a.score>=80).map(a=>a.lessonId)),recent=unitAttempts.at(-1)?.lessonId;const start=recent?(passed.has(recent)?recent+1:recent):1,order=Object.keys(content).map(Number).sort((a,b)=>a-b);result.nextLesson=order.filter(n=>n>=start).concat(order.filter(n=>n<start)).find(n=>!passed.has(n))||null;result.nextReason=!unitAttempts.length?'기록이 부족해 1단계부터 시작해요.':result.nextLesson===recent?'최근 학습한 단원을 이어서 익혀요.':result.nextLesson?'아직 시험을 통과하지 않은 다음 단원을 배워요.':'모든 단원 시험을 통과했습니다. 복습 일정에 맞춰 이어가세요.';
   for(const key of ['grammar','kana','kanji'])result[key].sort((a,b)=>b.priority-a.priority||b.errors-a.errors||(a.accuracy??100)-(b.accuracy??100));return result;
  }
- return {categories,norm,load,search,cleanView,recommendations};
+ return {categories,visibleCategories,norm,load,search,cleanView,recommendations};
 })();
